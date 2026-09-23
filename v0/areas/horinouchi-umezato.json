@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790125512,
+ "revision": 1790130027,
  "languages": [
   "en",
   "ja"
@@ -36,6 +36,7 @@
     "name": "梅里二丁目"
    }
   ],
+  "moments": [],
   "spots": [
    {
     "id": "horinouchi-kumano",

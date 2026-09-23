@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790125512,
+ "revision": 1790130027,
  "languages": [
   "en",
   "ja"
@@ -50,6 +50,16 @@
    {
     "code": "13115012004",
     "name": "高円寺北四丁目"
+   }
+  ],
+  "moments": [
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Record-shop evening",
+     "ja": "レコード屋の夕暮れ"
+    },
+    "art": "art/moment-koenji-evening-22b3f21646.jpg"
    }
   ],
   "spots": [

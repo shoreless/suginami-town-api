@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790125512,
+ "revision": 1790130027,
  "languages": [
   "en",
   "ja"
@@ -52,6 +52,7 @@
     "name": "成田東五丁目"
    }
   ],
+  "moments": [],
   "spots": [
    {
     "id": "narimune-suga",

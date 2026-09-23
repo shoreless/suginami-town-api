@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790125512,
+ "revision": 1790130027,
  "languages": [
   "en",
   "ja"
@@ -68,6 +68,7 @@
     "name": "上荻四丁目"
    }
   ],
+  "moments": [],
   "spots": [
    {
     "id": "ogikubo-hachiman",

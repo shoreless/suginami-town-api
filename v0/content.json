@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790125512,
+ "revision": 1790130027,
  "languages": [
   "en",
   "ja"
@@ -41,6 +41,7 @@
      "name": "本天沼三丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "amanuma-kumano",
@@ -166,6 +167,16 @@
      "name": "阿佐谷北六丁目"
     }
    ],
+   "moments": [
+    {
+     "phase": "evening",
+     "title": {
+      "en": "Leafy café",
+      "ja": "緑のカフェ"
+     },
+     "art": "art/moment-asagaya-evening-6662492e48.jpg"
+    }
+   ],
    "spots": [
     {
      "id": "asagaya-shinmeigu",
@@ -274,6 +285,7 @@
      "name": "永福四丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "eifuku-inari",
@@ -330,6 +342,7 @@
      "name": "浜田山四丁目"
     }
    ],
+   "moments": [],
    "spots": [],
    "happenings": [],
    "intro": {
@@ -353,6 +366,7 @@
      "name": "方南二丁目"
     }
    ],
+   "moments": [],
    "spots": [],
    "happenings": [],
    "intro": {
@@ -388,6 +402,7 @@
      "name": "梅里二丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "horinouchi-kumano",
@@ -470,6 +485,7 @@
      "name": "下井草五丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "otori-shrine",
@@ -544,6 +560,7 @@
      "name": "和泉四丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "izumi-kumano",
@@ -626,6 +643,7 @@
      "name": "上井草四丁目"
     }
    ],
+   "moments": [],
    "spots": [],
    "happenings": [],
    "intro": {
@@ -653,6 +671,7 @@
      "name": "上高井戸三丁目"
     }
    ],
+   "moments": [],
    "spots": [],
    "happenings": [],
    "intro": {
@@ -702,6 +721,16 @@
     {
      "code": "13115012004",
      "name": "高円寺北四丁目"
+    }
+   ],
+   "moments": [
+    {
+     "phase": "evening",
+     "title": {
+      "en": "Record-shop evening",
+      "ja": "レコード屋の夕暮れ"
+     },
+     "art": "art/moment-koenji-evening-22b3f21646.jpg"
     }
    ],
    "spots": [
@@ -836,6 +865,40 @@
      "name": "久我山五丁目"
     }
    ],
+   "moments": [
+    {
+     "phase": "morning",
+     "title": {
+      "en": "Morning by the river",
+      "ja": "川辺の朝"
+     },
+     "art": "art/moment-kugayama-morning-753200d6c2.jpg"
+    },
+    {
+     "phase": "midday",
+     "title": {
+      "en": "Sunlit river walk",
+      "ja": "陽ざしの川べり"
+     },
+     "art": "art/moment-kugayama-midday-9b7adbdf96.jpg"
+    },
+    {
+     "phase": "evening",
+     "title": {
+      "en": "Summer waterway",
+      "ja": "夏の水辺"
+     },
+     "art": "art/moment-kugayama-evening-06057ee578.jpg"
+    },
+    {
+     "phase": "night",
+     "title": {
+      "en": "Fireflies and moonlight",
+      "ja": "ホタルと月あかり"
+     },
+     "art": "art/moment-kugayama-night-d88f824081.jpg"
+    }
+   ],
    "spots": [
     {
      "id": "kugayama-inari",
@@ -896,6 +959,7 @@
      "name": "宮前五丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "omiyamae-kasuga",
@@ -971,6 +1035,7 @@
      "name": "桃井四丁目"
     }
    ],
+   "moments": [],
    "spots": [],
    "happenings": [],
    "intro": {
@@ -1022,6 +1087,7 @@
      "name": "成田東五丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "narimune-suga",
@@ -1160,6 +1226,40 @@
      "name": "松庵三丁目"
     }
    ],
+   "moments": [
+    {
+     "phase": "morning",
+     "title": {
+      "en": "A bookshop morning",
+      "ja": "古本屋の朝"
+     },
+     "art": "art/moment-nishi-ogikubo-morning-8f931a5f33.jpg"
+    },
+    {
+     "phase": "midday",
+     "title": {
+      "en": "Books in the sunshine",
+      "ja": "陽だまりの本"
+     },
+     "art": "art/moment-nishi-ogikubo-midday-4867b60559.jpg"
+    },
+    {
+     "phase": "evening",
+     "title": {
+      "en": "Books and ceramics",
+      "ja": "本と器の夕暮れ"
+     },
+     "art": "art/moment-nishi-ogikubo-evening-427bfe0661.jpg"
+    },
+    {
+     "phase": "night",
+     "title": {
+      "en": "The quiet bookshop",
+      "ja": "静かな夜の古本屋"
+     },
+     "art": "art/moment-nishi-ogikubo-night-f67c73463d.jpg"
+    }
+   ],
    "spots": [
     {
      "id": "shoan-inari",
@@ -1273,6 +1373,7 @@
      "name": "上荻四丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "ogikubo-hachiman",
@@ -1406,6 +1507,7 @@
      "name": "大宮二丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "omiya-hachimangu",
@@ -1484,6 +1586,7 @@
      "name": "清水三丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "nakase-tenso",
@@ -1546,6 +1649,7 @@
      "name": "下高井戸五丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "shimotakaido-hachiman",
@@ -1614,6 +1718,7 @@
      "name": "高井戸西三丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "dairokuten",
@@ -1692,6 +1797,7 @@
      "name": "和田三丁目"
     }
    ],
+   "moments": [],
    "spots": [],
    "happenings": [],
    "intro": {
@@ -1723,6 +1829,7 @@
      "name": "善福寺四丁目"
     }
    ],
+   "moments": [],
    "spots": [
     {
      "id": "igusa-hachimangu",

@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790125512,
+ "revision": 1790130027,
  "languages": [
   "en",
   "ja"
@@ -62,6 +62,40 @@
    {
     "code": "13115031003",
     "name": "松庵三丁目"
+   }
+  ],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "A bookshop morning",
+     "ja": "古本屋の朝"
+    },
+    "art": "art/moment-nishi-ogikubo-morning-8f931a5f33.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Books in the sunshine",
+     "ja": "陽だまりの本"
+    },
+    "art": "art/moment-nishi-ogikubo-midday-4867b60559.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Books and ceramics",
+     "ja": "本と器の夕暮れ"
+    },
+    "art": "art/moment-nishi-ogikubo-evening-427bfe0661.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "The quiet bookshop",
+     "ja": "静かな夜の古本屋"
+    },
+    "art": "art/moment-nishi-ogikubo-night-f67c73463d.jpg"
    }
   ],
   "spots": [

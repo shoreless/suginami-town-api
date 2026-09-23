@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790125512,
+ "revision": 1790130027,
  "languages": [
   "en",
   "ja"
@@ -34,6 +34,40 @@
    {
     "code": "13115033005",
     "name": "久我山五丁目"
+   }
+  ],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning by the river",
+     "ja": "川辺の朝"
+    },
+    "art": "art/moment-kugayama-morning-753200d6c2.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Sunlit river walk",
+     "ja": "陽ざしの川べり"
+    },
+    "art": "art/moment-kugayama-midday-9b7adbdf96.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Summer waterway",
+     "ja": "夏の水辺"
+    },
+    "art": "art/moment-kugayama-evening-06057ee578.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Fireflies and moonlight",
+     "ja": "ホタルと月あかり"
+    },
+    "art": "art/moment-kugayama-night-d88f824081.jpg"
    }
   ],
   "spots": [

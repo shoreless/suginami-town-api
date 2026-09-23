@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790125512,
+ "revision": 1790130027,
  "languages": [
   "en",
   "ja"
@@ -50,6 +50,16 @@
    {
     "code": "13115014006",
     "name": "阿佐谷北六丁目"
+   }
+  ],
+  "moments": [
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Leafy café",
+     "ja": "緑のカフェ"
+    },
+    "art": "art/moment-asagaya-evening-6662492e48.jpg"
    }
   ],
   "spots": [
