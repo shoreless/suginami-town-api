@@ -1,25 +1,137 @@
 <!doctype html>
+<html lang="en">
+<head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>suginami-town-api</title>
+<title>すぎなみ好き · Suginami Suki</title>
+<meta name="description" content="A stamp book for Suginami, Tokyo. Visit a neighborhood at a particular time of day and collect its illustrated moment. 杉並のまちを歩いて、時間ごとの思い出を集めるスタンプ帳。">
+<link rel="icon" href="assets/icon-180.png">
+<link rel="apple-touch-icon" href="assets/icon-180.png">
+<meta property="og:title" content="すぎなみ好き · Suginami Suki">
+<meta property="og:description" content="A stamp book for Suginami, Tokyo. 杉並のまちのスタンプ帳。">
+<meta property="og:image" content="https://suginamisuki.com/assets/kugayama-morning.jpg">
 <style>
-  body { font: 16px/1.6 system-ui, sans-serif; max-width: 42rem; margin: 3rem auto; padding: 0 1rem; color: #10291f; background: #fbf6ea; }
-  code { background: #efe6d0; padding: .1em .3em; border-radius: 4px; }
-  a { color: #175e48; }
+  :root { --ink: #10291f; --moss: #264c3b; --paper: #f6e8c8; --muted: #b8c8b5; --vermilion: #d68261; }
+  * { box-sizing: border-box; }
+  header > *, .cols > * { min-width: 0; }
+  html, body { overflow-x: hidden; }
+  body { margin: 0; background: var(--ink); color: var(--paper);
+         font: 17px/1.65 system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif; }
+  main { max-width: 60rem; margin: 0 auto; padding: 0 1.25rem; }
+  a { color: var(--vermilion); }
+  .ja { color: var(--muted); }
+  header { display: grid; grid-template-columns: 1fr auto; gap: 2rem; align-items: center; padding: 4rem 0 2rem; }
+  .kicker { color: var(--vermilion); font-size: 1.3rem; letter-spacing: .05em; }
+  h1 { font-size: clamp(2.6rem, 7vw, 4.2rem); line-height: 1.05; margin: .2rem 0 1rem; }
+  .lede { font-size: 1.2rem; margin: 0 0 .3rem; }
+  .art { position: relative; width: 22rem; height: 20rem; }
+  .art img { position: absolute; border-radius: 50%; border: 5px solid var(--vermilion); object-fit: cover; }
+  .art .a { width: 14rem; height: 14rem; right: 2rem; top: 0; }
+  .art .b { width: 9rem; height: 9rem; right: 0; bottom: 0; }
+  .art .c { width: 8rem; height: 8rem; left: 0; bottom: 1rem; }
+  .download { display: inline-block; margin: 1.6rem 0 .6rem; padding: .95rem 1.8rem; border-radius: 2rem;
+              background: var(--paper); color: var(--ink); font-weight: 650; text-decoration: none; font-size: 1.1rem; }
+  .small { font-size: .85rem; color: var(--muted); }
+  section { border-top: 1px solid var(--moss); padding: 2.2rem 0; }
+  h2 { color: var(--vermilion); font-size: 1.15rem; font-weight: 600; margin: 0 0 1rem; }
+  .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+  ul { padding-left: 1.2rem; margin: 0; }
+  li { margin: .35rem 0; }
+  details { background: var(--moss); border-radius: 1rem; padding: 1rem 1.25rem; margin-top: 1rem; }
+  summary { cursor: pointer; font-weight: 600; }
+  ol { margin: .8rem 0 0; padding-left: 1.3rem; }
+  code { background: var(--moss); padding: .1em .35em; border-radius: .3em; font-size: .9em; overflow-wrap: anywhere; }
+  footer { border-top: 1px solid var(--moss); padding: 2rem 0 3rem; font-size: .85rem; color: var(--muted); }
+  @media (max-width: 760px) {
+    header { grid-template-columns: 1fr; padding-top: 2.5rem; }
+    .art { width: 100%; max-width: 20rem; margin: 0 auto; height: 18rem; }
+    .cols { grid-template-columns: 1fr; gap: 1rem; }
+  }
 </style>
-<h1>suginami-town-api</h1>
-<p>Open data about the neighborhoods of Suginami, Tokyo, as static JSON. 杉並区のまちのオープンデータ。</p>
-<ul>
-  <li><a href="v0/index.json"><code>v0/index.json</code></a>: the 23 neighborhood areas, with a path to each one</li>
-  <li><a href="v0/areas/kugayama.json"><code>v0/areas/{id}.json</code></a>: one area in full, e.g. Kugayama</li>
-  <li><a href="v0/spots.json"><code>v0/spots.json</code></a>: every place worth visiting</li>
-  <li><a href="v0/happenings.json"><code>v0/happenings.json</code></a>: every dated happening, earliest first</li>
-  <li><a href="v0/kami.json"><code>v0/kami.json</code></a>: the kami enshrined at Suginami's shrines</li>
-  <li><a href="v0/content.json"><code>v0/content.json</code></a>: all of it in one file</li>
-  <li><a href="v0/map.en.kml"><code>v0/map.en.kml</code></a> and <a href="v0/map.ja.kml"><code>v0/map.ja.kml</code></a>: import into Google My Maps, Google Earth or Organic Maps (<a href="https://github.com/shoreless/suginami-town-api#put-it-on-your-own-map">how</a>)</li>
-  <li><a href="v0/spots.geojson"><code>v0/spots.geojson</code></a>: every place, for developers</li>
-  <li><a href="v0/towns.geojson"><code>v0/towns.geojson</code></a>: the 139 towns (丁目) as polygons, with official census codes</li>
-</ul>
-<p><code>v0</code> is not yet stable. Details, versioning and attribution are in the
-<a href="https://github.com/shoreless/suginami-town-api">README</a>.</p>
-<p><small>Town boundaries: 「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成。出典：政府統計の総合窓口(e-Stat)</small></p>
+</head>
+<body>
+<main>
+<header>
+  <div>
+    <div class="kicker">すぎなみ好き</div>
+    <h1>Suginami Suki</h1>
+    <p class="lede">A stamp book for Suginami, Tokyo. Visit a neighborhood in the morning, at midday, in the evening or at night, and collect its illustrated moment.</p>
+    <p class="lede ja" lang="ja">杉並のまちを歩いて、朝・昼・夕方・夜、それぞれの時間の思い出を集めるスタンプ帳。</p>
+    <a class="download" href="https://github.com/shoreless/suginami-town-api/releases/latest/download/suginami-suki.apk">Download for Android · ダウンロード</a>
+    <div class="small">APK · Android 10 or later · Android 10以降</div>
+  </div>
+  <div class="art" aria-hidden="true">
+    <img class="a" src="assets/kugayama-morning.jpg" alt="">
+    <img class="b" src="assets/nishi-ogikubo-night.jpg" alt="">
+    <img class="c" src="assets/koenji.jpg" alt="">
+  </div>
+</header>
+
+<section>
+  <div class="cols">
+    <ul>
+      <li>Stamps are earned by being there. The app checks your location once, when you ask, and never in the background.</li>
+      <li>Each of Suginami's 23 neighborhoods has its own page, with the moments you've collected and the ones still waiting.</li>
+      <li>Discover each neighborhood's shrines: their stories, and the kami enshrined there.</li>
+      <li>No account, no ads, no tracking. Your stamp book stays on your phone.</li>
+    </ul>
+    <ul class="ja" lang="ja">
+      <li>スタンプは、その場所に行くと集められます。位置情報は確認するときに一度だけ使い、バックグラウンドでは使いません。</li>
+      <li>杉並の23の地域それぞれに、集めた思い出とこれから出会える思い出のページがあります。</li>
+      <li>地域の神社と、その由来や御祭神を紹介しています。</li>
+      <li>アカウント登録、広告、トラッキングはありません。スタンプ帳のデータはスマートフォンの中だけに保存されます。</li>
+    </ul>
+  </div>
+  <details>
+    <summary>How to install · インストール方法</summary>
+    <div class="cols">
+      <ol>
+        <li>Tap the download button on your Android phone.</li>
+        <li>Open the downloaded file. If asked, allow your browser to install apps; Android asks this for anything not from the Play Store.</li>
+        <li>Play Protect may say it doesn't recognise the app. That's expected for an app installed this way: choose to install anyway.</li>
+      </ol>
+      <ol class="ja" lang="ja">
+        <li>Androidスマートフォンでダウンロードボタンをタップします。</li>
+        <li>ダウンロードしたファイルを開きます。ブラウザからのアプリのインストールを許可するよう求められたら、許可してください。</li>
+        <li>Playプロテクトが「認識されていないアプリ」と表示することがありますが、この方法でのインストールでは通常のことです。そのままインストールしてください。</li>
+      </ol>
+    </div>
+  </details>
+</section>
+
+<section>
+  <h2>Put it on your own map · 自分の地図に入れる</h2>
+  <div class="cols">
+    <p>Every neighborhood and shrine as a map you can import into Google My Maps, Google Earth or Organic Maps:
+      <a href="v0/map.en.kml">English</a> · <a href="v0/map.ja.kml">日本語</a>.
+      <a href="https://github.com/shoreless/suginami-town-api#put-it-on-your-own-map">How to import</a>.</p>
+    <p class="ja" lang="ja">地域と神社を、Google マイマップや Google Earth、Organic Maps に読み込める地図にしました。
+      <a href="v0/map.ja.kml">日本語版</a>・<a href="v0/map.en.kml">English</a>。</p>
+  </div>
+</section>
+
+<section>
+  <h2>Open data · オープンデータ</h2>
+  <p>Everything in the app is published as static JSON for anyone to use. <code>v0</code> is not yet stable.
+    <span class="ja" lang="ja">アプリの内容はすべて、誰でも使えるJSONとして公開しています。</span></p>
+  <ul>
+    <li><a href="v0/index.json"><code>v0/index.json</code></a>: the 23 neighborhoods, with a path to each</li>
+    <li><a href="v0/areas/kugayama.json"><code>v0/areas/{id}.json</code></a>: one neighborhood in full</li>
+    <li><a href="v0/spots.json"><code>v0/spots.json</code></a> and <a href="v0/spots.geojson"><code>v0/spots.geojson</code></a>: every place</li>
+    <li><a href="v0/happenings.json"><code>v0/happenings.json</code></a>: dated happenings, earliest first</li>
+    <li><a href="v0/kami.json"><code>v0/kami.json</code></a>: the kami of Suginami's shrines</li>
+    <li><a href="v0/towns.geojson"><code>v0/towns.geojson</code></a>: all 139 towns (丁目) as polygons, with official census codes</li>
+    <li><a href="v0/content.json"><code>v0/content.json</code></a>: all of it in one file</li>
+  </ul>
+  <p class="small">Details, versioning and attribution: <a href="https://github.com/shoreless/suginami-town-api">github.com/shoreless/suginami-town-api</a></p>
+</section>
+
+<footer>
+  <p>An unofficial guide made by volunteers. Not affiliated with Suginami City.<br>
+     <span lang="ja">有志がつくった非公式のガイドです。杉並区とは関係ありません。</span></p>
+  <p><a href="privacy/">Privacy · プライバシー</a> · <a href="https://github.com/shoreless/suginami-town-api/issues">Contact · お問い合わせ</a></p>
+  <p>Neighborhood boundaries: 「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成。出典：政府統計の総合窓口(e-Stat)</p>
+</footer>
+</main>
+</body>
+</html>

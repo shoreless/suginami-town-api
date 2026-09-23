@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
  <Document>
   <name>すぎなみ好き・杉並のまち</name>
-  <description>suginami-town-api（https://shoreless.github.io/suginami-town-api/）より。お出かけ前に出典をご確認ください。
+  <description>suginami-town-api（https://suginamisuki.com/）より。お出かけ前に出典をご確認ください。
 「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/</description>
   <Style id="neighborhood">
    <LineStyle>

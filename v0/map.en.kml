@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
  <Document>
   <name>Suginami Suki · Suginami neighborhoods</name>
-  <description>From suginami-town-api, https://shoreless.github.io/suginami-town-api/. Check sources before you go.
+  <description>From suginami-town-api, https://suginamisuki.com/. Check sources before you go.
 「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/</description>
   <Style id="neighborhood">
    <LineStyle>

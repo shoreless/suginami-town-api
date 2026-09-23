@@ -8,7 +8,7 @@ no rate limits or keys.
 
 ## Endpoints
 
-Base URL: `https://shoreless.github.io/suginami-town-api/`
+Base URL: `https://suginamisuki.com/` (formerly `https://shoreless.github.io/suginami-town-api/`, which redirects)
 
 | Path | What it holds |
 | --- | --- |
