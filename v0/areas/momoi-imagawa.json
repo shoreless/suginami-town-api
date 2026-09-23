@@ -59,6 +59,11 @@
     "widget": {
      "square": "art/widget-square-momoi-imagawa-morning-a781038c30.jpg",
      "wide": "art/widget-wide-momoi-imagawa-morning-0f3d7fbe46.jpg"
+    },
+    "face": {
+     "apk": "faces/momoi-imagawa-morning-d96616b931.apk",
+     "token": "wahJQESgiBccTcwQWZpwouDJ/uE0Oz9o67m7JpdeSOY=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.momoi_imagawa_morning"
     }
    },
    {
@@ -71,6 +76,11 @@
     "widget": {
      "square": "art/widget-square-momoi-imagawa-midday-dd890b5926.jpg",
      "wide": "art/widget-wide-momoi-imagawa-midday-4c8be235ca.jpg"
+    },
+    "face": {
+     "apk": "faces/momoi-imagawa-midday-d30d51d851.apk",
+     "token": "3v5NHLwZ7VfZtLcel6L7jC1lilAitdMZhrJHFk6XrMs=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.momoi_imagawa_midday"
     }
    },
    {
@@ -83,6 +93,11 @@
     "widget": {
      "square": "art/widget-square-momoi-imagawa-evening-3ec4341821.jpg",
      "wide": "art/widget-wide-momoi-imagawa-evening-0a02801284.jpg"
+    },
+    "face": {
+     "apk": "faces/momoi-imagawa-evening-ce309810c7.apk",
+     "token": "XVF9L6/ApRjmpvZh9rRrMId5WPwCyyUusHRl3nFZs1I=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.momoi_imagawa_evening"
     }
    },
    {
@@ -95,6 +110,11 @@
     "widget": {
      "square": "art/widget-square-momoi-imagawa-night-18812d989d.jpg",
      "wide": "art/widget-wide-momoi-imagawa-night-2ebefb8806.jpg"
+    },
+    "face": {
+     "apk": "faces/momoi-imagawa-night-333185a35b.apk",
+     "token": "jz3XT95/nfwGdQEDwtZjuSqLkAnodkiS4kn+6GQQjZg=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.momoi_imagawa_night"
     }
    }
   ],

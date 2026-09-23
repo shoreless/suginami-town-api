@@ -63,6 +63,11 @@
     "widget": {
      "square": "art/widget-square-koenji-morning-f02097a113.jpg",
      "wide": "art/widget-wide-koenji-morning-28e25aa1c9.jpg"
+    },
+    "face": {
+     "apk": "faces/koenji-morning-9ce8a591f1.apk",
+     "token": "Lv2wIZSEY5nWrif9Mm1qqXRdSV3QTA4Gu+eqQ+Ypd1U=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.koenji_morning"
     }
    },
    {
@@ -75,6 +80,11 @@
     "widget": {
      "square": "art/widget-square-koenji-midday-4952f70338.jpg",
      "wide": "art/widget-wide-koenji-midday-5d2b8911a6.jpg"
+    },
+    "face": {
+     "apk": "faces/koenji-midday-3f75da4522.apk",
+     "token": "6a3eLbFvIlGwDIaJIj57RVJrhuxAJwmdE8CE/tFkrMQ=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.koenji_midday"
     }
    },
    {
@@ -87,6 +97,11 @@
     "widget": {
      "square": "art/widget-square-koenji-evening-9b6e019c16.jpg",
      "wide": "art/widget-wide-koenji-evening-f8cc07d416.jpg"
+    },
+    "face": {
+     "apk": "faces/koenji-evening-cfe9c718dc.apk",
+     "token": "HTHJiSysL1mA5ORKVcOQEWFFttuu7u44acpKVHPdybs=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.koenji_evening"
     }
    },
    {
@@ -99,6 +114,11 @@
     "widget": {
      "square": "art/widget-square-koenji-night-ede55acfac.jpg",
      "wide": "art/widget-wide-koenji-night-d00e05f191.jpg"
+    },
+    "face": {
+     "apk": "faces/koenji-night-15f1c74f19.apk",
+     "token": "FWZJ0P+0oj8KXB901O4u4tHJgMOcb1fLG8MMGFHoGBY=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.koenji_night"
     }
    }
   ],

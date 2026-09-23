@@ -39,6 +39,11 @@
     "widget": {
      "square": "art/widget-square-kami-takaido-morning-c714890f1a.jpg",
      "wide": "art/widget-wide-kami-takaido-morning-51c9a2edf0.jpg"
+    },
+    "face": {
+     "apk": "faces/kami-takaido-morning-b060ea8c7f.apk",
+     "token": "nb5iYraIT72Mc08QmLrLOlWu9otqwvlMoGDOMMK9IA4=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.kami_takaido_morning"
     }
    },
    {
@@ -51,6 +56,11 @@
     "widget": {
      "square": "art/widget-square-kami-takaido-midday-1f39d4cdbf.jpg",
      "wide": "art/widget-wide-kami-takaido-midday-0566d5fc9e.jpg"
+    },
+    "face": {
+     "apk": "faces/kami-takaido-midday-cb3f678ba3.apk",
+     "token": "qH+XHUFyFJYcHMZGUjrJgLFG55Ug7egEIXK/olVkMug=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.kami_takaido_midday"
     }
    },
    {
@@ -63,6 +73,11 @@
     "widget": {
      "square": "art/widget-square-kami-takaido-evening-64abedd630.jpg",
      "wide": "art/widget-wide-kami-takaido-evening-724dce5884.jpg"
+    },
+    "face": {
+     "apk": "faces/kami-takaido-evening-ca0251ebb6.apk",
+     "token": "Le+Dl0k2ONlE+8f3LJN7iFZR2wszgsywXk06OgzRrXo=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.kami_takaido_evening"
     }
    },
    {
@@ -75,6 +90,11 @@
     "widget": {
      "square": "art/widget-square-kami-takaido-night-79589fda78.jpg",
      "wide": "art/widget-wide-kami-takaido-night-d1982640bc.jpg"
+    },
+    "face": {
+     "apk": "faces/kami-takaido-night-78a87a6ed0.apk",
+     "token": "/RrKKg/BflowBAoLvrx+8HK/zISIUZQ1XGU623A+uXM=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.kami_takaido_night"
     }
    }
   ],

@@ -47,6 +47,11 @@
     "widget": {
      "square": "art/widget-square-shimo-takaido-morning-38068ae0e3.jpg",
      "wide": "art/widget-wide-shimo-takaido-morning-c6dae84ee8.jpg"
+    },
+    "face": {
+     "apk": "faces/shimo-takaido-morning-ec645eff58.apk",
+     "token": "eem28UGQv/WH6EBdSOLFY/5iOZGim3VXaOeWoJzWVfM=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.shimo_takaido_morning"
     }
    },
    {
@@ -59,6 +64,11 @@
     "widget": {
      "square": "art/widget-square-shimo-takaido-midday-9328dd95a5.jpg",
      "wide": "art/widget-wide-shimo-takaido-midday-ba42291fe9.jpg"
+    },
+    "face": {
+     "apk": "faces/shimo-takaido-midday-9b814846be.apk",
+     "token": "4d+/sxPdRFq8xr6qJB52gb7LavjDiruXXDn/6DRbqUc=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.shimo_takaido_midday"
     }
    },
    {
@@ -71,6 +81,11 @@
     "widget": {
      "square": "art/widget-square-shimo-takaido-evening-3399287b4d.jpg",
      "wide": "art/widget-wide-shimo-takaido-evening-df369fbf4e.jpg"
+    },
+    "face": {
+     "apk": "faces/shimo-takaido-evening-24465b3035.apk",
+     "token": "Ex1DMewrKXn7ZDANyvUuvBgyVFFOdSc247RcOPdz+cE=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.shimo_takaido_evening"
     }
    },
    {
@@ -83,6 +98,11 @@
     "widget": {
      "square": "art/widget-square-shimo-takaido-night-b1226d457c.jpg",
      "wide": "art/widget-wide-shimo-takaido-night-5a3872e412.jpg"
+    },
+    "face": {
+     "apk": "faces/shimo-takaido-night-6217b634d6.apk",
+     "token": "EDMUtBoRJU7fjMbQP5lKEd3ZjrK31W81z8WF6sanfDc=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.shimo_takaido_night"
     }
    }
   ],

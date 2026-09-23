@@ -55,6 +55,11 @@
     "widget": {
      "square": "art/widget-square-takaido-fujimigaoka-morning-a406e62a71.jpg",
      "wide": "art/widget-wide-takaido-fujimigaoka-morning-57116e229b.jpg"
+    },
+    "face": {
+     "apk": "faces/takaido-fujimigaoka-morning-7ddd7e4ac8.apk",
+     "token": "UsB+xoy+SLhADnxOcVq8NDF0evBTLMkg2RfJGoD6WKg=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.takaido_fujimigaoka_morning"
     }
    },
    {
@@ -67,6 +72,11 @@
     "widget": {
      "square": "art/widget-square-takaido-fujimigaoka-midday-2329e23bcd.jpg",
      "wide": "art/widget-wide-takaido-fujimigaoka-midday-cb695da215.jpg"
+    },
+    "face": {
+     "apk": "faces/takaido-fujimigaoka-midday-c824dad56f.apk",
+     "token": "KRX704/26fN1tpmrcsPAdbgHbBMH7CQctVd+4SlVd88=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.takaido_fujimigaoka_midday"
     }
    },
    {
@@ -79,6 +89,11 @@
     "widget": {
      "square": "art/widget-square-takaido-fujimigaoka-evening-254a83cbcd.jpg",
      "wide": "art/widget-wide-takaido-fujimigaoka-evening-81af3452a9.jpg"
+    },
+    "face": {
+     "apk": "faces/takaido-fujimigaoka-evening-aa29920704.apk",
+     "token": "Jxo9IDkHZcByIg1bQJVBp1BMu4yHJg21WD46D8fX6Eo=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.takaido_fujimigaoka_evening"
     }
    },
    {
@@ -91,6 +106,11 @@
     "widget": {
      "square": "art/widget-square-takaido-fujimigaoka-night-3fffca759f.jpg",
      "wide": "art/widget-wide-takaido-fujimigaoka-night-cd18bf8f0b.jpg"
+    },
+    "face": {
+     "apk": "faces/takaido-fujimigaoka-night-2efce2635f.apk",
+     "token": "BGMgdQjNIk/dK1fr2wMz5WpOIwFjiW5ycVw3PcSZxoM=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.takaido_fujimigaoka_night"
     }
    }
   ],

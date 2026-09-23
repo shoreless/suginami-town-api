@@ -43,6 +43,11 @@
     "widget": {
      "square": "art/widget-square-hamadayama-morning-acec37dea5.jpg",
      "wide": "art/widget-wide-hamadayama-morning-7f9a9dc804.jpg"
+    },
+    "face": {
+     "apk": "faces/hamadayama-morning-150e9f74b8.apk",
+     "token": "IiXmGrTB9KUq6TRGp2ZxBWnRgRg9oTyBUazMxSDmf3I=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.hamadayama_morning"
     }
    },
    {
@@ -55,6 +60,11 @@
     "widget": {
      "square": "art/widget-square-hamadayama-midday-8aa495d663.jpg",
      "wide": "art/widget-wide-hamadayama-midday-7f40017203.jpg"
+    },
+    "face": {
+     "apk": "faces/hamadayama-midday-ba6bb40797.apk",
+     "token": "YKXkr7fgOrQEoiBYBwUZBm5DYJHoNPu5/MmZ4VJEuNY=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.hamadayama_midday"
     }
    },
    {
@@ -67,6 +77,11 @@
     "widget": {
      "square": "art/widget-square-hamadayama-evening-4b5d63072d.jpg",
      "wide": "art/widget-wide-hamadayama-evening-260c7a7e8b.jpg"
+    },
+    "face": {
+     "apk": "faces/hamadayama-evening-8d744c03e7.apk",
+     "token": "iAJ/fLxIeLy1QPNaLVjQfjO4VTbBpiiN9bdfauspHMs=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.hamadayama_evening"
     }
    },
    {
@@ -79,6 +94,11 @@
     "widget": {
      "square": "art/widget-square-hamadayama-night-052469822d.jpg",
      "wide": "art/widget-wide-hamadayama-night-bad86c935f.jpg"
+    },
+    "face": {
+     "apk": "faces/hamadayama-night-c201c65110.apk",
+     "token": "muC3/eTx1vebGWgZ4uTdbKDFkk+ShT4+87SnXgI3ZGc=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.hamadayama_night"
     }
    }
   ],

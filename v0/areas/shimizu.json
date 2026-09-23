@@ -39,6 +39,11 @@
     "widget": {
      "square": "art/widget-square-shimizu-morning-7edee61dfb.jpg",
      "wide": "art/widget-wide-shimizu-morning-7535d80137.jpg"
+    },
+    "face": {
+     "apk": "faces/shimizu-morning-650b62a933.apk",
+     "token": "OOjlBMNqLIT9jBxLg1W3tB8oXA+nBB4RMk/n/OaYB7s=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.shimizu_morning"
     }
    },
    {
@@ -51,6 +56,11 @@
     "widget": {
      "square": "art/widget-square-shimizu-midday-796ad4dfe3.jpg",
      "wide": "art/widget-wide-shimizu-midday-6da9a4b4f7.jpg"
+    },
+    "face": {
+     "apk": "faces/shimizu-midday-3d370b9d6b.apk",
+     "token": "LNCXAzhKTA3cWsS9h/M2Vep7nO3uByPN9JXglDbUj/A=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.shimizu_midday"
     }
    },
    {
@@ -63,6 +73,11 @@
     "widget": {
      "square": "art/widget-square-shimizu-evening-4878ea12eb.jpg",
      "wide": "art/widget-wide-shimizu-evening-8ef1e4fd26.jpg"
+    },
+    "face": {
+     "apk": "faces/shimizu-evening-571cc85d1e.apk",
+     "token": "ztlBQE+a4RfdsiKXQYRlJnE3ykizR041o152SgGVpMA=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.shimizu_evening"
     }
    },
    {
@@ -75,6 +90,11 @@
     "widget": {
      "square": "art/widget-square-shimizu-night-794559598f.jpg",
      "wide": "art/widget-wide-shimizu-night-995a7c92c7.jpg"
+    },
+    "face": {
+     "apk": "faces/shimizu-night-b02ae737f3.apk",
+     "token": "7IxdKdq5mo6jTMOMmdS840VTAwg86a1cG6ssY79IFes=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.shimizu_night"
     }
    }
   ],

@@ -47,6 +47,11 @@
     "widget": {
      "square": "art/widget-square-omiya-matsunoki-morning-fc52f07ddb.jpg",
      "wide": "art/widget-wide-omiya-matsunoki-morning-4e24b35396.jpg"
+    },
+    "face": {
+     "apk": "faces/omiya-matsunoki-morning-be9b3a5f28.apk",
+     "token": "f132hPv4kNGE8mBkJv3MH4QQjYBF7Y8RcqHMFYPzkOU=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.omiya_matsunoki_morning"
     }
    },
    {
@@ -59,6 +64,11 @@
     "widget": {
      "square": "art/widget-square-omiya-matsunoki-midday-70b0c5feab.jpg",
      "wide": "art/widget-wide-omiya-matsunoki-midday-6888803957.jpg"
+    },
+    "face": {
+     "apk": "faces/omiya-matsunoki-midday-233269948e.apk",
+     "token": "cU8+xUvmrdUuDfDYqZiJkUn/jvg8PRGQ8NKWYN6EeNY=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.omiya_matsunoki_midday"
     }
    },
    {
@@ -71,6 +81,11 @@
     "widget": {
      "square": "art/widget-square-omiya-matsunoki-evening-941a996b97.jpg",
      "wide": "art/widget-wide-omiya-matsunoki-evening-3f1f3bb004.jpg"
+    },
+    "face": {
+     "apk": "faces/omiya-matsunoki-evening-a685ea2d7d.apk",
+     "token": "3in0g9X04NdbT9MU9JR8bMGIl3lSgVmC98fQZnN7BUs=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.omiya_matsunoki_evening"
     }
    },
    {
@@ -83,6 +98,11 @@
     "widget": {
      "square": "art/widget-square-omiya-matsunoki-night-b0cf3ed61b.jpg",
      "wide": "art/widget-wide-omiya-matsunoki-night-9fd2add9ca.jpg"
+    },
+    "face": {
+     "apk": "faces/omiya-matsunoki-night-30e772848a.apk",
+     "token": "GhGDQGmcER4Qv8sEwJTrV1t24FP9k7RL5U/fLRaL2kw=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.omiya_matsunoki_night"
     }
    }
   ],

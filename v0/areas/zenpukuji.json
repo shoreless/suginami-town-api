@@ -43,6 +43,11 @@
     "widget": {
      "square": "art/widget-square-zenpukuji-morning-65a6ced4e3.jpg",
      "wide": "art/widget-wide-zenpukuji-morning-e740b8dee1.jpg"
+    },
+    "face": {
+     "apk": "faces/zenpukuji-morning-81fc380740.apk",
+     "token": "1DhmaXzhr4R+lnLnLM8TP6gt1VYaJxAPwVbexfHrDA4=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.zenpukuji_morning"
     }
    },
    {
@@ -55,6 +60,11 @@
     "widget": {
      "square": "art/widget-square-zenpukuji-midday-1b20e71c5f.jpg",
      "wide": "art/widget-wide-zenpukuji-midday-e3c83d2ad7.jpg"
+    },
+    "face": {
+     "apk": "faces/zenpukuji-midday-cfd96496e7.apk",
+     "token": "zbQttMF7gJn6llTA64k9rA4OazTlKUhr4Ez65xyuZ0U=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.zenpukuji_midday"
     }
    },
    {
@@ -67,6 +77,11 @@
     "widget": {
      "square": "art/widget-square-zenpukuji-evening-3ee83b0cc5.jpg",
      "wide": "art/widget-wide-zenpukuji-evening-009792c2b6.jpg"
+    },
+    "face": {
+     "apk": "faces/zenpukuji-evening-af6eced17c.apk",
+     "token": "XjufDt46lt5zPPlF/xVs3796tQLkkXyHra010OaQ9LU=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.zenpukuji_evening"
     }
    },
    {
@@ -79,6 +94,11 @@
     "widget": {
      "square": "art/widget-square-zenpukuji-night-dbafcb304e.jpg",
      "wide": "art/widget-wide-zenpukuji-night-4bdc2bf199.jpg"
+    },
+    "face": {
+     "apk": "faces/zenpukuji-night-5b763e5f58.apk",
+     "token": "fH6DKM4JrqHNQ9wuTR8I6tFzqgglDJqZvqmivzrieB0=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.zenpukuji_night"
     }
    }
   ],

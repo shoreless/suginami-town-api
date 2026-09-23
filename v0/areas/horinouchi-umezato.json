@@ -47,6 +47,11 @@
     "widget": {
      "square": "art/widget-square-horinouchi-umezato-morning-0f144c11f5.jpg",
      "wide": "art/widget-wide-horinouchi-umezato-morning-58ae658e4c.jpg"
+    },
+    "face": {
+     "apk": "faces/horinouchi-umezato-morning-fd20c86320.apk",
+     "token": "8HhmFlBTsi2KttkIZB4RT+/6m6m2zE470uWAM2Udxas=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.horinouchi_umezato_morning"
     }
    },
    {
@@ -59,6 +64,11 @@
     "widget": {
      "square": "art/widget-square-horinouchi-umezato-midday-ca923992eb.jpg",
      "wide": "art/widget-wide-horinouchi-umezato-midday-b545025ae1.jpg"
+    },
+    "face": {
+     "apk": "faces/horinouchi-umezato-midday-b8c4a735be.apk",
+     "token": "GrRv+GuZNcFezwcpMOGE+YMF6lCSE0WwvG13qhJno6o=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.horinouchi_umezato_midday"
     }
    },
    {
@@ -71,6 +81,11 @@
     "widget": {
      "square": "art/widget-square-horinouchi-umezato-evening-0a49d60649.jpg",
      "wide": "art/widget-wide-horinouchi-umezato-evening-fccf85be39.jpg"
+    },
+    "face": {
+     "apk": "faces/horinouchi-umezato-evening-e3dc61db3e.apk",
+     "token": "9AVJaQu6ISJmS8DU3J8M7d66vVxAcQbq1qCap0Sg7uM=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.horinouchi_umezato_evening"
     }
    },
    {
@@ -83,6 +98,11 @@
     "widget": {
      "square": "art/widget-square-horinouchi-umezato-night-e0ba7054c1.jpg",
      "wide": "art/widget-wide-horinouchi-umezato-night-d515b32e30.jpg"
+    },
+    "face": {
+     "apk": "faces/horinouchi-umezato-night-d0ffe64157.apk",
+     "token": "DCO3muJLbRe0sJFmiIyaf8R4GOD+wQ2bl4+PZ9PRZuY=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.horinouchi_umezato_night"
     }
    }
   ],

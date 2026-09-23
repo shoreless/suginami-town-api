@@ -35,6 +35,11 @@
     "widget": {
      "square": "art/widget-square-honan-morning-18ed4fa2df.jpg",
      "wide": "art/widget-wide-honan-morning-a83accca14.jpg"
+    },
+    "face": {
+     "apk": "faces/honan-morning-399d0fb927.apk",
+     "token": "0BUQlL7KPV7Yemx9qA2mnJ6ZTRisGeJXmGEa0LG1/LE=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.honan_morning"
     }
    },
    {
@@ -47,6 +52,11 @@
     "widget": {
      "square": "art/widget-square-honan-midday-4f1351c6f8.jpg",
      "wide": "art/widget-wide-honan-midday-cdac88ef59.jpg"
+    },
+    "face": {
+     "apk": "faces/honan-midday-de48987abb.apk",
+     "token": "QQOf7/R/AojCJq4h3fdbNEoBD//ffCmK0RQT6zWxdV0=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.honan_midday"
     }
    },
    {
@@ -59,6 +69,11 @@
     "widget": {
      "square": "art/widget-square-honan-evening-9d7550b475.jpg",
      "wide": "art/widget-wide-honan-evening-ac38c80090.jpg"
+    },
+    "face": {
+     "apk": "faces/honan-evening-18695ddd59.apk",
+     "token": "IVbjthgr3/M9I2qZdRgOO6Dv8hAHmShp8Pb9yjW6AGU=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.honan_evening"
     }
    },
    {
@@ -71,6 +86,11 @@
     "widget": {
      "square": "art/widget-square-honan-night-ba5a8fca6f.jpg",
      "wide": "art/widget-wide-honan-night-5fe6ea7cf2.jpg"
+    },
+    "face": {
+     "apk": "faces/honan-night-260d5a7e07.apk",
+     "token": "5u/Ry9sxIt/0L/iQMTlWoU+Ml2g1Jm4PxZZUUYydcRs=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.honan_night"
     }
    }
   ],

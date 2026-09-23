@@ -51,6 +51,11 @@
     "widget": {
      "square": "art/widget-square-amanuma-morning-4bcb0ac8a2.jpg",
      "wide": "art/widget-wide-amanuma-morning-aa8d79837c.jpg"
+    },
+    "face": {
+     "apk": "faces/amanuma-morning-0d958a10d8.apk",
+     "token": "zRzRmRr0OUPFeQMN/quB3RtOGUl0AXQdnWpxUE8DloY=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.amanuma_morning"
     }
    },
    {
@@ -63,6 +68,11 @@
     "widget": {
      "square": "art/widget-square-amanuma-midday-3195097ecc.jpg",
      "wide": "art/widget-wide-amanuma-midday-756a0c4599.jpg"
+    },
+    "face": {
+     "apk": "faces/amanuma-midday-81725cfee5.apk",
+     "token": "HlzTeUaaVz8PT8680apWZOgjrTF9ghsPRzkVFuELAC0=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.amanuma_midday"
     }
    },
    {
@@ -75,6 +85,11 @@
     "widget": {
      "square": "art/widget-square-amanuma-evening-c309e0f7fc.jpg",
      "wide": "art/widget-wide-amanuma-evening-2d87c89819.jpg"
+    },
+    "face": {
+     "apk": "faces/amanuma-evening-c4e24f797b.apk",
+     "token": "byGkiwNwbqYuRDodTaUb2g4TPTQLQseiC4rFihjTy0c=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.amanuma_evening"
     }
    },
    {
@@ -87,6 +102,11 @@
     "widget": {
      "square": "art/widget-square-amanuma-night-50e4e193a8.jpg",
      "wide": "art/widget-wide-amanuma-night-22bd77322a.jpg"
+    },
+    "face": {
+     "apk": "faces/amanuma-night-4450f5f2e7.apk",
+     "token": "F2JxaCIigpKzqx3Rq2opT+UUOljn0YU2qcFZs0zMseo=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.amanuma_night"
     }
    }
   ],

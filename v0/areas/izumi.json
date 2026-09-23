@@ -43,6 +43,11 @@
     "widget": {
      "square": "art/widget-square-izumi-morning-da4cae96c1.jpg",
      "wide": "art/widget-wide-izumi-morning-8385a527ea.jpg"
+    },
+    "face": {
+     "apk": "faces/izumi-morning-7c3e542f18.apk",
+     "token": "GoZE/8RqQroCkOKpHV7/kTga5RflVstPlDQq5cW8T1Q=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.izumi_morning"
     }
    },
    {
@@ -55,6 +60,11 @@
     "widget": {
      "square": "art/widget-square-izumi-midday-85c81c3c7d.jpg",
      "wide": "art/widget-wide-izumi-midday-bafa4802c9.jpg"
+    },
+    "face": {
+     "apk": "faces/izumi-midday-c3790e54e6.apk",
+     "token": "JScHj6ljNkx2fFELIr/ASD4wTT+lVV4ofsUvcj0dntw=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.izumi_midday"
     }
    },
    {
@@ -67,6 +77,11 @@
     "widget": {
      "square": "art/widget-square-izumi-evening-01732eda2f.jpg",
      "wide": "art/widget-wide-izumi-evening-7aca55ce0b.jpg"
+    },
+    "face": {
+     "apk": "faces/izumi-evening-ad30a550da.apk",
+     "token": "D7aBS/p/5PAcbKWhJLEf1iViDrZxgMk+UMD1YmvvPnA=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.izumi_evening"
     }
    },
    {
@@ -79,6 +94,11 @@
     "widget": {
      "square": "art/widget-square-izumi-night-5e3e66bb68.jpg",
      "wide": "art/widget-wide-izumi-night-11607f746d.jpg"
+    },
+    "face": {
+     "apk": "faces/izumi-night-d331e72a66.apk",
+     "token": "69t+4ijoRCCjG19nzIyFQEtmfAmYc1aceazLEQV1kd4=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.izumi_night"
     }
    }
   ],

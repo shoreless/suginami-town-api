@@ -43,6 +43,11 @@
     "widget": {
      "square": "art/widget-square-kami-igusa-morning-36a756af7e.jpg",
      "wide": "art/widget-wide-kami-igusa-morning-090b8ed23d.jpg"
+    },
+    "face": {
+     "apk": "faces/kami-igusa-morning-8c37571fa1.apk",
+     "token": "gVu75/qPrbgmW3bc0a7z7YF6JlLVXUEY/ShwY3ZqjFw=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.kami_igusa_morning"
     }
    },
    {
@@ -55,6 +60,11 @@
     "widget": {
      "square": "art/widget-square-kami-igusa-midday-ccec4bd40f.jpg",
      "wide": "art/widget-wide-kami-igusa-midday-f81b80013f.jpg"
+    },
+    "face": {
+     "apk": "faces/kami-igusa-midday-91173fb623.apk",
+     "token": "iez+7DmAMi0H7DW6mVj9yty/DJQeRs6qchVPMJFf0IA=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.kami_igusa_midday"
     }
    },
    {
@@ -67,6 +77,11 @@
     "widget": {
      "square": "art/widget-square-kami-igusa-evening-644838c7ee.jpg",
      "wide": "art/widget-wide-kami-igusa-evening-0a552cbecd.jpg"
+    },
+    "face": {
+     "apk": "faces/kami-igusa-evening-0c53e9c2ef.apk",
+     "token": "rI2t53hZWSFh7qLBbPm4Dr+Sd1OWc1n0CTDtP/ixSX4=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.kami_igusa_evening"
     }
    },
    {
@@ -79,6 +94,11 @@
     "widget": {
      "square": "art/widget-square-kami-igusa-night-1563a7ad73.jpg",
      "wide": "art/widget-wide-kami-igusa-night-d03d096de9.jpg"
+    },
+    "face": {
+     "apk": "faces/kami-igusa-night-076c2ef70b.apk",
+     "token": "eiINZo51xOfIon0FLOC2E31KlGGJCW1W5siUVlSMuhM=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.kami_igusa_night"
     }
    }
   ],

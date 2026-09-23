@@ -63,6 +63,11 @@
     "widget": {
      "square": "art/widget-square-asagaya-morning-c6ff546ff0.jpg",
      "wide": "art/widget-wide-asagaya-morning-70a5fd1ce1.jpg"
+    },
+    "face": {
+     "apk": "faces/asagaya-morning-a1eae19d5a.apk",
+     "token": "SGlfTJTrJ60eTOok1D4+qibRuFftt6K4wE4TyJz/huo=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.asagaya_morning"
     }
    },
    {
@@ -75,6 +80,11 @@
     "widget": {
      "square": "art/widget-square-asagaya-midday-5859729803.jpg",
      "wide": "art/widget-wide-asagaya-midday-87a10d520b.jpg"
+    },
+    "face": {
+     "apk": "faces/asagaya-midday-5cf3e2da7d.apk",
+     "token": "XsUx+rqaP9Ne1xlyqCD4CiVTZsrR4qau3d/ax0+v4fQ=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.asagaya_midday"
     }
    },
    {
@@ -87,6 +97,11 @@
     "widget": {
      "square": "art/widget-square-asagaya-evening-ebf4736b69.jpg",
      "wide": "art/widget-wide-asagaya-evening-c86a7d9442.jpg"
+    },
+    "face": {
+     "apk": "faces/asagaya-evening-ab04435781.apk",
+     "token": "lgKAVlNHwomIWj0YgfvfYZ8exFQvgOkvsV+/N7nGJlQ=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.asagaya_evening"
     }
    },
    {
@@ -99,6 +114,11 @@
     "widget": {
      "square": "art/widget-square-asagaya-night-a061890bad.jpg",
      "wide": "art/widget-wide-asagaya-night-2310099931.jpg"
+    },
+    "face": {
+     "apk": "faces/asagaya-night-55962a2d2f.apk",
+     "token": "7g1ERfeOW0zEo1ncrz9DNq74bTdlvqiAQtOH8wy1xQ8=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.asagaya_night"
     }
    }
   ],

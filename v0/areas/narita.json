@@ -63,6 +63,11 @@
     "widget": {
      "square": "art/widget-square-narita-morning-6d7b2f3589.jpg",
      "wide": "art/widget-wide-narita-morning-791997dd22.jpg"
+    },
+    "face": {
+     "apk": "faces/narita-morning-b19158a18d.apk",
+     "token": "PbKjh//cuGNbTuFco2S2UUPs0LEV0XgxciVBWXa67cQ=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.narita_morning"
     }
    },
    {
@@ -75,6 +80,11 @@
     "widget": {
      "square": "art/widget-square-narita-midday-6f0237904d.jpg",
      "wide": "art/widget-wide-narita-midday-a3d48874c4.jpg"
+    },
+    "face": {
+     "apk": "faces/narita-midday-8570a46643.apk",
+     "token": "G92AVVBgRYYMvNvB28baDoBDuLU5S+UfDWdxCUM8SDo=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.narita_midday"
     }
    },
    {
@@ -87,6 +97,11 @@
     "widget": {
      "square": "art/widget-square-narita-evening-f6fc0997ff.jpg",
      "wide": "art/widget-wide-narita-evening-4ac5010aab.jpg"
+    },
+    "face": {
+     "apk": "faces/narita-evening-7b46dbfcab.apk",
+     "token": "JhQ1OWS+g4u2uwjfcLbH3620CRJuljcPl8Rth7rSGqY=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.narita_evening"
     }
    },
    {
@@ -99,6 +114,11 @@
     "widget": {
      "square": "art/widget-square-narita-night-ebc4d9d36f.jpg",
      "wide": "art/widget-wide-narita-night-e7a0c65165.jpg"
+    },
+    "face": {
+     "apk": "faces/narita-night-14f2a670da.apk",
+     "token": "T0XMNAl6BaVhzFSvlW2tQDtqw+/V1wWavOjVrFDbGcg=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.narita_night"
     }
    }
   ],

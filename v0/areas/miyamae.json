@@ -47,6 +47,11 @@
     "widget": {
      "square": "art/widget-square-miyamae-morning-4c6778f319.jpg",
      "wide": "art/widget-wide-miyamae-morning-f5dc041bce.jpg"
+    },
+    "face": {
+     "apk": "faces/miyamae-morning-bc9b57e494.apk",
+     "token": "2u4WO/bs1BOwGYjpOwrYFFGA7y39REe3jBpyDGQ3Pmo=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.miyamae_morning"
     }
    },
    {
@@ -59,6 +64,11 @@
     "widget": {
      "square": "art/widget-square-miyamae-midday-b6ac785aed.jpg",
      "wide": "art/widget-wide-miyamae-midday-aeaa4dcb1a.jpg"
+    },
+    "face": {
+     "apk": "faces/miyamae-midday-0b124d3e10.apk",
+     "token": "2+l9N8/kaQOnd/RPG4O85sO8CyYMdyE1hjG1feE68ds=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.miyamae_midday"
     }
    },
    {
@@ -71,6 +81,11 @@
     "widget": {
      "square": "art/widget-square-miyamae-evening-7ca4fda7d9.jpg",
      "wide": "art/widget-wide-miyamae-evening-67d81144d7.jpg"
+    },
+    "face": {
+     "apk": "faces/miyamae-evening-716055e6f0.apk",
+     "token": "za7RRbOGAYVb9xjK7en1aTcBoD3gocezo6tiTG87rZs=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.miyamae_evening"
     }
    },
    {
@@ -83,6 +98,11 @@
     "widget": {
      "square": "art/widget-square-miyamae-night-59dbbeb026.jpg",
      "wide": "art/widget-wide-miyamae-night-4bfe8b5ede.jpg"
+    },
+    "face": {
+     "apk": "faces/miyamae-night-2f9409953c.apk",
+     "token": "6wECr+Ny6JGR8T18js7D9087OqDP89CX5xuJ6NWk72g=:MS4wLjA=",
+     "package": "org.shoreless.suginamisuki.watchfacepush.miyamae_night"
     }
    }
   ],
