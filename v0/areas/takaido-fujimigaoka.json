@@ -1,0 +1,53 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "takaido-fujimigaoka",
+  "name": {
+   "en": "Takaido / Fujimigaoka",
+   "ja": "高井戸"
+  },
+  "towns": [
+   {
+    "code": "13115034001",
+    "name": "高井戸東一丁目"
+   },
+   {
+    "code": "13115034002",
+    "name": "高井戸東二丁目"
+   },
+   {
+    "code": "13115034003",
+    "name": "高井戸東三丁目"
+   },
+   {
+    "code": "13115034004",
+    "name": "高井戸東四丁目"
+   },
+   {
+    "code": "13115035001",
+    "name": "高井戸西一丁目"
+   },
+   {
+    "code": "13115035002",
+    "name": "高井戸西二丁目"
+   },
+   {
+    "code": "13115035003",
+    "name": "高井戸西三丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "River and everyday movement: trains and a distant white chimney.",
+   "ja": "川と、日々の往来。電車と遠くの白い煙突。"
+  }
+ }
+}

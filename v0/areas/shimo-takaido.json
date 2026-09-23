@@ -1,0 +1,45 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "shimo-takaido",
+  "name": {
+   "en": "Shimo-Takaido / Sakurajōsui side",
+   "ja": "下高井戸"
+  },
+  "towns": [
+   {
+    "code": "13115003001",
+    "name": "下高井戸一丁目"
+   },
+   {
+    "code": "13115003002",
+    "name": "下高井戸二丁目"
+   },
+   {
+    "code": "13115003003",
+    "name": "下高井戸三丁目"
+   },
+   {
+    "code": "13115003004",
+    "name": "下高井戸四丁目"
+   },
+   {
+    "code": "13115003005",
+    "name": "下高井戸五丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "Open and breezy: lawns and a big sky.",
+   "ja": "開けた、風の通る街。芝生と広い空。"
+  }
+ }
+}

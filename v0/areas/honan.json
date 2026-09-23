@@ -1,0 +1,33 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "honan",
+  "name": {
+   "en": "Hōnan",
+   "ja": "方南"
+  },
+  "towns": [
+   {
+    "code": "13115001001",
+    "name": "方南一丁目"
+   },
+   {
+    "code": "13115001002",
+    "name": "方南二丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "Community-minded: a shopping street, greengrocers and festival bunting.",
+   "ja": "地域のつながり。商店街、八百屋、祭りの飾り。"
+  }
+ }
+}

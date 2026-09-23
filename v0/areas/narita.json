@@ -1,0 +1,61 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "narita",
+  "name": {
+   "en": "Narita",
+   "ja": "成田"
+  },
+  "towns": [
+   {
+    "code": "13115017001",
+    "name": "成田西一丁目"
+   },
+   {
+    "code": "13115017002",
+    "name": "成田西二丁目"
+   },
+   {
+    "code": "13115017003",
+    "name": "成田西三丁目"
+   },
+   {
+    "code": "13115017004",
+    "name": "成田西四丁目"
+   },
+   {
+    "code": "13115018001",
+    "name": "成田東一丁目"
+   },
+   {
+    "code": "13115018002",
+    "name": "成田東二丁目"
+   },
+   {
+    "code": "13115018003",
+    "name": "成田東三丁目"
+   },
+   {
+    "code": "13115018004",
+    "name": "成田東四丁目"
+   },
+   {
+    "code": "13115018005",
+    "name": "成田東五丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "Riverside wandering: bends of the Zenpukuji River and cherry trees.",
+   "ja": "川沿いのそぞろ歩き。善福寺川の曲がり角と桜。"
+  }
+ }
+}

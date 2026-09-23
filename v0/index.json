@@ -1,0 +1,265 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "areas": [
+  {
+   "id": "amanuma",
+   "name": {
+    "en": "Amanuma",
+    "ja": "天沼"
+   },
+   "path": "areas/amanuma.json",
+   "towns": 6,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "asagaya",
+   "name": {
+    "en": "Asagaya",
+    "ja": "阿佐ヶ谷"
+   },
+   "path": "areas/asagaya.json",
+   "towns": 9,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "eifuku",
+   "name": {
+    "en": "Eifuku / Nishi-Eifuku",
+    "ja": "永福"
+   },
+   "path": "areas/eifuku.json",
+   "towns": 4,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "hamadayama",
+   "name": {
+    "en": "Hamadayama",
+    "ja": "浜田山"
+   },
+   "path": "areas/hamadayama.json",
+   "towns": 4,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "honan",
+   "name": {
+    "en": "Hōnan",
+    "ja": "方南"
+   },
+   "path": "areas/honan.json",
+   "towns": 2,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "horinouchi-umezato",
+   "name": {
+    "en": "Horinouchi / Umezato",
+    "ja": "堀ノ内"
+   },
+   "path": "areas/horinouchi-umezato.json",
+   "towns": 5,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "igusa",
+   "name": {
+    "en": "Igusa / Iogi / Shimo-Igusa",
+    "ja": "井草"
+   },
+   "path": "areas/igusa.json",
+   "towns": 10,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "izumi",
+   "name": {
+    "en": "Izumi / Daitabashi side",
+    "ja": "和泉"
+   },
+   "path": "areas/izumi.json",
+   "towns": 4,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "kami-igusa",
+   "name": {
+    "en": "Kami-Igusa",
+    "ja": "上井草"
+   },
+   "path": "areas/kami-igusa.json",
+   "towns": 4,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "kami-takaido",
+   "name": {
+    "en": "Kami-Takaido / Hachimanyama side",
+    "ja": "上高井戸"
+   },
+   "path": "areas/kami-takaido.json",
+   "towns": 3,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "koenji",
+   "name": {
+    "en": "Kōenji",
+    "ja": "高円寺"
+   },
+   "path": "areas/koenji.json",
+   "towns": 9,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "kugayama",
+   "name": {
+    "en": "Kugayama",
+    "ja": "久我山"
+   },
+   "path": "areas/kugayama.json",
+   "towns": 5,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "miyamae",
+   "name": {
+    "en": "Miyamae",
+    "ja": "宮前"
+   },
+   "path": "areas/miyamae.json",
+   "towns": 5,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "momoi-imagawa",
+   "name": {
+    "en": "Momoi / Imagawa",
+    "ja": "桃井"
+   },
+   "path": "areas/momoi-imagawa.json",
+   "towns": 8,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "narita",
+   "name": {
+    "en": "Narita",
+    "ja": "成田"
+   },
+   "path": "areas/narita.json",
+   "towns": 9,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "nishi-ogikubo",
+   "name": {
+    "en": "Nishi-Ogikubo",
+    "ja": "西荻窪"
+   },
+   "path": "areas/nishi-ogikubo.json",
+   "towns": 12,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "ogikubo",
+   "name": {
+    "en": "Ogikubo",
+    "ja": "荻窪"
+   },
+   "path": "areas/ogikubo.json",
+   "towns": 13,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "omiya-matsunoki",
+   "name": {
+    "en": "Ōmiya / Matsunoki",
+    "ja": "大宮"
+   },
+   "path": "areas/omiya-matsunoki.json",
+   "towns": 5,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "shimizu",
+   "name": {
+    "en": "Shimizu",
+    "ja": "清水"
+   },
+   "path": "areas/shimizu.json",
+   "towns": 3,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "shimo-takaido",
+   "name": {
+    "en": "Shimo-Takaido / Sakurajōsui side",
+    "ja": "下高井戸"
+   },
+   "path": "areas/shimo-takaido.json",
+   "towns": 5,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "takaido-fujimigaoka",
+   "name": {
+    "en": "Takaido / Fujimigaoka",
+    "ja": "高井戸"
+   },
+   "path": "areas/takaido-fujimigaoka.json",
+   "towns": 7,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "wada",
+   "name": {
+    "en": "Wada",
+    "ja": "和田"
+   },
+   "path": "areas/wada.json",
+   "towns": 3,
+   "spots": 0,
+   "happenings": 0
+  },
+  {
+   "id": "zenpukuji",
+   "name": {
+    "en": "Zenpukuji",
+    "ja": "善福寺"
+   },
+   "path": "areas/zenpukuji.json",
+   "towns": 4,
+   "spots": 0,
+   "happenings": 0
+  }
+ ]
+}

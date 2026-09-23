@@ -1,0 +1,61 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "koenji",
+  "name": {
+   "en": "Kōenji",
+   "ja": "高円寺"
+  },
+  "towns": [
+   {
+    "code": "13115011001",
+    "name": "高円寺南一丁目"
+   },
+   {
+    "code": "13115011002",
+    "name": "高円寺南二丁目"
+   },
+   {
+    "code": "13115011003",
+    "name": "高円寺南三丁目"
+   },
+   {
+    "code": "13115011004",
+    "name": "高円寺南四丁目"
+   },
+   {
+    "code": "13115011005",
+    "name": "高円寺南五丁目"
+   },
+   {
+    "code": "13115012001",
+    "name": "高円寺北一丁目"
+   },
+   {
+    "code": "13115012002",
+    "name": "高円寺北二丁目"
+   },
+   {
+    "code": "13115012003",
+    "name": "高円寺北三丁目"
+   },
+   {
+    "code": "13115012004",
+    "name": "高円寺北四丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "Expressive: records, vintage clothes and small music venues.",
+   "ja": "表現する街。レコード、古着、小さなライブハウス。"
+  }
+ }
+}

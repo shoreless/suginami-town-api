@@ -1,0 +1,57 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "momoi-imagawa",
+  "name": {
+   "en": "Momoi / Imagawa",
+   "ja": "桃井"
+  },
+  "towns": [
+   {
+    "code": "13115024001",
+    "name": "今川一丁目"
+   },
+   {
+    "code": "13115024002",
+    "name": "今川二丁目"
+   },
+   {
+    "code": "13115024003",
+    "name": "今川三丁目"
+   },
+   {
+    "code": "13115024004",
+    "name": "今川四丁目"
+   },
+   {
+    "code": "13115026001",
+    "name": "桃井一丁目"
+   },
+   {
+    "code": "13115026002",
+    "name": "桃井二丁目"
+   },
+   {
+    "code": "13115026003",
+    "name": "桃井三丁目"
+   },
+   {
+    "code": "13115026004",
+    "name": "桃井四丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "Open sky: Momoi Harappa Park and distant rooftops.",
+   "ja": "広い空。桃井原っぱ公園と、遠くの屋根並み。"
+  }
+ }
+}

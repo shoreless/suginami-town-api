@@ -1,0 +1,41 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "kami-igusa",
+  "name": {
+   "en": "Kami-Igusa",
+   "ja": "上井草"
+  },
+  "towns": [
+   {
+    "code": "13115029001",
+    "name": "上井草一丁目"
+   },
+   {
+    "code": "13115029002",
+    "name": "上井草二丁目"
+   },
+   {
+    "code": "13115029003",
+    "name": "上井草三丁目"
+   },
+   {
+    "code": "13115029004",
+    "name": "上井草四丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "Playful creativity and animation studios.",
+   "ja": "遊び心のある、ものづくりの街。アニメーションのスタジオ。"
+  }
+ }
+}

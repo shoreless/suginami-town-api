@@ -1,0 +1,65 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "igusa",
+  "name": {
+   "en": "Igusa / Iogi / Shimo-Igusa",
+   "ja": "井草"
+  },
+  "towns": [
+   {
+    "code": "13115027001",
+    "name": "井草一丁目"
+   },
+   {
+    "code": "13115027002",
+    "name": "井草二丁目"
+   },
+   {
+    "code": "13115027003",
+    "name": "井草三丁目"
+   },
+   {
+    "code": "13115027004",
+    "name": "井草四丁目"
+   },
+   {
+    "code": "13115027005",
+    "name": "井草五丁目"
+   },
+   {
+    "code": "13115028001",
+    "name": "下井草一丁目"
+   },
+   {
+    "code": "13115028002",
+    "name": "下井草二丁目"
+   },
+   {
+    "code": "13115028003",
+    "name": "下井草三丁目"
+   },
+   {
+    "code": "13115028004",
+    "name": "下井草四丁目"
+   },
+   {
+    "code": "13115028005",
+    "name": "下井草五丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "Shops and pockets of countryside: vegetable stands and garden plots.",
+   "ja": "商店と、ところどころに残る田園。野菜の直売所と畑。"
+  }
+ }
+}

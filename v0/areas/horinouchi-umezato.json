@@ -1,0 +1,45 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "horinouchi-umezato",
+  "name": {
+   "en": "Horinouchi / Umezato",
+   "ja": "堀ノ内"
+  },
+  "towns": [
+   {
+    "code": "13115007001",
+    "name": "堀ノ内一丁目"
+   },
+   {
+    "code": "13115007002",
+    "name": "堀ノ内二丁目"
+   },
+   {
+    "code": "13115007003",
+    "name": "堀ノ内三丁目"
+   },
+   {
+    "code": "13115010001",
+    "name": "梅里一丁目"
+   },
+   {
+    "code": "13115010002",
+    "name": "梅里二丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "Daily rituals: temple streets and sweets shops.",
+   "ja": "日々の営み。寺町の通りと和菓子屋。"
+  }
+ }
+}

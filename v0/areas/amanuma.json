@@ -1,0 +1,49 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "amanuma",
+  "name": {
+   "en": "Amanuma",
+   "ja": "天沼"
+  },
+  "towns": [
+   {
+    "code": "13115015001",
+    "name": "天沼一丁目"
+   },
+   {
+    "code": "13115015002",
+    "name": "天沼二丁目"
+   },
+   {
+    "code": "13115015003",
+    "name": "天沼三丁目"
+   },
+   {
+    "code": "13115016001",
+    "name": "本天沼一丁目"
+   },
+   {
+    "code": "13115016002",
+    "name": "本天沼二丁目"
+   },
+   {
+    "code": "13115016003",
+    "name": "本天沼三丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "Familiar residential backstreets: bakeries, bicycles and flowerpots.",
+   "ja": "なじみの住宅街の裏道。パン屋、自転車、植木鉢。"
+  }
+ }
+}

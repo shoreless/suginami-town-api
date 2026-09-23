@@ -1,0 +1,37 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "shimizu",
+  "name": {
+   "en": "Shimizu",
+   "ja": "清水"
+  },
+  "towns": [
+   {
+    "code": "13115025001",
+    "name": "清水一丁目"
+   },
+   {
+    "code": "13115025002",
+    "name": "清水二丁目"
+   },
+   {
+    "code": "13115025003",
+    "name": "清水三丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "Quiet discovery: Myoshoji Park's pond and shaded benches.",
+   "ja": "静かな発見。妙正寺公園の池と、木陰のベンチ。"
+  }
+ }
+}

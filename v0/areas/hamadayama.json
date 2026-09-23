@@ -1,0 +1,41 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "area": {
+  "id": "hamadayama",
+  "name": {
+   "en": "Hamadayama",
+   "ja": "浜田山"
+  },
+  "towns": [
+   {
+    "code": "13115005001",
+    "name": "浜田山一丁目"
+   },
+   {
+    "code": "13115005002",
+    "name": "浜田山二丁目"
+   },
+   {
+    "code": "13115005003",
+    "name": "浜田山三丁目"
+   },
+   {
+    "code": "13115005004",
+    "name": "浜田山四丁目"
+   }
+  ],
+  "spots": [],
+  "happenings": [],
+  "intro": {
+   "en": "Green and leisurely: the meadow and pond of Kashinomiya Park.",
+   "ja": "緑と、ゆったりした時間。柏の宮公園の原っぱと池。"
+  }
+ }
+}
