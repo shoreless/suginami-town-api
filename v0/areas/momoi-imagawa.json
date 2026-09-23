@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -48,7 +48,40 @@
     "name": "桃井四丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Momoi / Imagawa",
+     "ja": "桃井の朝"
+    },
+    "art": "art/moment-momoi-imagawa-morning-cc6eb91565.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Momoi / Imagawa",
+     "ja": "桃井の昼"
+    },
+    "art": "art/moment-momoi-imagawa-midday-68dbd671dc.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Momoi / Imagawa",
+     "ja": "桃井の夕方"
+    },
+    "art": "art/moment-momoi-imagawa-evening-829ef4eb0a.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Momoi / Imagawa",
+     "ja": "桃井の夜"
+    },
+    "art": "art/moment-momoi-imagawa-night-4a3889fc3c.jpg"
+   }
+  ],
   "spots": [],
   "happenings": [],
   "intro": {

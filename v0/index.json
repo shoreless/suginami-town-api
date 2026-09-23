@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -17,7 +17,7 @@
    },
    "path": "areas/amanuma.json",
    "towns": 6,
-   "moments": 0,
+   "moments": 4,
    "spots": 3,
    "happenings": 0
   },
@@ -29,7 +29,7 @@
    },
    "path": "areas/asagaya.json",
    "towns": 9,
-   "moments": 1,
+   "moments": 4,
    "spots": 3,
    "happenings": 0
   },
@@ -41,7 +41,7 @@
    },
    "path": "areas/eifuku.json",
    "towns": 4,
-   "moments": 0,
+   "moments": 4,
    "spots": 1,
    "happenings": 0
   },
@@ -53,7 +53,7 @@
    },
    "path": "areas/hamadayama.json",
    "towns": 4,
-   "moments": 0,
+   "moments": 4,
    "spots": 0,
    "happenings": 0
   },
@@ -65,7 +65,7 @@
    },
    "path": "areas/honan.json",
    "towns": 2,
-   "moments": 0,
+   "moments": 4,
    "spots": 0,
    "happenings": 0
   },
@@ -77,7 +77,7 @@
    },
    "path": "areas/horinouchi-umezato.json",
    "towns": 5,
-   "moments": 0,
+   "moments": 4,
    "spots": 1,
    "happenings": 0
   },
@@ -89,7 +89,7 @@
    },
    "path": "areas/igusa.json",
    "towns": 10,
-   "moments": 0,
+   "moments": 4,
    "spots": 2,
    "happenings": 0
   },
@@ -101,7 +101,7 @@
    },
    "path": "areas/izumi.json",
    "towns": 4,
-   "moments": 0,
+   "moments": 4,
    "spots": 2,
    "happenings": 0
   },
@@ -113,7 +113,7 @@
    },
    "path": "areas/kami-igusa.json",
    "towns": 4,
-   "moments": 0,
+   "moments": 4,
    "spots": 0,
    "happenings": 0
   },
@@ -125,7 +125,7 @@
    },
    "path": "areas/kami-takaido.json",
    "towns": 3,
-   "moments": 0,
+   "moments": 4,
    "spots": 0,
    "happenings": 0
   },
@@ -137,7 +137,7 @@
    },
    "path": "areas/koenji.json",
    "towns": 9,
-   "moments": 1,
+   "moments": 4,
    "spots": 4,
    "happenings": 0
   },
@@ -161,7 +161,7 @@
    },
    "path": "areas/miyamae.json",
    "towns": 5,
-   "moments": 0,
+   "moments": 4,
    "spots": 1,
    "happenings": 0
   },
@@ -173,7 +173,7 @@
    },
    "path": "areas/momoi-imagawa.json",
    "towns": 8,
-   "moments": 0,
+   "moments": 4,
    "spots": 0,
    "happenings": 0
   },
@@ -185,7 +185,7 @@
    },
    "path": "areas/narita.json",
    "towns": 9,
-   "moments": 0,
+   "moments": 4,
    "spots": 3,
    "happenings": 0
   },
@@ -209,7 +209,7 @@
    },
    "path": "areas/ogikubo.json",
    "towns": 13,
-   "moments": 0,
+   "moments": 4,
    "spots": 4,
    "happenings": 0
   },
@@ -221,7 +221,7 @@
    },
    "path": "areas/omiya-matsunoki.json",
    "towns": 5,
-   "moments": 0,
+   "moments": 4,
    "spots": 2,
    "happenings": 0
   },
@@ -233,7 +233,7 @@
    },
    "path": "areas/shimizu.json",
    "towns": 3,
-   "moments": 0,
+   "moments": 4,
    "spots": 1,
    "happenings": 0
   },
@@ -245,7 +245,7 @@
    },
    "path": "areas/shimo-takaido.json",
    "towns": 5,
-   "moments": 0,
+   "moments": 4,
    "spots": 1,
    "happenings": 0
   },
@@ -257,7 +257,7 @@
    },
    "path": "areas/takaido-fujimigaoka.json",
    "towns": 7,
-   "moments": 0,
+   "moments": 4,
    "spots": 2,
    "happenings": 0
   },
@@ -269,7 +269,7 @@
    },
    "path": "areas/wada.json",
    "towns": 3,
-   "moments": 0,
+   "moments": 4,
    "spots": 0,
    "happenings": 0
   },
@@ -281,7 +281,7 @@
    },
    "path": "areas/zenpukuji.json",
    "towns": 4,
-   "moments": 0,
+   "moments": 4,
    "spots": 2,
    "happenings": 0
   }

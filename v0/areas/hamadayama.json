@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -32,7 +32,40 @@
     "name": "浜田山四丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Hamadayama",
+     "ja": "浜田山の朝"
+    },
+    "art": "art/moment-hamadayama-morning-2fd3286171.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Hamadayama",
+     "ja": "浜田山の昼"
+    },
+    "art": "art/moment-hamadayama-midday-f3d42e3388.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Hamadayama",
+     "ja": "浜田山の夕方"
+    },
+    "art": "art/moment-hamadayama-evening-3553cceac4.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Hamadayama",
+     "ja": "浜田山の夜"
+    },
+    "art": "art/moment-hamadayama-night-8ec22fb884.jpg"
+   }
+  ],
   "spots": [],
   "happenings": [],
   "intro": {

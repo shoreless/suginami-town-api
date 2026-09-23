@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -43,7 +43,7 @@
      "en": "Morning by the river",
      "ja": "川辺の朝"
     },
-    "art": "art/moment-kugayama-morning-753200d6c2.jpg"
+    "art": "art/moment-kugayama-morning-dd7a90093a.jpg"
    },
    {
     "phase": "midday",
@@ -51,7 +51,7 @@
      "en": "Sunlit river walk",
      "ja": "陽ざしの川べり"
     },
-    "art": "art/moment-kugayama-midday-9b7adbdf96.jpg"
+    "art": "art/moment-kugayama-midday-d3cd4a89ad.jpg"
    },
    {
     "phase": "evening",
@@ -59,7 +59,7 @@
      "en": "Summer waterway",
      "ja": "夏の水辺"
     },
-    "art": "art/moment-kugayama-evening-06057ee578.jpg"
+    "art": "art/moment-kugayama-evening-785ca73811.jpg"
    },
    {
     "phase": "night",
@@ -67,7 +67,7 @@
      "en": "Fireflies and moonlight",
      "ja": "ホタルと月あかり"
     },
-    "art": "art/moment-kugayama-night-d88f824081.jpg"
+    "art": "art/moment-kugayama-night-bf2e95b501.jpg"
    }
   ],
   "spots": [

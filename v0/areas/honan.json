@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -24,7 +24,40 @@
     "name": "方南二丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Hōnan",
+     "ja": "方南の朝"
+    },
+    "art": "art/moment-honan-morning-eb0a29ba2a.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Hōnan",
+     "ja": "方南の昼"
+    },
+    "art": "art/moment-honan-midday-90c7fc7a04.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Hōnan",
+     "ja": "方南の夕方"
+    },
+    "art": "art/moment-honan-evening-1f84366ce9.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Hōnan",
+     "ja": "方南の夜"
+    },
+    "art": "art/moment-honan-night-ea6b31e180.jpg"
+   }
+  ],
   "spots": [],
   "happenings": [],
   "intro": {

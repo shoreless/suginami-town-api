@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -40,7 +40,40 @@
     "name": "本天沼三丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Amanuma",
+     "ja": "天沼の朝"
+    },
+    "art": "art/moment-amanuma-morning-8ef3bc6ea8.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Amanuma",
+     "ja": "天沼の昼"
+    },
+    "art": "art/moment-amanuma-midday-c9fc9fd098.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Amanuma",
+     "ja": "天沼の夕方"
+    },
+    "art": "art/moment-amanuma-evening-dab5440357.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Amanuma",
+     "ja": "天沼の夜"
+    },
+    "art": "art/moment-amanuma-night-e515eb3983.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "amanuma-kumano",

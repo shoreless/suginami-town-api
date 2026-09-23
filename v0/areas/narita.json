@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -52,7 +52,40 @@
     "name": "成田東五丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Narita",
+     "ja": "成田の朝"
+    },
+    "art": "art/moment-narita-morning-a311fa1d9a.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Narita",
+     "ja": "成田の昼"
+    },
+    "art": "art/moment-narita-midday-6c936fe60b.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Narita",
+     "ja": "成田の夕方"
+    },
+    "art": "art/moment-narita-evening-4e0417d8b7.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Narita",
+     "ja": "成田の夜"
+    },
+    "art": "art/moment-narita-night-4d6ffd53b2.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "narimune-suga",

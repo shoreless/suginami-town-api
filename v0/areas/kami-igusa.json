@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -32,7 +32,40 @@
     "name": "上井草四丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Kami-Igusa",
+     "ja": "上井草の朝"
+    },
+    "art": "art/moment-kami-igusa-morning-374a2ad8a4.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Kami-Igusa",
+     "ja": "上井草の昼"
+    },
+    "art": "art/moment-kami-igusa-midday-4c864aa191.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Kami-Igusa",
+     "ja": "上井草の夕方"
+    },
+    "art": "art/moment-kami-igusa-evening-a5ea975d72.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Kami-Igusa",
+     "ja": "上井草の夜"
+    },
+    "art": "art/moment-kami-igusa-night-bcaad1357a.jpg"
+   }
+  ],
   "spots": [],
   "happenings": [],
   "intro": {

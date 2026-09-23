@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -68,7 +68,40 @@
     "name": "上荻四丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Ogikubo",
+     "ja": "荻窪の朝"
+    },
+    "art": "art/moment-ogikubo-morning-bcc4014f4d.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Ogikubo",
+     "ja": "荻窪の昼"
+    },
+    "art": "art/moment-ogikubo-midday-9751b33605.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Ogikubo",
+     "ja": "荻窪の夕方"
+    },
+    "art": "art/moment-ogikubo-evening-e770c9a932.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Ogikubo",
+     "ja": "荻窪の夜"
+    },
+    "art": "art/moment-ogikubo-night-43f8d29358.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "ogikubo-hachiman",

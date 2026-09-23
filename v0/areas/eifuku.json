@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -32,7 +32,40 @@
     "name": "永福四丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Eifuku / Nishi-Eifuku",
+     "ja": "永福の朝"
+    },
+    "art": "art/moment-eifuku-morning-e1e0af3bce.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Eifuku / Nishi-Eifuku",
+     "ja": "永福の昼"
+    },
+    "art": "art/moment-eifuku-midday-8cde36d6a0.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Eifuku / Nishi-Eifuku",
+     "ja": "永福の夕方"
+    },
+    "art": "art/moment-eifuku-evening-77a708ab42.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Eifuku / Nishi-Eifuku",
+     "ja": "永福の夜"
+    },
+    "art": "art/moment-eifuku-night-d4f097f3ae.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "eifuku-inari",

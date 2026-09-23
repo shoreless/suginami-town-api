@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -44,7 +44,40 @@
     "name": "高井戸西三丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Takaido / Fujimigaoka",
+     "ja": "高井戸の朝"
+    },
+    "art": "art/moment-takaido-fujimigaoka-morning-a9e1a8f316.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Takaido / Fujimigaoka",
+     "ja": "高井戸の昼"
+    },
+    "art": "art/moment-takaido-fujimigaoka-midday-3562dd79ac.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Takaido / Fujimigaoka",
+     "ja": "高井戸の夕方"
+    },
+    "art": "art/moment-takaido-fujimigaoka-evening-2f014385ed.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Takaido / Fujimigaoka",
+     "ja": "高井戸の夜"
+    },
+    "art": "art/moment-takaido-fujimigaoka-night-48f30ca800.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "dairokuten",

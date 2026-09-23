@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -36,7 +36,40 @@
     "name": "大宮二丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Ōmiya / Matsunoki",
+     "ja": "大宮の朝"
+    },
+    "art": "art/moment-omiya-matsunoki-morning-e9eb88dcbf.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Ōmiya / Matsunoki",
+     "ja": "大宮の昼"
+    },
+    "art": "art/moment-omiya-matsunoki-midday-0d748e4263.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Ōmiya / Matsunoki",
+     "ja": "大宮の夕方"
+    },
+    "art": "art/moment-omiya-matsunoki-evening-a6f4ee424f.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Ōmiya / Matsunoki",
+     "ja": "大宮の夜"
+    },
+    "art": "art/moment-omiya-matsunoki-night-e005628ebe.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "omiya-hachimangu",

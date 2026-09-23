@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -28,7 +28,40 @@
     "name": "清水三丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Shimizu",
+     "ja": "清水の朝"
+    },
+    "art": "art/moment-shimizu-morning-e0726af91d.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Shimizu",
+     "ja": "清水の昼"
+    },
+    "art": "art/moment-shimizu-midday-cbc2a8f65a.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Shimizu",
+     "ja": "清水の夕方"
+    },
+    "art": "art/moment-shimizu-evening-63628da856.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Shimizu",
+     "ja": "清水の夜"
+    },
+    "art": "art/moment-shimizu-night-385d0b2e14.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "nakase-tenso",

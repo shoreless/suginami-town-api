@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -36,7 +36,40 @@
     "name": "梅里二丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Horinouchi / Umezato",
+     "ja": "堀ノ内の朝"
+    },
+    "art": "art/moment-horinouchi-umezato-morning-0bd63e3b83.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Horinouchi / Umezato",
+     "ja": "堀ノ内の昼"
+    },
+    "art": "art/moment-horinouchi-umezato-midday-2c83a52f3a.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Horinouchi / Umezato",
+     "ja": "堀ノ内の夕方"
+    },
+    "art": "art/moment-horinouchi-umezato-evening-70ae84a312.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Horinouchi / Umezato",
+     "ja": "堀ノ内の夜"
+    },
+    "art": "art/moment-horinouchi-umezato-night-dfb3b87083.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "horinouchi-kumano",

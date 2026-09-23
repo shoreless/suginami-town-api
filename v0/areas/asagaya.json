@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -54,12 +54,36 @@
   ],
   "moments": [
    {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Asagaya",
+     "ja": "阿佐ヶ谷の朝"
+    },
+    "art": "art/moment-asagaya-morning-73c0b783d0.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Asagaya",
+     "ja": "阿佐ヶ谷の昼"
+    },
+    "art": "art/moment-asagaya-midday-4debe8372c.jpg"
+   },
+   {
     "phase": "evening",
     "title": {
      "en": "Leafy café",
      "ja": "緑のカフェ"
     },
-    "art": "art/moment-asagaya-evening-6662492e48.jpg"
+    "art": "art/moment-asagaya-evening-f8faec8e24.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Asagaya",
+     "ja": "阿佐ヶ谷の夜"
+    },
+    "art": "art/moment-asagaya-night-0329c6f1ea.jpg"
    }
   ],
   "spots": [

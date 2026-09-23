@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -36,7 +36,40 @@
     "name": "宮前五丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Miyamae",
+     "ja": "宮前の朝"
+    },
+    "art": "art/moment-miyamae-morning-c57dd1ac0a.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Miyamae",
+     "ja": "宮前の昼"
+    },
+    "art": "art/moment-miyamae-midday-5be715bc73.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Miyamae",
+     "ja": "宮前の夕方"
+    },
+    "art": "art/moment-miyamae-evening-80e23b3dd4.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Miyamae",
+     "ja": "宮前の夜"
+    },
+    "art": "art/moment-miyamae-night-65191d92e1.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "omiyamae-kasuga",

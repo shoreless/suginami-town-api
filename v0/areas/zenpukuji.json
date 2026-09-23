@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -32,7 +32,40 @@
     "name": "善福寺四丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Zenpukuji",
+     "ja": "善福寺の朝"
+    },
+    "art": "art/moment-zenpukuji-morning-95e467c60c.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Zenpukuji",
+     "ja": "善福寺の昼"
+    },
+    "art": "art/moment-zenpukuji-midday-0be01c9d28.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Zenpukuji",
+     "ja": "善福寺の夕方"
+    },
+    "art": "art/moment-zenpukuji-evening-681c8d11dd.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Zenpukuji",
+     "ja": "善福寺の夜"
+    },
+    "art": "art/moment-zenpukuji-night-295d662a56.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "igusa-hachimangu",

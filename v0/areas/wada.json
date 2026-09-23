@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -28,7 +28,40 @@
     "name": "和田三丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Wada",
+     "ja": "和田の朝"
+    },
+    "art": "art/moment-wada-morning-1e356ac27c.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Wada",
+     "ja": "和田の昼"
+    },
+    "art": "art/moment-wada-midday-b4855b14e5.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Wada",
+     "ja": "和田の夕方"
+    },
+    "art": "art/moment-wada-evening-baa5bd6174.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Wada",
+     "ja": "和田の夜"
+    },
+    "art": "art/moment-wada-night-176c754c57.jpg"
+   }
+  ],
   "spots": [],
   "happenings": [],
   "intro": {

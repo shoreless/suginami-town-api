@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -56,7 +56,40 @@
     "name": "下井草五丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Igusa / Iogi / Shimo-Igusa",
+     "ja": "井草の朝"
+    },
+    "art": "art/moment-igusa-morning-c25d28834b.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Igusa / Iogi / Shimo-Igusa",
+     "ja": "井草の昼"
+    },
+    "art": "art/moment-igusa-midday-26029d12c9.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Igusa / Iogi / Shimo-Igusa",
+     "ja": "井草の夕方"
+    },
+    "art": "art/moment-igusa-evening-c4e03f79ce.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Igusa / Iogi / Shimo-Igusa",
+     "ja": "井草の夜"
+    },
+    "art": "art/moment-igusa-night-6e3dd96056.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "otori-shrine",

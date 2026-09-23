@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -54,12 +54,36 @@
   ],
   "moments": [
    {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Kōenji",
+     "ja": "高円寺の朝"
+    },
+    "art": "art/moment-koenji-morning-178c9a2008.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Kōenji",
+     "ja": "高円寺の昼"
+    },
+    "art": "art/moment-koenji-midday-f7815b574c.jpg"
+   },
+   {
     "phase": "evening",
     "title": {
      "en": "Record-shop evening",
      "ja": "レコード屋の夕暮れ"
     },
-    "art": "art/moment-koenji-evening-22b3f21646.jpg"
+    "art": "art/moment-koenji-evening-adc57a4e0e.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Kōenji",
+     "ja": "高円寺の夜"
+    },
+    "art": "art/moment-koenji-night-6a3c510690.jpg"
    }
   ],
   "spots": [

@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -28,7 +28,40 @@
     "name": "上高井戸三丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Kami-Takaido / Hachimanyama side",
+     "ja": "上高井戸の朝"
+    },
+    "art": "art/moment-kami-takaido-morning-0aeb594987.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Kami-Takaido / Hachimanyama side",
+     "ja": "上高井戸の昼"
+    },
+    "art": "art/moment-kami-takaido-midday-4dbbd6c285.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Kami-Takaido / Hachimanyama side",
+     "ja": "上高井戸の夕方"
+    },
+    "art": "art/moment-kami-takaido-evening-ad7f6bbcc4.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Kami-Takaido / Hachimanyama side",
+     "ja": "上高井戸の夜"
+    },
+    "art": "art/moment-kami-takaido-night-da77d5bbf7.jpg"
+   }
+  ],
   "spots": [],
   "happenings": [],
   "intro": {

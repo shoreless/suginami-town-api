@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -36,7 +36,40 @@
     "name": "下高井戸五丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Shimo-Takaido / Sakurajōsui side",
+     "ja": "下高井戸の朝"
+    },
+    "art": "art/moment-shimo-takaido-morning-017fa3efcb.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Shimo-Takaido / Sakurajōsui side",
+     "ja": "下高井戸の昼"
+    },
+    "art": "art/moment-shimo-takaido-midday-d3283002a4.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Shimo-Takaido / Sakurajōsui side",
+     "ja": "下高井戸の夕方"
+    },
+    "art": "art/moment-shimo-takaido-evening-05e2d559fc.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Shimo-Takaido / Sakurajōsui side",
+     "ja": "下高井戸の夜"
+    },
+    "art": "art/moment-shimo-takaido-night-ce6f238593.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "shimotakaido-hachiman",

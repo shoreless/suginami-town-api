@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790130027,
+ "revision": 1790150427,
  "languages": [
   "en",
   "ja"
@@ -32,7 +32,40 @@
     "name": "和泉四丁目"
    }
   ],
-  "moments": [],
+  "moments": [
+   {
+    "phase": "morning",
+    "title": {
+     "en": "Morning in Izumi / Daitabashi side",
+     "ja": "和泉の朝"
+    },
+    "art": "art/moment-izumi-morning-c475929df6.jpg"
+   },
+   {
+    "phase": "midday",
+    "title": {
+     "en": "Midday in Izumi / Daitabashi side",
+     "ja": "和泉の昼"
+    },
+    "art": "art/moment-izumi-midday-6d2b52f378.jpg"
+   },
+   {
+    "phase": "evening",
+    "title": {
+     "en": "Evening in Izumi / Daitabashi side",
+     "ja": "和泉の夕方"
+    },
+    "art": "art/moment-izumi-evening-d201957e00.jpg"
+   },
+   {
+    "phase": "night",
+    "title": {
+     "en": "Night in Izumi / Daitabashi side",
+     "ja": "和泉の夜"
+    },
+    "art": "art/moment-izumi-night-2aa0ad290f.jpg"
+   }
+  ],
   "spots": [
    {
     "id": "izumi-kumano",
