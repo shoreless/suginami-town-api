@@ -31,7 +31,56 @@
     "name": "善福寺四丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "igusa-hachimangu",
+    "category": "shrine",
+    "name": {
+     "en": "Igusa Hachimangū",
+     "ja": "井草八幡宮"
+    },
+    "about": {
+     "en": "The guardian shrine of the old villages of Kami-Igusa and Shimo-Igusa. Until the Meiji era it was also called Osonoi Hachimangū, after the area's old name.",
+     "ja": "旧上井草村・下井草村の鎮守。明治までは、この地の古い地名から遅野井八幡宮とも呼ばれた。"
+    },
+    "location": [
+     35.716083,
+     139.595583
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7503.html"
+    },
+    "kami": [
+     "hachiman"
+    ]
+   },
+   {
+    "id": "ichikishima-shrine",
+    "category": "shrine",
+    "name": {
+     "en": "Ichikishima Shrine (Zenpukuji Benzaiten)",
+     "ja": "市杵島神社（善福寺弁天）"
+    },
+    "about": {
+     "en": "The Benzaiten shrine of Zenpukuji Pond, founded by legend in 1197 with a spirit brought from Enoshima. As guardian of the pond's spring it drew rain-prayer processions in droughts, and villages as far off as Nerima and Nakano helped pay for its rebuilding in 1840.",
+     "ja": "善福寺池の弁財天。伝承では1197年、江の島から勧請したのが始まり。池の水源の守り神として日照りには雨乞いが行われ、1840年の再建には練馬や中野の村々からも寄進があった。"
+    },
+    "location": [
+     35.716306,
+     139.588074
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7507.html"
+    },
+    "kami": [
+     "ichikishimahime"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Reflective: a pond, waterbirds and overhanging branches.",

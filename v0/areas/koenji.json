@@ -51,7 +51,104 @@
     "name": "高円寺北四丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "koenji-hikawa",
+    "category": "shrine",
+    "name": {
+     "en": "Kōenji Hikawa Shrine",
+     "ja": "高円寺氷川神社"
+    },
+    "about": {
+     "en": "The guardian shrine of the Hara district of old Kōenji village, founded by tradition in 1189. Its grounds hold the Kishō Jinja, said to be the only weather shrine in Japan.",
+     "ja": "旧高円寺村原の鎮守で、1189年の創建と伝わる。境内には日本で唯一とされる気象神社がある。"
+    },
+    "location": [
+     35.704603,
+     139.651298
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7483.html"
+    },
+    "kami": [
+     "susanoo"
+    ]
+   },
+   {
+    "id": "kisho-jinja",
+    "category": "shrine",
+    "name": {
+     "en": "Kishō Jinja (Weather Shrine)",
+     "ja": "気象神社"
+    },
+    "about": {
+     "en": "Said to be Japan's only weather shrine, in the grounds of Kōenji Hikawa Shrine. People pray here for fine weather on wedding and travel days; its ema are shaped like geta, after the game of kicking off a sandal to tell the weather, and its festival falls on 1 June, Japan's Weather Day.",
+     "ja": "高円寺氷川神社の境内にある、日本で唯一とされる気象の神社。結婚式や旅行の日の晴天を願う人が訪れる。絵馬は、下駄を飛ばして天気を占う遊びにちなんだ下駄の形。例祭は気象記念日の6月1日。"
+    },
+    "location": [
+     35.704718,
+     139.65101
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2015/06/koenji-hikawa.html"
+    },
+    "kami": [
+     "omoikane"
+    ]
+   },
+   {
+    "id": "koenji-tenso",
+    "category": "shrine",
+    "name": {
+     "en": "Kōenji Tenso Shrine",
+     "ja": "高円寺天祖神社"
+    },
+    "about": {
+     "en": "The guardian shrine of old Kōenji village, founded by its own account in 1087 with a spirit brought from Ise. The worship hall dates from 1831, and a stone water basin in the grounds is carved with the year 1664.",
+     "ja": "旧高円寺村の鎮守で、社伝では1087年に伊勢から分霊を迎えたのが始まり。拝殿は1831年の建築で、境内の手水鉢には1664年の銘がある。"
+    },
+    "location": [
+     35.700015,
+     139.657541
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7470.html"
+    },
+    "kami": [
+     "amaterasu"
+    ]
+   },
+   {
+    "id": "tanaka-inari",
+    "category": "shrine",
+    "name": {
+     "en": "Tanaka Inari Shrine",
+     "ja": "田中稲荷神社"
+    },
+    "about": {
+     "en": "A guardian shrine for the farmers of old Kōenji village, named for its place among the rice paddies along the Momozono River. The road in front is the Horinouchi Shindō, built privately around 1900 as a pilgrim road to Myōhōji temple.",
+     "ja": "旧高円寺村の農民の守り神で、桃園川沿いの田んぼの中にあったことが名の由来。前を通る道は、明治に妙法寺への参詣道として私費で造られた堀之内新道。"
+    },
+    "location": [
+     35.700619,
+     139.659691
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7471.html"
+    },
+    "kami": [
+     "ukemochi"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Expressive: records, vintage clothes and small music venues.",

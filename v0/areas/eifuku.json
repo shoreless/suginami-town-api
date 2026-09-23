@@ -31,7 +31,32 @@
     "name": "永福四丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "eifuku-inari",
+    "category": "shrine",
+    "name": {
+     "en": "Eifuku Inari Shrine",
+     "ja": "永福稲荷神社"
+    },
+    "about": {
+     "en": "Founded in 1530 as guardian of the neighboring temple Eifukuji, with a spirit from Fushimi Inari in Kyoto, and today the guardian shrine of all Eifuku. Its hall was rebuilt in 1878 facing west, to watch over the whole town.",
+     "ja": "1530年、隣の永福寺の守護として京都の伏見稲荷から勧請された。現在は永福全域の氏神。1878年の再建の際、町全体を見守るよう西向きに建てられた。"
+    },
+    "location": [
+     35.672444,
+     139.64325
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "東京都神社庁",
+     "url": "http://www.tokyo-jinjacho.or.jp/suginami/5965"
+    },
+    "kami": [
+     "ukanomitama"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "A meal and a quiet walk home: noodle-shop doorways.",

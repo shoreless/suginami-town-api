@@ -4,5 +4,893 @@
   "en",
   "ja"
  ],
- "spots": []
+ "spots": [
+  {
+   "area": "amanuma",
+   "id": "amanuma-kumano",
+   "category": "shrine",
+   "name": {
+    "en": "Amanuma Kumano Shrine",
+    "ja": "天沼熊野神社"
+   },
+   "about": {
+    "en": "The guardian shrine of old Amanuma village, founded by tradition in 768. It was called Jūnisho Gongen until the Meiji era, when it took the name Kumano Jinja.",
+    "ja": "旧天沼村の鎮守で、768年の創建と伝わる。明治までは十二所権現と呼ばれ、その後、熊野神社と改められた。"
+   },
+   "location": [
+    35.708911,
+    139.626784
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7417.html"
+   },
+   "kami": [
+    "izanami"
+   ]
+  },
+  {
+   "area": "amanuma",
+   "id": "amanuma-hachiman",
+   "category": "shrine",
+   "name": {
+    "en": "Amanuma Hachiman Shrine",
+    "ja": "天沼八幡神社"
+   },
+   "about": {
+    "en": "The guardian shrine of Nakayato in old Amanuma village, said to date from the 1570s or 80s. Ichikishimahime, enshrined here since a local Itsukushima shrine was merged in 1907, is prayed to for safe childbirth, and the Ōtori shrine in its grounds holds a Tori-no-ichi fair in November.",
+    "ja": "旧天沼村中谷戸の鎮守で、天正年間の創建と伝わる。1907年に合祀された厳島社の市杵島姫命は安産の神として信仰を集め、境内の大鳥神社では11月に酉の市が開かれる。"
+   },
+   "location": [
+    35.708231,
+    139.623104
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7416.html"
+   },
+   "kami": [
+    "hachiman",
+    "ichikishimahime"
+   ]
+  },
+  {
+   "area": "amanuma",
+   "id": "hon-amanuma-inari",
+   "category": "shrine",
+   "name": {
+    "en": "Hon-Amanuma Inari Shrine",
+    "ja": "本天沼稲荷神社"
+   },
+   "about": {
+    "en": "The guardian shrine of Honmura in old Amanuma village, founded before 1614. Because Amanuma was land of the Sannō shrine in Akasaka, today's Hie Shrine, its inner sanctuary was brought from there around 1868, and a large votive painting of the Sannō festival is a ward cultural property.",
+    "ja": "旧天沼村本村の鎮守で、1614年以前の創建とみられる。天沼は江戸時代に赤坂の山王社（現在の日枝神社）の社領だったため、明治の初めに山王社の本殿が移された。山王祭を描いた大絵馬は区の文化財。"
+   },
+   "location": [
+    35.712604,
+    139.62485
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7536.html"
+   },
+   "kami": [
+    "ukemochi"
+   ]
+  },
+  {
+   "area": "asagaya",
+   "id": "asagaya-shinmeigu",
+   "category": "shrine",
+   "name": {
+    "en": "Asagaya Shinmei-gū",
+    "ja": "阿佐ヶ谷神明宮"
+   },
+   "about": {
+    "en": "The guardian shrine of old Asagaya village. Its sacred object is a stone brought back from the Miyagawa River at Ise in the 1190s, and Asagaya-bayashi festival music, handed down since the late Edo period, is played on its Noh stage at the autumn festival.",
+    "ja": "旧阿佐ヶ谷村の鎮守。1190年代に伊勢の宮川から持ち帰られた霊石を御神体とする。秋の例大祭では、江戸後期から伝わる阿佐谷囃子が能楽殿で奉納される。"
+   },
+   "location": [
+    35.707221,
+    139.636988
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7408.html"
+   },
+   "kami": [
+    "amaterasu",
+    "tsukuyomi",
+    "susanoo",
+    "toyouke"
+   ]
+  },
+  {
+   "area": "asagaya",
+   "id": "mabashi-inari",
+   "category": "shrine",
+   "name": {
+    "en": "Mabashi Inari Shrine",
+    "ja": "馬橋稲荷神社"
+   },
+   "about": {
+    "en": "The guardian shrine of old Mabashi village, said to date from the late Kamakura period. Its stone torii, carved with a rising and a descending dragon, is counted among Tokyo's three dragon torii, and the bell in its vermilion gate is said to be the largest in Tokyo.",
+    "ja": "旧馬橋村の鎮守で、鎌倉時代末期の創建と伝わる。昇り龍と降り龍を刻んだ石鳥居は東京三鳥居の一つに数えられ、朱塗りの随身門の鈴は都内最大といわれる。"
+   },
+   "location": [
+    35.703274,
+    139.642735
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7413.html"
+   },
+   "kami": [
+    "ukanomitama",
+    "omatonotsu"
+   ]
+  },
+  {
+   "area": "asagaya",
+   "id": "sarutahiko-shrine",
+   "category": "shrine",
+   "name": {
+    "en": "Suginami Sarutahiko Shrine",
+    "ja": "杉並猿田彦神社"
+   },
+   "about": {
+    "en": "Its kami was brought from Tsubaki Ōkami Yashiro in Mie, regarded as Sarutahiko's head shrine. As the kami who leads the way, Sarutahiko draws people praying before building work and new ventures, and for business.",
+    "ja": "三重県の椿大神社（猿田彦大神の総本宮とされる）から勧請した。道を開く神として、地鎮祭や方位除け、商売繁盛を願う人々が訪れる。"
+   },
+   "location": [
+    35.6987,
+    139.643606
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並猿田彦神社",
+    "url": "https://www.sarutahiko-suginami.com/%E5%BE%A1%E7%A5%AD%E7%A5%9E-%E7%94%B1%E7%B7%92"
+   },
+   "kami": [
+    "sarutahiko"
+   ]
+  },
+  {
+   "area": "eifuku",
+   "id": "eifuku-inari",
+   "category": "shrine",
+   "name": {
+    "en": "Eifuku Inari Shrine",
+    "ja": "永福稲荷神社"
+   },
+   "about": {
+    "en": "Founded in 1530 as guardian of the neighboring temple Eifukuji, with a spirit from Fushimi Inari in Kyoto, and today the guardian shrine of all Eifuku. Its hall was rebuilt in 1878 facing west, to watch over the whole town.",
+    "ja": "1530年、隣の永福寺の守護として京都の伏見稲荷から勧請された。現在は永福全域の氏神。1878年の再建の際、町全体を見守るよう西向きに建てられた。"
+   },
+   "location": [
+    35.672444,
+    139.64325
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "東京都神社庁",
+    "url": "http://www.tokyo-jinjacho.or.jp/suginami/5965"
+   },
+   "kami": [
+    "ukanomitama"
+   ]
+  },
+  {
+   "area": "horinouchi-umezato",
+   "id": "horinouchi-kumano",
+   "category": "shrine",
+   "name": {
+    "en": "Horinouchi Kumano Shrine",
+    "ja": "堀ノ内熊野神社"
+   },
+   "about": {
+    "en": "The guardian shrine of old Horinouchi village, founded by tradition in 1267 and run by the nearby temple Myōhōji until Meiji. Its zelkova hall of 1857 carries carving said to be the finest of any shrine building in Suginami.",
+    "ja": "旧堀ノ内村の鎮守で、1267年の創建と伝わる。明治までは近くの妙法寺が管理した。1857年建立のケヤキ造りの本殿には、区内の社殿で最も精巧といわれる彫刻が施されている。"
+   },
+   "location": [
+    35.686333,
+    139.652111
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7531.html"
+   },
+   "kami": [
+    "oyatsuhime",
+    "isotakeru",
+    "tsumatsuhime"
+   ]
+  },
+  {
+   "area": "igusa",
+   "id": "otori-shrine",
+   "category": "shrine",
+   "name": {
+    "en": "Ōtori Shrine (Shimo-Igusa)",
+    "ja": "大鷲神社（下井草）"
+   },
+   "about": {
+    "en": "Its sacred object is a stuffed eagle, with a wingspan of over two metres, that villagers caught in a red pine in January 1921 and enshrined so that its death would bring no curse. A Tori-no-ichi fair is held on November's Days of the Rooster, with kumade rakes sold for good business.",
+    "ja": "御神体は、1921年1月に村人が赤松で捕らえた、翼を広げると2mを超える大鷲の剥製。祟りのないようにとまつられた。11月の酉の日には酉の市が開かれ、商売繁盛の熊手が売られる。"
+   },
+   "location": [
+    35.716049,
+    139.628876
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7488.html"
+   }
+  },
+  {
+   "area": "igusa",
+   "id": "icho-inari",
+   "category": "shrine",
+   "name": {
+    "en": "Ichō Inari Shrine",
+    "ja": "銀杏稲荷神社"
+   },
+   "about": {
+    "en": "The guardian shrine of old Shimo-Igusa village, named after a great ginkgo that once grew on the hill behind it. A ridge plate dates its founding to around 1616, by the Iguchi family who settled here.",
+    "ja": "旧下井草村の鎮守。かつて裏の丘にそびえた大銀杏が名の由来。棟札によれば、1616年ごろ、この地に住んだ井口家が創建した。"
+   },
+   "location": [
+    35.718796,
+    139.626633
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7489.html"
+   }
+  },
+  {
+   "area": "izumi",
+   "id": "izumi-kumano",
+   "category": "shrine",
+   "name": {
+    "en": "Izumi Kumano Shrine",
+    "ja": "和泉熊野神社"
+   },
+   "about": {
+    "en": "The guardian shrine of old Izumi village, founded by tradition in 1267 with a spirit from the Kumano shrines of Kii. The present hall dates from 1863, and Jōmon and Kofun-period pottery has been dug up in the grounds.",
+    "ja": "旧和泉村の鎮守で、1267年に紀州熊野から勧請したと伝わる。現在の社殿は1863年の建築。境内からは縄文・古墳時代の土器が出土している。"
+   },
+   "location": [
+    35.676423,
+    139.647758
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7419.html"
+   },
+   "kami": [
+    "amenominakanushi",
+    "izanagi",
+    "izanami"
+   ]
+  },
+  {
+   "area": "izumi",
+   "id": "kifune-shrine",
+   "category": "shrine",
+   "name": {
+    "en": "Kifune Shrine (Izumi)",
+    "ja": "貴船神社（和泉）"
+   },
+   "about": {
+    "en": "An outlying shrine of Izumi Kumano, enshrining the rain-bringing dragon kami of Kyoto's Kifune Shrine. Its pond, said never to run dry, was where villagers prayed for rain and is said to have given Izumi, 'spring', its name; it dried up around 1965.",
+    "ja": "和泉熊野神社の境外末社で、京都の貴船神社の雨の龍神をまつる。涸れることがないといわれた池は雨乞いの場で、「和泉」の地名の由来ともいわれる。池は1965年ごろに涸れた。"
+   },
+   "location": [
+    35.677849,
+    139.64859
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7420.html"
+   },
+   "kami": [
+    "takaokami"
+   ]
+  },
+  {
+   "area": "koenji",
+   "id": "koenji-hikawa",
+   "category": "shrine",
+   "name": {
+    "en": "Kōenji Hikawa Shrine",
+    "ja": "高円寺氷川神社"
+   },
+   "about": {
+    "en": "The guardian shrine of the Hara district of old Kōenji village, founded by tradition in 1189. Its grounds hold the Kishō Jinja, said to be the only weather shrine in Japan.",
+    "ja": "旧高円寺村原の鎮守で、1189年の創建と伝わる。境内には日本で唯一とされる気象神社がある。"
+   },
+   "location": [
+    35.704603,
+    139.651298
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7483.html"
+   },
+   "kami": [
+    "susanoo"
+   ]
+  },
+  {
+   "area": "koenji",
+   "id": "kisho-jinja",
+   "category": "shrine",
+   "name": {
+    "en": "Kishō Jinja (Weather Shrine)",
+    "ja": "気象神社"
+   },
+   "about": {
+    "en": "Said to be Japan's only weather shrine, in the grounds of Kōenji Hikawa Shrine. People pray here for fine weather on wedding and travel days; its ema are shaped like geta, after the game of kicking off a sandal to tell the weather, and its festival falls on 1 June, Japan's Weather Day.",
+    "ja": "高円寺氷川神社の境内にある、日本で唯一とされる気象の神社。結婚式や旅行の日の晴天を願う人が訪れる。絵馬は、下駄を飛ばして天気を占う遊びにちなんだ下駄の形。例祭は気象記念日の6月1日。"
+   },
+   "location": [
+    35.704718,
+    139.65101
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "すぎなみ学倶楽部",
+    "url": "https://www.suginamigaku.org/2015/06/koenji-hikawa.html"
+   },
+   "kami": [
+    "omoikane"
+   ]
+  },
+  {
+   "area": "koenji",
+   "id": "koenji-tenso",
+   "category": "shrine",
+   "name": {
+    "en": "Kōenji Tenso Shrine",
+    "ja": "高円寺天祖神社"
+   },
+   "about": {
+    "en": "The guardian shrine of old Kōenji village, founded by its own account in 1087 with a spirit brought from Ise. The worship hall dates from 1831, and a stone water basin in the grounds is carved with the year 1664.",
+    "ja": "旧高円寺村の鎮守で、社伝では1087年に伊勢から分霊を迎えたのが始まり。拝殿は1831年の建築で、境内の手水鉢には1664年の銘がある。"
+   },
+   "location": [
+    35.700015,
+    139.657541
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7470.html"
+   },
+   "kami": [
+    "amaterasu"
+   ]
+  },
+  {
+   "area": "koenji",
+   "id": "tanaka-inari",
+   "category": "shrine",
+   "name": {
+    "en": "Tanaka Inari Shrine",
+    "ja": "田中稲荷神社"
+   },
+   "about": {
+    "en": "A guardian shrine for the farmers of old Kōenji village, named for its place among the rice paddies along the Momozono River. The road in front is the Horinouchi Shindō, built privately around 1900 as a pilgrim road to Myōhōji temple.",
+    "ja": "旧高円寺村の農民の守り神で、桃園川沿いの田んぼの中にあったことが名の由来。前を通る道は、明治に妙法寺への参詣道として私費で造られた堀之内新道。"
+   },
+   "location": [
+    35.700619,
+    139.659691
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7471.html"
+   },
+   "kami": [
+    "ukemochi"
+   ]
+  },
+  {
+   "area": "kugayama",
+   "id": "kugayama-inari",
+   "category": "shrine",
+   "name": {
+    "en": "Kugayama Inari Shrine",
+    "ja": "久我山稲荷神社"
+   },
+   "about": {
+    "en": "Kugayama's guardian shrine. At its summer festival on 24 July a rare yudate rite is held: water is boiled in a great cauldron, and bamboo leaves dipped in it are shaken over the crowd, a custom that began with prayers to end an epidemic.",
+    "ja": "久我山の鎮守。7月24日の夏祭りでは、大釜で湯を沸かし、笹の葉を浸して参拝者に振りかける、都内では珍しい湯立神事が行われる。疫病退散の祈りに始まると伝わる。"
+   },
+   "location": [
+    35.68847,
+    139.59653
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "すぎなみ学倶楽部",
+    "url": "https://www.suginamigaku.org/2015/06/kugayamainari.html"
+   },
+   "kami": [
+    "ukemochi"
+   ]
+  },
+  {
+   "area": "miyamae",
+   "id": "omiyamae-kasuga",
+   "category": "shrine",
+   "name": {
+    "en": "Ōmiyamae Kasuga Shrine",
+    "ja": "大宮前春日神社"
+   },
+   "about": {
+    "en": "The guardian shrine of old Ōmiyamae-shinden village, founded by tradition in the 1650s by Iguchi Hachirōemon, who opened its farmland. A stone reading 'Ōmiyamae chinju' in front of the hall keeps alive a place name that has otherwise disappeared.",
+    "ja": "旧大宮前新田の鎮守。新田を開いた井口八郎右衛門が万治年間に勧請したと伝わる。社殿前の「大宮前鎮守」の石碑が、今は消えた地名を伝えている。"
+   },
+   "location": [
+    35.69283,
+    139.60936
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7548.html"
+   },
+   "kami": [
+    "takemikazuchi",
+    "futsunushi",
+    "amenokoyane",
+    "himegami-kasuga"
+   ]
+  },
+  {
+   "area": "narita",
+   "id": "narimune-suga",
+   "category": "shrine",
+   "name": {
+    "en": "Narimune Suga Shrine",
+    "ja": "成宗須賀神社"
+   },
+   "about": {
+    "en": "The guardian shrine of the main settlement of old Narimune village. Before Meiji it was called Gozu Tennō-sha, because Susanoo was then identified with the Buddhist deity Gozu Tennō. Its records burned in the 1850s, so its founding date is uncertain.",
+    "ja": "旧成宗村本村の鎮守。須佐之男命が牛頭天王と同一視されていたため、江戸時代は牛頭天王社と呼ばれた。安政年間に記録が焼けたため、創建年ははっきりしない。"
+   },
+   "location": [
+    35.697802,
+    139.631616
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7523.html"
+   },
+   "kami": [
+    "susanoo"
+   ]
+  },
+  {
+   "area": "narita",
+   "id": "osaki-kumano",
+   "category": "shrine",
+   "name": {
+    "en": "Osaki Kumano Shrine",
+    "ja": "尾﨑熊野神社"
+   },
+   "about": {
+    "en": "The guardian shrine of Osaki in old Narimune village, founded by tradition in the late Kamakura period by warriors who came from Kamakura. Its sacred black pine, some 400 to 500 years old, is a ward natural monument, and Jōmon pottery and dwellings have been excavated in the grounds.",
+    "ja": "旧成宗村尾崎の鎮守で、鎌倉時代末期に鎌倉から移り住んだ武士が紀州熊野から勧請したと伝わる。樹齢400〜500年とされる御神木のクロマツは区の天然記念物。境内からは縄文時代の土器や住居跡が見つかっている。"
+   },
+   "location": [
+    35.693604,
+    139.631288
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7516.html"
+   },
+   "kami": [
+    "isotakeru",
+    "tsumatsuhime",
+    "oyatsuhime"
+   ]
+  },
+  {
+   "area": "narita",
+   "id": "narimune-hakusan",
+   "category": "shrine",
+   "name": {
+    "en": "Narimune Hakusan Shrine",
+    "ja": "成宗白山神社"
+   },
+   "about": {
+    "en": "The guardian shrine of Shirahata in old Narimune village. The name Shirahata, 'white banner', comes from the legend that Minamoto no Yoriyoshi saw a white cloud like a Genji banner here on his way to war in Ōshū.",
+    "ja": "旧成宗村白幡の鎮守。奥州へ向かう源頼義が、この地で源氏の白旗のような白雲を見たという伝説が「白幡」の名の由来。"
+   },
+   "location": [
+    35.686959,
+    139.637174
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7517.html"
+   },
+   "kami": [
+    "izanami"
+   ]
+  },
+  {
+   "area": "nishi-ogikubo",
+   "id": "shoan-inari",
+   "category": "shrine",
+   "name": {
+    "en": "Nishi-Takaido Shōan Inari Shrine",
+    "ja": "西高井戸松庵稲荷神社"
+   },
+   "about": {
+    "en": "The guardian shrine of old Shōan village, which by tradition a doctor named Shōan opened in the 1650s. Two stone towers at the entrance, dated 1690 and 1693, show the village was there by then.",
+    "ja": "旧松庵村の鎮守。村は万治年間、松庵という医師が開いたと伝わる。入口に立つ1690年と1693年の石塔が、そのころすでに村があったことを物語る。"
+   },
+   "location": [
+    35.699667,
+    139.595917
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7502.html"
+   },
+   "kami": [
+    "ukemochi"
+   ]
+  },
+  {
+   "area": "nishi-ogikubo",
+   "id": "fushimi-inari",
+   "category": "shrine",
+   "name": {
+    "en": "Fushimi Inari Shrine (Nishi-Ogikubo)",
+    "ja": "伏見稲荷神社（西荻窪）"
+   },
+   "about": {
+    "en": "Founded in 1951 by the shopkeepers of this street, who brought a spirit from Kyoto's Fushimi Inari to pray for good trade; Nishi-Ogi Fushimi-dori is named after it. The pin marks the red torii on the street: the small shrine is about 30m down the alley behind it.",
+    "ja": "1951年、通りの商店主たちが商売繁盛を願って京都の伏見稲荷から勧請した。西荻伏見通りの名はこの神社に由来する。地図のピンは通りの赤い鳥居で、社は路地を30mほど入った奥にある。"
+   },
+   "location": [
+    35.704259,
+    139.598915
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "西荻伏見通り商店会",
+    "url": "https://nishiogi-fushimidori.com/history"
+   }
+  },
+  {
+   "area": "ogikubo",
+   "id": "ogikubo-hachiman",
+   "category": "shrine",
+   "name": {
+    "en": "Ogikubo Hachiman Shrine",
+    "ja": "荻窪八幡神社"
+   },
+   "about": {
+    "en": "The guardian shrine of old Kami-Ogikubo village, founded by tradition in the 890s. Ōta Dōkan is said to have prayed here in 1477 and planted an umbrella pine, the Dōkan-maki, which is now the sacred tree and a ward natural monument. The shrine also keeps a great banner written by Katsu Kaishū.",
+    "ja": "旧上荻窪村の鎮守で、寛平年間（889〜898年）の創建と伝わる。1477年に太田道灌が戦勝を祈って植えたとされるコウヤマキ「道灌槇」は御神木で、区の天然記念物。勝海舟の筆による大幟も伝わる。"
+   },
+   "location": [
+    35.710621,
+    139.606329
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7458.html"
+   },
+   "kami": [
+    "hachiman"
+   ]
+  },
+  {
+   "area": "ogikubo",
+   "id": "ogikubo-hakusan",
+   "category": "shrine",
+   "name": {
+    "en": "Ogikubo Hakusan Shrine",
+    "ja": "荻窪白山神社"
+   },
+   "about": {
+    "en": "The guardian shrine of old Shimo-Ogikubo village, said to date from the 1470s or 80s. It is known as a shrine for toothache: legend says the kami told a sufferer in a dream to eat with chopsticks cut from the bush clover in the grounds, and the pain went away.",
+    "ja": "旧下荻窪村の鎮守で、文明年間の創建と伝わる。境内の萩で作った箸で食事をせよという夢のお告げで歯の痛みが消えたという伝説から、歯痛にご利益がある神社として知られる。"
+   },
+   "location": [
+    35.705496,
+    139.61605
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7455.html"
+   },
+   "kami": [
+    "izanami"
+   ]
+  },
+  {
+   "area": "ogikubo",
+   "id": "minami-ogikubo-tenso",
+   "category": "shrine",
+   "name": {
+    "en": "Minami-Ogikubo Tenso Shrine",
+    "ja": "南荻窪天祖神社"
+   },
+   "about": {
+    "en": "A shrine already stood here at a land survey in 1584. In the Edo period it was called Shinmei-sha, which gave the neighborhood its old name, Shinmei, and to its east there was once a riding ground lined with cherry trees.",
+    "ja": "1584年の検地の時点ですでに社があったとされる古社。江戸時代は神明社と呼ばれ、地名「神明」の由来となった。東側にはかつて桜並木の馬場があった。"
+   },
+   "location": [
+    35.7005,
+    139.609556
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7544.html"
+   },
+   "kami": [
+    "amaterasu"
+   ]
+  },
+  {
+   "area": "ogikubo",
+   "id": "tabata-shrine",
+   "category": "shrine",
+   "name": {
+    "en": "Tabata Shrine",
+    "ja": "田端神社"
+   },
+   "about": {
+    "en": "The guardian shrine of old Tabata village, once a Tenjin shrine called Kitano Jinja; its name means 'at the edge of the rice fields'. Ōkuninushi, enshrined here, is prayed to for leg and back pain, and the wooden mallets offered in thanks are a registered ward folk cultural property.",
+    "ja": "旧田端村の鎮守で、かつては北野神社と呼ばれた天神社。社名は「田の端」にあったことに由来する。大国主命は足腰の痛みにご利益があるとされ、お礼に奉納された木槌は区の登録民俗文化財。"
+   },
+   "location": [
+    35.693975,
+    139.626204
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7447.html"
+   },
+   "kami": [
+    "sugawara-no-michizane",
+    "okuninushi"
+   ]
+  },
+  {
+   "area": "omiya-matsunoki",
+   "id": "omiya-hachimangu",
+   "category": "shrine",
+   "name": {
+    "en": "Ōmiya Hachimangū",
+    "ja": "大宮八幡宮"
+   },
+   "about": {
+    "en": "Founded by tradition in 1063. On his way to war, Minamoto no Yoriyoshi saw eight bands of white cloud here like Genji banners, and after his victory he brought a spirit from Iwashimizu Hachimangū in Kyoto to found the shrine.",
+    "ja": "1063年の創建と伝わる。戦いに向かう途中、この地で源氏の白旗のような八条の白雲を見た源頼義が、凱旋後に京都の石清水八幡宮から勧請した。"
+   },
+   "location": [
+    35.682375,
+    139.639664
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "大宮八幡宮",
+    "url": "https://www.ohmiya-hachimangu.or.jp/hachimangu/history"
+   },
+   "kami": [
+    "hachiman",
+    "chuai",
+    "jingu"
+   ]
+  },
+  {
+   "area": "omiya-matsunoki",
+   "id": "omiya-tenmangu",
+   "category": "shrine",
+   "name": {
+    "en": "Ōmiya Tenmangū",
+    "ja": "大宮天満宮"
+   },
+   "about": {
+    "en": "A shrine to Sugawara no Michizane, patron of learning, within the grounds of Ōmiya Hachimangū. Students come here to pray for exam success.",
+    "ja": "大宮八幡宮の境内にある、学問の神・菅原道真公をまつる社。受験生が合格祈願に訪れる。"
+   },
+   "location": [
+    35.682639,
+    139.639573
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "大宮八幡宮",
+    "url": "https://www.ohmiya-hachimangu.or.jp/hachimangu"
+   },
+   "kami": [
+    "sugawara-no-michizane"
+   ]
+  },
+  {
+   "area": "shimizu",
+   "id": "nakase-tenso",
+   "category": "shrine",
+   "name": {
+    "en": "Nakase Tenso Shrine",
+    "ja": "中瀬天祖神社"
+   },
+   "about": {
+    "en": "It began as a hall to the Ten Rasetsu on the land of Myōshōji temple, and became a Shinto shrine when Shinto and Buddhism were separated in 1868. Its sacred object is a stone held to be powerful, and it is known locally as a shrine for having children.",
+    "ja": "妙正寺の地にあった十羅刹堂が始まりで、1868年の神仏分離で天祖神社となった。霊験あらたかな石を御神体とし、子宝の神社として親しまれている。"
+   },
+   "location": [
+    35.718556,
+    139.617333
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7485.html"
+   },
+   "kami": [
+    "amaterasu",
+    "ichikishimahime",
+    "ukemochi"
+   ]
+  },
+  {
+   "area": "shimo-takaido",
+   "id": "shimotakaido-hachiman",
+   "category": "shrine",
+   "name": {
+    "en": "Shimo-Takaido Hachiman Shrine",
+    "ja": "下高井戸八幡神社（浜田山八幡）"
+   },
+   "about": {
+    "en": "By tradition founded in 1457, when Ōta Dōkan, while building Edo Castle, prayed here for the work to go safely and brought a spirit from Tsurugaoka Hachimangū in Kamakura.",
+    "ja": "1457年、江戸城を築いていた太田道灌が工事の無事を祈り、鎌倉の鶴岡八幡宮から勧請したのが始まりと伝わる。"
+   },
+   "location": [
+    35.67522,
+    139.63042
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "東京都神社庁",
+    "url": "http://www.tokyo-jinjacho.or.jp/suginami/5404"
+   },
+   "kami": [
+    "hachiman"
+   ]
+  },
+  {
+   "area": "takaido-fujimigaoka",
+   "id": "dairokuten",
+   "category": "shrine",
+   "name": {
+    "en": "Kami-Takaido Dairokuten Shrine",
+    "ja": "上高井戸第六天神社"
+   },
+   "about": {
+    "en": "Its stone guardian lions, dated 1771, are said to be the oldest outdoor pair in Suginami, and its main hall, rebuilt in 1856, is richly carved. In 1972 the buildings were moved slightly north for the Chūō Expressway, whose elevated road now runs right past the torii.",
+    "ja": "1771年銘の狛犬は区内で最も古い屋外の一対といわれ、1856年再建の本殿には精緻な彫刻が施されている。1972年、中央自動車道の建設で社殿が少し北へ移され、今は鳥居のすぐ脇を高架が通る。"
+   },
+   "location": [
+    35.67903,
+    139.61217
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "すぎなみ学倶楽部",
+    "url": "https://www.suginamigaku.org/2015/06/dairokutenjinja.html"
+   },
+   "kami": [
+    "omodaru",
+    "kashikone"
+   ]
+  },
+  {
+   "area": "takaido-fujimigaoka",
+   "id": "kashinomiya-inari",
+   "category": "shrine",
+   "name": {
+    "en": "Kashinomiya Inari Shrine",
+    "ja": "柏の宮稲荷神社"
+   },
+   "about": {
+    "en": "Built in the Meiji era as the private shrine of Kashinomiya-en, the garden estate that is now Kashinomiya Park, and moved to its present spot when the park was laid out. It sits at the top of a flight of steps, guarded by stone foxes on a base dated 1857.",
+    "ja": "明治時代、現在の柏の宮公園にあった庭園「柏の宮園」の邸内社として建てられ、公園の整備で今の場所へ移された。石段の上に鎮座し、1857年銘の台座に乗る石の狐が守っている。"
+   },
+   "location": [
+    35.67881,
+    139.62485
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "すぎなみ学倶楽部",
+    "url": "https://www.suginamigaku.org/2023/09/kashinomiyainari.html"
+   },
+   "kami": [
+    "ukanomitama",
+    "ukemochi"
+   ]
+  },
+  {
+   "area": "zenpukuji",
+   "id": "igusa-hachimangu",
+   "category": "shrine",
+   "name": {
+    "en": "Igusa Hachimangū",
+    "ja": "井草八幡宮"
+   },
+   "about": {
+    "en": "The guardian shrine of the old villages of Kami-Igusa and Shimo-Igusa. Until the Meiji era it was also called Osonoi Hachimangū, after the area's old name.",
+    "ja": "旧上井草村・下井草村の鎮守。明治までは、この地の古い地名から遅野井八幡宮とも呼ばれた。"
+   },
+   "location": [
+    35.716083,
+    139.595583
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7503.html"
+   },
+   "kami": [
+    "hachiman"
+   ]
+  },
+  {
+   "area": "zenpukuji",
+   "id": "ichikishima-shrine",
+   "category": "shrine",
+   "name": {
+    "en": "Ichikishima Shrine (Zenpukuji Benzaiten)",
+    "ja": "市杵島神社（善福寺弁天）"
+   },
+   "about": {
+    "en": "The Benzaiten shrine of Zenpukuji Pond, founded by legend in 1197 with a spirit brought from Enoshima. As guardian of the pond's spring it drew rain-prayer processions in droughts, and villages as far off as Nerima and Nakano helped pay for its rebuilding in 1840.",
+    "ja": "善福寺池の弁財天。伝承では1197年、江の島から勧請したのが始まり。池の水源の守り神として日照りには雨乞いが行われ、1840年の再建には練馬や中野の村々からも寄進があった。"
+   },
+   "location": [
+    35.716306,
+    139.588074
+   ],
+   "checked": "2026-09-23",
+   "source": {
+    "name": "杉並区公式ホームページ",
+    "url": "https://www.city.suginami.tokyo.jp/s113/7507.html"
+   },
+   "kami": [
+    "ichikishimahime"
+   ]
+  }
+ ]
 }

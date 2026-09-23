@@ -1,0 +1,429 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "kami": [
+  {
+   "id": "amaterasu",
+   "name": {
+    "en": "Amaterasu",
+    "ja": "天照大御神"
+   },
+   "about": {
+    "en": "The kami of the sun and the highest of the kami. When her brother Susanoo ran riot she hid in the Rock Cave of Heaven and the world went dark, until the other kami drew her out. Her mirror is enshrined at the Inner Shrine of Ise.",
+    "ja": "太陽の神で、神々の最高神。弟の須佐之男命の乱暴に怒って天岩戸に隠れると世界が闇に包まれ、神々が祭りで誘い出した。その鏡は伊勢の内宮にまつられている。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9440"
+   }
+  },
+  {
+   "id": "amenokoyane",
+   "name": {
+    "en": "Amenokoyane",
+    "ja": "天児屋命"
+   },
+   "about": {
+    "en": "The ancestor of the Nakatomi, later Fujiwara, clan, who recited prayers when Amaterasu hid in the Rock Cave and was in charge of rites and divination. He is worshipped at Kasuga Taisha.",
+    "ja": "中臣氏（のちの藤原氏）の祖神。天岩戸の前で祝詞を奏上し、祭祀と占いをつかさどった。春日大社にまつられる。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9430"
+   }
+  },
+  {
+   "id": "amenominakanushi",
+   "name": {
+    "en": "Amenominakanushi",
+    "ja": "天御中主神"
+   },
+   "about": {
+    "en": "The first kami named in the Kojiki, who came into being alone in the Plain of Heaven and stayed hidden; one of the three kami of creation. In the Edo period he was linked with the Big Dipper, and many shrines to the North Star were renamed for him in the Meiji era.",
+    "ja": "古事記で最初に名が現れる神で、高天原に独りで成り、姿を隠した造化三神の一柱。江戸時代に北斗七星と結びつけられ、明治には妙見社の多くがこの神の社に改められた。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9429"
+   }
+  },
+  {
+   "id": "chuai",
+   "name": {
+    "en": "Emperor Chūai",
+    "ja": "仲哀天皇"
+   },
+   "about": {
+    "en": "Counted as the fourteenth emperor, the son of Yamato Takeru and husband of Empress Jingū; most historians doubt he existed. By tradition he died on campaign in Kyushu, and his son, the future Emperor Ōjin, was born ten months later. Many Hachiman shrines enshrine him with Ōjin.",
+    "ja": "第14代とされる天皇で、日本武尊の子、神功皇后の夫。実在を疑う説が多い。伝承では九州での遠征中に崩じ、10か月後に子の応神天皇が生まれた。応神天皇とともに八幡宮にまつられることが多い。"
+   },
+   "source": {
+    "name": "Wikipedia（日本語版）",
+    "url": "https://ja.wikipedia.org/wiki/仲哀天皇"
+   }
+  },
+  {
+   "id": "futsunushi",
+   "name": {
+    "en": "Futsunushi",
+    "ja": "経津主神"
+   },
+   "about": {
+    "en": "A kami of swords, perhaps the spirit of the sacred sword Futsu-no-mitama, who went down with Takemikazuchi to pacify the land. He is an ancestral kami of the Fujiwara clan and is enshrined at Kasuga.",
+    "ja": "剣の神で、霊剣・布都御魂の神格化とする説もある。武甕槌命とともに国を平定した。藤原氏の祖神の一柱として春日にまつられる。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9413"
+   }
+  },
+  {
+   "id": "hachiman",
+   "name": {
+    "en": "Hachiman",
+    "ja": "八幡大神"
+   },
+   "about": {
+    "en": "The kami of Hachiman shrines, identified in Shinto today with the spirit of Emperor Ōjin and often enshrined with his mother, Empress Jingū. Once the clan kami of the Minamoto warriors, Hachiman became the guardian of the warrior class, and local Hachiman shrines were set up across the country.",
+    "ja": "八幡宮の神で、今日の神道では応神天皇の御霊とされ、母の神功皇后とともにまつられることが多い。源氏の氏神として武士の守り神となり、全国に八幡社が建てられた。"
+   },
+   "source": {
+    "name": "Wikipedia（日本語版）",
+    "url": "https://ja.wikipedia.org/wiki/八幡神"
+   }
+  },
+  {
+   "id": "himegami-kasuga",
+   "name": {
+    "en": "Himegami (Kasuga)",
+    "ja": "比売神"
+   },
+   "about": {
+    "en": "Not a personal name but a title for a goddess closely linked to a shrine's main kami. At Kasuga shrines she is the wife of Amenokoyane.",
+    "ja": "固有の名ではなく、主祭神の妻や娘など、ゆかりの深い女神を指す呼び名。春日社では天児屋命の妻とされる。"
+   },
+   "source": {
+    "name": "Wikipedia（日本語版）",
+    "url": "https://ja.wikipedia.org/wiki/比売神"
+   }
+  },
+  {
+   "id": "ichikishimahime",
+   "name": {
+    "en": "Ichikishimahime",
+    "ja": "市杵島姫命"
+   },
+   "about": {
+    "en": "One of the three goddesses born from an oath contest between Amaterasu and Susanoo, first a guardian of sea routes and a main kami of Itsukushima on Miyajima. Under the old blending of kami and Buddhas she was worshipped as the goddess Benzaiten.",
+    "ja": "天照大御神と須佐之男命の誓約から生まれた三女神の一柱で、もとは海路の守り神。宮島の厳島神社の祭神でもある。神仏習合のもとで弁財天として信仰された。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9397"
+   }
+  },
+  {
+   "id": "isotakeru",
+   "name": {
+    "en": "Isotakeru",
+    "ja": "五十猛命"
+   },
+   "about": {
+    "en": "A son of Susanoo who brought tree seeds back from across the sea and planted forests throughout the country, starting in Kyushu. He is enshrined at Itakiso Jinja in Kii, today's Wakayama.",
+    "ja": "須佐之男命の子。海を越えて木の種を持ち帰り、九州から始めて国中に植えて青山にしたと伝わる。紀伊（和歌山）の伊太祁曽神社にまつられる。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9391"
+   }
+  },
+  {
+   "id": "izanagi",
+   "name": {
+    "en": "Izanagi",
+    "ja": "伊邪那岐命"
+   },
+   "about": {
+    "en": "With his consort Izanami, the creator of the islands of Japan, who stirred the sea with a spear from the Floating Bridge of Heaven. Returning from the land of the dead, he purified himself in water, and from that washing were born Amaterasu, Tsukuyomi and Susanoo.",
+    "ja": "伊邪那美命とともに国を生んだ神。天の浮橋から矛で海をかき混ぜ、島々をつくった。黄泉の国から戻って禊をした際、天照大御神・月読命・須佐之男命が生まれた。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9385"
+   }
+  },
+  {
+   "id": "izanami",
+   "name": {
+    "en": "Izanami",
+    "ja": "伊邪那美命"
+   },
+   "about": {
+    "en": "Izanagi's consort and fellow creator, who gave birth to the land and its kami and is often seen as a mother of the earth. She died giving birth to the fire kami and became the great kami of Yomi, the land of the dead.",
+    "ja": "伊邪那岐命とともに国土と神々を生んだ女神で、大地の母とも見なされる。火の神を生んだことで亡くなり、黄泉の国の大神となった。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9384"
+   }
+  },
+  {
+   "id": "jingu",
+   "name": {
+    "en": "Empress Jingū",
+    "ja": "神功皇后"
+   },
+   "about": {
+    "en": "Consort of Emperor Chūai and mother of Emperor Ōjin, who in the old chronicles leads a campaign across the sea while pregnant. She is worshipped as one of the three Hachiman kami, and because of her story people have long prayed to her for safe childbirth.",
+    "ja": "仲哀天皇の皇后で応神天皇の母。古典では身ごもったまま海を越えて遠征したと語られる。八幡三神の一柱としてまつられ、その伝説から安産の神として信仰されてきた。"
+   },
+   "source": {
+    "name": "Wikipedia（日本語版）",
+    "url": "https://ja.wikipedia.org/wiki/神功皇后"
+   }
+  },
+  {
+   "id": "kashikone",
+   "name": {
+    "en": "Kashikone",
+    "ja": "惶根命"
+   },
+   "about": {
+    "en": "Omodaru's female partner in the sixth generation of the age of the kami. Her name is thought to come from an exclamation of awe; one reading takes the pair's names as an exchange: 'your face is perfect', 'oh, how awesome'.",
+    "ja": "神代七代の第六代で、面足命と対になる女神。名は畏れ敬う感嘆の言葉から来るとされ、二柱の名を「なんと整ったお顔」「まあ畏れ多い」という掛け合いと読む説もある。"
+   },
+   "source": {
+    "name": "國學院大學 神名データベース",
+    "url": "https://kojiki.kokugakuin.ac.jp/shinmei/ayakashikonenokami/"
+   }
+  },
+  {
+   "id": "okuninushi",
+   "name": {
+    "en": "Ōkuninushi",
+    "ja": "大国主命"
+   },
+   "about": {
+    "en": "The 'great land master' who built up the land with Sukunahikona and later handed it over to the heavenly kami; the hero of the story of the White Hare of Inaba. His main shrine is Izumo Taisha, and he was merged with the lucky god Daikokuten, both names being readable as 'Daikoku'.",
+    "ja": "少彦名命とともに国づくりをし、のちに国を天つ神に譲った神。因幡の白兎の話でも知られる。出雲大社の祭神で、「だいこく」の音から大黒天と習合した。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9965"
+   }
+  },
+  {
+   "id": "omatonotsu",
+   "name": {
+    "en": "Ōmatonotsu",
+    "ja": "大麻等能豆神"
+   },
+   "about": {
+    "en": "Little is known of this kami, who appears in none of the classic chronicles. The name is linked to Kushimachi, a kami of divination by deer shoulder-blades, and to an ancient shrine in Musashi's Tama district listed in the Engishiki; what the name means is uncertain.",
+    "ja": "古典の記紀には登場しない、詳しいことのわからない神。鹿の肩骨を焼く占いの神・櫛真智命や、延喜式に載る武蔵国多摩郡の古社と結びつけられるが、名の意味ははっきりしない。"
+   },
+   "source": {
+    "name": "Wikipedia（日本語版）",
+    "url": "https://ja.wikipedia.org/wiki/櫛真智命"
+   }
+  },
+  {
+   "id": "omodaru",
+   "name": {
+    "en": "Omodaru",
+    "ja": "面足命"
+   },
+   "about": {
+    "en": "The male kami of the sixth of the seven generations of the age of the kami, just before Izanagi and Izanami; his name is usually read as 'perfectly formed'. Little else is known of him. In medieval times Kantō shrines worshipped him as Dairokuten, which is how Suginami's Dairokuten shrine got its name.",
+    "ja": "神代七代の第六代の男神で、伊邪那岐命・伊邪那美命の直前に現れる。名は「完全に整った姿」の意とされるが、ほかに伝わることは少ない。中世の関東では第六天としてまつられた。"
+   },
+   "source": {
+    "name": "國學院大學 神名データベース",
+    "url": "https://kojiki.kokugakuin.ac.jp/shinmei/omodarunokami/"
+   }
+  },
+  {
+   "id": "omoikane",
+   "name": {
+    "en": "Omoikane",
+    "ja": "八意思兼命"
+   },
+   "about": {
+    "en": "The kami of wisdom, whose name means roughly 'one who combines many thoughts'. When Amaterasu hid in the Rock Cave, it was Omoikane who devised the plan to bring her out.",
+    "ja": "知恵の神で、名は多くの思慮をあわせ持つ意とされる。天照大御神が天岩戸に隠れたとき、連れ出す策を考えた。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9170"
+   }
+  },
+  {
+   "id": "oyatsuhime",
+   "name": {
+    "en": "Ōyatsuhime",
+    "ja": "大屋津姫命"
+   },
+   "about": {
+    "en": "A daughter of Susanoo and sister of Isotakeru, a kami of timber who helped spread tree seeds across the land and settled in Kii, today's Wakayama.",
+    "ja": "須佐之男命の娘で五十猛命の妹。木の神として兄とともに木の種を広め、紀伊（和歌山）に鎮まった。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9161"
+   }
+  },
+  {
+   "id": "sarutahiko",
+   "name": {
+    "en": "Sarutahiko",
+    "ja": "猿田彦大神"
+   },
+   "about": {
+    "en": "The kami who met Ninigi at the crossroads of heaven as he came down to earth and guided his way, pictured with a very long nose and eyes that shone like mirrors. He is revered as a guide and a guardian of roads.",
+    "ja": "天孫・瓊瓊杵尊の降臨を天の八衢で迎えて道案内をした神。長い鼻と鏡のように輝く目を持つと描かれる。導きの神、道の守り神として信仰される。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9158"
+   }
+  },
+  {
+   "id": "sugawara-no-michizane",
+   "name": {
+    "en": "Sugawara no Michizane (Tenjin)",
+    "ja": "菅原道真公（天神）"
+   },
+   "about": {
+    "en": "A ninth-century scholar and poet who died in exile in Kyushu. Disasters after his death were blamed on his angry spirit, and he was enshrined as Tenjin. From the Edo period he became above all the kami of learning, and students pray to him for exam success.",
+    "ja": "9世紀の学者・歌人で、九州に左遷されて亡くなった。死後の災いがその怨霊のためとされ、天神としてまつられた。江戸時代以降は学問の神として広く信仰され、受験生が合格を祈る。"
+   },
+   "source": {
+    "name": "Wikipedia（日本語版）",
+    "url": "https://ja.wikipedia.org/wiki/天神信仰"
+   }
+  },
+  {
+   "id": "susanoo",
+   "name": {
+    "en": "Susanoo",
+    "ja": "須佐之男命"
+   },
+   "about": {
+    "en": "Amaterasu's unruly brother, linked with storms. Banished from Heaven, he went down to Izumo, slew the eight-headed serpent Yamata-no-Orochi and found the Kusanagi sword. From the medieval period he was identified with Gozu Tennō, a protector against epidemics.",
+    "ja": "天照大御神の弟で、嵐と結びつけられる荒ぶる神。高天原を追われて出雲に降り、八岐大蛇を退治して草薙剣を得た。中世以降は疫病除けの牛頭天王と同一視された。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9152"
+   }
+  },
+  {
+   "id": "takaokami",
+   "name": {
+    "en": "Takaokami",
+    "ja": "高龗神"
+   },
+   "about": {
+    "en": "A dragon kami of water, thought to live in springs, gorges and hills and to control rain and snow. It is the kami of Kifune Shrine in Kyoto, where people once prayed for rain in drought.",
+    "ja": "水をつかさどる龍神で、泉や谷、山に棲み、雨や雪を支配すると考えられた。京都の貴船神社の祭神で、日照りには雨乞いが行われた。"
+   },
+   "source": {
+    "name": "國學院大學 神名データベース",
+    "url": "https://kojiki.kokugakuin.ac.jp/shinmei/okaminokami/"
+   }
+  },
+  {
+   "id": "takemikazuchi",
+   "name": {
+    "en": "Takemikazuchi",
+    "ja": "武甕槌命"
+   },
+   "about": {
+    "en": "A warrior kami, born from the blood on Izanagi's sword, who went down to Izumo to persuade Ōkuninushi to hand over the land. He is worshipped at Kashima Jingū and at Kasuga shrines.",
+    "ja": "伊邪那岐命の剣の血から生まれた武神。出雲に降って大国主命に国譲りを迫った。鹿島神宮や春日社にまつられる。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9145"
+   }
+  },
+  {
+   "id": "toyouke",
+   "name": {
+    "en": "Toyouke",
+    "ja": "豊受大神"
+   },
+   "about": {
+    "en": "A kami of food, the main kami of the Outer Shrine at Ise, where she provides the offerings for Amaterasu. She is identified with other food kami such as Ukemochi and Ukanomitama.",
+    "ja": "食物の神で、伊勢の外宮の主祭神。天照大御神の食事をつかさどる。保食神や宇迦之御魂神など、ほかの食物の神と同一視される。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9137"
+   }
+  },
+  {
+   "id": "tsukuyomi",
+   "name": {
+    "en": "Tsukuyomi",
+    "ja": "月読命"
+   },
+   "about": {
+    "en": "The moon kami, born when Izanagi washed his right eye, and given rule over the night. In one story he kills the food goddess Ukemochi, and Amaterasu refuses to see him again, which is why day and night are separate.",
+    "ja": "伊邪那岐命が右目を洗ったときに生まれた月の神で、夜を治める。保食神を殺したことで天照大御神と会わなくなり、昼と夜が分かれたとする話が伝わる。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9136"
+   }
+  },
+  {
+   "id": "tsumatsuhime",
+   "name": {
+    "en": "Tsumatsuhime",
+    "ja": "抓津姫命"
+   },
+   "about": {
+    "en": "A daughter of Susanoo and sister of Isotakeru and Ōyatsuhime, a kami of timber who helped spread tree seeds across the land and settled in Kii, today's Wakayama.",
+    "ja": "須佐之男命の娘で、五十猛命・大屋津姫命のきょうだい。木の神としてともに木の種を広め、紀伊（和歌山）に鎮まった。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9161"
+   }
+  },
+  {
+   "id": "ukanomitama",
+   "name": {
+    "en": "Ukanomitama (Inari)",
+    "ja": "宇迦之御魂神"
+   },
+   "about": {
+    "en": "A food kami thought to be the spirit of rice, best known as the kami Inari of Fushimi Inari Taisha in Kyoto and of Inari shrines throughout Japan.",
+    "ja": "稲の霊とされる食物の神。京都の伏見稲荷大社をはじめ、全国の稲荷社にまつられる稲荷神として知られる。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9742"
+   }
+  },
+  {
+   "id": "ukemochi",
+   "name": {
+    "en": "Ukemochi",
+    "ja": "保食神"
+   },
+   "about": {
+    "en": "A food goddess. In the Nihon shoki she produces food from her mouth for the moon kami, who kills her in disgust; from her body come cattle and horses, rice, wheat and beans. She is one of the food kami worshipped at Inari shrines.",
+    "ja": "食物の女神。日本書紀では月読命に口から食べ物を出してもてなしたため殺され、その体から牛馬や稲・麦・豆が生じたと語られる。稲荷社にまつられる食物の神の一柱。"
+   },
+   "source": {
+    "name": "Encyclopedia of Shinto, Kokugakuin University",
+    "url": "https://d-museum.kokugakuin.ac.jp/eos/detail/?id=9741"
+   }
+  }
+ ]
+}

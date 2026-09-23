@@ -35,7 +35,58 @@
     "name": "大宮二丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "omiya-hachimangu",
+    "category": "shrine",
+    "name": {
+     "en": "Ōmiya Hachimangū",
+     "ja": "大宮八幡宮"
+    },
+    "about": {
+     "en": "Founded by tradition in 1063. On his way to war, Minamoto no Yoriyoshi saw eight bands of white cloud here like Genji banners, and after his victory he brought a spirit from Iwashimizu Hachimangū in Kyoto to found the shrine.",
+     "ja": "1063年の創建と伝わる。戦いに向かう途中、この地で源氏の白旗のような八条の白雲を見た源頼義が、凱旋後に京都の石清水八幡宮から勧請した。"
+    },
+    "location": [
+     35.682375,
+     139.639664
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "大宮八幡宮",
+     "url": "https://www.ohmiya-hachimangu.or.jp/hachimangu/history"
+    },
+    "kami": [
+     "hachiman",
+     "chuai",
+     "jingu"
+    ]
+   },
+   {
+    "id": "omiya-tenmangu",
+    "category": "shrine",
+    "name": {
+     "en": "Ōmiya Tenmangū",
+     "ja": "大宮天満宮"
+    },
+    "about": {
+     "en": "A shrine to Sugawara no Michizane, patron of learning, within the grounds of Ōmiya Hachimangū. Students come here to pray for exam success.",
+     "ja": "大宮八幡宮の境内にある、学問の神・菅原道真公をまつる社。受験生が合格祈願に訪れる。"
+    },
+    "location": [
+     35.682639,
+     139.639573
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "大宮八幡宮",
+     "url": "https://www.ohmiya-hachimangu.or.jp/hachimangu"
+    },
+    "kami": [
+     "sugawara-no-michizane"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Woodland shade and the approach to Omiya Hachimangu.",

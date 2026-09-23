@@ -63,7 +63,53 @@
     "name": "松庵三丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "shoan-inari",
+    "category": "shrine",
+    "name": {
+     "en": "Nishi-Takaido Shōan Inari Shrine",
+     "ja": "西高井戸松庵稲荷神社"
+    },
+    "about": {
+     "en": "The guardian shrine of old Shōan village, which by tradition a doctor named Shōan opened in the 1650s. Two stone towers at the entrance, dated 1690 and 1693, show the village was there by then.",
+     "ja": "旧松庵村の鎮守。村は万治年間、松庵という医師が開いたと伝わる。入口に立つ1690年と1693年の石塔が、そのころすでに村があったことを物語る。"
+    },
+    "location": [
+     35.699667,
+     139.595917
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7502.html"
+    },
+    "kami": [
+     "ukemochi"
+    ]
+   },
+   {
+    "id": "fushimi-inari",
+    "category": "shrine",
+    "name": {
+     "en": "Fushimi Inari Shrine (Nishi-Ogikubo)",
+     "ja": "伏見稲荷神社（西荻窪）"
+    },
+    "about": {
+     "en": "Founded in 1951 by the shopkeepers of this street, who brought a spirit from Kyoto's Fushimi Inari to pray for good trade; Nishi-Ogi Fushimi-dori is named after it. The pin marks the red torii on the street: the small shrine is about 30m down the alley behind it.",
+     "ja": "1951年、通りの商店主たちが商売繁盛を願って京都の伏見稲荷から勧請した。西荻伏見通りの名はこの神社に由来する。地図のピンは通りの赤い鳥居で、社は路地を30mほど入った奥にある。"
+    },
+    "location": [
+     35.704259,
+     139.598915
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "西荻伏見通り商店会",
+     "url": "https://nishiogi-fushimidori.com/history"
+    }
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Independent and curious: books, antiques and ceramics.",

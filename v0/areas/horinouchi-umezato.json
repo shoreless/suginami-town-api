@@ -35,7 +35,34 @@
     "name": "梅里二丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "horinouchi-kumano",
+    "category": "shrine",
+    "name": {
+     "en": "Horinouchi Kumano Shrine",
+     "ja": "堀ノ内熊野神社"
+    },
+    "about": {
+     "en": "The guardian shrine of old Horinouchi village, founded by tradition in 1267 and run by the nearby temple Myōhōji until Meiji. Its zelkova hall of 1857 carries carving said to be the finest of any shrine building in Suginami.",
+     "ja": "旧堀ノ内村の鎮守で、1267年の創建と伝わる。明治までは近くの妙法寺が管理した。1857年建立のケヤキ造りの本殿には、区内の社殿で最も精巧といわれる彫刻が施されている。"
+    },
+    "location": [
+     35.686333,
+     139.652111
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7531.html"
+    },
+    "kami": [
+     "oyatsuhime",
+     "isotakeru",
+     "tsumatsuhime"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Daily rituals: temple streets and sweets shops.",

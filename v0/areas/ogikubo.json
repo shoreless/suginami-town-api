@@ -67,7 +67,105 @@
     "name": "上荻四丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "ogikubo-hachiman",
+    "category": "shrine",
+    "name": {
+     "en": "Ogikubo Hachiman Shrine",
+     "ja": "荻窪八幡神社"
+    },
+    "about": {
+     "en": "The guardian shrine of old Kami-Ogikubo village, founded by tradition in the 890s. Ōta Dōkan is said to have prayed here in 1477 and planted an umbrella pine, the Dōkan-maki, which is now the sacred tree and a ward natural monument. The shrine also keeps a great banner written by Katsu Kaishū.",
+     "ja": "旧上荻窪村の鎮守で、寛平年間（889〜898年）の創建と伝わる。1477年に太田道灌が戦勝を祈って植えたとされるコウヤマキ「道灌槇」は御神木で、区の天然記念物。勝海舟の筆による大幟も伝わる。"
+    },
+    "location": [
+     35.710621,
+     139.606329
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7458.html"
+    },
+    "kami": [
+     "hachiman"
+    ]
+   },
+   {
+    "id": "ogikubo-hakusan",
+    "category": "shrine",
+    "name": {
+     "en": "Ogikubo Hakusan Shrine",
+     "ja": "荻窪白山神社"
+    },
+    "about": {
+     "en": "The guardian shrine of old Shimo-Ogikubo village, said to date from the 1470s or 80s. It is known as a shrine for toothache: legend says the kami told a sufferer in a dream to eat with chopsticks cut from the bush clover in the grounds, and the pain went away.",
+     "ja": "旧下荻窪村の鎮守で、文明年間の創建と伝わる。境内の萩で作った箸で食事をせよという夢のお告げで歯の痛みが消えたという伝説から、歯痛にご利益がある神社として知られる。"
+    },
+    "location": [
+     35.705496,
+     139.61605
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7455.html"
+    },
+    "kami": [
+     "izanami"
+    ]
+   },
+   {
+    "id": "minami-ogikubo-tenso",
+    "category": "shrine",
+    "name": {
+     "en": "Minami-Ogikubo Tenso Shrine",
+     "ja": "南荻窪天祖神社"
+    },
+    "about": {
+     "en": "A shrine already stood here at a land survey in 1584. In the Edo period it was called Shinmei-sha, which gave the neighborhood its old name, Shinmei, and to its east there was once a riding ground lined with cherry trees.",
+     "ja": "1584年の検地の時点ですでに社があったとされる古社。江戸時代は神明社と呼ばれ、地名「神明」の由来となった。東側にはかつて桜並木の馬場があった。"
+    },
+    "location": [
+     35.7005,
+     139.609556
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7544.html"
+    },
+    "kami": [
+     "amaterasu"
+    ]
+   },
+   {
+    "id": "tabata-shrine",
+    "category": "shrine",
+    "name": {
+     "en": "Tabata Shrine",
+     "ja": "田端神社"
+    },
+    "about": {
+     "en": "The guardian shrine of old Tabata village, once a Tenjin shrine called Kitano Jinja; its name means 'at the edge of the rice fields'. Ōkuninushi, enshrined here, is prayed to for leg and back pain, and the wooden mallets offered in thanks are a registered ward folk cultural property.",
+     "ja": "旧田端村の鎮守で、かつては北野神社と呼ばれた天神社。社名は「田の端」にあったことに由来する。大国主命は足腰の痛みにご利益があるとされ、お礼に奉納された木槌は区の登録民俗文化財。"
+    },
+    "location": [
+     35.693975,
+     139.626204
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7447.html"
+    },
+    "kami": [
+     "sugawara-no-michizane",
+     "okuninushi"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Established and comforting: ramen counters and garden streets.",

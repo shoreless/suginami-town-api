@@ -43,7 +43,58 @@
     "name": "高井戸西三丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "dairokuten",
+    "category": "shrine",
+    "name": {
+     "en": "Kami-Takaido Dairokuten Shrine",
+     "ja": "上高井戸第六天神社"
+    },
+    "about": {
+     "en": "Its stone guardian lions, dated 1771, are said to be the oldest outdoor pair in Suginami, and its main hall, rebuilt in 1856, is richly carved. In 1972 the buildings were moved slightly north for the Chūō Expressway, whose elevated road now runs right past the torii.",
+     "ja": "1771年銘の狛犬は区内で最も古い屋外の一対といわれ、1856年再建の本殿には精緻な彫刻が施されている。1972年、中央自動車道の建設で社殿が少し北へ移され、今は鳥居のすぐ脇を高架が通る。"
+    },
+    "location": [
+     35.67903,
+     139.61217
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2015/06/dairokutenjinja.html"
+    },
+    "kami": [
+     "omodaru",
+     "kashikone"
+    ]
+   },
+   {
+    "id": "kashinomiya-inari",
+    "category": "shrine",
+    "name": {
+     "en": "Kashinomiya Inari Shrine",
+     "ja": "柏の宮稲荷神社"
+    },
+    "about": {
+     "en": "Built in the Meiji era as the private shrine of Kashinomiya-en, the garden estate that is now Kashinomiya Park, and moved to its present spot when the park was laid out. It sits at the top of a flight of steps, guarded by stone foxes on a base dated 1857.",
+     "ja": "明治時代、現在の柏の宮公園にあった庭園「柏の宮園」の邸内社として建てられ、公園の整備で今の場所へ移された。石段の上に鎮座し、1857年銘の台座に乗る石の狐が守っている。"
+    },
+    "location": [
+     35.67881,
+     139.62485
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2023/09/kashinomiyainari.html"
+    },
+    "kami": [
+     "ukanomitama",
+     "ukemochi"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "River and everyday movement: trains and a distant white chimney.",

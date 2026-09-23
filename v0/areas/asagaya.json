@@ -51,7 +51,84 @@
     "name": "阿佐谷北六丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "asagaya-shinmeigu",
+    "category": "shrine",
+    "name": {
+     "en": "Asagaya Shinmei-gū",
+     "ja": "阿佐ヶ谷神明宮"
+    },
+    "about": {
+     "en": "The guardian shrine of old Asagaya village. Its sacred object is a stone brought back from the Miyagawa River at Ise in the 1190s, and Asagaya-bayashi festival music, handed down since the late Edo period, is played on its Noh stage at the autumn festival.",
+     "ja": "旧阿佐ヶ谷村の鎮守。1190年代に伊勢の宮川から持ち帰られた霊石を御神体とする。秋の例大祭では、江戸後期から伝わる阿佐谷囃子が能楽殿で奉納される。"
+    },
+    "location": [
+     35.707221,
+     139.636988
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7408.html"
+    },
+    "kami": [
+     "amaterasu",
+     "tsukuyomi",
+     "susanoo",
+     "toyouke"
+    ]
+   },
+   {
+    "id": "mabashi-inari",
+    "category": "shrine",
+    "name": {
+     "en": "Mabashi Inari Shrine",
+     "ja": "馬橋稲荷神社"
+    },
+    "about": {
+     "en": "The guardian shrine of old Mabashi village, said to date from the late Kamakura period. Its stone torii, carved with a rising and a descending dragon, is counted among Tokyo's three dragon torii, and the bell in its vermilion gate is said to be the largest in Tokyo.",
+     "ja": "旧馬橋村の鎮守で、鎌倉時代末期の創建と伝わる。昇り龍と降り龍を刻んだ石鳥居は東京三鳥居の一つに数えられ、朱塗りの随身門の鈴は都内最大といわれる。"
+    },
+    "location": [
+     35.703274,
+     139.642735
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7413.html"
+    },
+    "kami": [
+     "ukanomitama",
+     "omatonotsu"
+    ]
+   },
+   {
+    "id": "sarutahiko-shrine",
+    "category": "shrine",
+    "name": {
+     "en": "Suginami Sarutahiko Shrine",
+     "ja": "杉並猿田彦神社"
+    },
+    "about": {
+     "en": "Its kami was brought from Tsubaki Ōkami Yashiro in Mie, regarded as Sarutahiko's head shrine. As the kami who leads the way, Sarutahiko draws people praying before building work and new ventures, and for business.",
+     "ja": "三重県の椿大神社（猿田彦大神の総本宮とされる）から勧請した。道を開く神として、地鎮祭や方位除け、商売繁盛を願う人々が訪れる。"
+    },
+    "location": [
+     35.6987,
+     139.643606
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並猿田彦神社",
+     "url": "https://www.sarutahiko-suginami.com/%E5%BE%A1%E7%A5%AD%E7%A5%9E-%E7%94%B1%E7%B7%92"
+    },
+    "kami": [
+     "sarutahiko"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Leafy and literary: cafés, zelkova trees and jazz.",

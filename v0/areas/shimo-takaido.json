@@ -35,7 +35,32 @@
     "name": "下高井戸五丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "shimotakaido-hachiman",
+    "category": "shrine",
+    "name": {
+     "en": "Shimo-Takaido Hachiman Shrine",
+     "ja": "下高井戸八幡神社（浜田山八幡）"
+    },
+    "about": {
+     "en": "By tradition founded in 1457, when Ōta Dōkan, while building Edo Castle, prayed here for the work to go safely and brought a spirit from Tsurugaoka Hachimangū in Kamakura.",
+     "ja": "1457年、江戸城を築いていた太田道灌が工事の無事を祈り、鎌倉の鶴岡八幡宮から勧請したのが始まりと伝わる。"
+    },
+    "location": [
+     35.67522,
+     139.63042
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "東京都神社庁",
+     "url": "http://www.tokyo-jinjacho.or.jp/suginami/5404"
+    },
+    "kami": [
+     "hachiman"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Open and breezy: lawns and a big sky.",

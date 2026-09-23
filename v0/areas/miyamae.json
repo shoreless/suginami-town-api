@@ -35,7 +35,35 @@
     "name": "宮前五丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "omiyamae-kasuga",
+    "category": "shrine",
+    "name": {
+     "en": "Ōmiyamae Kasuga Shrine",
+     "ja": "大宮前春日神社"
+    },
+    "about": {
+     "en": "The guardian shrine of old Ōmiyamae-shinden village, founded by tradition in the 1650s by Iguchi Hachirōemon, who opened its farmland. A stone reading 'Ōmiyamae chinju' in front of the hall keeps alive a place name that has otherwise disappeared.",
+     "ja": "旧大宮前新田の鎮守。新田を開いた井口八郎右衛門が万治年間に勧請したと伝わる。社殿前の「大宮前鎮守」の石碑が、今は消えた地名を伝えている。"
+    },
+    "location": [
+     35.69283,
+     139.60936
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7548.html"
+    },
+    "kami": [
+     "takemikazuchi",
+     "futsunushi",
+     "amenokoyane",
+     "himegami-kasuga"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Hidden greenery: woodland and streams.",

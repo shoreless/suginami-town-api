@@ -31,7 +31,58 @@
     "name": "和泉四丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "izumi-kumano",
+    "category": "shrine",
+    "name": {
+     "en": "Izumi Kumano Shrine",
+     "ja": "和泉熊野神社"
+    },
+    "about": {
+     "en": "The guardian shrine of old Izumi village, founded by tradition in 1267 with a spirit from the Kumano shrines of Kii. The present hall dates from 1863, and Jōmon and Kofun-period pottery has been dug up in the grounds.",
+     "ja": "旧和泉村の鎮守で、1267年に紀州熊野から勧請したと伝わる。現在の社殿は1863年の建築。境内からは縄文・古墳時代の土器が出土している。"
+    },
+    "location": [
+     35.676423,
+     139.647758
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7419.html"
+    },
+    "kami": [
+     "amenominakanushi",
+     "izanagi",
+     "izanami"
+    ]
+   },
+   {
+    "id": "kifune-shrine",
+    "category": "shrine",
+    "name": {
+     "en": "Kifune Shrine (Izumi)",
+     "ja": "貴船神社（和泉）"
+    },
+    "about": {
+     "en": "An outlying shrine of Izumi Kumano, enshrining the rain-bringing dragon kami of Kyoto's Kifune Shrine. Its pond, said never to run dry, was where villagers prayed for rain and is said to have given Izumi, 'spring', its name; it dried up around 1965.",
+     "ja": "和泉熊野神社の境外末社で、京都の貴船神社の雨の龍神をまつる。涸れることがないといわれた池は雨乞いの場で、「和泉」の地名の由来ともいわれる。池は1965年ごろに涸れた。"
+    },
+    "location": [
+     35.677849,
+     139.64859
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7420.html"
+    },
+    "kami": [
+     "takaokami"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Intimate alleys and Okinawan flavors.",

@@ -27,7 +27,34 @@
     "name": "清水三丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "nakase-tenso",
+    "category": "shrine",
+    "name": {
+     "en": "Nakase Tenso Shrine",
+     "ja": "中瀬天祖神社"
+    },
+    "about": {
+     "en": "It began as a hall to the Ten Rasetsu on the land of Myōshōji temple, and became a Shinto shrine when Shinto and Buddhism were separated in 1868. Its sacred object is a stone held to be powerful, and it is known locally as a shrine for having children.",
+     "ja": "妙正寺の地にあった十羅刹堂が始まりで、1868年の神仏分離で天祖神社となった。霊験あらたかな石を御神体とし、子宝の神社として親しまれている。"
+    },
+    "location": [
+     35.718556,
+     139.617333
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7485.html"
+    },
+    "kami": [
+     "amaterasu",
+     "ichikishimahime",
+     "ukemochi"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Quiet discovery: Myoshoji Park's pond and shaded benches.",

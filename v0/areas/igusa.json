@@ -55,7 +55,50 @@
     "name": "下井草五丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "otori-shrine",
+    "category": "shrine",
+    "name": {
+     "en": "Ōtori Shrine (Shimo-Igusa)",
+     "ja": "大鷲神社（下井草）"
+    },
+    "about": {
+     "en": "Its sacred object is a stuffed eagle, with a wingspan of over two metres, that villagers caught in a red pine in January 1921 and enshrined so that its death would bring no curse. A Tori-no-ichi fair is held on November's Days of the Rooster, with kumade rakes sold for good business.",
+     "ja": "御神体は、1921年1月に村人が赤松で捕らえた、翼を広げると2mを超える大鷲の剥製。祟りのないようにとまつられた。11月の酉の日には酉の市が開かれ、商売繁盛の熊手が売られる。"
+    },
+    "location": [
+     35.716049,
+     139.628876
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7488.html"
+    }
+   },
+   {
+    "id": "icho-inari",
+    "category": "shrine",
+    "name": {
+     "en": "Ichō Inari Shrine",
+     "ja": "銀杏稲荷神社"
+    },
+    "about": {
+     "en": "The guardian shrine of old Shimo-Igusa village, named after a great ginkgo that once grew on the hill behind it. A ridge plate dates its founding to around 1616, by the Iguchi family who settled here.",
+     "ja": "旧下井草村の鎮守。かつて裏の丘にそびえた大銀杏が名の由来。棟札によれば、1616年ごろ、この地に住んだ井口家が創建した。"
+    },
+    "location": [
+     35.718796,
+     139.626633
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7489.html"
+    }
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Shops and pockets of countryside: vegetable stands and garden plots.",

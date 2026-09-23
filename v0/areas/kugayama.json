@@ -35,7 +35,32 @@
     "name": "久我山五丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "kugayama-inari",
+    "category": "shrine",
+    "name": {
+     "en": "Kugayama Inari Shrine",
+     "ja": "久我山稲荷神社"
+    },
+    "about": {
+     "en": "Kugayama's guardian shrine. At its summer festival on 24 July a rare yudate rite is held: water is boiled in a great cauldron, and bamboo leaves dipped in it are shaken over the crowd, a custom that began with prayers to end an epidemic.",
+     "ja": "久我山の鎮守。7月24日の夏祭りでは、大釜で湯を沸かし、笹の葉を浸して参拝者に振りかける、都内では珍しい湯立神事が行われる。疫病退散の祈りに始まると伝わる。"
+    },
+    "location": [
+     35.68847,
+     139.59653
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2015/06/kugayamainari.html"
+    },
+    "kami": [
+     "ukemochi"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "A waterway and footbridges, with fireflies in June.",

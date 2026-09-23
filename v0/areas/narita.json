@@ -51,7 +51,82 @@
     "name": "成田東五丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "narimune-suga",
+    "category": "shrine",
+    "name": {
+     "en": "Narimune Suga Shrine",
+     "ja": "成宗須賀神社"
+    },
+    "about": {
+     "en": "The guardian shrine of the main settlement of old Narimune village. Before Meiji it was called Gozu Tennō-sha, because Susanoo was then identified with the Buddhist deity Gozu Tennō. Its records burned in the 1850s, so its founding date is uncertain.",
+     "ja": "旧成宗村本村の鎮守。須佐之男命が牛頭天王と同一視されていたため、江戸時代は牛頭天王社と呼ばれた。安政年間に記録が焼けたため、創建年ははっきりしない。"
+    },
+    "location": [
+     35.697802,
+     139.631616
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7523.html"
+    },
+    "kami": [
+     "susanoo"
+    ]
+   },
+   {
+    "id": "osaki-kumano",
+    "category": "shrine",
+    "name": {
+     "en": "Osaki Kumano Shrine",
+     "ja": "尾﨑熊野神社"
+    },
+    "about": {
+     "en": "The guardian shrine of Osaki in old Narimune village, founded by tradition in the late Kamakura period by warriors who came from Kamakura. Its sacred black pine, some 400 to 500 years old, is a ward natural monument, and Jōmon pottery and dwellings have been excavated in the grounds.",
+     "ja": "旧成宗村尾崎の鎮守で、鎌倉時代末期に鎌倉から移り住んだ武士が紀州熊野から勧請したと伝わる。樹齢400〜500年とされる御神木のクロマツは区の天然記念物。境内からは縄文時代の土器や住居跡が見つかっている。"
+    },
+    "location": [
+     35.693604,
+     139.631288
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7516.html"
+    },
+    "kami": [
+     "isotakeru",
+     "tsumatsuhime",
+     "oyatsuhime"
+    ]
+   },
+   {
+    "id": "narimune-hakusan",
+    "category": "shrine",
+    "name": {
+     "en": "Narimune Hakusan Shrine",
+     "ja": "成宗白山神社"
+    },
+    "about": {
+     "en": "The guardian shrine of Shirahata in old Narimune village. The name Shirahata, 'white banner', comes from the legend that Minamoto no Yoriyoshi saw a white cloud like a Genji banner here on his way to war in Ōshū.",
+     "ja": "旧成宗村白幡の鎮守。奥州へ向かう源頼義が、この地で源氏の白旗のような白雲を見たという伝説が「白幡」の名の由来。"
+    },
+    "location": [
+     35.686959,
+     139.637174
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7517.html"
+    },
+    "kami": [
+     "izanami"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Riverside wandering: bends of the Zenpukuji River and cherry trees.",

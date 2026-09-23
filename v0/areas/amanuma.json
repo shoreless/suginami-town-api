@@ -39,7 +39,81 @@
     "name": "本天沼三丁目"
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "amanuma-kumano",
+    "category": "shrine",
+    "name": {
+     "en": "Amanuma Kumano Shrine",
+     "ja": "天沼熊野神社"
+    },
+    "about": {
+     "en": "The guardian shrine of old Amanuma village, founded by tradition in 768. It was called Jūnisho Gongen until the Meiji era, when it took the name Kumano Jinja.",
+     "ja": "旧天沼村の鎮守で、768年の創建と伝わる。明治までは十二所権現と呼ばれ、その後、熊野神社と改められた。"
+    },
+    "location": [
+     35.708911,
+     139.626784
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7417.html"
+    },
+    "kami": [
+     "izanami"
+    ]
+   },
+   {
+    "id": "amanuma-hachiman",
+    "category": "shrine",
+    "name": {
+     "en": "Amanuma Hachiman Shrine",
+     "ja": "天沼八幡神社"
+    },
+    "about": {
+     "en": "The guardian shrine of Nakayato in old Amanuma village, said to date from the 1570s or 80s. Ichikishimahime, enshrined here since a local Itsukushima shrine was merged in 1907, is prayed to for safe childbirth, and the Ōtori shrine in its grounds holds a Tori-no-ichi fair in November.",
+     "ja": "旧天沼村中谷戸の鎮守で、天正年間の創建と伝わる。1907年に合祀された厳島社の市杵島姫命は安産の神として信仰を集め、境内の大鳥神社では11月に酉の市が開かれる。"
+    },
+    "location": [
+     35.708231,
+     139.623104
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7416.html"
+    },
+    "kami": [
+     "hachiman",
+     "ichikishimahime"
+    ]
+   },
+   {
+    "id": "hon-amanuma-inari",
+    "category": "shrine",
+    "name": {
+     "en": "Hon-Amanuma Inari Shrine",
+     "ja": "本天沼稲荷神社"
+    },
+    "about": {
+     "en": "The guardian shrine of Honmura in old Amanuma village, founded before 1614. Because Amanuma was land of the Sannō shrine in Akasaka, today's Hie Shrine, its inner sanctuary was brought from there around 1868, and a large votive painting of the Sannō festival is a ward cultural property.",
+     "ja": "旧天沼村本村の鎮守で、1614年以前の創建とみられる。天沼は江戸時代に赤坂の山王社（現在の日枝神社）の社領だったため、明治の初めに山王社の本殿が移された。山王祭を描いた大絵馬は区の文化財。"
+    },
+    "location": [
+     35.712604,
+     139.62485
+    ],
+    "checked": "2026-09-23",
+    "source": {
+     "name": "杉並区公式ホームページ",
+     "url": "https://www.city.suginami.tokyo.jp/s113/7536.html"
+    },
+    "kami": [
+     "ukemochi"
+    ]
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Familiar residential backstreets: bakeries, bicycles and flowerpots.",
