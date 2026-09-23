@@ -10,7 +10,11 @@
 <h1>suginami-town-api</h1>
 <p>Open data about the neighborhoods of Suginami, Tokyo, as static JSON. 杉並区のまちのオープンデータ。</p>
 <ul>
-  <li><a href="v0/content.json"><code>v0/content.json</code></a>: the 23 neighborhood areas, their towns, places and happenings, in English and Japanese</li>
+  <li><a href="v0/index.json"><code>v0/index.json</code></a>: the 23 neighborhood areas, with a path to each one</li>
+  <li><a href="v0/areas/kugayama.json"><code>v0/areas/{id}.json</code></a>: one area in full, e.g. Kugayama</li>
+  <li><a href="v0/spots.json"><code>v0/spots.json</code></a>: every place worth visiting</li>
+  <li><a href="v0/happenings.json"><code>v0/happenings.json</code></a>: every dated happening, earliest first</li>
+  <li><a href="v0/content.json"><code>v0/content.json</code></a>: all of it in one file</li>
   <li><a href="v0/towns.geojson"><code>v0/towns.geojson</code></a>: the 139 towns (丁目) as polygons, with official census codes</li>
 </ul>
 <p><code>v0</code> is not yet stable. Details, versioning and attribution are in the

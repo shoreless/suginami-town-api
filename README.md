@@ -12,8 +12,15 @@ Base URL: `https://shoreless.github.io/suginami-town-api/`
 
 | Path | What it holds |
 | --- | --- |
-| `v0/content.json` | The 23 neighborhood areas: names in English and Japanese, the official towns (丁目) each covers, a short introduction, places worth visiting, and dated happenings |
+| `v0/index.json` | The 23 neighborhood areas: names in English and Japanese, how many towns, places and happenings each has, and the path to its own file |
+| `v0/areas/{id}.json` | One area in full, e.g. `v0/areas/kugayama.json`: its towns, introduction, places and happenings |
+| `v0/spots.json` | Every place worth visiting across Suginami, each tagged with its area |
+| `v0/happenings.json` | Every dated happening across Suginami, earliest first, each tagged with its area. Ones that have ended are included; filter by `ends` |
+| `v0/content.json` | Everything above in one file, for apps that want a single consistent request |
 | `v0/towns.geojson` | All 139 towns (丁目) of Suginami as polygons, each tagged with its area and official census code |
+
+All of these are cut from the same build, so they always agree with each other. Every JSON file
+carries `version` and `languages`.
 
 Towns are identified by their **official census code** (e.g. `13115001001` for 方南一丁目), so this
 data can be joined to other datasets. Areas are identified by a short id (e.g. `kugayama`).
