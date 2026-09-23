@@ -1,0 +1,913 @@
+{
+ "version": 0,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+ },
+ "areas": [
+  {
+   "id": "amanuma",
+   "name": {
+    "en": "Amanuma",
+    "ja": "天沼"
+   },
+   "towns": [
+    {
+     "code": "13115015001",
+     "name": "天沼一丁目"
+    },
+    {
+     "code": "13115015002",
+     "name": "天沼二丁目"
+    },
+    {
+     "code": "13115015003",
+     "name": "天沼三丁目"
+    },
+    {
+     "code": "13115016001",
+     "name": "本天沼一丁目"
+    },
+    {
+     "code": "13115016002",
+     "name": "本天沼二丁目"
+    },
+    {
+     "code": "13115016003",
+     "name": "本天沼三丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Familiar residential backstreets: bakeries, bicycles and flowerpots.",
+    "ja": "なじみの住宅街の裏道。パン屋、自転車、植木鉢。"
+   }
+  },
+  {
+   "id": "asagaya",
+   "name": {
+    "en": "Asagaya",
+    "ja": "阿佐ヶ谷"
+   },
+   "towns": [
+    {
+     "code": "13115013001",
+     "name": "阿佐谷南一丁目"
+    },
+    {
+     "code": "13115013002",
+     "name": "阿佐谷南二丁目"
+    },
+    {
+     "code": "13115013003",
+     "name": "阿佐谷南三丁目"
+    },
+    {
+     "code": "13115014001",
+     "name": "阿佐谷北一丁目"
+    },
+    {
+     "code": "13115014002",
+     "name": "阿佐谷北二丁目"
+    },
+    {
+     "code": "13115014003",
+     "name": "阿佐谷北三丁目"
+    },
+    {
+     "code": "13115014004",
+     "name": "阿佐谷北四丁目"
+    },
+    {
+     "code": "13115014005",
+     "name": "阿佐谷北五丁目"
+    },
+    {
+     "code": "13115014006",
+     "name": "阿佐谷北六丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Leafy and literary: cafés, zelkova trees and jazz.",
+    "ja": "緑と文学の街。カフェ、ケヤキ並木、ジャズ。"
+   }
+  },
+  {
+   "id": "eifuku",
+   "name": {
+    "en": "Eifuku / Nishi-Eifuku",
+    "ja": "永福"
+   },
+   "towns": [
+    {
+     "code": "13115004001",
+     "name": "永福一丁目"
+    },
+    {
+     "code": "13115004002",
+     "name": "永福二丁目"
+    },
+    {
+     "code": "13115004003",
+     "name": "永福三丁目"
+    },
+    {
+     "code": "13115004004",
+     "name": "永福四丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "A meal and a quiet walk home: noodle-shop doorways.",
+    "ja": "ひと皿と、静かな帰り道。麺屋ののれん。"
+   }
+  },
+  {
+   "id": "hamadayama",
+   "name": {
+    "en": "Hamadayama",
+    "ja": "浜田山"
+   },
+   "towns": [
+    {
+     "code": "13115005001",
+     "name": "浜田山一丁目"
+    },
+    {
+     "code": "13115005002",
+     "name": "浜田山二丁目"
+    },
+    {
+     "code": "13115005003",
+     "name": "浜田山三丁目"
+    },
+    {
+     "code": "13115005004",
+     "name": "浜田山四丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Green and leisurely: the meadow and pond of Kashinomiya Park.",
+    "ja": "緑と、ゆったりした時間。柏の宮公園の原っぱと池。"
+   }
+  },
+  {
+   "id": "honan",
+   "name": {
+    "en": "Hōnan",
+    "ja": "方南"
+   },
+   "towns": [
+    {
+     "code": "13115001001",
+     "name": "方南一丁目"
+    },
+    {
+     "code": "13115001002",
+     "name": "方南二丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Community-minded: a shopping street, greengrocers and festival bunting.",
+    "ja": "地域のつながり。商店街、八百屋、祭りの飾り。"
+   }
+  },
+  {
+   "id": "horinouchi-umezato",
+   "name": {
+    "en": "Horinouchi / Umezato",
+    "ja": "堀ノ内"
+   },
+   "towns": [
+    {
+     "code": "13115007001",
+     "name": "堀ノ内一丁目"
+    },
+    {
+     "code": "13115007002",
+     "name": "堀ノ内二丁目"
+    },
+    {
+     "code": "13115007003",
+     "name": "堀ノ内三丁目"
+    },
+    {
+     "code": "13115010001",
+     "name": "梅里一丁目"
+    },
+    {
+     "code": "13115010002",
+     "name": "梅里二丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Daily rituals: temple streets and sweets shops.",
+    "ja": "日々の営み。寺町の通りと和菓子屋。"
+   }
+  },
+  {
+   "id": "igusa",
+   "name": {
+    "en": "Igusa / Iogi / Shimo-Igusa",
+    "ja": "井草"
+   },
+   "towns": [
+    {
+     "code": "13115027001",
+     "name": "井草一丁目"
+    },
+    {
+     "code": "13115027002",
+     "name": "井草二丁目"
+    },
+    {
+     "code": "13115027003",
+     "name": "井草三丁目"
+    },
+    {
+     "code": "13115027004",
+     "name": "井草四丁目"
+    },
+    {
+     "code": "13115027005",
+     "name": "井草五丁目"
+    },
+    {
+     "code": "13115028001",
+     "name": "下井草一丁目"
+    },
+    {
+     "code": "13115028002",
+     "name": "下井草二丁目"
+    },
+    {
+     "code": "13115028003",
+     "name": "下井草三丁目"
+    },
+    {
+     "code": "13115028004",
+     "name": "下井草四丁目"
+    },
+    {
+     "code": "13115028005",
+     "name": "下井草五丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Shops and pockets of countryside: vegetable stands and garden plots.",
+    "ja": "商店と、ところどころに残る田園。野菜の直売所と畑。"
+   }
+  },
+  {
+   "id": "izumi",
+   "name": {
+    "en": "Izumi / Daitabashi side",
+    "ja": "和泉"
+   },
+   "towns": [
+    {
+     "code": "13115002001",
+     "name": "和泉一丁目"
+    },
+    {
+     "code": "13115002002",
+     "name": "和泉二丁目"
+    },
+    {
+     "code": "13115002003",
+     "name": "和泉三丁目"
+    },
+    {
+     "code": "13115002004",
+     "name": "和泉四丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Intimate alleys and Okinawan flavors.",
+    "ja": "路地の街。沖縄の味。"
+   }
+  },
+  {
+   "id": "kami-igusa",
+   "name": {
+    "en": "Kami-Igusa",
+    "ja": "上井草"
+   },
+   "towns": [
+    {
+     "code": "13115029001",
+     "name": "上井草一丁目"
+    },
+    {
+     "code": "13115029002",
+     "name": "上井草二丁目"
+    },
+    {
+     "code": "13115029003",
+     "name": "上井草三丁目"
+    },
+    {
+     "code": "13115029004",
+     "name": "上井草四丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Playful creativity and animation studios.",
+    "ja": "遊び心のある、ものづくりの街。アニメーションのスタジオ。"
+   }
+  },
+  {
+   "id": "kami-takaido",
+   "name": {
+    "en": "Kami-Takaido / Hachimanyama side",
+    "ja": "上高井戸"
+   },
+   "towns": [
+    {
+     "code": "13115036001",
+     "name": "上高井戸一丁目"
+    },
+    {
+     "code": "13115036002",
+     "name": "上高井戸二丁目"
+    },
+    {
+     "code": "13115036003",
+     "name": "上高井戸三丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Unexpected green: tucked-away produce stands.",
+    "ja": "意外な緑。ひっそりとした野菜の直売所。"
+   }
+  },
+  {
+   "id": "koenji",
+   "name": {
+    "en": "Kōenji",
+    "ja": "高円寺"
+   },
+   "towns": [
+    {
+     "code": "13115011001",
+     "name": "高円寺南一丁目"
+    },
+    {
+     "code": "13115011002",
+     "name": "高円寺南二丁目"
+    },
+    {
+     "code": "13115011003",
+     "name": "高円寺南三丁目"
+    },
+    {
+     "code": "13115011004",
+     "name": "高円寺南四丁目"
+    },
+    {
+     "code": "13115011005",
+     "name": "高円寺南五丁目"
+    },
+    {
+     "code": "13115012001",
+     "name": "高円寺北一丁目"
+    },
+    {
+     "code": "13115012002",
+     "name": "高円寺北二丁目"
+    },
+    {
+     "code": "13115012003",
+     "name": "高円寺北三丁目"
+    },
+    {
+     "code": "13115012004",
+     "name": "高円寺北四丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Expressive: records, vintage clothes and small music venues.",
+    "ja": "表現する街。レコード、古着、小さなライブハウス。"
+   }
+  },
+  {
+   "id": "kugayama",
+   "name": {
+    "en": "Kugayama",
+    "ja": "久我山"
+   },
+   "towns": [
+    {
+     "code": "13115033001",
+     "name": "久我山一丁目"
+    },
+    {
+     "code": "13115033002",
+     "name": "久我山二丁目"
+    },
+    {
+     "code": "13115033003",
+     "name": "久我山三丁目"
+    },
+    {
+     "code": "13115033004",
+     "name": "久我山四丁目"
+    },
+    {
+     "code": "13115033005",
+     "name": "久我山五丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "A waterway and footbridges, with fireflies in June.",
+    "ja": "水辺と小さな橋。6月にはホタルが舞う。"
+   }
+  },
+  {
+   "id": "miyamae",
+   "name": {
+    "en": "Miyamae",
+    "ja": "宮前"
+   },
+   "towns": [
+    {
+     "code": "13115032001",
+     "name": "宮前一丁目"
+    },
+    {
+     "code": "13115032002",
+     "name": "宮前二丁目"
+    },
+    {
+     "code": "13115032003",
+     "name": "宮前三丁目"
+    },
+    {
+     "code": "13115032004",
+     "name": "宮前四丁目"
+    },
+    {
+     "code": "13115032005",
+     "name": "宮前五丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Hidden greenery: woodland and streams.",
+    "ja": "隠れた緑。雑木林と小川。"
+   }
+  },
+  {
+   "id": "momoi-imagawa",
+   "name": {
+    "en": "Momoi / Imagawa",
+    "ja": "桃井"
+   },
+   "towns": [
+    {
+     "code": "13115024001",
+     "name": "今川一丁目"
+    },
+    {
+     "code": "13115024002",
+     "name": "今川二丁目"
+    },
+    {
+     "code": "13115024003",
+     "name": "今川三丁目"
+    },
+    {
+     "code": "13115024004",
+     "name": "今川四丁目"
+    },
+    {
+     "code": "13115026001",
+     "name": "桃井一丁目"
+    },
+    {
+     "code": "13115026002",
+     "name": "桃井二丁目"
+    },
+    {
+     "code": "13115026003",
+     "name": "桃井三丁目"
+    },
+    {
+     "code": "13115026004",
+     "name": "桃井四丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Open sky: Momoi Harappa Park and distant rooftops.",
+    "ja": "広い空。桃井原っぱ公園と、遠くの屋根並み。"
+   }
+  },
+  {
+   "id": "narita",
+   "name": {
+    "en": "Narita",
+    "ja": "成田"
+   },
+   "towns": [
+    {
+     "code": "13115017001",
+     "name": "成田西一丁目"
+    },
+    {
+     "code": "13115017002",
+     "name": "成田西二丁目"
+    },
+    {
+     "code": "13115017003",
+     "name": "成田西三丁目"
+    },
+    {
+     "code": "13115017004",
+     "name": "成田西四丁目"
+    },
+    {
+     "code": "13115018001",
+     "name": "成田東一丁目"
+    },
+    {
+     "code": "13115018002",
+     "name": "成田東二丁目"
+    },
+    {
+     "code": "13115018003",
+     "name": "成田東三丁目"
+    },
+    {
+     "code": "13115018004",
+     "name": "成田東四丁目"
+    },
+    {
+     "code": "13115018005",
+     "name": "成田東五丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Riverside wandering: bends of the Zenpukuji River and cherry trees.",
+    "ja": "川沿いのそぞろ歩き。善福寺川の曲がり角と桜。"
+   }
+  },
+  {
+   "id": "nishi-ogikubo",
+   "name": {
+    "en": "Nishi-Ogikubo",
+    "ja": "西荻窪"
+   },
+   "towns": [
+    {
+     "code": "13115022001",
+     "name": "西荻南一丁目"
+    },
+    {
+     "code": "13115022002",
+     "name": "西荻南二丁目"
+    },
+    {
+     "code": "13115022003",
+     "name": "西荻南三丁目"
+    },
+    {
+     "code": "13115022004",
+     "name": "西荻南四丁目"
+    },
+    {
+     "code": "13115023001",
+     "name": "西荻北一丁目"
+    },
+    {
+     "code": "13115023002",
+     "name": "西荻北二丁目"
+    },
+    {
+     "code": "13115023003",
+     "name": "西荻北三丁目"
+    },
+    {
+     "code": "13115023004",
+     "name": "西荻北四丁目"
+    },
+    {
+     "code": "13115023005",
+     "name": "西荻北五丁目"
+    },
+    {
+     "code": "13115031001",
+     "name": "松庵一丁目"
+    },
+    {
+     "code": "13115031002",
+     "name": "松庵二丁目"
+    },
+    {
+     "code": "13115031003",
+     "name": "松庵三丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Independent and curious: books, antiques and ceramics.",
+    "ja": "個性的で、好奇心をくすぐる街。古本、骨董、器。"
+   }
+  },
+  {
+   "id": "ogikubo",
+   "name": {
+    "en": "Ogikubo",
+    "ja": "荻窪"
+   },
+   "towns": [
+    {
+     "code": "13115019001",
+     "name": "荻窪一丁目"
+    },
+    {
+     "code": "13115019002",
+     "name": "荻窪二丁目"
+    },
+    {
+     "code": "13115019003",
+     "name": "荻窪三丁目"
+    },
+    {
+     "code": "13115019004",
+     "name": "荻窪四丁目"
+    },
+    {
+     "code": "13115019005",
+     "name": "荻窪五丁目"
+    },
+    {
+     "code": "13115020001",
+     "name": "南荻窪一丁目"
+    },
+    {
+     "code": "13115020002",
+     "name": "南荻窪二丁目"
+    },
+    {
+     "code": "13115020003",
+     "name": "南荻窪三丁目"
+    },
+    {
+     "code": "13115020004",
+     "name": "南荻窪四丁目"
+    },
+    {
+     "code": "13115021001",
+     "name": "上荻一丁目"
+    },
+    {
+     "code": "13115021002",
+     "name": "上荻二丁目"
+    },
+    {
+     "code": "13115021003",
+     "name": "上荻三丁目"
+    },
+    {
+     "code": "13115021004",
+     "name": "上荻四丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Established and comforting: ramen counters and garden streets.",
+    "ja": "落ち着いた、ほっとする街。ラーメンのカウンターと、庭のある通り。"
+   }
+  },
+  {
+   "id": "omiya-matsunoki",
+   "name": {
+    "en": "Ōmiya / Matsunoki",
+    "ja": "大宮"
+   },
+   "towns": [
+    {
+     "code": "13115008001",
+     "name": "松ノ木一丁目"
+    },
+    {
+     "code": "13115008002",
+     "name": "松ノ木二丁目"
+    },
+    {
+     "code": "13115008003",
+     "name": "松ノ木三丁目"
+    },
+    {
+     "code": "13115009001",
+     "name": "大宮一丁目"
+    },
+    {
+     "code": "13115009002",
+     "name": "大宮二丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Woodland shade and the approach to Omiya Hachimangu.",
+    "ja": "木陰の森と、大宮八幡宮の参道。"
+   }
+  },
+  {
+   "id": "shimizu",
+   "name": {
+    "en": "Shimizu",
+    "ja": "清水"
+   },
+   "towns": [
+    {
+     "code": "13115025001",
+     "name": "清水一丁目"
+    },
+    {
+     "code": "13115025002",
+     "name": "清水二丁目"
+    },
+    {
+     "code": "13115025003",
+     "name": "清水三丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Quiet discovery: Myoshoji Park's pond and shaded benches.",
+    "ja": "静かな発見。妙正寺公園の池と、木陰のベンチ。"
+   }
+  },
+  {
+   "id": "shimo-takaido",
+   "name": {
+    "en": "Shimo-Takaido / Sakurajōsui side",
+    "ja": "下高井戸"
+   },
+   "towns": [
+    {
+     "code": "13115003001",
+     "name": "下高井戸一丁目"
+    },
+    {
+     "code": "13115003002",
+     "name": "下高井戸二丁目"
+    },
+    {
+     "code": "13115003003",
+     "name": "下高井戸三丁目"
+    },
+    {
+     "code": "13115003004",
+     "name": "下高井戸四丁目"
+    },
+    {
+     "code": "13115003005",
+     "name": "下高井戸五丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Open and breezy: lawns and a big sky.",
+    "ja": "開けた、風の通る街。芝生と広い空。"
+   }
+  },
+  {
+   "id": "takaido-fujimigaoka",
+   "name": {
+    "en": "Takaido / Fujimigaoka",
+    "ja": "高井戸"
+   },
+   "towns": [
+    {
+     "code": "13115034001",
+     "name": "高井戸東一丁目"
+    },
+    {
+     "code": "13115034002",
+     "name": "高井戸東二丁目"
+    },
+    {
+     "code": "13115034003",
+     "name": "高井戸東三丁目"
+    },
+    {
+     "code": "13115034004",
+     "name": "高井戸東四丁目"
+    },
+    {
+     "code": "13115035001",
+     "name": "高井戸西一丁目"
+    },
+    {
+     "code": "13115035002",
+     "name": "高井戸西二丁目"
+    },
+    {
+     "code": "13115035003",
+     "name": "高井戸西三丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "River and everyday movement: trains and a distant white chimney.",
+    "ja": "川と、日々の往来。電車と遠くの白い煙突。"
+   }
+  },
+  {
+   "id": "wada",
+   "name": {
+    "en": "Wada",
+    "ja": "和田"
+   },
+   "towns": [
+    {
+     "code": "13115006001",
+     "name": "和田一丁目"
+    },
+    {
+     "code": "13115006002",
+     "name": "和田二丁目"
+    },
+    {
+     "code": "13115006003",
+     "name": "和田三丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Neighborly creativity: art supplies and park greenery.",
+    "ja": "ご近所の、ものづくり。画材と公園の緑。"
+   }
+  },
+  {
+   "id": "zenpukuji",
+   "name": {
+    "en": "Zenpukuji",
+    "ja": "善福寺"
+   },
+   "towns": [
+    {
+     "code": "13115030001",
+     "name": "善福寺一丁目"
+    },
+    {
+     "code": "13115030002",
+     "name": "善福寺二丁目"
+    },
+    {
+     "code": "13115030003",
+     "name": "善福寺三丁目"
+    },
+    {
+     "code": "13115030004",
+     "name": "善福寺四丁目"
+    }
+   ],
+   "spots": [],
+   "happenings": [],
+   "intro": {
+    "en": "Reflective: a pond, waterbirds and overhanging branches.",
+    "ja": "静かに思いにふける場所。池と水鳥、水面にかかる枝。"
+   }
+  }
+ ]
+}
