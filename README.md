@@ -16,11 +16,26 @@ Base URL: `https://shoreless.github.io/suginami-town-api/`
 | `v0/areas/{id}.json` | One area in full, e.g. `v0/areas/kugayama.json`: its towns, introduction, places and happenings |
 | `v0/spots.json` | Every place worth visiting across Suginami, each tagged with its area |
 | `v0/happenings.json` | Every dated happening across Suginami, earliest first, each tagged with its area. Ones that have ended are included; filter by `ends` |
+| `v0/kami.json` | The kami enshrined at Suginami's shrines, each explained once in English and Japanese. Shrines in the files above list theirs by id |
 | `v0/content.json` | Everything above in one file, for apps that want a single consistent request |
+| `v0/map.en.kml`, `v0/map.ja.kml` | A map to import into a map app: neighborhood outlines, then a layer per kind of place. One file per language, because map apps show one name per pin |
+| `v0/spots.geojson` | Every place as GeoJSON points, for developers and GIS tools |
 | `v0/towns.geojson` | All 139 towns (丁目) of Suginami as polygons, each tagged with its area and official census code |
 
 All of these are cut from the same build, so they always agree with each other. Every JSON file
 carries `version` and `languages`.
+
+## Put it on your own map
+
+Download `map.en.kml` or `map.ja.kml`, then:
+
+- **Google My Maps** (mymaps.google.com): create a map, choose *Import* on a layer, and upload the file. It
+  then appears in Google Maps on your phone under *Saved* → *Maps*.
+- **Google Earth** (earth.google.com): *Projects* → *New project* → *Import KML file*.
+- **Organic Maps, OsmAnd and most offline map apps**: open the file with the app, or import it from its
+  bookmarks or tracks screen.
+
+Apple Maps cannot import files.
 
 Towns are identified by their **official census code** (e.g. `13115001001` for 方南一丁目), so this
 data can be joined to other datasets. Areas are identified by a short id (e.g. `kugayama`).
