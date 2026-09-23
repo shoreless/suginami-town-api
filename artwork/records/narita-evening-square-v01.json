@@ -1,0 +1,20 @@
+{
+  "id": "narita-evening-square-v01",
+  "path": "sources/backgrounds/narita/evening/square-v01.png",
+  "neighborhood": "narita",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "480acf2b8325fbdb969802768e1b986f6a5c634ad043e9471724e184e97fc19c",
+  "bytes": 2990896,
+  "prompt": "prompts/narita-evening-square-v01.txt",
+  "references": [
+    "references/narita-evening-legacy.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-5720749a-3c15-4d83-9111-8a1192de1dfb.png",
+  "visual_review": "Individually viewed: board, plaque, sign supports and Namisuke removed; neighborhood landmark retained, natural reconstruction and clear foreground. Small product markings are incidental painting detail, not live UI. Collection draft; native legibility still to test."
+}

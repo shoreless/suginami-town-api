@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Suginami Suki · Neighborhood artwork collection</title>
+<link rel="stylesheet" href="review.css">
+<main>
+<header><div><p class="eyebrow">すぎなみ好き / ARTWORK COLLECTION</p><h1>A little place.<br>A moment of your day.</h1><p class="intro">Twenty-three neighborhoods, from morning to night.<br>The neighborhood is the backdrop. Namisuke and the time find their own place.</p></div><aside>COLLECTION STUDY<br><strong>Four moods. Three shapes.</strong><span>Separate art layers + live text</span><span>Serif · 95% opacity · 日本語 first</span></aside></header>
+<p class="note">View all 23: <a href="collection-morning.png">Morning</a> · <a href="collection-midday.png">Midday</a> · <a href="collection-evening.png">Evening</a> · <a href="collection-night.png">Night</a> · <a href="day-cycles.png">Day-cycle comparison</a></p>
+<form class="controls" aria-label="Preview settings" onsubmit="return false">
+<label>Neighborhood <select id="area" disabled aria-label="Neighborhood"></select></label>
+<label>Scene <select id="phase" disabled aria-label="Time of day"><option value="morning">Morning · 朝</option><option value="midday">Midday · 昼</option><option value="evening" selected>Evening · 夕</option><option value="night">Night · 夜</option></select></label>
+<label>Clock <select id="clock"><option value="fixed">Scene sample time</option><option value="live">Current device time</option></select></label>
+<label>Language <select id="locale"><option value="en">English</option><option value="ja">日本語</option></select></label>
+<label><input id="character" type="checkbox" checked> Namisuke</label>
+<label><input id="information" type="checkbox" checked> Time & date</label>
+<label><input id="weather" type="checkbox"> Sample weather</label>
+<label><input id="guides" type="checkbox"> Layout guides</label>
+<label>Scale <input id="scale" type="range" min="75" max="110" value="100"><output id="scale-value">100%</output></label>
+</form>
+<p class="note">Composition prototypes, not running Android widgets. Sample weather is illustrative; no weather is fetched. The chosen artwork mood stays fixed when the device clock changes. Missing backgrounds are shown as placeholders; character fallbacks are labelled.</p>
+<p id="status" role="status">Loading the artwork collection…</p>
+<div id="scenes"></div>
+<section class="layers"><div><p class="eyebrow">ONE CHARACTER, DIFFERENT PLACES</p><h2>Everything has its own layer.</h2><p>The character is a transparent PNG. The soft contact shadow, contrast shading, clock and date are separate layout elements. Turn off the information and Namisuke above to inspect the clean backgrounds.</p><p id="character-status"></p><p><a id="character-link" href="../sources/characters/namisuke/awake-evening-v01.png">Open character PNG ↗</a> · <a href="../layouts/collection.json">Layout values ↗</a> · <a href="../COLLECTION.md">Collection notes ↗</a> · <a href="../collection-manifest.json">Assets & exact prompts ↗</a></p></div><div class="cutout"><img id="character-preview" alt="Namisuke on a transparency grid"><span>Checkerboard is preview UI, not image pixels.</span></div></section>
+<footer>Artwork sets the mood. Time, date and optional information belong to the device.<br>Design prototypes · Existing published app artwork is unchanged.</footer>
+</main>
+<script src="review.js" type="module"></script>
+</html>

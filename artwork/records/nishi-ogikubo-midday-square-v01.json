@@ -1,0 +1,20 @@
+{
+  "id": "nishi-ogikubo-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "nishi-ogikubo",
+  "path": "sources/backgrounds/nishi-ogikubo/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2977216,
+  "sha256": "50e0a80334fc3b03dc067d9145a68f9b3c9728ba6096caa84506b9dc83a0ec5c",
+  "prompt": "prompts/nishi-ogikubo-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/nishi-ogikubo/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-f3fbdd6f-2038-46af-bfd1-0d00da34bf29.png",
+  "visual_review": "Reviewed: neutral midday light and blue sky on retained bookshop, ceramics, bicycle and plants; lamps off. No clock board, name plaque or character."
+}

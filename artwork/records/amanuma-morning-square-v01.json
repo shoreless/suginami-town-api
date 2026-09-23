@@ -1,0 +1,23 @@
+{
+  "id": "amanuma-morning-square-v01",
+  "path": "sources/backgrounds/amanuma/morning/square-v01.png",
+  "neighborhood": "amanuma",
+  "phase": "morning",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "039c22dad2b56709692fcd0f31c43ba81fb2ed55b53939c5a445c31e50545e1c",
+  "bytes": 3016902,
+  "prompt": "prompts/amanuma-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/amanuma/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-bd70ae1e-c497-452c-84ff-0c70466f791d.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: distinct phase lighting, recognizable scene geometry and clean separate-layer backdrop retained. No mascot or clock board. Native surface cropping and final text contrast remain consumer integration checks."
+  }
+}

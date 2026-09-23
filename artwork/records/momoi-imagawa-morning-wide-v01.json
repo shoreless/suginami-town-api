@@ -1,0 +1,23 @@
+{
+  "id": "momoi-imagawa-morning-wide-v01",
+  "path": "sources/backgrounds/momoi-imagawa/morning/wide-v01.png",
+  "neighborhood": "momoi-imagawa",
+  "phase": "morning",
+  "shape": "wide",
+  "references": [
+    "sources/backgrounds/momoi-imagawa/evening/wide-v01.png"
+  ],
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "99c1e6b8e9470961ed9d334a69f8c7ccbea4a3f9f5df2536345ac6355ea1b085",
+  "bytes": 3196939,
+  "prompt": "prompts/momoi-imagawa-morning-wide-v01.txt",
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-aa43101d-5ad3-4b4f-afc4-213992d68f3b.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: meadow, central/edge bench with rolled blanket, tree, path, houses and framing preserved; distinct morning lighting. Foreground lantern unlit during day, warm illumination at night. Clean backdrop without mascot, clock board or rendered text."
+  }
+}

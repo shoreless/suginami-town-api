@@ -1,0 +1,23 @@
+{
+  "id": "igusa-morning-square-v01",
+  "path": "sources/backgrounds/igusa/morning/square-v01.png",
+  "neighborhood": "igusa",
+  "phase": "morning",
+  "shape": "square",
+  "references": [
+    "sources/backgrounds/igusa/evening/square-v01.png"
+  ],
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "84d873e8a4a8ace98f72c4a8f1813cae53f71179e515055220f4a1bc436611a6",
+  "bytes": 3248894,
+  "prompt": "prompts/igusa-morning-square-v01.txt",
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-8b3ad372-0330-4403-b00a-e51e4918f225.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: vegetable stall, roof and supports, produce crates, garden rows and passing train remain recognizable; morning lighting distinct. No clock board, mascot or readable text. Daylit scene with foreground stall lamp unlit."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kami-igusa-night-square-v01",
+  "phase": "night",
+  "shape": "square",
+  "neighborhood": "kami-igusa",
+  "path": "sources/backgrounds/kami-igusa/night/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2573745,
+  "sha256": "e374414618eeab7d992dc41dd26dcb0cbf2c36b3da91c0edc505aa5f246257d1",
+  "prompt": "prompts/kami-igusa-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/kami-igusa/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-f1a9d5ba-9122-46cf-a35f-de4f332325bc.png",
+  "visual_review": "Individually viewed: deep navy moonlit scene with cooler foliage and pavement; studio lamps remain warmly lit, brighter interior than sparse-window prompt ideal. Ivy-covered studio, storyboards, chair, bag and bench preserve source layout and square framing. No mascot, clock UI or new name plaque. Collection draft."
+}

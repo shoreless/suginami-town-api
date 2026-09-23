@@ -1,0 +1,20 @@
+{
+  "id": "hamadayama-night-square-v01",
+  "phase": "night",
+  "shape": "square",
+  "neighborhood": "hamadayama",
+  "path": "sources/backgrounds/hamadayama/night/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2926444,
+  "sha256": "421f26297954bb237cccbc8638aea3894577fd53d393c7a71eb6cf24b12418ce",
+  "prompt": "prompts/hamadayama-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/hamadayama/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-8f044f44-d78e-4cfb-a696-dce5f3133e82.png",
+  "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; night lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+}

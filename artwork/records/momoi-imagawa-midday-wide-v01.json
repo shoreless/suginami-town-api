@@ -1,0 +1,23 @@
+{
+  "id": "momoi-imagawa-midday-wide-v01",
+  "path": "sources/backgrounds/momoi-imagawa/midday/wide-v01.png",
+  "neighborhood": "momoi-imagawa",
+  "phase": "midday",
+  "shape": "wide",
+  "references": [
+    "sources/backgrounds/momoi-imagawa/evening/wide-v01.png"
+  ],
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "da480cda72628263b14df02c5b41d5d70a09060b1d761614ebf372a5cf9e02bc",
+  "bytes": 3206553,
+  "prompt": "prompts/momoi-imagawa-midday-wide-v01.txt",
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-9d8af1c4-e137-47e0-a192-6a4e4acef4d5.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: meadow, central/edge bench with rolled blanket, tree, path, houses and framing preserved; distinct midday lighting. Foreground lantern unlit during day, warm illumination at night. Clean backdrop without mascot, clock board or rendered text."
+  }
+}

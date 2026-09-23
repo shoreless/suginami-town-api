@@ -1,0 +1,23 @@
+{
+  "id": "igusa-evening-wide-v01",
+  "path": "sources/backgrounds/igusa/evening/wide-v01.png",
+  "neighborhood": "igusa",
+  "phase": "evening",
+  "shape": "wide",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "8778f2eaa7468137405b88b113d6fad6ac43669608ee18a8fadd3bb32e137d26",
+  "bytes": 3291488,
+  "prompt": "prompts/igusa-evening-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/igusa/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-3d80f8f6-7d14-4d5e-a8b8-855928075d8d.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: Clean vegetable stall and railway view; expanded quiet left path, functional stall structure retained, no clock board or mascot."
+  }
+}

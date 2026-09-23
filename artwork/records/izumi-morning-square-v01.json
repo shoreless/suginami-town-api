@@ -1,0 +1,20 @@
+{
+  "id": "izumi-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "izumi",
+  "path": "sources/backgrounds/izumi/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2914717,
+  "sha256": "14df20e99a81fe7c2712b9ece20ec507fcdf5cd7470865272e227d47bd37c957",
+  "prompt": "prompts/izumi-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/izumi/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-b0e60f76-52f3-4a0e-b7ae-9958df88e693.png",
+  "visual_review": "Individually viewed: stable Okinawan roof/shisa and shop composition, distinct phase lighting; exterior daytime lantern unlit, night interior subdued. No mascot, clock boards or live UI. Collection draft."
+}

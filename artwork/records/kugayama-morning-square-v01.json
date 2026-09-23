@@ -1,0 +1,20 @@
+{
+  "id": "kugayama-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "kugayama",
+  "path": "sources/backgrounds/kugayama/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3129289,
+  "sha256": "4820fb388fc9277a5ed93a43d1056b9c9ee74d5b671d03f28ac3de36cb41f33d",
+  "prompt": "prompts/kugayama-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/kugayama/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-13f18f2f-5cfb-4071-9572-48a9f8c808c0.png",
+  "visual_review": "Reviewed: clean riverside square with preserved bridge, houses, hydrangeas and stone landing; low sunrise and bright blue sky distinguish morning. No board, mascot or text."
+}

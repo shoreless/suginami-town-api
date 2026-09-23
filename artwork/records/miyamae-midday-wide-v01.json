@@ -1,0 +1,20 @@
+{
+  "id": "miyamae-midday-wide-v01",
+  "phase": "midday",
+  "shape": "wide",
+  "neighborhood": "miyamae",
+  "path": "sources/backgrounds/miyamae/midday/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3446420,
+  "sha256": "1e71e6a73d8245aaa30f445797cdc2d60de854da405605d5551c7d93c8377ff6",
+  "prompt": "prompts/miyamae-midday-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/miyamae/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-467345fd-f54a-4b29-9299-5d681ea22ed5.png",
+  "visual_review": "Visually reviewed: Woodland stream, stepping stones, playground, bench and path retain a coherent landmark layout. Bright blue sky, green foliage and neutral daylight read clearly as midday. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+}

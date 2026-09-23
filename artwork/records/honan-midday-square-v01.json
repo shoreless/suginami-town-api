@@ -1,0 +1,20 @@
+{
+  "id": "honan-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "honan",
+  "path": "sources/backgrounds/honan/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3040358,
+  "sha256": "f12f04702fbda50246b20b8b113591703563271d9b3c90807ea270aa9c66e62f",
+  "prompt": "prompts/honan-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/honan/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-2556a6f3-792c-46ad-847b-f688d26c6c43.png",
+  "visual_review": "Individually viewed: stable shop framing and objects, distinct phase lighting; external daytime lamps off, night shop dark. No mascot, clock boards or live UI. Wada midday retains subtle interior lamp highlights. Collection draft."
+}

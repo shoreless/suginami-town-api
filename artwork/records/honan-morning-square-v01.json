@@ -1,0 +1,20 @@
+{
+  "id": "honan-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "honan",
+  "path": "sources/backgrounds/honan/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2897511,
+  "sha256": "21b98c1ac70b1cf80b241b453e6a5a4e74fa14784c46d874a7ab7ebc9dd0035f",
+  "prompt": "prompts/honan-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/honan/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-299ab63a-0132-4427-8c36-78fe351396cb.png",
+  "visual_review": "Individually viewed: stable shop framing and objects, distinct phase lighting; external daytime lamps off, night shop dark. No mascot, clock boards or live UI. Wada midday retains subtle interior lamp highlights. Collection draft."
+}

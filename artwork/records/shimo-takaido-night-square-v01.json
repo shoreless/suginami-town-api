@@ -1,0 +1,20 @@
+{
+  "id": "shimo-takaido-night-square-v01",
+  "phase": "night",
+  "shape": "square",
+  "neighborhood": "shimo-takaido",
+  "path": "sources/backgrounds/shimo-takaido/night/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2682188,
+  "sha256": "c7bc538e17c62f0d47bc9c805db49bfd9987a6f0affdcd99556c3023c62d991b",
+  "prompt": "prompts/shimo-takaido-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/shimo-takaido/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-43ffdabc-e79b-4878-98be-024c1fd1bb48.png",
+  "visual_review": "Visually reviewed: Park lawn, pavilion, bench, lamps, residential skyline and open foreground retain the supplied composition. Deep navy sky, moonlit foreground, cool foliage and localized warm lamps clearly establish night. No people, mascot, clock board, name plaque, readable text or UI."
+}

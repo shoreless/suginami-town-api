@@ -1,0 +1,20 @@
+{
+  "id": "horinouchi-umezato-evening-square-v01",
+  "path": "sources/backgrounds/horinouchi-umezato/evening/square-v01.png",
+  "neighborhood": "horinouchi-umezato",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "b2ec23b61e57c753a80b5b9b1f41a8a764a4dfb6d234771cb283a1d2c235e5a6",
+  "bytes": 2738483,
+  "prompt": "prompts/horinouchi-umezato-evening-square-v01.txt",
+  "references": [
+    "references/horinouchi-umezato-evening-legacy.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-7f699057-bed2-4d89-ae79-4695fdbee5cb.png",
+  "visual_review": "Individually viewed: board, plaque, sign supports and Namisuke removed; neighborhood landmark retained, natural reconstruction and clear foreground. Small product markings are incidental painting detail, not live UI. Collection draft; native legibility still to test."
+}

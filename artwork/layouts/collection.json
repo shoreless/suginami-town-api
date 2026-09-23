@@ -1,0 +1,1252 @@
+{
+  "schema_version": 1,
+  "status": "design-prototype-not-client-api",
+  "phase_order": [
+    "morning",
+    "midday",
+    "evening",
+    "night"
+  ],
+  "colors": {
+    "cream": "#fff2d7",
+    "ink": "#102d29",
+    "accent": "#b75e43"
+  },
+  "typography": {
+    "family": "Georgia, \"Yu Mincho\", \"Hiragino Mincho ProN\", serif",
+    "weight": 400,
+    "opacity": 0.95,
+    "name_order": [
+      "ja",
+      "en"
+    ]
+  },
+  "surfaces": {
+    "watch": {
+      "label": "Round watch",
+      "aspect": 1,
+      "radius": "50%",
+      "background": "square",
+      "focal_point": [
+        0.5,
+        0.5
+      ],
+      "character": {
+        "x": 0.5,
+        "bottom": 0.12,
+        "width": 0.34
+      },
+      "information": {
+        "x": 0.18,
+        "y": 0.16,
+        "width": 0.64,
+        "align": "center"
+      },
+      "clock_size": 0.22
+    },
+    "square": {
+      "label": "Square widget",
+      "aspect": 1,
+      "radius": "12%",
+      "background": "square",
+      "focal_point": [
+        0.5,
+        0.5
+      ],
+      "character": {
+        "x": 0.73,
+        "bottom": 0.065,
+        "width": 0.36
+      },
+      "information": {
+        "x": 0.08,
+        "y": 0.085,
+        "width": 0.78,
+        "align": "left"
+      },
+      "clock_size": 0.23
+    },
+    "wide": {
+      "label": "Wide widget",
+      "aspect": 2,
+      "radius": "24px",
+      "background": "wide",
+      "focal_point": [
+        0.5,
+        0.55
+      ],
+      "character": {
+        "x": 0.79,
+        "bottom": 0.07,
+        "width": 0.255
+      },
+      "information": {
+        "x": 0.07,
+        "y": 0.17,
+        "width": 0.49,
+        "align": "left"
+      },
+      "clock_size": 0.14
+    }
+  },
+  "summary": {
+    "neighborhoods": 23,
+    "phases": 4,
+    "backgrounds_available": 184,
+    "backgrounds_expected": 184,
+    "backgrounds_missing": [],
+    "characters_missing": []
+  },
+  "scenes": [
+    {
+      "id": "nishi-ogikubo",
+      "name": {
+        "ja": "西荻窪",
+        "en": "Nishi-Ogikubo"
+      },
+      "description": "Books and ceramics",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/nishi-ogikubo/morning/square-v01.png",
+            "wide": "sources/backgrounds/nishi-ogikubo/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/nishi-ogikubo/midday/square-v01.png",
+            "wide": "sources/backgrounds/nishi-ogikubo/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/nishi-ogikubo/evening/square-v01.png",
+            "wide": "sources/backgrounds/nishi-ogikubo/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/nishi-ogikubo/night/square-v01.png",
+            "wide": "sources/backgrounds/nishi-ogikubo/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "koenji",
+      "name": {
+        "ja": "高円寺",
+        "en": "Kōenji"
+      },
+      "description": "Record-shop evening",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/koenji/morning/square-v01.png",
+            "wide": "sources/backgrounds/koenji/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/koenji/midday/square-v01.png",
+            "wide": "sources/backgrounds/koenji/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/koenji/evening/square-v01.png",
+            "wide": "sources/backgrounds/koenji/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/koenji/night/square-v01.png",
+            "wide": "sources/backgrounds/koenji/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "asagaya",
+      "name": {
+        "ja": "阿佐ヶ谷",
+        "en": "Asagaya"
+      },
+      "description": "Leafy café",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/asagaya/morning/square-v01.png",
+            "wide": "sources/backgrounds/asagaya/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/asagaya/midday/square-v01.png",
+            "wide": "sources/backgrounds/asagaya/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/asagaya/evening/square-v01.png",
+            "wide": "sources/backgrounds/asagaya/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/asagaya/night/square-v01.png",
+            "wide": "sources/backgrounds/asagaya/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "ogikubo",
+      "name": {
+        "ja": "荻窪",
+        "en": "Ogikubo"
+      },
+      "description": "Ramen at dusk",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/ogikubo/morning/square-v01.png",
+            "wide": "sources/backgrounds/ogikubo/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/ogikubo/midday/square-v01.png",
+            "wide": "sources/backgrounds/ogikubo/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/ogikubo/evening/square-v01.png",
+            "wide": "sources/backgrounds/ogikubo/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/ogikubo/night/square-v01.png",
+            "wide": "sources/backgrounds/ogikubo/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "amanuma",
+      "name": {
+        "ja": "天沼",
+        "en": "Amanuma"
+      },
+      "description": "Bakery on the way home",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/amanuma/morning/square-v01.png",
+            "wide": "sources/backgrounds/amanuma/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/amanuma/midday/square-v01.png",
+            "wide": "sources/backgrounds/amanuma/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/amanuma/evening/square-v01.png",
+            "wide": "sources/backgrounds/amanuma/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/amanuma/night/square-v01.png",
+            "wide": "sources/backgrounds/amanuma/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "zenpukuji",
+      "name": {
+        "ja": "善福寺",
+        "en": "Zenpukuji"
+      },
+      "description": "Pond reflections",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/zenpukuji/morning/square-v01.png",
+            "wide": "sources/backgrounds/zenpukuji/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/zenpukuji/midday/square-v01.png",
+            "wide": "sources/backgrounds/zenpukuji/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/zenpukuji/evening/square-v01.png",
+            "wide": "sources/backgrounds/zenpukuji/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/zenpukuji/night/square-v01.png",
+            "wide": "sources/backgrounds/zenpukuji/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "momoi-imagawa",
+      "name": {
+        "ja": "桃井",
+        "en": "Momoi / Imagawa"
+      },
+      "description": "Open evening sky",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/momoi-imagawa/morning/square-v01.png",
+            "wide": "sources/backgrounds/momoi-imagawa/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/momoi-imagawa/midday/square-v01.png",
+            "wide": "sources/backgrounds/momoi-imagawa/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/momoi-imagawa/evening/square-v01.png",
+            "wide": "sources/backgrounds/momoi-imagawa/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/momoi-imagawa/night/square-v01.png",
+            "wide": "sources/backgrounds/momoi-imagawa/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "kami-igusa",
+      "name": {
+        "ja": "上井草",
+        "en": "Kami-Igusa"
+      },
+      "description": "Animation workroom",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kami-igusa/morning/square-v01.png",
+            "wide": "sources/backgrounds/kami-igusa/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kami-igusa/midday/square-v01.png",
+            "wide": "sources/backgrounds/kami-igusa/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kami-igusa/evening/square-v01.png",
+            "wide": "sources/backgrounds/kami-igusa/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kami-igusa/night/square-v01.png",
+            "wide": "sources/backgrounds/kami-igusa/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "igusa",
+      "name": {
+        "ja": "井草",
+        "en": "Igusa / Iogi / Shimo-Igusa"
+      },
+      "description": "Vegetable stand",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/igusa/morning/square-v01.png",
+            "wide": "sources/backgrounds/igusa/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/igusa/midday/square-v01.png",
+            "wide": "sources/backgrounds/igusa/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/igusa/evening/square-v01.png",
+            "wide": "sources/backgrounds/igusa/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/igusa/night/square-v01.png",
+            "wide": "sources/backgrounds/igusa/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "shimizu",
+      "name": {
+        "ja": "清水",
+        "en": "Shimizu"
+      },
+      "description": "Small pond and fountain",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/shimizu/morning/square-v01.png",
+            "wide": "sources/backgrounds/shimizu/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/shimizu/midday/square-v01.png",
+            "wide": "sources/backgrounds/shimizu/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/shimizu/evening/square-v01.png",
+            "wide": "sources/backgrounds/shimizu/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/shimizu/night/square-v01.png",
+            "wide": "sources/backgrounds/shimizu/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "narita",
+      "name": {
+        "ja": "成田",
+        "en": "Narita"
+      },
+      "description": "River bend",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/narita/morning/square-v01.png",
+            "wide": "sources/backgrounds/narita/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/narita/midday/square-v01.png",
+            "wide": "sources/backgrounds/narita/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/narita/evening/square-v01.png",
+            "wide": "sources/backgrounds/narita/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/narita/night/square-v01.png",
+            "wide": "sources/backgrounds/narita/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "omiya-matsunoki",
+      "name": {
+        "ja": "大宮",
+        "en": "Ōmiya / Matsunoki"
+      },
+      "description": "Shrine approach",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/omiya-matsunoki/morning/square-v01.png",
+            "wide": "sources/backgrounds/omiya-matsunoki/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/omiya-matsunoki/midday/square-v01.png",
+            "wide": "sources/backgrounds/omiya-matsunoki/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/omiya-matsunoki/evening/square-v01.png",
+            "wide": "sources/backgrounds/omiya-matsunoki/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/omiya-matsunoki/night/square-v01.png",
+            "wide": "sources/backgrounds/omiya-matsunoki/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "horinouchi-umezato",
+      "name": {
+        "ja": "堀ノ内",
+        "en": "Horinouchi / Umezato"
+      },
+      "description": "Sweets on a temple street",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/horinouchi-umezato/morning/square-v01.png",
+            "wide": "sources/backgrounds/horinouchi-umezato/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/horinouchi-umezato/midday/square-v01.png",
+            "wide": "sources/backgrounds/horinouchi-umezato/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/horinouchi-umezato/evening/square-v01.png",
+            "wide": "sources/backgrounds/horinouchi-umezato/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/horinouchi-umezato/night/square-v01.png",
+            "wide": "sources/backgrounds/horinouchi-umezato/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "wada",
+      "name": {
+        "ja": "和田",
+        "en": "Wada"
+      },
+      "description": "Art-shop window",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/wada/morning/square-v01.png",
+            "wide": "sources/backgrounds/wada/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/wada/midday/square-v01.png",
+            "wide": "sources/backgrounds/wada/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/wada/evening/square-v01.png",
+            "wide": "sources/backgrounds/wada/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/wada/night/square-v01.png",
+            "wide": "sources/backgrounds/wada/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "honan",
+      "name": {
+        "ja": "方南",
+        "en": "Hōnan"
+      },
+      "description": "Evening shopping street",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/honan/morning/square-v01.png",
+            "wide": "sources/backgrounds/honan/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/honan/midday/square-v01.png",
+            "wide": "sources/backgrounds/honan/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/honan/evening/square-v01.png",
+            "wide": "sources/backgrounds/honan/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/honan/night/square-v01.png",
+            "wide": "sources/backgrounds/honan/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "izumi",
+      "name": {
+        "ja": "和泉",
+        "en": "Izumi / Daitabashi side"
+      },
+      "description": "Okinawa Town alley",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/izumi/morning/square-v01.png",
+            "wide": "sources/backgrounds/izumi/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/izumi/midday/square-v01.png",
+            "wide": "sources/backgrounds/izumi/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/izumi/evening/square-v01.png",
+            "wide": "sources/backgrounds/izumi/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/izumi/night/square-v01.png",
+            "wide": "sources/backgrounds/izumi/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "eifuku",
+      "name": {
+        "ja": "永福",
+        "en": "Eifuku / Nishi-Eifuku"
+      },
+      "description": "Noodle-shop doorway",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/eifuku/morning/square-v01.png",
+            "wide": "sources/backgrounds/eifuku/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/eifuku/midday/square-v01.png",
+            "wide": "sources/backgrounds/eifuku/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/eifuku/evening/square-v01.png",
+            "wide": "sources/backgrounds/eifuku/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/eifuku/night/square-v01.png",
+            "wide": "sources/backgrounds/eifuku/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "hamadayama",
+      "name": {
+        "ja": "浜田山",
+        "en": "Hamadayama"
+      },
+      "description": "Meadow and garden pond",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/hamadayama/morning/square-v01.png",
+            "wide": "sources/backgrounds/hamadayama/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/hamadayama/midday/square-v01.png",
+            "wide": "sources/backgrounds/hamadayama/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/hamadayama/evening/square-v01.png",
+            "wide": "sources/backgrounds/hamadayama/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/hamadayama/night/square-v01.png",
+            "wide": "sources/backgrounds/hamadayama/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "takaido-fujimigaoka",
+      "name": {
+        "ja": "高井戸",
+        "en": "Takaido / Fujimigaoka"
+      },
+      "description": "River and railway",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/takaido-fujimigaoka/morning/square-v01.png",
+            "wide": "sources/backgrounds/takaido-fujimigaoka/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/takaido-fujimigaoka/midday/square-v01.png",
+            "wide": "sources/backgrounds/takaido-fujimigaoka/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/takaido-fujimigaoka/evening/square-v01.png",
+            "wide": "sources/backgrounds/takaido-fujimigaoka/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/takaido-fujimigaoka/night/square-v01.png",
+            "wide": "sources/backgrounds/takaido-fujimigaoka/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "kugayama",
+      "name": {
+        "ja": "久我山",
+        "en": "Kugayama"
+      },
+      "description": "Summer waterway",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kugayama/morning/square-v01.png",
+            "wide": "sources/backgrounds/kugayama/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kugayama/midday/square-v01.png",
+            "wide": "sources/backgrounds/kugayama/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kugayama/evening/square-v01.png",
+            "wide": "sources/backgrounds/kugayama/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kugayama/night/square-v01.png",
+            "wide": "sources/backgrounds/kugayama/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "miyamae",
+      "name": {
+        "ja": "宮前",
+        "en": "Miyamae"
+      },
+      "description": "Hidden woodland stream",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/miyamae/morning/square-v01.png",
+            "wide": "sources/backgrounds/miyamae/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/miyamae/midday/square-v01.png",
+            "wide": "sources/backgrounds/miyamae/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/miyamae/evening/square-v01.png",
+            "wide": "sources/backgrounds/miyamae/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/miyamae/night/square-v01.png",
+            "wide": "sources/backgrounds/miyamae/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "kami-takaido",
+      "name": {
+        "ja": "上高井戸",
+        "en": "Kami-Takaido / Hachimanyama side"
+      },
+      "description": "Produce behind the garden fence",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kami-takaido/morning/square-v01.png",
+            "wide": "sources/backgrounds/kami-takaido/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kami-takaido/midday/square-v01.png",
+            "wide": "sources/backgrounds/kami-takaido/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kami-takaido/evening/square-v01.png",
+            "wide": "sources/backgrounds/kami-takaido/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/kami-takaido/night/square-v01.png",
+            "wide": "sources/backgrounds/kami-takaido/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    },
+    {
+      "id": "shimo-takaido",
+      "name": {
+        "ja": "下高井戸",
+        "en": "Shimo-Takaido / Sakurajōsui side"
+      },
+      "description": "Lawn beneath a wide sky",
+      "phases": {
+        "morning": {
+          "backgrounds": {
+            "square": "sources/backgrounds/shimo-takaido/morning/square-v01.png",
+            "wide": "sources/backgrounds/shimo-takaido/morning/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "midday": {
+          "backgrounds": {
+            "square": "sources/backgrounds/shimo-takaido/midday/square-v01.png",
+            "wide": "sources/backgrounds/shimo-takaido/midday/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-daylight-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "evening": {
+          "backgrounds": {
+            "square": "sources/backgrounds/shimo-takaido/evening/square-v01.png",
+            "wide": "sources/backgrounds/shimo-takaido/evening/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_requested": "sources/characters/namisuke/awake-evening-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        },
+        "night": {
+          "backgrounds": {
+            "square": "sources/backgrounds/shimo-takaido/night/square-v01.png",
+            "wide": "sources/backgrounds/shimo-takaido/night/wide-v01.png"
+          },
+          "character": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_requested": "sources/characters/namisuke/sleepy-night-v01.png",
+          "character_fallback": false,
+          "missing_backgrounds": []
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "honan-morning-wide-v01",
+  "phase": "morning",
+  "shape": "wide",
+  "neighborhood": "honan",
+  "path": "sources/backgrounds/honan/morning/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3110987,
+  "sha256": "5a6a5bbb4cebfd3ce9d48c4898206f08d26f2681d294e027b0bed326fcf24170",
+  "prompt": "prompts/honan-morning-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/honan/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-cb20b65d-9649-4cf3-927c-6711ba4d1c7c.png",
+  "visual_review": "Individually viewed: stable shop framing and produce, distinct phase lighting; daytime external lamps off, night shop dark and street lights remain. No mascot, clock boards or live UI. Collection draft."
+}

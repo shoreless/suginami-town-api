@@ -1,0 +1,20 @@
+{
+  "id": "wada-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "wada",
+  "path": "sources/backgrounds/wada/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3088314,
+  "sha256": "856b8a3a26e510f0426eb114272f05dd2c43390097eb1531241d635003f32a99",
+  "prompt": "prompts/wada-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/wada/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-92635e5f-35c1-4076-8b30-2d609d231c6b.png",
+  "visual_review": "Individually viewed: stable art-shop framing and objects, distinct phase lighting; daytime external lamps off, night shop dark. No mascot, clock boards or live UI. Collection draft."
+}

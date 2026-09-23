@@ -1,0 +1,23 @@
+{
+  "id": "ogikubo-morning-wide-v01",
+  "path": "sources/backgrounds/ogikubo/morning/wide-v01.png",
+  "neighborhood": "ogikubo",
+  "phase": "morning",
+  "shape": "wide",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "6672dbb4fe9246ed27362904dd91cc6dadd0a7898bfd324b7a1b0074470daba1",
+  "bytes": 3186962,
+  "prompt": "prompts/ogikubo-morning-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/ogikubo/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-e26dca8d-4d41-4692-82ee-7835b58209f9.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: distinct phase lighting, recognizable scene geometry and clean separate-layer backdrop retained. No mascot or clock board. Native surface cropping and final text contrast remain consumer integration checks."
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ogikubo-night-square-v01",
+  "path": "sources/backgrounds/ogikubo/night/square-v01.png",
+  "neighborhood": "ogikubo",
+  "phase": "night",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "5b799af432a482e0bfc62f16754f5aec905c6f97a6c2177d12ba746b2499b92c",
+  "bytes": 2415995,
+  "prompt": "prompts/ogikubo-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/ogikubo/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-aec30f72-b855-4326-bd01-4dc43caf8494.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: distinct phase lighting, recognizable scene geometry and clean separate-layer backdrop retained. No mascot or clock board. Native surface cropping and final text contrast remain consumer integration checks."
+  }
+}

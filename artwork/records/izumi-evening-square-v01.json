@@ -1,0 +1,20 @@
+{
+  "id": "izumi-evening-square-v01",
+  "phase": "evening",
+  "shape": "square",
+  "neighborhood": "izumi",
+  "path": "sources/backgrounds/izumi/evening/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2693149,
+  "sha256": "d827b4e67668bb66025b9db3a7162898741c20d7af98de9525fec3f811d8d1ba",
+  "prompt": "prompts/izumi-evening-square-v01.txt",
+  "references": [
+    "references/izumi-evening-legacy.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-dc065e5a-f056-480b-b8b1-ab6dc498a8b0.png",
+  "visual_review": "Individually viewed: clean evening scene retains landmark/shop identity; large clock board and name plaque removed, no mascot or live UI baked in, foreground clear. Minor incidental product/art marks may remain. Collection draft."
+}

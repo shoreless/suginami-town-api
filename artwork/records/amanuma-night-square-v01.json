@@ -1,0 +1,23 @@
+{
+  "id": "amanuma-night-square-v01",
+  "path": "sources/backgrounds/amanuma/night/square-v01.png",
+  "neighborhood": "amanuma",
+  "phase": "night",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "cddff170ef9039117c7daa649be7e51ffd1650b745256696b75a8564896ab625",
+  "bytes": 2495708,
+  "prompt": "prompts/amanuma-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/amanuma/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-628c5113-8a72-4d8e-b407-f5eb35d72081.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: bakery facade, bread display, bicycle and blue striped awning retained; phase lighting changes natural and visible, no clock board or mascot. Native final text contrast remains consumer integration check."
+  }
+}

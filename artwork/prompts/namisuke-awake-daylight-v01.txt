@@ -1,0 +1,5 @@
+Use case: identity-preserve.
+Asset type: reusable transparent PNG mascot layer.
+Input 1 is approved Namisuke cutout and edit target. Keep exactly the same awake expression, eyes, smile, pose, silhouette, proportions and three visible legs. Adjust only the lighting to neutral soft daylight: cream face, bright lime body, deep forest-green dorsal fins. Remove the evening yellow color cast and any glow outside the outline. No harsh directional shadow.
+One complete Namisuke only, centered in the same landscape framing with transparent margin on all sides; every leg and fin fully visible.
+Genuine transparent alpha background, empty all around the character. No scene, floor, cast/contact shadow, outer glow, white/black matte, checkerboard pixels, letters, border or sticker outline. Preserve the approved character identity, not a redesign. Single image.

@@ -1,0 +1,20 @@
+{
+  "id": "hamadayama-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "hamadayama",
+  "path": "sources/backgrounds/hamadayama/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3368452,
+  "sha256": "ece50b960810b11d3076ee501b25f957a4b86c6eba5ada29da4b86e9b634a457",
+  "prompt": "prompts/hamadayama-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/hamadayama/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-523cc5b0-55f8-4a7e-a30d-9cc7d3e0245a.png",
+  "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; morning lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "takaido-fujimigaoka-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "takaido-fujimigaoka",
+  "path": "sources/backgrounds/takaido-fujimigaoka/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3325875,
+  "sha256": "f04f00ecfa1d170071cf0de8a51d58c900d151bd20466a13d47400c72bed6347",
+  "prompt": "prompts/takaido-fujimigaoka-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/takaido-fujimigaoka/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-40bd9169-243e-45b8-9d03-fed94f27e5f4.png",
+  "visual_review": "Visually reviewed: Railway bridge, green-striped train, chimney, river embankment, flowered footpath and railings remain coherent in the scene. Bright blue sky, green foliage and neutral daylight read clearly as midday. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+}

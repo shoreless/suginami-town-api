@@ -1,0 +1,23 @@
+{
+  "id": "amanuma-evening-square-v01",
+  "path": "sources/backgrounds/amanuma/evening/square-v01.png",
+  "neighborhood": "amanuma",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "4b92ff43b4878b35aed5ebba86b10b5e818ba7108037b21a6b5ad3835463ef61",
+  "bytes": 2837243,
+  "prompt": "prompts/amanuma-evening-square-v01.txt",
+  "references": [
+    "references/amanuma-evening-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-9797fcfc-96da-4187-8d2c-ab6344ad89e3.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually viewed: mascot and oversized clock board removed, recognizable shop identity and evening painting style preserved, clear foreground. Native crops and text contrast remain review work."
+  }
+}

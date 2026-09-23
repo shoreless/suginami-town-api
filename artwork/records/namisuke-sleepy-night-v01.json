@@ -1,0 +1,23 @@
+{
+  "id": "namisuke-sleepy-night-v01",
+  "phase": "night",
+  "path": "sources/characters/namisuke/sleepy-night-v01.png",
+  "width": 1536,
+  "height": 1024,
+  "mode": "RGBA",
+  "bytes": 1225077,
+  "sha256": "e9ffebcd32cd692e054191e0f5b2560125fa905fec0b35182c1d9c036584fb2f",
+  "prompt": "prompts/namisuke-sleepy-night-v01.txt",
+  "references": [
+    "sources/characters/namisuke/awake-evening-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-c122172e-e280-41a9-8d84-e2aa0f8e4395.png",
+  "visual_review": "Reviewed: complete matching Namisuke silhouette and anatomy, closed sleepy eyelids with retained smile and softly dimmed colors; genuine alpha preserved unchanged. Slight soft edge halo remains from the approved reference.",
+  "alpha_extrema": [
+    0,
+    254
+  ],
+  "fully_transparent_pixels": 844879
+}

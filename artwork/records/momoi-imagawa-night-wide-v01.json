@@ -1,0 +1,23 @@
+{
+  "id": "momoi-imagawa-night-wide-v01",
+  "path": "sources/backgrounds/momoi-imagawa/night/wide-v01.png",
+  "neighborhood": "momoi-imagawa",
+  "phase": "night",
+  "shape": "wide",
+  "references": [
+    "sources/backgrounds/momoi-imagawa/evening/wide-v01.png"
+  ],
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "c55cc2f6b97887986b6788e4919cf3cf8cb3dc7d42655128748ea7d5ecff2d71",
+  "bytes": 2579803,
+  "prompt": "prompts/momoi-imagawa-night-wide-v01.txt",
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-7437ef77-e5fb-4643-8173-8ea991622ac5.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: meadow, central/edge bench with rolled blanket, tree, path, houses and framing preserved; distinct night lighting. Foreground lantern unlit during day, warm illumination at night. Clean backdrop without mascot, clock board or rendered text."
+  }
+}

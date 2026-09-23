@@ -1,0 +1,23 @@
+{
+  "id": "zenpukuji-evening-wide-v01",
+  "path": "sources/backgrounds/zenpukuji/evening/wide-v01.png",
+  "neighborhood": "zenpukuji",
+  "phase": "evening",
+  "shape": "wide",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "c9233948a502de5f455cd687d773027ab5eef997e44cce85440056cd3a685948",
+  "bytes": 3276436,
+  "prompt": "prompts/zenpukuji-evening-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/zenpukuji/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-53e10e45-80a2-4e2c-86fd-bb4a53124b02.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: expanded wide evening scene retains its key landscape/shop identity and clear foreground, no mascot or clock board. Left context suitable for separate time overlay with UI scrim."
+  }
+}

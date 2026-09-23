@@ -1,0 +1,23 @@
+{
+  "id": "amanuma-midday-wide-v01",
+  "path": "sources/backgrounds/amanuma/midday/wide-v01.png",
+  "neighborhood": "amanuma",
+  "phase": "midday",
+  "shape": "wide",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "8f8431397f18193cbf957d78ffd4426e4d322dde8b2397f9dc7f1f901305cec5",
+  "bytes": 3244211,
+  "prompt": "prompts/amanuma-midday-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/amanuma/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-85786181-1733-49fd-a39b-dcd067b9f5c4.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: bakery facade, bread display, bicycle and blue striped awning retained; phase lighting changes natural and visible, no clock board or mascot. Native final text contrast remains consumer integration check."
+  }
+}

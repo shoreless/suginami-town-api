@@ -1,0 +1,20 @@
+{
+  "id": "omiya-matsunoki-night-square-v01",
+  "phase": "night",
+  "shape": "square",
+  "neighborhood": "omiya-matsunoki",
+  "path": "sources/backgrounds/omiya-matsunoki/night/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2980958,
+  "sha256": "6b463272637416f8b97cc7c8a28884db792c2299a215cd299b56f9d6527fbd09",
+  "prompt": "prompts/omiya-matsunoki-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/omiya-matsunoki/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-7ec07ee2-89e1-4d5a-bf3d-576daeb910ff.png",
+  "visual_review": "Individually viewed: scene framing and landmark remain consistent with evening target; phase lighting is distinct, daytime lamps off and night cool with restrained lights. No characters, boards or UI. Collection draft."
+}

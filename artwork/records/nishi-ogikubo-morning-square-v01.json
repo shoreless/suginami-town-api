@@ -1,0 +1,20 @@
+{
+  "id": "nishi-ogikubo-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "nishi-ogikubo",
+  "path": "sources/backgrounds/nishi-ogikubo/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2877469,
+  "sha256": "305b32220f59748cad061be18ca89a8e074bfa9544344a16a07ddc045d3f9310",
+  "prompt": "prompts/nishi-ogikubo-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/nishi-ogikubo/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-30980701-1274-4f42-bf2b-a982143fcdc0.png",
+  "visual_review": "Reviewed: low morning sunlight on retained blue-green bookshop, ceramics, bicycle and plants; clean landing. No clock board, name plaque or character."
+}

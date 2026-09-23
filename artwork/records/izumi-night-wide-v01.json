@@ -1,0 +1,20 @@
+{
+  "id": "izumi-night-wide-v01",
+  "phase": "night",
+  "shape": "wide",
+  "neighborhood": "izumi",
+  "path": "sources/backgrounds/izumi/night/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 2663770,
+  "sha256": "2f9d7b90d854a6ccf98f3f05ccdf69975f56c2f47aa182ff9ab5693e463c8076",
+  "prompt": "prompts/izumi-night-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/izumi/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-a1e635b1-6d85-4bf0-9d8c-aeef330df52c.png",
+  "visual_review": "Individually viewed: navy moonlit night, subdued shop interior and sparse warm lantern/window lights. Roof guardians, shop windows, river, paving and framing preserved. No mascot or clock UI baked in. Collection draft."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "igusa-midday-wide-v01",
+  "path": "sources/backgrounds/igusa/midday/wide-v01.png",
+  "neighborhood": "igusa",
+  "phase": "midday",
+  "shape": "wide",
+  "references": [
+    "sources/backgrounds/igusa/evening/wide-v01.png"
+  ],
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "a433b517334af5d4e7959a54e3e63421653988500ad16791e04682c2ceac638a",
+  "bytes": 3476380,
+  "prompt": "prompts/igusa-midday-wide-v01.txt",
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-d97af187-57b0-4cbf-a229-eeb99d478deb.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: vegetable stall, roof and supports, produce crates, garden rows and passing train remain recognizable; midday lighting distinct. No clock board, mascot or readable text. Daylit scene with foreground stall lamp unlit."
+  }
+}

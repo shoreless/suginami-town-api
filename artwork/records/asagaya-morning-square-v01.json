@@ -1,0 +1,20 @@
+{
+  "id": "asagaya-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "asagaya",
+  "path": "sources/backgrounds/asagaya/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3027962,
+  "sha256": "66ecf56eb21b74abc8eca6c75e6cc689cc6ad8f997257e2867f7ce8609163df4",
+  "prompt": "prompts/asagaya-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/asagaya/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-5fe3ca1f-2cfe-4601-9e02-71b5e7aec6d5.png",
+  "visual_review": "Reviewed: low warm morning light and lamps off; retained cafe, stools, cups, jazz poster and bicycle and square framing. No clock board, name plaque or mascot."
+}

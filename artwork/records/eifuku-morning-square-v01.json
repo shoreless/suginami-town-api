@@ -1,0 +1,20 @@
+{
+  "id": "eifuku-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "eifuku",
+  "path": "sources/backgrounds/eifuku/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2806251,
+  "sha256": "cac0c415c4354047652e27c480e89d3c91fc7b62ac703626dc4970e484db83eb",
+  "prompt": "prompts/eifuku-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/eifuku/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-c1f44f27-0783-4e70-a70a-4b6836f4c299.png",
+  "visual_review": "Individually viewed: morning lighting has pale blue sky, low warm sunlight and unlit lamps. Shop doorway, window, bowl, bench, foliage and camera match evening source. No mascot or live UI baked in. Incidental decorative wall marks remain from source. Collection draft."
+}

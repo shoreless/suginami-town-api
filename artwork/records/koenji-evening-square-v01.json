@@ -1,0 +1,23 @@
+{
+  "id": "koenji-evening-square-v01",
+  "path": "sources/backgrounds/koenji/evening/square-v01.png",
+  "neighborhood": "koenji",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "215348260a68594af0a268de9787584e1d7716468ec18cebd77e0958ebf7f18a",
+  "bytes": 2819373,
+  "prompt": "prompts/koenji-evening-square-v01.txt",
+  "references": [
+    "references/koenji-evening-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-976d7046-ae19-4fc6-9ba5-4eeb4c3c2d77.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually viewed: mascot and oversized clock board removed, recognizable shop identity and evening painting style preserved, clear foreground. Native crops and text contrast remain review work."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "asagaya-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "asagaya",
+  "path": "sources/backgrounds/asagaya/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3066627,
+  "sha256": "a9cb909474905e854b5ed782def091547d317a36d749650321dd13452ed1aa1c",
+  "prompt": "prompts/asagaya-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/asagaya/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-aa724a94-f02b-40b9-8b9f-f5d0866070a3.png",
+  "visual_review": "Reviewed: neutral midday sunshine and lamps off; retained cafe, stools, cups, jazz poster and bicycle and square framing. No clock board, name plaque or mascot."
+}

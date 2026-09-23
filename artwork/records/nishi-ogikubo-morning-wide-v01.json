@@ -1,0 +1,20 @@
+{
+  "id": "nishi-ogikubo-morning-wide-v01",
+  "phase": "morning",
+  "shape": "wide",
+  "neighborhood": "nishi-ogikubo",
+  "path": "sources/backgrounds/nishi-ogikubo/morning/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3115981,
+  "sha256": "f56787d41d5cb78893f2d02c852af70287599b5161605396b508885de7cc929d",
+  "prompt": "prompts/nishi-ogikubo-morning-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/nishi-ogikubo/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-452b5253-0cb0-445a-9ba5-1ad1dd11532e.png",
+  "visual_review": "Reviewed: low warm sun, fresh foliage and long shadows on the retained wide bookshop, ceramics and bicycle scene. No clock board, character or name plaque."
+}

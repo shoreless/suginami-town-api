@@ -1,0 +1,20 @@
+{
+  "id": "miyamae-evening-square-v01",
+  "path": "sources/backgrounds/miyamae/evening/square-v01.png",
+  "neighborhood": "miyamae",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3109733,
+  "sha256": "fc8a318cc1035e9799a052180f4a38ecd066615f41814740e5c1a9a12533c231",
+  "prompt": "prompts/miyamae-evening-square-v01.txt",
+  "references": [
+    "references/miyamae-evening-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-a26d13d2-b43e-421d-88cb-0cb02888d2ad.png",
+  "visual_review": "Visually reviewed: mascot, large clock board, its supports and neighborhood plaque removed; local landmarks, painterly evening palette and open foreground retained. No time/date/UI baked in."
+}

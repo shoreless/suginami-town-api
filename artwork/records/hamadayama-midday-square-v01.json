@@ -1,0 +1,20 @@
+{
+  "id": "hamadayama-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "hamadayama",
+  "path": "sources/backgrounds/hamadayama/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3435697,
+  "sha256": "001a1e9a55e8a8e2c8cfcfed48801586498d08232fe1b074c61cc5ac1b4adef8",
+  "prompt": "prompts/hamadayama-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/hamadayama/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-1e47c60f-15d1-48f6-a069-ce0d0b969807.png",
+  "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; midday lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+}

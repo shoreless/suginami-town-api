@@ -1,0 +1,20 @@
+{
+  "id": "honan-midday-wide-v01",
+  "phase": "midday",
+  "shape": "wide",
+  "neighborhood": "honan",
+  "path": "sources/backgrounds/honan/midday/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3263871,
+  "sha256": "7ef0783ec19d471f99922d21a1699c0c8e4d56e4a1d7cd35f6e92efff1191f5e",
+  "prompt": "prompts/honan-midday-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/honan/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-7cbf6f26-5466-4053-a121-1e9273a106d6.png",
+  "visual_review": "Individually viewed: stable shop framing and produce, distinct phase lighting; daytime external lamps off, night shop dark and street lights remain. No mascot, clock boards or live UI. Collection draft."
+}

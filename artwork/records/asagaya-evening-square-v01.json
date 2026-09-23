@@ -1,0 +1,23 @@
+{
+  "id": "asagaya-evening-square-v01",
+  "path": "sources/backgrounds/asagaya/evening/square-v01.png",
+  "neighborhood": "asagaya",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "7a9f43211eb4cee84310e8dd32ddd63decdfcec5b92f6a2307d07c8e97646f29",
+  "bytes": 2786064,
+  "prompt": "prompts/asagaya-evening-square-v01.txt",
+  "references": [
+    "references/asagaya-evening-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-cb511a84-265f-4f10-b92a-86b53d7e607f.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually viewed: mascot and oversized clock board removed, recognizable shop identity and evening painting style preserved, clear foreground. Native crops and text contrast remain review work."
+  }
+}

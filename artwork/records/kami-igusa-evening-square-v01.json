@@ -1,0 +1,23 @@
+{
+  "id": "kami-igusa-evening-square-v01",
+  "path": "sources/backgrounds/kami-igusa/evening/square-v01.png",
+  "neighborhood": "kami-igusa",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "8b21800fc23b6fb47e8d2821a93f647e51e7d56b80a20da9e1f4ac2a758c1741",
+  "bytes": 2765783,
+  "prompt": "prompts/kami-igusa-evening-square-v01.txt",
+  "references": [
+    "references/kami-igusa-evening-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-1aabe516-9b60-44a4-a6ed-b0b768f72c26.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: warmly lit animation studio with drawing desk, storyboard sheets, bench and bag; retained street architecture. Clock board, name plaque and mascot removed."
+  }
+}

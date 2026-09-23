@@ -1,0 +1,20 @@
+{
+  "id": "kami-takaido-midday-wide-v01",
+  "phase": "midday",
+  "shape": "wide",
+  "neighborhood": "kami-takaido",
+  "path": "sources/backgrounds/kami-takaido/midday/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3403895,
+  "sha256": "bfe6f5869a65cead5ebe97b6df45bfb1677c7b6c1354fa203075fd9e4d942a24",
+  "prompt": "prompts/kami-takaido-midday-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/kami-takaido/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-78f38cbb-2fa6-47d4-9227-d800be7e9e76.png",
+  "visual_review": "Visually reviewed: Produce stall, cucumber baskets, jars, trellis, watering can and residential lane remain coherent. Small blank price cards are retained as shop props; no readable lettering. Bright blue sky, green foliage and neutral daylight read clearly as midday. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer. Some distant street lamps remain faintly warm in daylight."
+}

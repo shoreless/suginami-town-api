@@ -1,0 +1,117 @@
+{
+  "schema_version": 1,
+  "phase": "evening",
+  "assets": [
+    {
+      "id": "kugayama-evening-square-v01",
+      "path": "sources/backgrounds/kugayama/evening/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "alpha_extrema": null,
+      "nonzero_alpha_bounds": null,
+      "fully_transparent_pixels": 0,
+      "bytes": 2972076,
+      "sha256": "68249cdcad34a4aed540119abb721552e0112120fea72ea04fba4103b410d7fc",
+      "prompt": "prompts/kugayama-evening-square-v01.txt",
+      "source_filename": "exec-ac5922af-43cc-40b2-8d7a-3f82d3e04b85.png",
+      "generator": "built-in image_gen",
+      "status": "first-pass-draft",
+      "references": [
+        "references/kugayama-evening-v01.png"
+      ],
+      "visual_review": "Clock board and mascot removed; neighborhood identity retained. Wide composition extends the scene rather than stretching the square."
+    },
+    {
+      "id": "kugayama-evening-wide-v01",
+      "path": "sources/backgrounds/kugayama/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "alpha_extrema": null,
+      "nonzero_alpha_bounds": null,
+      "fully_transparent_pixels": 0,
+      "bytes": 3255772,
+      "sha256": "47bc245e80058d8a8ad05812067d38327e9147b16da2d0d0d385c4fc64152ad4",
+      "prompt": "prompts/kugayama-evening-wide-v01.txt",
+      "source_filename": "exec-f4cf1fc8-e2e5-4ea2-b79d-4635879b4cdb.png",
+      "generator": "built-in image_gen",
+      "status": "first-pass-draft",
+      "references": [
+        "references/kugayama-evening-v01.png"
+      ],
+      "visual_review": "Clock board and mascot removed; neighborhood identity retained. Wide composition extends the scene rather than stretching the square."
+    },
+    {
+      "id": "nishi-ogikubo-evening-square-v01",
+      "path": "sources/backgrounds/nishi-ogikubo/evening/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "alpha_extrema": null,
+      "nonzero_alpha_bounds": null,
+      "fully_transparent_pixels": 0,
+      "bytes": 2735198,
+      "sha256": "c404df890c7987582535576e170de5f81a0f57826259b56c1a233656a3afd18d",
+      "prompt": "prompts/nishi-ogikubo-evening-square-v01.txt",
+      "source_filename": "exec-1fa5c81c-f0f0-4117-84ac-e9a73ee6e6e0.png",
+      "generator": "built-in image_gen",
+      "status": "first-pass-draft",
+      "references": [
+        "references/nishi-ogikubo-evening-v01.png"
+      ],
+      "visual_review": "Clock board and mascot removed; neighborhood identity retained. Wide composition extends the scene rather than stretching the square."
+    },
+    {
+      "id": "nishi-ogikubo-evening-wide-v01",
+      "path": "sources/backgrounds/nishi-ogikubo/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "alpha_extrema": null,
+      "nonzero_alpha_bounds": null,
+      "fully_transparent_pixels": 0,
+      "bytes": 2982276,
+      "sha256": "bec08b15a3a27e5c7e5b01586c9fc17d0178686972e6c7d62653ba697bfca44e",
+      "prompt": "prompts/nishi-ogikubo-evening-wide-v01.txt",
+      "source_filename": "exec-7855f0fe-9f32-4eeb-bce4-dea631081993.png",
+      "generator": "built-in image_gen",
+      "status": "first-pass-draft",
+      "references": [
+        "references/nishi-ogikubo-evening-v01.png"
+      ],
+      "visual_review": "Clock board and mascot removed; neighborhood identity retained. Wide composition extends the scene rather than stretching the square."
+    },
+    {
+      "id": "namisuke-awake-evening-v01",
+      "path": "sources/characters/namisuke/awake-evening-v01.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "nonzero_alpha_bounds": [
+        0,
+        35,
+        1456,
+        1024
+      ],
+      "fully_transparent_pixels": 847070,
+      "bytes": 1281517,
+      "sha256": "f3a0d32f8687f6e3e746cd78f97ad33672c67d199b7835298deee8e57507581b",
+      "prompt": "prompts/namisuke-awake-evening-v01.txt",
+      "source_filename": "exec-96b583eb-fc72-47ca-b87e-a4938b391acf.png",
+      "generator": "built-in image_gen",
+      "status": "first-pass-draft",
+      "references": [
+        "references/nishi-ogikubo-evening-v01.png",
+        "references/namisuke-official.jpg"
+      ],
+      "visual_review": "Single complete character, transparent exterior and preserved cream/lime/green anatomy; usable at preview size. Alpha retained unchanged."
+    }
+  ],
+  "created": "2026-09-23",
+  "review": "Six browser compositions inspected at desktop and 390px viewport; English/Japanese dates and sample-weather/visibility controls checked. Native rendering and performance not yet tested."
+}

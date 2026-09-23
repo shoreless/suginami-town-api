@@ -1,0 +1,20 @@
+{
+  "id": "narita-evening-wide-v01",
+  "phase": "evening",
+  "shape": "wide",
+  "neighborhood": "narita",
+  "path": "sources/backgrounds/narita/evening/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3166252,
+  "sha256": "c5cfc212fe59da5a2e4222e9f8ca6dac4a83ac8cb63bc618c64aa9e9baf555ea",
+  "prompt": "prompts/narita-evening-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/narita/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-6c08de4b-3c8e-43a2-b13a-0e809741ea62.png",
+  "visual_review": "Individually viewed: 2:1 evening extension preserves recognizable landmark and painterly style, places main subject center-right with calm left region and open foreground. No mascot, clock boards or live UI. Collection draft."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "igusa-night-wide-v01",
+  "path": "sources/backgrounds/igusa/night/wide-v01.png",
+  "neighborhood": "igusa",
+  "phase": "night",
+  "shape": "wide",
+  "references": [
+    "sources/backgrounds/igusa/evening/wide-v01.png"
+  ],
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "d9dd7722875064201ee3ea76a79f04c476723f8171282dbdd719752c256fd2c4",
+  "bytes": 3053796,
+  "prompt": "prompts/igusa-night-wide-v01.txt",
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-4880bc77-256a-4867-bc50-2aaede78eabf.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: vegetable stall, roof and supports, produce crates, garden rows and passing train remain recognizable; night lighting distinct. No clock board, mascot or readable text. Deep blue sky, moon and warm stall lamp."
+  }
+}

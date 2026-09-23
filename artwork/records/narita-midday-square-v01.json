@@ -1,0 +1,20 @@
+{
+  "id": "narita-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "narita",
+  "path": "sources/backgrounds/narita/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3303077,
+  "sha256": "97f455d75eeba26f327d75aaaec40d10780f9abe7767a8fec0175710a2f2cd05",
+  "prompt": "prompts/narita-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/narita/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-04d327b9-25b6-4492-89d0-f4eacee6ba9e.png",
+  "visual_review": "Reviewed: neutral midday sunshine; retained residential river bend, bridge and walking path and square framing. No clock board, name plaque or mascot."
+}

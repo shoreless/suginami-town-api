@@ -1,0 +1,20 @@
+{
+  "id": "horinouchi-umezato-night-square-v01",
+  "phase": "night",
+  "shape": "square",
+  "neighborhood": "horinouchi-umezato",
+  "path": "sources/backgrounds/horinouchi-umezato/night/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2392415,
+  "sha256": "99e12caac4fe1d5d0ec33951ee027ff23533a706c662a29112c235aee90156a4",
+  "prompt": "prompts/horinouchi-umezato-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/horinouchi-umezato/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-74892b0f-3626-4279-a313-747097f74911.png",
+  "visual_review": "Individually viewed: stable shop framing, distinct phase lighting, daytime lamps off and night shop dark with sparse remaining lights. No mascot, clock boards or live UI. Collection draft."
+}

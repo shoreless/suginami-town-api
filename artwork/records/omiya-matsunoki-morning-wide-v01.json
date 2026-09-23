@@ -1,0 +1,20 @@
+{
+  "id": "omiya-matsunoki-morning-wide-v01",
+  "phase": "morning",
+  "shape": "wide",
+  "neighborhood": "omiya-matsunoki",
+  "path": "sources/backgrounds/omiya-matsunoki/morning/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3427898,
+  "sha256": "ec8b9ec8e1ba6f0a15a5562cfd5053e803fe5bad87cc077a066b2cf096473cda",
+  "prompt": "prompts/omiya-matsunoki-morning-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/omiya-matsunoki/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-be6a95ee-2d21-45a7-82a7-8142dba9bff1.png",
+  "visual_review": "Individually viewed: scene framing and landmark remain consistent with evening target; phase lighting is distinct, daytime lamps off and night cool with restrained lights. No characters, boards or UI. Collection draft."
+}

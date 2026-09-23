@@ -1,0 +1,23 @@
+{
+  "id": "kami-igusa-evening-wide-v01",
+  "path": "sources/backgrounds/kami-igusa/evening/wide-v01.png",
+  "neighborhood": "kami-igusa",
+  "phase": "evening",
+  "shape": "wide",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "6a93c23f62860575428d7305906d5b76b250870fe173fb22b0bd1d6e07a97aa7",
+  "bytes": 3009039,
+  "prompt": "prompts/kami-igusa-evening-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/kami-igusa/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-fa851910-d512-4fc2-a2f7-54a50050a54e.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: Clean extended workshop view with left residential street and clear foreground; painterly blue-hour palette preserved."
+  }
+}

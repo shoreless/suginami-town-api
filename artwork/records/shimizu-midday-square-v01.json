@@ -1,0 +1,20 @@
+{
+  "id": "shimizu-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "shimizu",
+  "path": "sources/backgrounds/shimizu/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3325636,
+  "sha256": "10df4bc7d81b9b34cc0f6644264368503618bb2023372107ad681281be5efbb7",
+  "prompt": "prompts/shimizu-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/shimizu/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-72c360f1-2a1a-4206-b8c6-05e5a9d1f371.png",
+  "visual_review": "Reviewed: neutral midday sunshine and lamps off; retained pond, fountain, bench and pavilion and square framing. No clock board, name plaque or mascot."
+}

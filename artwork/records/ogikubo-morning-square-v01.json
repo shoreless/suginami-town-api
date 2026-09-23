@@ -1,0 +1,23 @@
+{
+  "id": "ogikubo-morning-square-v01",
+  "path": "sources/backgrounds/ogikubo/morning/square-v01.png",
+  "neighborhood": "ogikubo",
+  "phase": "morning",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "116bf6ce272309360269a9af6b14f5830306d65a8e34301467d9df77e1a77c22",
+  "bytes": 2917767,
+  "prompt": "prompts/ogikubo-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/ogikubo/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-23c90eba-0425-4f6b-8f7f-4ba4ab452cb3.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: Morning lighting and unlit lanterns read clearly; main shop geometry retained. Small drift: two hanging counter lamps are absent, unlike evening."
+  }
+}

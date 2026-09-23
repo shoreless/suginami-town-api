@@ -1,0 +1,23 @@
+{
+  "id": "zenpukuji-morning-wide-v01",
+  "path": "sources/backgrounds/zenpukuji/morning/wide-v01.png",
+  "neighborhood": "zenpukuji",
+  "phase": "morning",
+  "shape": "wide",
+  "references": [
+    "sources/backgrounds/zenpukuji/evening/wide-v01.png"
+  ],
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "9953816b19d02e4432ede86c93e24bfb4201c1c63e8880d3df37ff18005db28c",
+  "bytes": 3358699,
+  "prompt": "prompts/zenpukuji-morning-wide-v01.txt",
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-32605043-65a3-444e-b3f4-4de2c7cb93b1.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: willow, bench, pond, two ducks, fences and framing preserved; distinct morning lighting. No mascot, clock board or rendered text. Daytime foreground lantern unlit; night lantern and distant windows light the pond."
+  }
+}

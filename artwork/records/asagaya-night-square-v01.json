@@ -1,0 +1,20 @@
+{
+  "id": "asagaya-night-square-v01",
+  "phase": "night",
+  "shape": "square",
+  "neighborhood": "asagaya",
+  "path": "sources/backgrounds/asagaya/night/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2473299,
+  "sha256": "74a5f1c7f44a3e58bdcef9e9538fcfaf4f0f6fc7493a77ed895cd35de281fb1c",
+  "prompt": "prompts/asagaya-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/asagaya/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-da5db6f0-f6fd-43a4-9689-5409413e3a59.png",
+  "visual_review": "Reviewed: navy night sky and selective warm lights; retained cafe, stools, cups, jazz poster and bicycle and square framing. No clock board, name plaque or mascot."
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ogikubo-midday-square-v01",
+  "path": "sources/backgrounds/ogikubo/midday/square-v01.png",
+  "neighborhood": "ogikubo",
+  "phase": "midday",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "9688595197605df1e295b5d64baf22dbb5f1ad81b850afe3017b9e3ab704b367",
+  "bytes": 2894206,
+  "prompt": "prompts/ogikubo-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/ogikubo/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-1992bdb4-9311-442b-8950-fe3235236225.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: Bright neutral daylight with unlit fixtures; storefront, bowls, noren, stools and garden geometry retained."
+  }
+}

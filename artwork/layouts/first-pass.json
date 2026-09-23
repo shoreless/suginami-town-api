@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "status": "design-prototype-not-client-api",
+  "phase": "evening",
+  "character": "sources/characters/namisuke/awake-evening-v01.png",
+  "colors": {"cream": "#fff2d7", "ink": "#102d29", "accent": "#b75e43"},
+  "typography": {"family": "Georgia, \"Yu Mincho\", \"Hiragino Mincho ProN\", serif", "weight": 400, "opacity": 0.95, "name_order": ["ja", "en"]},
+  "surfaces": {
+    "watch": {"label": "Round watch", "aspect": 1, "radius": "50%", "background": "square", "focal_point": [0.5, 0.5], "character": {"x": 0.5, "bottom": 0.12, "width": 0.34}, "information": {"x": 0.18, "y": 0.16, "width": 0.64, "align": "center"}, "clock_size": 0.22},
+    "square": {"label": "Square widget", "aspect": 1, "radius": "12%", "background": "square", "focal_point": [0.5, 0.5], "character": {"x": 0.73, "bottom": 0.065, "width": 0.36}, "information": {"x": 0.08, "y": 0.085, "width": 0.78, "align": "left"}, "clock_size": 0.23},
+    "wide": {"label": "Wide widget", "aspect": 2, "radius": "24px", "background": "wide", "focal_point": [0.5, 0.55], "character": {"x": 0.79, "bottom": 0.07, "width": 0.255}, "information": {"x": 0.07, "y": 0.17, "width": 0.49, "align": "left"}, "clock_size": 0.14}
+  },
+  "scenes": [
+    {"id": "kugayama", "name": {"en": "Kugayama", "ja": "久我山"}, "description": "A river at the end of the day.", "backgrounds": {"square": "sources/backgrounds/kugayama/evening/square-v01.png", "wide": "sources/backgrounds/kugayama/evening/wide-v01.png"}},
+    {"id": "nishi-ogikubo", "name": {"en": "Nishi-Ogikubo", "ja": "西荻窪"}, "description": "One more look in the bookshop window.", "backgrounds": {"square": "sources/backgrounds/nishi-ogikubo/evening/square-v01.png", "wide": "sources/backgrounds/nishi-ogikubo/evening/wide-v01.png"}}
+  ]
+}

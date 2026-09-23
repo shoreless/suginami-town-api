@@ -1,0 +1,20 @@
+{
+  "id": "takaido-fujimigaoka-night-square-v01",
+  "phase": "night",
+  "shape": "square",
+  "neighborhood": "takaido-fujimigaoka",
+  "path": "sources/backgrounds/takaido-fujimigaoka/night/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2823586,
+  "sha256": "ed80f5dc15c0bb2e0f171f83117499409ff9dfb99903b42d06fb1a387bdd8c5c",
+  "prompt": "prompts/takaido-fujimigaoka-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/takaido-fujimigaoka/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-477950e6-8ce1-4f93-a5cf-24420558d234.png",
+  "visual_review": "Visually reviewed: Railway bridge, green-striped train, chimney, river embankment, flowered footpath and railings remain coherent in the scene. Navy sky, moonlight and warm lamps/windows read clearly as night without sunset orange. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+}

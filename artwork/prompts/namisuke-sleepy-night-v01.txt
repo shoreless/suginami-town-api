@@ -1,0 +1,5 @@
+Use case: identity-preserve.
+Asset type: reusable transparent PNG mascot layer.
+Input 1 is approved Namisuke cutout and edit target. Keep the same silhouette, anatomy, pose, scale and clean outline. Change the eyes to two gently closed curved eyelids, retaining the quiet simple smile. Soften the warm highlights for a sleepy night expression: cream face slightly cooler, lime body slightly less luminous, forest-green fins. Do not desaturate to grey or add a nightcap, pillow, stars or accessories.
+One complete Namisuke only, centered in the same landscape framing with transparent margin on all sides; every leg and fin fully visible.
+Genuine transparent alpha background, empty all around the character. No scene, floor, cast/contact shadow, outer glow, white/black matte, checkerboard pixels, letters, border or sticker outline. Preserve the approved character identity, not a redesign. Single image.

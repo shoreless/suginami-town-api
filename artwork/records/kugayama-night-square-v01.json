@@ -1,0 +1,20 @@
+{
+  "id": "kugayama-night-square-v01",
+  "phase": "night",
+  "shape": "square",
+  "neighborhood": "kugayama",
+  "path": "sources/backgrounds/kugayama/night/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2724724,
+  "sha256": "81c708e086612cc4dce41ff621cbf9953a2c8a44b00565eef0de47e58ef42afc",
+  "prompt": "prompts/kugayama-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/kugayama/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-d37b77ba-eea6-4faf-b2ee-31a9bba0790f.png",
+  "visual_review": "Reviewed: navy moonlit scene, lamps and restrained seasonal fireflies retain the riverside geometry. No board, character or text."
+}

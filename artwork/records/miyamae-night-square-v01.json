@@ -1,0 +1,20 @@
+{
+  "id": "miyamae-night-square-v01",
+  "phase": "night",
+  "shape": "square",
+  "neighborhood": "miyamae",
+  "path": "sources/backgrounds/miyamae/night/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2867473,
+  "sha256": "9597c8069cbf2993f415318da710c13976d7f0bf7e1b31d99b8efc67ffb70aff",
+  "prompt": "prompts/miyamae-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/miyamae/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-fdcb107b-ace8-4b4d-a6f1-2d76af1a1659.png",
+  "visual_review": "Visually reviewed: Woodland stream, stepping stones, playground, bench and path retain a coherent landmark layout. Navy sky, moonlight and warm lamps/windows read clearly as night without sunset orange. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "eifuku-evening-square-v01",
+  "phase": "evening",
+  "shape": "square",
+  "neighborhood": "eifuku",
+  "path": "sources/backgrounds/eifuku/evening/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2667738,
+  "sha256": "118dc96c98ed5b8a38a49d0861237f100f8eb1328d0d26b40c68b4444fe479e4",
+  "prompt": "prompts/eifuku-evening-square-v01.txt",
+  "references": [
+    "references/eifuku-evening-legacy.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-c891f0af-b446-43f6-a7cf-aa648085fe0f.png",
+  "visual_review": "Individually viewed: clean evening scene retains landmark/shop identity; large clock board and name plaque removed, no mascot or live UI baked in, foreground clear. Minor incidental product/art marks may remain. Collection draft."
+}

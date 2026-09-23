@@ -1,0 +1,23 @@
+{
+  "id": "ogikubo-evening-wide-v01",
+  "path": "sources/backgrounds/ogikubo/evening/wide-v01.png",
+  "neighborhood": "ogikubo",
+  "phase": "evening",
+  "shape": "wide",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "eab030215e5a43c7cb5228a80a3062909b2e1019feebf8903016462975470b6e",
+  "bytes": 2888927,
+  "prompt": "prompts/ogikubo-evening-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/ogikubo/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-f385e08f-cd40-4d17-826f-fe998b211b6f.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: expanded wide evening scene retains its key landscape/shop identity and clear foreground, no mascot or clock board. Left context suitable for separate time overlay with UI scrim."
+  }
+}

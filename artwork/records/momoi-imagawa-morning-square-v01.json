@@ -1,0 +1,23 @@
+{
+  "id": "momoi-imagawa-morning-square-v01",
+  "path": "sources/backgrounds/momoi-imagawa/morning/square-v01.png",
+  "neighborhood": "momoi-imagawa",
+  "phase": "morning",
+  "shape": "square",
+  "references": [
+    "sources/backgrounds/momoi-imagawa/evening/square-v01.png"
+  ],
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "3a6a2a0e21510d0e7818ce73b2d5ce0cf54d70605ae9f0f8436cd3c7101127aa",
+  "bytes": 3062905,
+  "prompt": "prompts/momoi-imagawa-morning-square-v01.txt",
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-6c4649f9-c1a8-43ff-aeaf-e9ddaba587ff.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: meadow, bench, rolled blanket, path and framing preserved; low morning sunlight and unlit lantern. No mascot, clock board or rendered text."
+  }
+}

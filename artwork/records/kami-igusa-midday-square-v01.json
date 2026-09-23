@@ -1,0 +1,20 @@
+{
+  "id": "kami-igusa-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "kami-igusa",
+  "path": "sources/backgrounds/kami-igusa/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3078127,
+  "sha256": "ed596a61e5bd38aadd6a158984a06adb02a1212528eb68f787729f8d65d6a89b",
+  "prompt": "prompts/kami-igusa-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/kami-igusa/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-416f8b58-c27b-4463-bca5-190534203041.png",
+  "visual_review": "Individually viewed: midday scene has clear blue sky, high neutral light, shorter shadows and unlit lamps. Ivy-covered studio, storyboards, chair, bag and bench preserve source layout and square framing. No mascot, clock UI or new name plaque. Collection draft."
+}

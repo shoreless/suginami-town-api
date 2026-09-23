@@ -1,0 +1,20 @@
+{
+  "id": "omiya-matsunoki-night-wide-v01",
+  "phase": "night",
+  "shape": "wide",
+  "neighborhood": "omiya-matsunoki",
+  "path": "sources/backgrounds/omiya-matsunoki/night/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 2934963,
+  "sha256": "4044431e9a4e3a3d1d24d67e486d93c0af6ff8cbbdd6c14f21ec5578bca77a2f",
+  "prompt": "prompts/omiya-matsunoki-night-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/omiya-matsunoki/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-9d046726-36e8-4304-a13c-a122ba2c5db4.png",
+  "visual_review": "Individually viewed: stable composition and landmark, distinct phase lighting, daytime lamps off and night restrained. No mascot, clock boards or live UI. Collection draft."
+}

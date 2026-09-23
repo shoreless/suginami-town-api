@@ -1,0 +1,20 @@
+{
+  "id": "shimizu-evening-square-v01",
+  "path": "sources/backgrounds/shimizu/evening/square-v01.png",
+  "neighborhood": "shimizu",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "dad95268ead314df7f1b8c90773f02069d2872057c39554b0ba983a6e8b29d2c",
+  "bytes": 3039709,
+  "prompt": "prompts/shimizu-evening-square-v01.txt",
+  "references": [
+    "references/shimizu-evening-legacy.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-c863b2e7-5bc9-480c-9c92-6f3c2c32861a.png",
+  "visual_review": "Individually viewed: board, plaque, sign supports and Namisuke removed; neighborhood landmark retained, natural reconstruction and clear foreground. Small product markings are incidental painting detail, not live UI. Collection draft; native legibility still to test."
+}

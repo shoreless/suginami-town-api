@@ -1,0 +1,20 @@
+{
+  "id": "nishi-ogikubo-midday-wide-v01",
+  "phase": "midday",
+  "shape": "wide",
+  "neighborhood": "nishi-ogikubo",
+  "path": "sources/backgrounds/nishi-ogikubo/midday/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3320284,
+  "sha256": "e4109e0aab0be7eaaf3cad3c45c5dd21dc6959b4bd0caafd9cc68b79f5c97049",
+  "prompt": "prompts/nishi-ogikubo-midday-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/nishi-ogikubo/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-537e8c52-9410-4007-998e-7f42e4a30fe2.png",
+  "visual_review": "Reviewed: high neutral daylight, blue sky and unlit lamps on the retained wide bookshop, ceramics and bicycle scene. No clock board, character or name plaque."
+}

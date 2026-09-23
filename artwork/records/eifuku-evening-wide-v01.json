@@ -1,0 +1,20 @@
+{
+  "id": "eifuku-evening-wide-v01",
+  "phase": "evening",
+  "shape": "wide",
+  "neighborhood": "eifuku",
+  "path": "sources/backgrounds/eifuku/evening/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 2856978,
+  "sha256": "0db1397ee2896d8b46b52b78134a17941be8d511f4d89e5a54920f2b55a9a305",
+  "prompt": "prompts/eifuku-evening-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/eifuku/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-791e0d3d-2801-4b6d-afb4-acc1c7ac4d39.png",
+  "visual_review": "Individually viewed: 2:1 evening extension preserves recognizable landmark and painterly style, places main subject center-right with calm left region and open foreground. No mascot, clock boards or live UI. Collection draft."
+}

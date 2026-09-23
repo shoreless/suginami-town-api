@@ -1,0 +1,20 @@
+{
+  "id": "wada-evening-square-v01",
+  "phase": "evening",
+  "shape": "square",
+  "neighborhood": "wada",
+  "path": "sources/backgrounds/wada/evening/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2875149,
+  "sha256": "09bdba6a682fb6577b9b87cdecb686ee45985629723fea08e66e8073b8450e35",
+  "prompt": "prompts/wada-evening-square-v01.txt",
+  "references": [
+    "references/wada-evening-legacy.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-b8708c70-72f7-4629-9700-701683a45dbc.png",
+  "visual_review": "Individually viewed: clean evening scene retains landmark/shop identity; large clock board and name plaque removed, no mascot or live UI baked in, foreground clear. Minor incidental product/art marks may remain. Collection draft."
+}

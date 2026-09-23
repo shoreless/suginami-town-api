@@ -1,0 +1,6 @@
+Use case: background-extraction.
+Asset type: reusable transparent PNG character layer for phone widgets and watch faces.
+Input image 1: extract ONLY the single Namisuke at the bottom, preserving his exact face, expression, pose, proportions and clean dark outline. Input image 2: official identity reference to preserve anatomy, not lettering.
+Output exactly one Namisuke, full body with all feet and dorsal fins visible, centered, filling about 85 percent of a tightly framed landscape canvas, with even transparent margin.
+Cream oval face, two tall black oval eyes with small cream rim highlights, simple curved smile, lime yellow-green tapering body, dark forest-green dorsal fins, three visible slim cream legs in the same positions as the reference. Keep the warm soft evening illumination of image 1, clean simple character surfaces rather than photoreal texture.
+Genuine transparent alpha background. Nothing behind the character. No floor, no contact shadow, no lighting glow outside the silhouette, no white matte, no checkerboard drawn into the pixels, no sticker border, no letters or logo, no accessories, no additional characters, no scene. Preserve the entire character unclipped. This is an extraction of an existing approved character, not a redesign.

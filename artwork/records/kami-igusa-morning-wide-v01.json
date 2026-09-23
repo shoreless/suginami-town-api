@@ -1,0 +1,20 @@
+{
+  "id": "kami-igusa-morning-wide-v01",
+  "phase": "morning",
+  "shape": "wide",
+  "neighborhood": "kami-igusa",
+  "path": "sources/backgrounds/kami-igusa/morning/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3103346,
+  "sha256": "d23420d15340df1189adfca1b19453398f83b3de71a5fa21a685d3987acf39c0",
+  "prompt": "prompts/kami-igusa-morning-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/kami-igusa/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-888b085e-109b-4239-906c-a752f012ad9e.png",
+  "visual_review": "Individually viewed: pale blue morning sky, low warm sunlight and long shadows clearly shift the phase. Ivy-covered studio, storyboards, chair, bag, bench and wide street framing preserved. Several lamps retain warm bulbs despite the lamps-off request; minor draft variation. No mascot, clock UI or new name plaque. Collection draft."
+}

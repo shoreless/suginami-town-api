@@ -1,0 +1,20 @@
+{
+  "id": "wada-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "wada",
+  "path": "sources/backgrounds/wada/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3151840,
+  "sha256": "b1bb083d72829c2a04f7357f6eba97b6f44339d2ffee903996a4cc27f49a2a3f",
+  "prompt": "prompts/wada-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/wada/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-b166e1f8-3356-4c3b-a661-9e0f5793bc62.png",
+  "visual_review": "Individually viewed: stable art-shop framing and objects, distinct phase lighting; daytime external lamps off, night shop dark. No mascot, clock boards or live UI. Collection draft."
+}

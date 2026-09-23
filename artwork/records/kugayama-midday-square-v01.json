@@ -1,0 +1,20 @@
+{
+  "id": "kugayama-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "kugayama",
+  "path": "sources/backgrounds/kugayama/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3246472,
+  "sha256": "41ad8db65b030248530ff8dd6241a72b96091988ffb22584e3f374394a49a8fa",
+  "prompt": "prompts/kugayama-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/kugayama/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-4bbd432d-52d9-4d0e-884f-64eb01e15b96.png",
+  "visual_review": "Reviewed: blue midday sky, neutral daylight, clear river and unlit lantern; bridge, landing and hydrangeas retained. No board, character or text."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "omiya-matsunoki-evening-square-v01",
+  "path": "sources/backgrounds/omiya-matsunoki/evening/square-v01.png",
+  "neighborhood": "omiya-matsunoki",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "370475ab8fed1b5eca061ef5bd1f78ab234031ac1baf27c422ccb57fc2086cd0",
+  "bytes": 3118693,
+  "prompt": "prompts/omiya-matsunoki-evening-square-v01.txt",
+  "references": [
+    "references/omiya-matsunoki-evening-legacy.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-e79f0e88-201e-4cc7-8515-42b51b6a9539.png",
+  "visual_review": "Individually viewed: board, plaque, sign supports and Namisuke removed; neighborhood landmark retained, natural reconstruction and clear foreground. Small product markings are incidental painting detail, not live UI. Collection draft; native legibility still to test."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "koenji-midday-wide-v01",
+  "phase": "midday",
+  "shape": "wide",
+  "neighborhood": "koenji",
+  "path": "sources/backgrounds/koenji/midday/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3232401,
+  "sha256": "041c80016eb3c5e9cadc69159c1929a2128ae32fab245b0280ba58e0c53a1b9d",
+  "prompt": "prompts/koenji-midday-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/koenji/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-2d1fdd83-91c8-4014-ae40-a9f397630b2b.png",
+  "visual_review": "Reviewed: neutral midday sunshine; retained record shop, records and jackets and wide framing. No clock board, name plaque or mascot."
+}

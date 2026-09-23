@@ -1,0 +1,23 @@
+{
+  "id": "namisuke-awake-daylight-v01",
+  "phase": "daylight",
+  "path": "sources/characters/namisuke/awake-daylight-v01.png",
+  "width": 1536,
+  "height": 1024,
+  "mode": "RGBA",
+  "bytes": 1105675,
+  "sha256": "10b8a77837b8149799d8d261947f0abf1cada9009803fbe2f019d4697871f970",
+  "prompt": "prompts/namisuke-awake-daylight-v01.txt",
+  "references": [
+    "sources/characters/namisuke/awake-evening-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-d143cfc3-3e32-407a-bb05-2a1e70e79dfc.png",
+  "visual_review": "Reviewed: complete matching Namisuke silhouette and anatomy, neutral daylight coloring and open eyes; genuine alpha preserved unchanged. Slight soft edge halo remains from the approved reference.",
+  "alpha_extrema": [
+    0,
+    254
+  ],
+  "fully_transparent_pixels": 853146
+}

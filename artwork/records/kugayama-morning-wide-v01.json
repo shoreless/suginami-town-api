@@ -1,0 +1,20 @@
+{
+  "id": "kugayama-morning-wide-v01",
+  "phase": "morning",
+  "shape": "wide",
+  "neighborhood": "kugayama",
+  "path": "sources/backgrounds/kugayama/morning/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3448839,
+  "sha256": "17005fcb98a0da6acd7cb4b9a8ae9464a8f49215848ab35ac7060e0390e71b66",
+  "prompt": "prompts/kugayama-morning-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/kugayama/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-ad1a549d-4cfd-46b7-aa0f-5a42a1a22211.png",
+  "visual_review": "Reviewed: low warm sunrise, pale blue sky and clear water retain the bridge, houses, hydrangeas and stone landing. No board, character or text."
+}

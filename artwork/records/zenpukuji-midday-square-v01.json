@@ -1,0 +1,23 @@
+{
+  "id": "zenpukuji-midday-square-v01",
+  "path": "sources/backgrounds/zenpukuji/midday/square-v01.png",
+  "neighborhood": "zenpukuji",
+  "phase": "midday",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "664623917e7531276afc0242c15a35013ca8c5601e52462790bb908b2fca5969",
+  "bytes": 3227013,
+  "prompt": "prompts/zenpukuji-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/zenpukuji/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-8fe91a06-9dd8-4237-948d-54cd82fec426.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: distinct phase light and main composition retained. Park preserves willow, pond reflection, bench, fence, ducks; bakery preserves storefront and bicycle. Clean backdrop without mascot or clock board."
+  }
+}

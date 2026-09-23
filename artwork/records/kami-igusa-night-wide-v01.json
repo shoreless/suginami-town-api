@@ -1,0 +1,20 @@
+{
+  "id": "kami-igusa-night-wide-v01",
+  "phase": "night",
+  "shape": "wide",
+  "neighborhood": "kami-igusa",
+  "path": "sources/backgrounds/kami-igusa/night/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 2614280,
+  "sha256": "8d110563da346f2440ab13348f5062d3afa5ebf7d18d66ac66491928d944ad36",
+  "prompt": "prompts/kami-igusa-night-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/kami-igusa/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-55aea3d8-9f24-4564-8302-eaa142036326.png",
+  "visual_review": "Individually viewed: deep navy moonlit scene with cooler foliage and pavement; studio lamps remain warmly lit, brighter interior than sparse-window prompt ideal. Ivy-covered studio, storyboards, chair, bag and bench preserve source layout and wide framing. No mascot, clock UI or new name plaque. Collection draft."
+}

@@ -1,0 +1,3919 @@
+{
+  "schema_version": 1,
+  "status": "design-prototype-not-client-api",
+  "assets": [
+    {
+      "id": "kugayama-evening-square-v01",
+      "path": "sources/backgrounds/kugayama/evening/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "alpha_extrema": null,
+      "nonzero_alpha_bounds": null,
+      "fully_transparent_pixels": 0,
+      "bytes": 2972076,
+      "sha256": "68249cdcad34a4aed540119abb721552e0112120fea72ea04fba4103b410d7fc",
+      "prompt": "prompts/kugayama-evening-square-v01.txt",
+      "source_filename": "exec-ac5922af-43cc-40b2-8d7a-3f82d3e04b85.png",
+      "generator": "built-in image_gen",
+      "status": "first-pass-draft",
+      "references": [
+        "references/kugayama-evening-v01.png"
+      ],
+      "visual_review": "Clock board and mascot removed; neighborhood identity retained. Wide composition extends the scene rather than stretching the square.",
+      "neighborhood": "kugayama",
+      "phase": "evening",
+      "shape": "square"
+    },
+    {
+      "id": "kugayama-evening-wide-v01",
+      "path": "sources/backgrounds/kugayama/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "alpha_extrema": null,
+      "nonzero_alpha_bounds": null,
+      "fully_transparent_pixels": 0,
+      "bytes": 3255772,
+      "sha256": "47bc245e80058d8a8ad05812067d38327e9147b16da2d0d0d385c4fc64152ad4",
+      "prompt": "prompts/kugayama-evening-wide-v01.txt",
+      "source_filename": "exec-f4cf1fc8-e2e5-4ea2-b79d-4635879b4cdb.png",
+      "generator": "built-in image_gen",
+      "status": "first-pass-draft",
+      "references": [
+        "references/kugayama-evening-v01.png"
+      ],
+      "visual_review": "Clock board and mascot removed; neighborhood identity retained. Wide composition extends the scene rather than stretching the square.",
+      "neighborhood": "kugayama",
+      "phase": "evening",
+      "shape": "wide"
+    },
+    {
+      "id": "nishi-ogikubo-evening-square-v01",
+      "path": "sources/backgrounds/nishi-ogikubo/evening/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "alpha_extrema": null,
+      "nonzero_alpha_bounds": null,
+      "fully_transparent_pixels": 0,
+      "bytes": 2735198,
+      "sha256": "c404df890c7987582535576e170de5f81a0f57826259b56c1a233656a3afd18d",
+      "prompt": "prompts/nishi-ogikubo-evening-square-v01.txt",
+      "source_filename": "exec-1fa5c81c-f0f0-4117-84ac-e9a73ee6e6e0.png",
+      "generator": "built-in image_gen",
+      "status": "first-pass-draft",
+      "references": [
+        "references/nishi-ogikubo-evening-v01.png"
+      ],
+      "visual_review": "Clock board and mascot removed; neighborhood identity retained. Wide composition extends the scene rather than stretching the square.",
+      "neighborhood": "nishi-ogikubo",
+      "phase": "evening",
+      "shape": "square"
+    },
+    {
+      "id": "nishi-ogikubo-evening-wide-v01",
+      "path": "sources/backgrounds/nishi-ogikubo/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "alpha_extrema": null,
+      "nonzero_alpha_bounds": null,
+      "fully_transparent_pixels": 0,
+      "bytes": 2982276,
+      "sha256": "bec08b15a3a27e5c7e5b01586c9fc17d0178686972e6c7d62653ba697bfca44e",
+      "prompt": "prompts/nishi-ogikubo-evening-wide-v01.txt",
+      "source_filename": "exec-7855f0fe-9f32-4eeb-bce4-dea631081993.png",
+      "generator": "built-in image_gen",
+      "status": "first-pass-draft",
+      "references": [
+        "references/nishi-ogikubo-evening-v01.png"
+      ],
+      "visual_review": "Clock board and mascot removed; neighborhood identity retained. Wide composition extends the scene rather than stretching the square.",
+      "neighborhood": "nishi-ogikubo",
+      "phase": "evening",
+      "shape": "wide"
+    },
+    {
+      "id": "namisuke-awake-evening-v01",
+      "path": "sources/characters/namisuke/awake-evening-v01.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "nonzero_alpha_bounds": [
+        0,
+        35,
+        1456,
+        1024
+      ],
+      "fully_transparent_pixels": 847070,
+      "bytes": 1281517,
+      "sha256": "f3a0d32f8687f6e3e746cd78f97ad33672c67d199b7835298deee8e57507581b",
+      "prompt": "prompts/namisuke-awake-evening-v01.txt",
+      "source_filename": "exec-96b583eb-fc72-47ca-b87e-a4938b391acf.png",
+      "generator": "built-in image_gen",
+      "status": "first-pass-draft",
+      "references": [
+        "references/nishi-ogikubo-evening-v01.png",
+        "references/namisuke-official.jpg"
+      ],
+      "visual_review": "Single complete character, transparent exterior and preserved cream/lime/green anatomy; usable at preview size. Alpha retained unchanged."
+    },
+    {
+      "id": "amanuma-evening-square-v01",
+      "path": "sources/backgrounds/amanuma/evening/square-v01.png",
+      "neighborhood": "amanuma",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "4b92ff43b4878b35aed5ebba86b10b5e818ba7108037b21a6b5ad3835463ef61",
+      "bytes": 2837243,
+      "prompt": "prompts/amanuma-evening-square-v01.txt",
+      "references": [
+        "references/amanuma-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-9797fcfc-96da-4187-8d2c-ab6344ad89e3.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually viewed: mascot and oversized clock board removed, recognizable shop identity and evening painting style preserved, clear foreground. Native crops and text contrast remain review work."
+      }
+    },
+    {
+      "id": "amanuma-evening-wide-v01",
+      "path": "sources/backgrounds/amanuma/evening/wide-v01.png",
+      "neighborhood": "amanuma",
+      "phase": "evening",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "56e5f3b8b61a30a9c96a388a3c05f4bf629fca6227a47403db3ea004572013b2",
+      "bytes": 2987459,
+      "prompt": "prompts/amanuma-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/amanuma/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-1993a3ec-63f2-4c0f-bd9e-31ed4a4d31de.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: expanded wide evening scene retains its key landscape/shop identity and clear foreground, no mascot or clock board. Left context suitable for separate time overlay with UI scrim."
+      }
+    },
+    {
+      "id": "amanuma-midday-square-v01",
+      "path": "sources/backgrounds/amanuma/midday/square-v01.png",
+      "neighborhood": "amanuma",
+      "phase": "midday",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "916ee473d3ebb4ce1e309d70a9df9f6b5b72d09959cf0fbf6c46587f55be4ba1",
+      "bytes": 3083901,
+      "prompt": "prompts/amanuma-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/amanuma/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-824ce073-91a7-484e-bb45-0029237183cd.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: bakery facade, bread display, bicycle and blue striped awning retained; phase lighting changes natural and visible, no clock board or mascot. Native final text contrast remains consumer integration check."
+      }
+    },
+    {
+      "id": "amanuma-midday-wide-v01",
+      "path": "sources/backgrounds/amanuma/midday/wide-v01.png",
+      "neighborhood": "amanuma",
+      "phase": "midday",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "8f8431397f18193cbf957d78ffd4426e4d322dde8b2397f9dc7f1f901305cec5",
+      "bytes": 3244211,
+      "prompt": "prompts/amanuma-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/amanuma/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-85786181-1733-49fd-a39b-dcd067b9f5c4.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: bakery facade, bread display, bicycle and blue striped awning retained; phase lighting changes natural and visible, no clock board or mascot. Native final text contrast remains consumer integration check."
+      }
+    },
+    {
+      "id": "amanuma-morning-square-v01",
+      "path": "sources/backgrounds/amanuma/morning/square-v01.png",
+      "neighborhood": "amanuma",
+      "phase": "morning",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "039c22dad2b56709692fcd0f31c43ba81fb2ed55b53939c5a445c31e50545e1c",
+      "bytes": 3016902,
+      "prompt": "prompts/amanuma-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/amanuma/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-bd70ae1e-c497-452c-84ff-0c70466f791d.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: distinct phase lighting, recognizable scene geometry and clean separate-layer backdrop retained. No mascot or clock board. Native surface cropping and final text contrast remain consumer integration checks."
+      }
+    },
+    {
+      "id": "amanuma-morning-wide-v01",
+      "path": "sources/backgrounds/amanuma/morning/wide-v01.png",
+      "neighborhood": "amanuma",
+      "phase": "morning",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "42036caf537e3a160c0da92458eea26678156877a597b2f62c93ce3736021b43",
+      "bytes": 3099575,
+      "prompt": "prompts/amanuma-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/amanuma/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-24277cf1-0083-4b6c-bd3d-bc9bdd4ac902.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: bakery facade, bread display, bicycle and blue striped awning retained; phase lighting changes natural and visible, no clock board or mascot. Native final text contrast remains consumer integration check."
+      }
+    },
+    {
+      "id": "amanuma-night-square-v01",
+      "path": "sources/backgrounds/amanuma/night/square-v01.png",
+      "neighborhood": "amanuma",
+      "phase": "night",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "cddff170ef9039117c7daa649be7e51ffd1650b745256696b75a8564896ab625",
+      "bytes": 2495708,
+      "prompt": "prompts/amanuma-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/amanuma/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-628c5113-8a72-4d8e-b407-f5eb35d72081.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: bakery facade, bread display, bicycle and blue striped awning retained; phase lighting changes natural and visible, no clock board or mascot. Native final text contrast remains consumer integration check."
+      }
+    },
+    {
+      "id": "amanuma-night-wide-v01",
+      "path": "sources/backgrounds/amanuma/night/wide-v01.png",
+      "neighborhood": "amanuma",
+      "phase": "night",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "63855445b394d2f0d369eee0d10ba3621cc898739c84f45e33c79f985a974779",
+      "bytes": 2624535,
+      "prompt": "prompts/amanuma-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/amanuma/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-fe0e332a-3e91-4a37-87cc-8b50cc23e1cc.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: distinct phase light and main composition retained. Park preserves willow, pond reflection, bench, fence, ducks; bakery preserves storefront and bicycle. Clean backdrop without mascot or clock board."
+      }
+    },
+    {
+      "id": "asagaya-evening-square-v01",
+      "path": "sources/backgrounds/asagaya/evening/square-v01.png",
+      "neighborhood": "asagaya",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "7a9f43211eb4cee84310e8dd32ddd63decdfcec5b92f6a2307d07c8e97646f29",
+      "bytes": 2786064,
+      "prompt": "prompts/asagaya-evening-square-v01.txt",
+      "references": [
+        "references/asagaya-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-cb511a84-265f-4f10-b92a-86b53d7e607f.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually viewed: mascot and oversized clock board removed, recognizable shop identity and evening painting style preserved, clear foreground. Native crops and text contrast remain review work."
+      }
+    },
+    {
+      "id": "asagaya-evening-wide-v01",
+      "path": "sources/backgrounds/asagaya/evening/wide-v01.png",
+      "neighborhood": "asagaya",
+      "phase": "evening",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "fab98ec6e26a7df696f5677b3735261fe6081c7445e727bf6f568d35536953bb",
+      "bytes": 3065397,
+      "prompt": "prompts/asagaya-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/asagaya/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-8cc93b19-20a0-4fdf-a6a7-e7c3940b693c.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: clean background without clock board, supports, name plaque or mascot; recognizable scene and painterly evening palette retained. Wide variant, where applicable, has expanded left street/sky and landmark at center-right."
+      }
+    },
+    {
+      "id": "asagaya-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "asagaya",
+      "path": "sources/backgrounds/asagaya/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3066627,
+      "sha256": "a9cb909474905e854b5ed782def091547d317a36d749650321dd13452ed1aa1c",
+      "prompt": "prompts/asagaya-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/asagaya/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-aa724a94-f02b-40b9-8b9f-f5d0866070a3.png",
+      "visual_review": "Reviewed: neutral midday sunshine and lamps off; retained cafe, stools, cups, jazz poster and bicycle and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "asagaya-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "asagaya",
+      "path": "sources/backgrounds/asagaya/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3323033,
+      "sha256": "16e5ff0a4d87df1a23247e0bf42ee5d41809cca64d573e4a50cd6e36bc070596",
+      "prompt": "prompts/asagaya-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/asagaya/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-c63e46f3-9d3a-4787-8ad2-64f70bb509eb.png",
+      "visual_review": "Reviewed: neutral midday sunshine; retained cafe, stools, cups, jazz poster and bicycle and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "asagaya-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "asagaya",
+      "path": "sources/backgrounds/asagaya/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3027962,
+      "sha256": "66ecf56eb21b74abc8eca6c75e6cc689cc6ad8f997257e2867f7ce8609163df4",
+      "prompt": "prompts/asagaya-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/asagaya/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-5fe3ca1f-2cfe-4601-9e02-71b5e7aec6d5.png",
+      "visual_review": "Reviewed: low warm morning light and lamps off; retained cafe, stools, cups, jazz poster and bicycle and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "asagaya-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "asagaya",
+      "path": "sources/backgrounds/asagaya/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3253127,
+      "sha256": "48e2d453462620c0dcdb684042395cafef6eecaa5544d6b241977671bfd61239",
+      "prompt": "prompts/asagaya-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/asagaya/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-ac235cd3-3543-47a4-ae2d-9d12425a5891.png",
+      "visual_review": "Reviewed: warm morning sunlight; retained cafe, stools, cups, jazz poster and bicycle and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "asagaya-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "asagaya",
+      "path": "sources/backgrounds/asagaya/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2473299,
+      "sha256": "74a5f1c7f44a3e58bdcef9e9538fcfaf4f0f6fc7493a77ed895cd35de281fb1c",
+      "prompt": "prompts/asagaya-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/asagaya/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-da5db6f0-f6fd-43a4-9689-5409413e3a59.png",
+      "visual_review": "Reviewed: navy night sky and selective warm lights; retained cafe, stools, cups, jazz poster and bicycle and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "asagaya-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "asagaya",
+      "path": "sources/backgrounds/asagaya/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2561488,
+      "sha256": "69979f2983c8601266357a012143597880e5368f9086c604c4999a7a5bf26f15",
+      "prompt": "prompts/asagaya-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/asagaya/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-d4cdbf81-a902-422c-a36b-00b2a50e0ca1.png",
+      "visual_review": "Reviewed: navy night sky and selective warm lights; retained cafe, stools, cups, jazz poster and bicycle and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "eifuku-evening-square-v01",
+      "phase": "evening",
+      "shape": "square",
+      "neighborhood": "eifuku",
+      "path": "sources/backgrounds/eifuku/evening/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2667738,
+      "sha256": "118dc96c98ed5b8a38a49d0861237f100f8eb1328d0d26b40c68b4444fe479e4",
+      "prompt": "prompts/eifuku-evening-square-v01.txt",
+      "references": [
+        "references/eifuku-evening-legacy.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-c891f0af-b446-43f6-a7cf-aa648085fe0f.png",
+      "visual_review": "Individually viewed: clean evening scene retains landmark/shop identity; large clock board and name plaque removed, no mascot or live UI baked in, foreground clear. Minor incidental product/art marks may remain. Collection draft."
+    },
+    {
+      "id": "eifuku-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "eifuku",
+      "path": "sources/backgrounds/eifuku/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2856978,
+      "sha256": "0db1397ee2896d8b46b52b78134a17941be8d511f4d89e5a54920f2b55a9a305",
+      "prompt": "prompts/eifuku-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/eifuku/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-791e0d3d-2801-4b6d-afb4-acc1c7ac4d39.png",
+      "visual_review": "Individually viewed: 2:1 evening extension preserves recognizable landmark and painterly style, places main subject center-right with calm left region and open foreground. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "eifuku-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "eifuku",
+      "path": "sources/backgrounds/eifuku/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2983944,
+      "sha256": "e9a1c118999b2747a6d51033559525e055b7ab46b0b254b05f414302f57ca657",
+      "prompt": "prompts/eifuku-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/eifuku/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-a1707597-94bb-468d-b03b-f2e71d0a40ba.png",
+      "visual_review": "Individually viewed: high neutral midday sunlight, blue sky, green foliage and unlit lamps. Shop doorway, bowl window, bench, foliage and square framing preserved. Incidental decorative wall marks remain from source. No mascot or clock UI baked in. Collection draft."
+    },
+    {
+      "id": "eifuku-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "eifuku",
+      "path": "sources/backgrounds/eifuku/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3120014,
+      "sha256": "4c659f8092e08528f61e779c501e623e9c49f322fc2bf82ecd03c524d50703d7",
+      "prompt": "prompts/eifuku-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/eifuku/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-d663ab27-8716-414d-a8fe-b2b530d07e87.png",
+      "visual_review": "Individually viewed: blue midday sky, high neutral sunlight and green foliage. Shop doorway, bowl window, bench, foliage and wide framing preserved. Interior pendant retains a small pale highlight/light despite the all-lamps-off request; exterior lamps are unlit. Incidental decorative wall marks remain from source. No mascot or clock UI baked in. Collection draft."
+    },
+    {
+      "id": "eifuku-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "eifuku",
+      "path": "sources/backgrounds/eifuku/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2806251,
+      "sha256": "cac0c415c4354047652e27c480e89d3c91fc7b62ac703626dc4970e484db83eb",
+      "prompt": "prompts/eifuku-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/eifuku/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-c1f44f27-0783-4e70-a70a-4b6836f4c299.png",
+      "visual_review": "Individually viewed: morning lighting has pale blue sky, low warm sunlight and unlit lamps. Shop doorway, window, bowl, bench, foliage and camera match evening source. No mascot or live UI baked in. Incidental decorative wall marks remain from source. Collection draft."
+    },
+    {
+      "id": "eifuku-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "eifuku",
+      "path": "sources/backgrounds/eifuku/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3052482,
+      "sha256": "0b90563d23c06d584c6301bf83ec891650877cad42d412a789b7b7bee2edf1c8",
+      "prompt": "prompts/eifuku-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/eifuku/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-3f5fea40-d7b9-4bee-a640-881d1f33609b.png",
+      "visual_review": "Individually viewed: low warm morning sunlight, clear pale blue sky and subdued interiors. Shop doorway, bowl window, bench, foliage and wide framing preserved. Incidental decorative wall marks remain from source. No mascot or clock UI baked in. Collection draft."
+    },
+    {
+      "id": "eifuku-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "eifuku",
+      "path": "sources/backgrounds/eifuku/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2465998,
+      "sha256": "3030814c9f30a4ee1daa2001a03045612a489e1301928091e519030f8ac566a0",
+      "prompt": "prompts/eifuku-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/eifuku/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-85420d57-5b96-48bd-b696-d699d51b4d25.png",
+      "visual_review": "Individually viewed: deep navy night with cool foliage and paving, subdued shop interior and sparse warm street/window lights. Shop doorway, bowl window, bench, foliage and framing preserved. Incidental decorative wall marks remain from source. No mascot or clock UI baked in. Collection draft."
+    },
+    {
+      "id": "eifuku-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "eifuku",
+      "path": "sources/backgrounds/eifuku/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2617539,
+      "sha256": "ddfad15c7296f51b9c81bf0d0932dae30a75b703f4ca6d4a5d02d067b91a9edd",
+      "prompt": "prompts/eifuku-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/eifuku/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-75acc1c4-bce5-49e5-8643-d5159da17f38.png",
+      "visual_review": "Individually viewed: deep navy night with cool foliage and paving, subdued shop interior and sparse warm street/window lights. Shop doorway, bowl window, bench, foliage and framing preserved. Incidental decorative wall marks remain from source. No mascot or clock UI baked in. Collection draft."
+    },
+    {
+      "id": "hamadayama-evening-square-v01",
+      "path": "sources/backgrounds/hamadayama/evening/square-v01.png",
+      "neighborhood": "hamadayama",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3188225,
+      "sha256": "bf7e7d789b5445fda58e83081f4e69cd7d3a33afb1524df7dc1348b44fe2132a",
+      "prompt": "prompts/hamadayama-evening-square-v01.txt",
+      "references": [
+        "references/hamadayama-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-04977899-73dc-4852-995b-312ff8e346f6.png",
+      "visual_review": "Visually reviewed: mascot, large clock board, its supports and neighborhood plaque removed; local landmarks, painterly evening palette and open foreground retained. No time/date/UI baked in."
+    },
+    {
+      "id": "hamadayama-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "hamadayama",
+      "path": "sources/backgrounds/hamadayama/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3217058,
+      "sha256": "d94075bcf5a180eadaccde973295224d4e2138dad5db2387995e90179acf94fc",
+      "prompt": "prompts/hamadayama-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/hamadayama/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-bc32c46a-ba69-4e35-9249-9c26beb6f468.png",
+      "visual_review": "Visually reviewed: wide composition retains neighborhood landmark and evening palette, clean of characters, large boards, name plaques and UI. Calm left sky and open foreground retained."
+    },
+    {
+      "id": "hamadayama-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "hamadayama",
+      "path": "sources/backgrounds/hamadayama/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3435697,
+      "sha256": "001a1e9a55e8a8e2c8cfcfed48801586498d08232fe1b074c61cc5ac1b4adef8",
+      "prompt": "prompts/hamadayama-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/hamadayama/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-1e47c60f-15d1-48f6-a069-ce0d0b969807.png",
+      "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; midday lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "hamadayama-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "hamadayama",
+      "path": "sources/backgrounds/hamadayama/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3348192,
+      "sha256": "6ef8a0cf2d7ad0a808627136a0135cdcdcd8269e2f90f6dd04148d9149d52b3e",
+      "prompt": "prompts/hamadayama-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/hamadayama/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-4413fba7-6cab-41f3-9e39-e0529dffade5.png",
+      "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; midday lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "hamadayama-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "hamadayama",
+      "path": "sources/backgrounds/hamadayama/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3368452,
+      "sha256": "ece50b960810b11d3076ee501b25f957a4b86c6eba5ada29da4b86e9b634a457",
+      "prompt": "prompts/hamadayama-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/hamadayama/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-523cc5b0-55f8-4a7e-a30d-9cc7d3e0245a.png",
+      "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; morning lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "hamadayama-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "hamadayama",
+      "path": "sources/backgrounds/hamadayama/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3287812,
+      "sha256": "b3f54557ec729731d646cc05a574b3d4d0989621dd692c7673169f106e86902c",
+      "prompt": "prompts/hamadayama-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/hamadayama/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-e5f4334c-1be9-4727-9fa3-5f2c73f3e681.png",
+      "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; morning lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "hamadayama-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "hamadayama",
+      "path": "sources/backgrounds/hamadayama/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2926444,
+      "sha256": "421f26297954bb237cccbc8638aea3894577fd53d393c7a71eb6cf24b12418ce",
+      "prompt": "prompts/hamadayama-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/hamadayama/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-8f044f44-d78e-4cfb-a696-dce5f3133e82.png",
+      "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; night lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "hamadayama-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "hamadayama",
+      "path": "sources/backgrounds/hamadayama/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2870957,
+      "sha256": "66c03117e675824898c0d1b89616cdace268cd0b86bf54ab69616aa2d6cf2c02",
+      "prompt": "prompts/hamadayama-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/hamadayama/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-4bfe3141-90e0-4aad-b4b3-68e2cd674824.png",
+      "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; night lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "honan-evening-square-v01",
+      "phase": "evening",
+      "shape": "square",
+      "neighborhood": "honan",
+      "path": "sources/backgrounds/honan/evening/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2718085,
+      "sha256": "feec0e9ee91e37903fc903ec15925060de38cd9e65e1ca8c7e5151da98a25d70",
+      "prompt": "prompts/honan-evening-square-v01.txt",
+      "references": [
+        "references/honan-evening-legacy.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-270e9e71-4143-4c08-9921-915a508f943a.png",
+      "visual_review": "Individually viewed: clean evening scene retains landmark/shop identity; large clock board and name plaque removed, no mascot or live UI baked in, foreground clear. Minor incidental product/art marks may remain. Collection draft."
+    },
+    {
+      "id": "honan-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "honan",
+      "path": "sources/backgrounds/honan/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2981347,
+      "sha256": "5fd62cbadd1b0a73d6dbcb0b6e15606c3686e22f9c69f9816137ff0f6e1e9092",
+      "prompt": "prompts/honan-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/honan/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-5df19666-9cd8-4e16-9cb8-0f82bb8d3f33.png",
+      "visual_review": "Individually viewed: 2:1 evening extension preserves recognizable landmark and painterly style, places main subject center-right with calm left region and open foreground. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "honan-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "honan",
+      "path": "sources/backgrounds/honan/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3040358,
+      "sha256": "f12f04702fbda50246b20b8b113591703563271d9b3c90807ea270aa9c66e62f",
+      "prompt": "prompts/honan-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/honan/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-2556a6f3-792c-46ad-847b-f688d26c6c43.png",
+      "visual_review": "Individually viewed: stable shop framing and objects, distinct phase lighting; external daytime lamps off, night shop dark. No mascot, clock boards or live UI. Wada midday retains subtle interior lamp highlights. Collection draft."
+    },
+    {
+      "id": "honan-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "honan",
+      "path": "sources/backgrounds/honan/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3263871,
+      "sha256": "7ef0783ec19d471f99922d21a1699c0c8e4d56e4a1d7cd35f6e92efff1191f5e",
+      "prompt": "prompts/honan-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/honan/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-7cbf6f26-5466-4053-a121-1e9273a106d6.png",
+      "visual_review": "Individually viewed: stable shop framing and produce, distinct phase lighting; daytime external lamps off, night shop dark and street lights remain. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "honan-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "honan",
+      "path": "sources/backgrounds/honan/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2897511,
+      "sha256": "21b98c1ac70b1cf80b241b453e6a5a4e74fa14784c46d874a7ab7ebc9dd0035f",
+      "prompt": "prompts/honan-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/honan/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-299ab63a-0132-4427-8c36-78fe351396cb.png",
+      "visual_review": "Individually viewed: stable shop framing and objects, distinct phase lighting; external daytime lamps off, night shop dark. No mascot, clock boards or live UI. Wada midday retains subtle interior lamp highlights. Collection draft."
+    },
+    {
+      "id": "honan-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "honan",
+      "path": "sources/backgrounds/honan/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3110987,
+      "sha256": "5a6a5bbb4cebfd3ce9d48c4898206f08d26f2681d294e027b0bed326fcf24170",
+      "prompt": "prompts/honan-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/honan/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-cb20b65d-9649-4cf3-927c-6711ba4d1c7c.png",
+      "visual_review": "Individually viewed: stable shop framing and produce, distinct phase lighting; daytime external lamps off, night shop dark and street lights remain. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "honan-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "honan",
+      "path": "sources/backgrounds/honan/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2405757,
+      "sha256": "5da3829bdbcd0d2f449bfa43094df9d4f04ada2ba536dfab044d4ffdf7c0c5bd",
+      "prompt": "prompts/honan-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/honan/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-62fee1b6-2212-44c8-b5d7-01f6dd8af2be.png",
+      "visual_review": "Individually viewed: stable shop framing and produce, distinct phase lighting; daytime external lamps off, night shop dark and street lights remain. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "honan-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "honan",
+      "path": "sources/backgrounds/honan/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2628083,
+      "sha256": "c2aa620d686728892fca94e7d2c6ccaa4855130b55458d7d6bffc739c6f08f55",
+      "prompt": "prompts/honan-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/honan/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-a73cd52c-5535-4667-b269-496a1c27c0bd.png",
+      "visual_review": "Individually viewed: stable shop framing and produce, distinct phase lighting; daytime external lamps off, night shop dark and street lights remain. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "horinouchi-umezato-evening-square-v01",
+      "path": "sources/backgrounds/horinouchi-umezato/evening/square-v01.png",
+      "neighborhood": "horinouchi-umezato",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "b2ec23b61e57c753a80b5b9b1f41a8a764a4dfb6d234771cb283a1d2c235e5a6",
+      "bytes": 2738483,
+      "prompt": "prompts/horinouchi-umezato-evening-square-v01.txt",
+      "references": [
+        "references/horinouchi-umezato-evening-legacy.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-7f699057-bed2-4d89-ae79-4695fdbee5cb.png",
+      "visual_review": "Individually viewed: board, plaque, sign supports and Namisuke removed; neighborhood landmark retained, natural reconstruction and clear foreground. Small product markings are incidental painting detail, not live UI. Collection draft; native legibility still to test."
+    },
+    {
+      "id": "horinouchi-umezato-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "horinouchi-umezato",
+      "path": "sources/backgrounds/horinouchi-umezato/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3027540,
+      "sha256": "4e564e7616c4f4112873fe9cb02f1b3572dfa9b5131bf22983c1b28829ed2e86",
+      "prompt": "prompts/horinouchi-umezato-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/horinouchi-umezato/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-2e43dc25-6378-4d54-b7e4-c2c964a50997.png",
+      "visual_review": "Individually viewed: 2:1 evening extension preserves recognizable landmark and painterly style, places main subject center-right with calm left region and open foreground. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "horinouchi-umezato-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "horinouchi-umezato",
+      "path": "sources/backgrounds/horinouchi-umezato/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3045368,
+      "sha256": "1b1d905f4a00d821ba65ed32e905b18187849a7eef5fc7454bce29d018e1c820",
+      "prompt": "prompts/horinouchi-umezato-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/horinouchi-umezato/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-5229df62-95db-4741-8a16-81d9352300dc.png",
+      "visual_review": "Individually viewed: stable composition and landmark, distinct phase lighting, daytime lamps off and night restrained. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "horinouchi-umezato-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "horinouchi-umezato",
+      "path": "sources/backgrounds/horinouchi-umezato/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3295131,
+      "sha256": "df928ea983b90195f9d8586f3f2abefb8634c6093faa0a5e2bba2667dbf8994c",
+      "prompt": "prompts/horinouchi-umezato-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/horinouchi-umezato/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-8235d181-750c-4622-94e0-ed01c4673fee.png",
+      "visual_review": "Individually viewed: stable shop framing, distinct phase lighting, daytime lamps off and night shop dark with sparse remaining lights. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "horinouchi-umezato-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "horinouchi-umezato",
+      "path": "sources/backgrounds/horinouchi-umezato/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2962478,
+      "sha256": "728fa08cb7d2006ad43b2d548b05f9b517cf8b740841f32257bdf8a7dfd27bfd",
+      "prompt": "prompts/horinouchi-umezato-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/horinouchi-umezato/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-4213273f-f6af-4297-91f1-829528aa3421.png",
+      "visual_review": "Individually viewed: stable composition and landmark, distinct phase lighting, daytime lamps off and night restrained. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "horinouchi-umezato-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "horinouchi-umezato",
+      "path": "sources/backgrounds/horinouchi-umezato/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3265076,
+      "sha256": "64980781237a39888149b12c3bcb0f81c4c8cf603a66b4588de0c1bcc521eb11",
+      "prompt": "prompts/horinouchi-umezato-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/horinouchi-umezato/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-f87e71dc-4f1d-42ba-af07-dacff252e532.png",
+      "visual_review": "Individually viewed: stable shop framing, distinct phase lighting, daytime lamps off and night shop dark with sparse remaining lights. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "horinouchi-umezato-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "horinouchi-umezato",
+      "path": "sources/backgrounds/horinouchi-umezato/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2392415,
+      "sha256": "99e12caac4fe1d5d0ec33951ee027ff23533a706c662a29112c235aee90156a4",
+      "prompt": "prompts/horinouchi-umezato-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/horinouchi-umezato/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-74892b0f-3626-4279-a313-747097f74911.png",
+      "visual_review": "Individually viewed: stable shop framing, distinct phase lighting, daytime lamps off and night shop dark with sparse remaining lights. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "horinouchi-umezato-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "horinouchi-umezato",
+      "path": "sources/backgrounds/horinouchi-umezato/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2630636,
+      "sha256": "48d087e7a9df725985d6af63eec3911cf5a6efba1f2d70ba34cb90e24e792998",
+      "prompt": "prompts/horinouchi-umezato-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/horinouchi-umezato/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-dda28cb9-1bf7-4549-855f-05e88728125a.png",
+      "visual_review": "Individually viewed: stable shop framing, distinct phase lighting, daytime lamps off and night shop dark with sparse remaining lights. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "igusa-evening-square-v01",
+      "path": "sources/backgrounds/igusa/evening/square-v01.png",
+      "neighborhood": "igusa",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "42569c3c829f8cd8d4e2b8f56b0d0523d2b5a508e196c8a81aa57f09dc9ea71b",
+      "bytes": 3028392,
+      "prompt": "prompts/igusa-evening-square-v01.txt",
+      "references": [
+        "references/igusa-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-560d5bd8-ba2f-4378-9267-f51a6d6eb710.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: clean background without clock board, supports, name plaque or mascot; recognizable scene and painterly evening palette retained. Wide variant, where applicable, has expanded left street/sky and landmark at center-right."
+      }
+    },
+    {
+      "id": "igusa-evening-wide-v01",
+      "path": "sources/backgrounds/igusa/evening/wide-v01.png",
+      "neighborhood": "igusa",
+      "phase": "evening",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "8778f2eaa7468137405b88b113d6fad6ac43669608ee18a8fadd3bb32e137d26",
+      "bytes": 3291488,
+      "prompt": "prompts/igusa-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/igusa/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-3d80f8f6-7d14-4d5e-a8b8-855928075d8d.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: Clean vegetable stall and railway view; expanded quiet left path, functional stall structure retained, no clock board or mascot."
+      }
+    },
+    {
+      "id": "igusa-midday-square-v01",
+      "path": "sources/backgrounds/igusa/midday/square-v01.png",
+      "neighborhood": "igusa",
+      "phase": "midday",
+      "shape": "square",
+      "references": [
+        "sources/backgrounds/igusa/evening/square-v01.png"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "4789ee4d5e15a1abab604f38b8910e22fd68598652c9ee77de337711dda6ef09",
+      "bytes": 3300704,
+      "prompt": "prompts/igusa-midday-square-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-c461666a-c704-405c-b6e3-b70e505a0480.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: vegetable stall, roof and supports, produce crates, garden rows and passing train remain recognizable; midday lighting distinct. No clock board, mascot or readable text. Daylit scene with foreground stall lamp unlit."
+      }
+    },
+    {
+      "id": "igusa-midday-wide-v01",
+      "path": "sources/backgrounds/igusa/midday/wide-v01.png",
+      "neighborhood": "igusa",
+      "phase": "midday",
+      "shape": "wide",
+      "references": [
+        "sources/backgrounds/igusa/evening/wide-v01.png"
+      ],
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "a433b517334af5d4e7959a54e3e63421653988500ad16791e04682c2ceac638a",
+      "bytes": 3476380,
+      "prompt": "prompts/igusa-midday-wide-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-d97af187-57b0-4cbf-a229-eeb99d478deb.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: vegetable stall, roof and supports, produce crates, garden rows and passing train remain recognizable; midday lighting distinct. No clock board, mascot or readable text. Daylit scene with foreground stall lamp unlit."
+      }
+    },
+    {
+      "id": "igusa-morning-square-v01",
+      "path": "sources/backgrounds/igusa/morning/square-v01.png",
+      "neighborhood": "igusa",
+      "phase": "morning",
+      "shape": "square",
+      "references": [
+        "sources/backgrounds/igusa/evening/square-v01.png"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "84d873e8a4a8ace98f72c4a8f1813cae53f71179e515055220f4a1bc436611a6",
+      "bytes": 3248894,
+      "prompt": "prompts/igusa-morning-square-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-8b3ad372-0330-4403-b00a-e51e4918f225.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: vegetable stall, roof and supports, produce crates, garden rows and passing train remain recognizable; morning lighting distinct. No clock board, mascot or readable text. Daylit scene with foreground stall lamp unlit."
+      }
+    },
+    {
+      "id": "igusa-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "igusa",
+      "path": "sources/backgrounds/igusa/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3417761,
+      "sha256": "0960ac782926cfbaf9e47ed6ab73494a42bed6a85557a0f058b30d2bc6395eb0",
+      "prompt": "prompts/igusa-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/igusa/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-63e68e61-d713-4dab-814e-20b504ee4108.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: low warm morning sun, produce stall, vegetable rows, train and quiet left lane preserved; no clock board, mascot or readable text. Minor variation: hanging stall bulb is absent and some distant windows/lamps retain warm light. Suitable as collection draft."
+      }
+    },
+    {
+      "id": "igusa-night-square-v01",
+      "path": "sources/backgrounds/igusa/night/square-v01.png",
+      "neighborhood": "igusa",
+      "phase": "night",
+      "shape": "square",
+      "references": [
+        "sources/backgrounds/igusa/evening/square-v01.png"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "7a29eea46a70f091956c004e8d3531f6551ff5367a9b1320a062aa528c07c4dc",
+      "bytes": 2893663,
+      "prompt": "prompts/igusa-night-square-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-1aa4fcd2-9c81-4a43-b8fe-a15b1a17ec64.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: vegetable stall, roof and supports, produce crates, garden rows and passing train remain recognizable; night lighting distinct. No clock board, mascot or readable text. Deep blue sky, moon and warm stall lamp."
+      }
+    },
+    {
+      "id": "igusa-night-wide-v01",
+      "path": "sources/backgrounds/igusa/night/wide-v01.png",
+      "neighborhood": "igusa",
+      "phase": "night",
+      "shape": "wide",
+      "references": [
+        "sources/backgrounds/igusa/evening/wide-v01.png"
+      ],
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "d9dd7722875064201ee3ea76a79f04c476723f8171282dbdd719752c256fd2c4",
+      "bytes": 3053796,
+      "prompt": "prompts/igusa-night-wide-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-4880bc77-256a-4867-bc50-2aaede78eabf.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: vegetable stall, roof and supports, produce crates, garden rows and passing train remain recognizable; night lighting distinct. No clock board, mascot or readable text. Deep blue sky, moon and warm stall lamp."
+      }
+    },
+    {
+      "id": "izumi-evening-square-v01",
+      "phase": "evening",
+      "shape": "square",
+      "neighborhood": "izumi",
+      "path": "sources/backgrounds/izumi/evening/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2693149,
+      "sha256": "d827b4e67668bb66025b9db3a7162898741c20d7af98de9525fec3f811d8d1ba",
+      "prompt": "prompts/izumi-evening-square-v01.txt",
+      "references": [
+        "references/izumi-evening-legacy.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-dc065e5a-f056-480b-b8b1-ab6dc498a8b0.png",
+      "visual_review": "Individually viewed: clean evening scene retains landmark/shop identity; large clock board and name plaque removed, no mascot or live UI baked in, foreground clear. Minor incidental product/art marks may remain. Collection draft."
+    },
+    {
+      "id": "izumi-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "izumi",
+      "path": "sources/backgrounds/izumi/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2983684,
+      "sha256": "e6da7acae558f5f65a30fc2d13075d73a8cbd0426e8a56af746e460e0c047575",
+      "prompt": "prompts/izumi-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/izumi/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-66c96939-ad69-4e33-9296-628dd4acbc4b.png",
+      "visual_review": "Individually viewed: 2:1 evening extension preserves recognizable landmark and painterly style, places main subject center-right with calm left region and open foreground. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "izumi-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "izumi",
+      "path": "sources/backgrounds/izumi/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3003757,
+      "sha256": "85f7822c91b6bc78c8d81713ba3c46af32d77315aee599ca1a2af0a07699af49",
+      "prompt": "prompts/izumi-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/izumi/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-9e653575-bd83-40e6-99e0-9eba564b596b.png",
+      "visual_review": "Individually viewed: stable Okinawan roof/shisa and shop composition, distinct phase lighting; exterior daytime lantern unlit, night interior subdued. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "izumi-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "izumi",
+      "path": "sources/backgrounds/izumi/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3187209,
+      "sha256": "9781b22162fe76e5236020b241a8343670a23905ef4ac0b131f3cdf478dffab8",
+      "prompt": "prompts/izumi-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/izumi/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-35f442c8-4b38-4d53-836e-44ac56e66091.png",
+      "visual_review": "Individually viewed: bright midday sky, natural green foliage and unlit lanterns. Roof guardians, shop windows, river, paving and framing preserved. No mascot or clock UI baked in. Collection draft."
+    },
+    {
+      "id": "izumi-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "izumi",
+      "path": "sources/backgrounds/izumi/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2914717,
+      "sha256": "14df20e99a81fe7c2712b9ece20ec507fcdf5cd7470865272e227d47bd37c957",
+      "prompt": "prompts/izumi-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/izumi/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-b0e60f76-52f3-4a0e-b7ae-9958df88e693.png",
+      "visual_review": "Individually viewed: stable Okinawan roof/shisa and shop composition, distinct phase lighting; exterior daytime lantern unlit, night interior subdued. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "izumi-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "izumi",
+      "path": "sources/backgrounds/izumi/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3097995,
+      "sha256": "d638befdb4b795f555f69f88f7c7ff594b9a8e4d1dbba67cd7d66821f1b785df",
+      "prompt": "prompts/izumi-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/izumi/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-af162dc7-32ae-42d4-99f6-df51f0d05447.png",
+      "visual_review": "Individually viewed: stable Okinawan roof/shisa and shop composition, distinct phase lighting; exterior daytime lantern unlit, night interior subdued. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "izumi-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "izumi",
+      "path": "sources/backgrounds/izumi/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2504322,
+      "sha256": "f780fd8967aa0599bc5f848fb5632745ee3c4fd7d1eae4245a5b2630bf0cbe01",
+      "prompt": "prompts/izumi-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/izumi/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-98e0346a-e60c-42e7-972b-5211afd1c98b.png",
+      "visual_review": "Individually viewed: stable Okinawan roof/shisa and shop composition, distinct phase lighting; exterior daytime lantern unlit, night interior subdued. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "izumi-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "izumi",
+      "path": "sources/backgrounds/izumi/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2663770,
+      "sha256": "2f9d7b90d854a6ccf98f3f05ccdf69975f56c2f47aa182ff9ab5693e463c8076",
+      "prompt": "prompts/izumi-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/izumi/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-a1e635b1-6d85-4bf0-9d8c-aeef330df52c.png",
+      "visual_review": "Individually viewed: navy moonlit night, subdued shop interior and sparse warm lantern/window lights. Roof guardians, shop windows, river, paving and framing preserved. No mascot or clock UI baked in. Collection draft."
+    },
+    {
+      "id": "kami-igusa-evening-square-v01",
+      "path": "sources/backgrounds/kami-igusa/evening/square-v01.png",
+      "neighborhood": "kami-igusa",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "8b21800fc23b6fb47e8d2821a93f647e51e7d56b80a20da9e1f4ac2a758c1741",
+      "bytes": 2765783,
+      "prompt": "prompts/kami-igusa-evening-square-v01.txt",
+      "references": [
+        "references/kami-igusa-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-1aabe516-9b60-44a4-a6ed-b0b768f72c26.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: warmly lit animation studio with drawing desk, storyboard sheets, bench and bag; retained street architecture. Clock board, name plaque and mascot removed."
+      }
+    },
+    {
+      "id": "kami-igusa-evening-wide-v01",
+      "path": "sources/backgrounds/kami-igusa/evening/wide-v01.png",
+      "neighborhood": "kami-igusa",
+      "phase": "evening",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "6a93c23f62860575428d7305906d5b76b250870fe173fb22b0bd1d6e07a97aa7",
+      "bytes": 3009039,
+      "prompt": "prompts/kami-igusa-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-igusa/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-fa851910-d512-4fc2-a2f7-54a50050a54e.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: Clean extended workshop view with left residential street and clear foreground; painterly blue-hour palette preserved."
+      }
+    },
+    {
+      "id": "kami-igusa-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "kami-igusa",
+      "path": "sources/backgrounds/kami-igusa/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3078127,
+      "sha256": "ed596a61e5bd38aadd6a158984a06adb02a1212528eb68f787729f8d65d6a89b",
+      "prompt": "prompts/kami-igusa-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-igusa/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-416f8b58-c27b-4463-bca5-190534203041.png",
+      "visual_review": "Individually viewed: midday scene has clear blue sky, high neutral light, shorter shadows and unlit lamps. Ivy-covered studio, storyboards, chair, bag and bench preserve source layout and square framing. No mascot, clock UI or new name plaque. Collection draft."
+    },
+    {
+      "id": "kami-igusa-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "kami-igusa",
+      "path": "sources/backgrounds/kami-igusa/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3250782,
+      "sha256": "1e0f80b9009be5d2f0d44aa132eedcca32349e00d6da27f5ac444696254f9b6e",
+      "prompt": "prompts/kami-igusa-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-igusa/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-638d4a5e-7170-4518-84ad-98d6a5538dab.png",
+      "visual_review": "Individually viewed: bright blue midday sky, high neutral sunlight, shorter shadows and unlit street lamps. Studio contents and wide street framing preserved; interior pendant bulbs have pale highlights without the prior warm glow. No mascot, clock UI or new name plaque. Collection draft."
+    },
+    {
+      "id": "kami-igusa-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "kami-igusa",
+      "path": "sources/backgrounds/kami-igusa/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2940250,
+      "sha256": "32f0ab385431f4d948d33d7e700459f9097f389758c7ccc10006270318036992",
+      "prompt": "prompts/kami-igusa-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-igusa/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-aef296a6-5d56-4223-91cf-7bbb82de7940.png",
+      "visual_review": "Individually viewed: morning scene has pale blue sky, low warm sunlight and long shadows with unlit studio/street lamps. Ivy-covered studio, storyboards, chair, bag and bench preserve source layout and square framing. No mascot, clock UI or new name plaque. Collection draft."
+    },
+    {
+      "id": "kami-igusa-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "kami-igusa",
+      "path": "sources/backgrounds/kami-igusa/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3103346,
+      "sha256": "d23420d15340df1189adfca1b19453398f83b3de71a5fa21a685d3987acf39c0",
+      "prompt": "prompts/kami-igusa-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-igusa/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-888b085e-109b-4239-906c-a752f012ad9e.png",
+      "visual_review": "Individually viewed: pale blue morning sky, low warm sunlight and long shadows clearly shift the phase. Ivy-covered studio, storyboards, chair, bag, bench and wide street framing preserved. Several lamps retain warm bulbs despite the lamps-off request; minor draft variation. No mascot, clock UI or new name plaque. Collection draft."
+    },
+    {
+      "id": "kami-igusa-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "kami-igusa",
+      "path": "sources/backgrounds/kami-igusa/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2573745,
+      "sha256": "e374414618eeab7d992dc41dd26dcb0cbf2c36b3da91c0edc505aa5f246257d1",
+      "prompt": "prompts/kami-igusa-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-igusa/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-f1a9d5ba-9122-46cf-a35f-de4f332325bc.png",
+      "visual_review": "Individually viewed: deep navy moonlit scene with cooler foliage and pavement; studio lamps remain warmly lit, brighter interior than sparse-window prompt ideal. Ivy-covered studio, storyboards, chair, bag and bench preserve source layout and square framing. No mascot, clock UI or new name plaque. Collection draft."
+    },
+    {
+      "id": "kami-igusa-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "kami-igusa",
+      "path": "sources/backgrounds/kami-igusa/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2614280,
+      "sha256": "8d110563da346f2440ab13348f5062d3afa5ebf7d18d66ac66491928d944ad36",
+      "prompt": "prompts/kami-igusa-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-igusa/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-55aea3d8-9f24-4564-8302-eaa142036326.png",
+      "visual_review": "Individually viewed: deep navy moonlit scene with cooler foliage and pavement; studio lamps remain warmly lit, brighter interior than sparse-window prompt ideal. Ivy-covered studio, storyboards, chair, bag and bench preserve source layout and wide framing. No mascot, clock UI or new name plaque. Collection draft."
+    },
+    {
+      "id": "kami-takaido-evening-square-v01",
+      "path": "sources/backgrounds/kami-takaido/evening/square-v01.png",
+      "neighborhood": "kami-takaido",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3047661,
+      "sha256": "59abe8091a9bfaae55a387efbe464dbd327061cc18f1c92fd0587c8f451d32bb",
+      "prompt": "prompts/kami-takaido-evening-square-v01.txt",
+      "references": [
+        "references/kami-takaido-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-c1d06343-a56e-40b6-8802-2b8b87c094e2.png",
+      "visual_review": "Visually reviewed: mascot, large clock board, its supports and neighborhood plaque removed; local landmarks, painterly evening palette and open foreground retained. No time/date/UI baked in."
+    },
+    {
+      "id": "kami-takaido-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "kami-takaido",
+      "path": "sources/backgrounds/kami-takaido/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3227507,
+      "sha256": "a6e3060830b49c8b72400262ea44cbf11692f5a54ed924f978ac9345ac18f3d1",
+      "prompt": "prompts/kami-takaido-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-takaido/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-5ece6196-357f-4643-90e3-a936df3212b9.png",
+      "visual_review": "Visually reviewed: wide composition retains neighborhood landmark and evening palette, clean of characters, large boards, name plaques and UI. Calm left sky and open foreground retained."
+    },
+    {
+      "id": "kami-takaido-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "kami-takaido",
+      "path": "sources/backgrounds/kami-takaido/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3364622,
+      "sha256": "71009be7e48a701f04c81f2fc9199b2a5945021e20e038fccc624cbcd27e046d",
+      "prompt": "prompts/kami-takaido-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-takaido/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-0f9874ef-383f-48a0-97fd-27559602f8d0.png",
+      "visual_review": "Visually reviewed: Produce stall, cucumber baskets, jars, trellis, watering can and residential lane remain coherent. Small blank price cards are retained as shop props; no readable lettering. Bright blue sky, green foliage and neutral daylight read clearly as midday. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "kami-takaido-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "kami-takaido",
+      "path": "sources/backgrounds/kami-takaido/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3403895,
+      "sha256": "bfe6f5869a65cead5ebe97b6df45bfb1677c7b6c1354fa203075fd9e4d942a24",
+      "prompt": "prompts/kami-takaido-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-takaido/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-78f38cbb-2fa6-47d4-9227-d800be7e9e76.png",
+      "visual_review": "Visually reviewed: Produce stall, cucumber baskets, jars, trellis, watering can and residential lane remain coherent. Small blank price cards are retained as shop props; no readable lettering. Bright blue sky, green foliage and neutral daylight read clearly as midday. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer. Some distant street lamps remain faintly warm in daylight."
+    },
+    {
+      "id": "kami-takaido-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "kami-takaido",
+      "path": "sources/backgrounds/kami-takaido/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3286072,
+      "sha256": "a1522a853d4b7ebb739021dcc7a245c10227e11fe63b27764cdbd80415475c37",
+      "prompt": "prompts/kami-takaido-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-takaido/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-1da17333-c784-41a5-ae86-782cab3492f4.png",
+      "visual_review": "Visually reviewed: Produce stall, cucumber baskets, jars, trellis, watering can and residential lane remain coherent. Small blank price cards are retained as shop props; no readable lettering. Low warm sun and blue sky read clearly as morning; foreground lamps are unlit. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "kami-takaido-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "kami-takaido",
+      "path": "sources/backgrounds/kami-takaido/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3329793,
+      "sha256": "2ad7169785eb04ad4d1c14f1c83928cf152cdcbf9b07ab2d70ed221f56eb0107",
+      "prompt": "prompts/kami-takaido-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-takaido/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-7e9ff91f-3d59-4c01-8d82-535d7ea26d09.png",
+      "visual_review": "Visually reviewed: Produce stall, cucumber baskets, jars, trellis, watering can and residential lane remain coherent. Small blank price cards are retained as shop props; no readable lettering. Low warm sun and blue sky read clearly as morning; foreground lamps are unlit. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "kami-takaido-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "kami-takaido",
+      "path": "sources/backgrounds/kami-takaido/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2812463,
+      "sha256": "d32adba51d5f6e70e12beb69c23728275b295cc4bf8822d6476692c2615e40bb",
+      "prompt": "prompts/kami-takaido-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-takaido/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-2e80986e-09ad-4639-8204-36957bab551f.png",
+      "visual_review": "Visually reviewed: Produce stall, cucumber baskets, jars, trellis, watering can and residential lane remain coherent. Small blank price cards are retained as shop props; no readable lettering. Navy sky, moonlight and warm lamps/windows read clearly as night without sunset orange. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "kami-takaido-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "kami-takaido",
+      "path": "sources/backgrounds/kami-takaido/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2848216,
+      "sha256": "697925a29f6995666a8fd916d7eb6892a638896cd3d5fb59a5792701a4e2329c",
+      "prompt": "prompts/kami-takaido-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/kami-takaido/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-70f9cedf-3896-4dd5-b0f7-3c981a3d8d44.png",
+      "visual_review": "Visually reviewed: Produce stall, cucumber baskets, jars, trellis, watering can and residential lane remain coherent. Small blank price cards are retained as shop props; no readable lettering. Navy sky, moonlight and warm lamps/windows read clearly as night without sunset orange. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "koenji-evening-square-v01",
+      "path": "sources/backgrounds/koenji/evening/square-v01.png",
+      "neighborhood": "koenji",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "215348260a68594af0a268de9787584e1d7716468ec18cebd77e0958ebf7f18a",
+      "bytes": 2819373,
+      "prompt": "prompts/koenji-evening-square-v01.txt",
+      "references": [
+        "references/koenji-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-976d7046-ae19-4fc6-9ba5-4eeb4c3c2d77.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually viewed: mascot and oversized clock board removed, recognizable shop identity and evening painting style preserved, clear foreground. Native crops and text contrast remain review work."
+      }
+    },
+    {
+      "id": "koenji-evening-wide-v01",
+      "path": "sources/backgrounds/koenji/evening/wide-v01.png",
+      "neighborhood": "koenji",
+      "phase": "evening",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "3e64f615fef7dcb678e5f321c3e7a3c44cc7d431dff615d5108b73154bc8cdc2",
+      "bytes": 2984373,
+      "prompt": "prompts/koenji-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/koenji/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-26c27795-5ceb-46ee-adf0-49ee6d5f5607.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: clean background without clock board, supports, name plaque or mascot; recognizable scene and painterly evening palette retained. Wide variant, where applicable, has expanded left street/sky and landmark at center-right."
+      }
+    },
+    {
+      "id": "koenji-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "koenji",
+      "path": "sources/backgrounds/koenji/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3055621,
+      "sha256": "9d3847b8ad355e477987a9e5637697bbca54a56a688a22454c5a6199c2596553",
+      "prompt": "prompts/koenji-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/koenji/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-c7606b8a-9673-48c3-a378-6c2899aa24c3.png",
+      "visual_review": "Reviewed: neutral midday sunshine and lamps off; retained record shop, records and jackets and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "koenji-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "koenji",
+      "path": "sources/backgrounds/koenji/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3232401,
+      "sha256": "041c80016eb3c5e9cadc69159c1929a2128ae32fab245b0280ba58e0c53a1b9d",
+      "prompt": "prompts/koenji-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/koenji/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-2d1fdd83-91c8-4014-ae40-a9f397630b2b.png",
+      "visual_review": "Reviewed: neutral midday sunshine; retained record shop, records and jackets and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "koenji-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "koenji",
+      "path": "sources/backgrounds/koenji/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3014715,
+      "sha256": "6777e2ca470bb67ff5a5a930b0da23c3663d8dc40212ac9ebfb591b4238d9ebf",
+      "prompt": "prompts/koenji-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/koenji/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-36e29d3f-f05f-4d43-a9a3-d906af6b2566.png",
+      "visual_review": "Reviewed: low warm morning light and lamps off; retained record shop, records and jackets and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "koenji-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "koenji",
+      "path": "sources/backgrounds/koenji/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3167999,
+      "sha256": "99e12f9e96f7b3aca5356ea16a7af5eb953f2879d19b380c06368a7b4133aba4",
+      "prompt": "prompts/koenji-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/koenji/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-d05b5a97-4981-4ff0-a3c0-21cb984dc7f9.png",
+      "visual_review": "Reviewed: warm morning sunlight; retained record shop, records and jackets and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "koenji-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "koenji",
+      "path": "sources/backgrounds/koenji/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2499097,
+      "sha256": "c87801d26371bb9880172089d7c2599a776f44dbf0f1c7ec03441a75cf0f2f33",
+      "prompt": "prompts/koenji-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/koenji/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-b2e32d4c-6c7c-4e58-8226-2411a8e06845.png",
+      "visual_review": "Reviewed: navy night sky and selective warm lights; retained record shop, records and jackets and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "koenji-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "koenji",
+      "path": "sources/backgrounds/koenji/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2490909,
+      "sha256": "00a03ad9638804085bcf7b7f370437dc903b10f1526203f5d3cc2b5cecb1c384",
+      "prompt": "prompts/koenji-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/koenji/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-7a9dc0ce-2ed5-4b80-96f3-28a103524b82.png",
+      "visual_review": "Reviewed: navy night sky and selective warm lights; retained record shop, records and jackets and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "kugayama-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "kugayama",
+      "path": "sources/backgrounds/kugayama/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3246472,
+      "sha256": "41ad8db65b030248530ff8dd6241a72b96091988ffb22584e3f374394a49a8fa",
+      "prompt": "prompts/kugayama-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/kugayama/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-4bbd432d-52d9-4d0e-884f-64eb01e15b96.png",
+      "visual_review": "Reviewed: blue midday sky, neutral daylight, clear river and unlit lantern; bridge, landing and hydrangeas retained. No board, character or text."
+    },
+    {
+      "id": "kugayama-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "kugayama",
+      "path": "sources/backgrounds/kugayama/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3482438,
+      "sha256": "3d256e4fb7414779bbb43525fe2b16e01986394b289fdbdf568a28b3b347355d",
+      "prompt": "prompts/kugayama-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/kugayama/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-fdc09f39-e6f3-409f-a0a2-bbdcfc118768.png",
+      "visual_review": "Reviewed: wide riverside with bright midday light, retained bridge and lower-right stone landing. Clean background; no board, character or text."
+    },
+    {
+      "id": "kugayama-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "kugayama",
+      "path": "sources/backgrounds/kugayama/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3129289,
+      "sha256": "4820fb388fc9277a5ed93a43d1056b9c9ee74d5b671d03f28ac3de36cb41f33d",
+      "prompt": "prompts/kugayama-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/kugayama/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-13f18f2f-5cfb-4071-9572-48a9f8c808c0.png",
+      "visual_review": "Reviewed: clean riverside square with preserved bridge, houses, hydrangeas and stone landing; low sunrise and bright blue sky distinguish morning. No board, mascot or text."
+    },
+    {
+      "id": "kugayama-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "kugayama",
+      "path": "sources/backgrounds/kugayama/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3448839,
+      "sha256": "17005fcb98a0da6acd7cb4b9a8ae9464a8f49215848ab35ac7060e0390e71b66",
+      "prompt": "prompts/kugayama-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/kugayama/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-ad1a549d-4cfd-46b7-aa0f-5a42a1a22211.png",
+      "visual_review": "Reviewed: low warm sunrise, pale blue sky and clear water retain the bridge, houses, hydrangeas and stone landing. No board, character or text."
+    },
+    {
+      "id": "kugayama-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "kugayama",
+      "path": "sources/backgrounds/kugayama/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2724724,
+      "sha256": "81c708e086612cc4dce41ff621cbf9953a2c8a44b00565eef0de47e58ef42afc",
+      "prompt": "prompts/kugayama-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/kugayama/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-d37b77ba-eea6-4faf-b2ee-31a9bba0790f.png",
+      "visual_review": "Reviewed: navy moonlit scene, lamps and restrained seasonal fireflies retain the riverside geometry. No board, character or text."
+    },
+    {
+      "id": "kugayama-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "kugayama",
+      "path": "sources/backgrounds/kugayama/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2858275,
+      "sha256": "6e94472f98cfd9e2a3cff7e840e858dd7935588fc94049552e930c2d04dcf34d",
+      "prompt": "prompts/kugayama-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/kugayama/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-1ecbfb3d-8ff1-45b3-ba87-2553b1282558.png",
+      "visual_review": "Reviewed: deep-blue moonlit river, restrained lamps and seasonal fireflies; wide bridge and landing composition retained. No board, character or text."
+    },
+    {
+      "id": "miyamae-evening-square-v01",
+      "path": "sources/backgrounds/miyamae/evening/square-v01.png",
+      "neighborhood": "miyamae",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3109733,
+      "sha256": "fc8a318cc1035e9799a052180f4a38ecd066615f41814740e5c1a9a12533c231",
+      "prompt": "prompts/miyamae-evening-square-v01.txt",
+      "references": [
+        "references/miyamae-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-a26d13d2-b43e-421d-88cb-0cb02888d2ad.png",
+      "visual_review": "Visually reviewed: mascot, large clock board, its supports and neighborhood plaque removed; local landmarks, painterly evening palette and open foreground retained. No time/date/UI baked in."
+    },
+    {
+      "id": "miyamae-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "miyamae",
+      "path": "sources/backgrounds/miyamae/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3157422,
+      "sha256": "1b42ed6ecb2fc18c1a4b3a1fc5086ad229dc6341175f85ce04a1bad415208afc",
+      "prompt": "prompts/miyamae-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/miyamae/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-38baacf5-447e-4256-a9f2-3bbf445a7e82.png",
+      "visual_review": "Visually reviewed: wide composition retains neighborhood landmark and evening palette, clean of characters, large boards, name plaques and UI. Calm left sky and open foreground retained."
+    },
+    {
+      "id": "miyamae-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "miyamae",
+      "path": "sources/backgrounds/miyamae/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3440400,
+      "sha256": "c953e6f47a49ad3f179982fcd6ef800f43f0b1ac6fb36b433ceddb17198225a3",
+      "prompt": "prompts/miyamae-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/miyamae/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-ba823f81-9f8c-40ee-a597-fada6a312316.png",
+      "visual_review": "Visually reviewed: Woodland stream, stepping stones, playground, bench and path retain a coherent landmark layout. Bright blue sky, green foliage and neutral daylight read clearly as midday. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "miyamae-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "miyamae",
+      "path": "sources/backgrounds/miyamae/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3446420,
+      "sha256": "1e71e6a73d8245aaa30f445797cdc2d60de854da405605d5551c7d93c8377ff6",
+      "prompt": "prompts/miyamae-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/miyamae/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-467345fd-f54a-4b29-9299-5d681ea22ed5.png",
+      "visual_review": "Visually reviewed: Woodland stream, stepping stones, playground, bench and path retain a coherent landmark layout. Bright blue sky, green foliage and neutral daylight read clearly as midday. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "miyamae-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "miyamae",
+      "path": "sources/backgrounds/miyamae/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3336009,
+      "sha256": "406e62ff5798bd45d8867848f28071e0961d4bea88890079f9e1bccda8251f85",
+      "prompt": "prompts/miyamae-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/miyamae/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-569abc14-b1e5-44c7-bb6d-7ce5e8d42862.png",
+      "visual_review": "Visually reviewed: Woodland stream, stepping stones, playground, bench and path retain a coherent landmark layout. Low warm sun and blue sky read clearly as morning; foreground lamps are unlit. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "miyamae-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "miyamae",
+      "path": "sources/backgrounds/miyamae/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3305107,
+      "sha256": "d4f5364f8e9112f50d3a04c5adf42badc5b0234f4fadd6a3b1af5e476fc19d7b",
+      "prompt": "prompts/miyamae-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/miyamae/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-9f8b5f37-d6e1-467b-a907-e94f52fce8f9.png",
+      "visual_review": "Visually reviewed: Woodland stream, stepping stones, playground, bench and path retain a coherent landmark layout. Low warm sun and blue sky read clearly as morning; foreground lamps are unlit. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "miyamae-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "miyamae",
+      "path": "sources/backgrounds/miyamae/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2867473,
+      "sha256": "9597c8069cbf2993f415318da710c13976d7f0bf7e1b31d99b8efc67ffb70aff",
+      "prompt": "prompts/miyamae-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/miyamae/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-fdcb107b-ace8-4b4d-a6f1-2d76af1a1659.png",
+      "visual_review": "Visually reviewed: Woodland stream, stepping stones, playground, bench and path retain a coherent landmark layout. Navy sky, moonlight and warm lamps/windows read clearly as night without sunset orange. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "miyamae-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "miyamae",
+      "path": "sources/backgrounds/miyamae/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2821816,
+      "sha256": "491102c3ddc8c478dabc4d4d623ae7ee0528932b722be653178781a7091d2e64",
+      "prompt": "prompts/miyamae-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/miyamae/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-f036ab3e-b211-4a8a-a4d0-b33762104a61.png",
+      "visual_review": "Visually reviewed: Woodland stream, stepping stones, playground, bench and path retain a coherent landmark layout. Navy sky, moonlight and warm lamps/windows read clearly as night without sunset orange. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "momoi-imagawa-evening-square-v01",
+      "path": "sources/backgrounds/momoi-imagawa/evening/square-v01.png",
+      "neighborhood": "momoi-imagawa",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "1d0328023fe18b2164e361a7749b6ac379848bfb5b47c004dfa2ce015b295d2f",
+      "bytes": 2851609,
+      "prompt": "prompts/momoi-imagawa-evening-square-v01.txt",
+      "references": [
+        "references/momoi-imagawa-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-3cf1e1fc-6275-4977-9e75-9363c0cbb336.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: clean background without clock board, supports, name plaque or mascot; recognizable scene and painterly evening palette retained. Wide variant, where applicable, has expanded left street/sky and landmark at center-right."
+      }
+    },
+    {
+      "id": "momoi-imagawa-evening-wide-v01",
+      "path": "sources/backgrounds/momoi-imagawa/evening/wide-v01.png",
+      "neighborhood": "momoi-imagawa",
+      "phase": "evening",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "7464523008d2c52fc6c00489dfd8f7ecb9e224f6327ccf92e097e8feda19736c",
+      "bytes": 3027263,
+      "prompt": "prompts/momoi-imagawa-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/momoi-imagawa/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-534094bc-fc3b-4938-8bcc-da7c243ab676.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: expanded wide evening scene retains its key landscape/shop identity and clear foreground, no mascot or clock board. Left context suitable for separate time overlay with UI scrim."
+      }
+    },
+    {
+      "id": "momoi-imagawa-midday-square-v01",
+      "path": "sources/backgrounds/momoi-imagawa/midday/square-v01.png",
+      "neighborhood": "momoi-imagawa",
+      "phase": "midday",
+      "shape": "square",
+      "references": [
+        "sources/backgrounds/momoi-imagawa/evening/square-v01.png"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "91811b6abf9dde41465028392abdb2aa20ac2bb62e06310995000559d22fa14b",
+      "bytes": 3126728,
+      "prompt": "prompts/momoi-imagawa-midday-square-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-37d0baba-56dc-4d5b-9334-e6f44b02a374.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: meadow, central/edge bench with rolled blanket, tree, path, houses and framing preserved; distinct midday lighting. Foreground lantern unlit during day, warm illumination at night. Clean backdrop without mascot, clock board or rendered text."
+      }
+    },
+    {
+      "id": "momoi-imagawa-midday-wide-v01",
+      "path": "sources/backgrounds/momoi-imagawa/midday/wide-v01.png",
+      "neighborhood": "momoi-imagawa",
+      "phase": "midday",
+      "shape": "wide",
+      "references": [
+        "sources/backgrounds/momoi-imagawa/evening/wide-v01.png"
+      ],
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "da480cda72628263b14df02c5b41d5d70a09060b1d761614ebf372a5cf9e02bc",
+      "bytes": 3206553,
+      "prompt": "prompts/momoi-imagawa-midday-wide-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-9d8af1c4-e137-47e0-a192-6a4e4acef4d5.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: meadow, central/edge bench with rolled blanket, tree, path, houses and framing preserved; distinct midday lighting. Foreground lantern unlit during day, warm illumination at night. Clean backdrop without mascot, clock board or rendered text."
+      }
+    },
+    {
+      "id": "momoi-imagawa-morning-square-v01",
+      "path": "sources/backgrounds/momoi-imagawa/morning/square-v01.png",
+      "neighborhood": "momoi-imagawa",
+      "phase": "morning",
+      "shape": "square",
+      "references": [
+        "sources/backgrounds/momoi-imagawa/evening/square-v01.png"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "3a6a2a0e21510d0e7818ce73b2d5ce0cf54d70605ae9f0f8436cd3c7101127aa",
+      "bytes": 3062905,
+      "prompt": "prompts/momoi-imagawa-morning-square-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-6c4649f9-c1a8-43ff-aeaf-e9ddaba587ff.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: meadow, bench, rolled blanket, path and framing preserved; low morning sunlight and unlit lantern. No mascot, clock board or rendered text."
+      }
+    },
+    {
+      "id": "momoi-imagawa-morning-wide-v01",
+      "path": "sources/backgrounds/momoi-imagawa/morning/wide-v01.png",
+      "neighborhood": "momoi-imagawa",
+      "phase": "morning",
+      "shape": "wide",
+      "references": [
+        "sources/backgrounds/momoi-imagawa/evening/wide-v01.png"
+      ],
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "99c1e6b8e9470961ed9d334a69f8c7ccbea4a3f9f5df2536345ac6355ea1b085",
+      "bytes": 3196939,
+      "prompt": "prompts/momoi-imagawa-morning-wide-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-aa43101d-5ad3-4b4f-afc4-213992d68f3b.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: meadow, central/edge bench with rolled blanket, tree, path, houses and framing preserved; distinct morning lighting. Foreground lantern unlit during day, warm illumination at night. Clean backdrop without mascot, clock board or rendered text."
+      }
+    },
+    {
+      "id": "momoi-imagawa-night-square-v01",
+      "path": "sources/backgrounds/momoi-imagawa/night/square-v01.png",
+      "neighborhood": "momoi-imagawa",
+      "phase": "night",
+      "shape": "square",
+      "references": [
+        "sources/backgrounds/momoi-imagawa/evening/square-v01.png"
+      ],
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "993c2194558d32ff473820c946a1b281d4c19b725ede892382dbede69f268246",
+      "bytes": 2534006,
+      "prompt": "prompts/momoi-imagawa-night-square-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-8c8fef06-7b51-4b8e-b5aa-95a84a10cddb.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: meadow, central/edge bench with rolled blanket, tree, path, houses and framing preserved; distinct night lighting. Foreground lantern unlit during day, warm illumination at night. Clean backdrop without mascot, clock board or rendered text."
+      }
+    },
+    {
+      "id": "momoi-imagawa-night-wide-v01",
+      "path": "sources/backgrounds/momoi-imagawa/night/wide-v01.png",
+      "neighborhood": "momoi-imagawa",
+      "phase": "night",
+      "shape": "wide",
+      "references": [
+        "sources/backgrounds/momoi-imagawa/evening/wide-v01.png"
+      ],
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "c55cc2f6b97887986b6788e4919cf3cf8cb3dc7d42655128748ea7d5ecff2d71",
+      "bytes": 2579803,
+      "prompt": "prompts/momoi-imagawa-night-wide-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-7437ef77-e5fb-4643-8173-8ea991622ac5.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: meadow, central/edge bench with rolled blanket, tree, path, houses and framing preserved; distinct night lighting. Foreground lantern unlit during day, warm illumination at night. Clean backdrop without mascot, clock board or rendered text."
+      }
+    },
+    {
+      "id": "namisuke-awake-daylight-v01",
+      "phase": "daylight",
+      "path": "sources/characters/namisuke/awake-daylight-v01.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1105675,
+      "sha256": "10b8a77837b8149799d8d261947f0abf1cada9009803fbe2f019d4697871f970",
+      "prompt": "prompts/namisuke-awake-daylight-v01.txt",
+      "references": [
+        "sources/characters/namisuke/awake-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-d143cfc3-3e32-407a-bb05-2a1e70e79dfc.png",
+      "visual_review": "Reviewed: complete matching Namisuke silhouette and anatomy, neutral daylight coloring and open eyes; genuine alpha preserved unchanged. Slight soft edge halo remains from the approved reference.",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "fully_transparent_pixels": 853146
+    },
+    {
+      "id": "namisuke-sleepy-night-v01",
+      "phase": "night",
+      "path": "sources/characters/namisuke/sleepy-night-v01.png",
+      "width": 1536,
+      "height": 1024,
+      "mode": "RGBA",
+      "bytes": 1225077,
+      "sha256": "e9ffebcd32cd692e054191e0f5b2560125fa905fec0b35182c1d9c036584fb2f",
+      "prompt": "prompts/namisuke-sleepy-night-v01.txt",
+      "references": [
+        "sources/characters/namisuke/awake-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-c122172e-e280-41a9-8d84-e2aa0f8e4395.png",
+      "visual_review": "Reviewed: complete matching Namisuke silhouette and anatomy, closed sleepy eyelids with retained smile and softly dimmed colors; genuine alpha preserved unchanged. Slight soft edge halo remains from the approved reference.",
+      "alpha_extrema": [
+        0,
+        254
+      ],
+      "fully_transparent_pixels": 844879
+    },
+    {
+      "id": "narita-evening-square-v01",
+      "path": "sources/backgrounds/narita/evening/square-v01.png",
+      "neighborhood": "narita",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "480acf2b8325fbdb969802768e1b986f6a5c634ad043e9471724e184e97fc19c",
+      "bytes": 2990896,
+      "prompt": "prompts/narita-evening-square-v01.txt",
+      "references": [
+        "references/narita-evening-legacy.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-5720749a-3c15-4d83-9111-8a1192de1dfb.png",
+      "visual_review": "Individually viewed: board, plaque, sign supports and Namisuke removed; neighborhood landmark retained, natural reconstruction and clear foreground. Small product markings are incidental painting detail, not live UI. Collection draft; native legibility still to test."
+    },
+    {
+      "id": "narita-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "narita",
+      "path": "sources/backgrounds/narita/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3166252,
+      "sha256": "c5cfc212fe59da5a2e4222e9f8ca6dac4a83ac8cb63bc618c64aa9e9baf555ea",
+      "prompt": "prompts/narita-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/narita/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-6c08de4b-3c8e-43a2-b13a-0e809741ea62.png",
+      "visual_review": "Individually viewed: 2:1 evening extension preserves recognizable landmark and painterly style, places main subject center-right with calm left region and open foreground. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "narita-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "narita",
+      "path": "sources/backgrounds/narita/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3303077,
+      "sha256": "97f455d75eeba26f327d75aaaec40d10780f9abe7767a8fec0175710a2f2cd05",
+      "prompt": "prompts/narita-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/narita/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-04d327b9-25b6-4492-89d0-f4eacee6ba9e.png",
+      "visual_review": "Reviewed: neutral midday sunshine; retained residential river bend, bridge and walking path and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "narita-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "narita",
+      "path": "sources/backgrounds/narita/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3365269,
+      "sha256": "30e51731a2b183373a8c1ba6260174bf7c0aa258d3a3f3caffade530e7ea604b",
+      "prompt": "prompts/narita-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/narita/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-6fe1c935-b03b-4679-b1ca-84594b762378.png",
+      "visual_review": "Reviewed: neutral midday sunshine; retained residential river bend, bridge and walking path and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "narita-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "narita",
+      "path": "sources/backgrounds/narita/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3160076,
+      "sha256": "c8ec7bd44268de4fe18456aea61363215a99f359d2c7e2fd4ff5ce080a1a7edb",
+      "prompt": "prompts/narita-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/narita/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-5fb36c81-4424-40d1-9aa3-ed6042a22b44.png",
+      "visual_review": "Reviewed: low warm morning light and lamps off; retained residential river bend, bridge and walking path and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "narita-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "narita",
+      "path": "sources/backgrounds/narita/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3319072,
+      "sha256": "3a5e533c80be75c2543350d0ca9c44c709e5183aa5bb3ba0c0ce87be0c596c64",
+      "prompt": "prompts/narita-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/narita/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-d240f86d-049b-459e-841e-67dddf6117ef.png",
+      "visual_review": "Reviewed: warm morning sunlight; retained residential river bend, bridge and walking path and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "narita-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "narita",
+      "path": "sources/backgrounds/narita/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2884181,
+      "sha256": "bba55280d69ea1f1571695688eff02e061415622d458312448ec13682905cd77",
+      "prompt": "prompts/narita-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/narita/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-a183ffdb-34d1-485e-8551-e3208d4e4e91.png",
+      "visual_review": "Reviewed: navy night sky and selective warm lights; retained residential river bend, bridge and walking path and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "narita-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "narita",
+      "path": "sources/backgrounds/narita/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2821980,
+      "sha256": "dac9f89700427e533fa536e4d36c2e7adafccfc8484124934f309cd9782db036",
+      "prompt": "prompts/narita-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/narita/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-e9712956-081c-48db-b8f0-59da4ef5b2f9.png",
+      "visual_review": "Reviewed: navy night sky and selective warm lights; retained residential river bend, bridge and walking path and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "nishi-ogikubo-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "nishi-ogikubo",
+      "path": "sources/backgrounds/nishi-ogikubo/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2977216,
+      "sha256": "50e0a80334fc3b03dc067d9145a68f9b3c9728ba6096caa84506b9dc83a0ec5c",
+      "prompt": "prompts/nishi-ogikubo-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/nishi-ogikubo/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-f3fbdd6f-2038-46af-bfd1-0d00da34bf29.png",
+      "visual_review": "Reviewed: neutral midday light and blue sky on retained bookshop, ceramics, bicycle and plants; lamps off. No clock board, name plaque or character."
+    },
+    {
+      "id": "nishi-ogikubo-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "nishi-ogikubo",
+      "path": "sources/backgrounds/nishi-ogikubo/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3320284,
+      "sha256": "e4109e0aab0be7eaaf3cad3c45c5dd21dc6959b4bd0caafd9cc68b79f5c97049",
+      "prompt": "prompts/nishi-ogikubo-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/nishi-ogikubo/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-537e8c52-9410-4007-998e-7f42e4a30fe2.png",
+      "visual_review": "Reviewed: high neutral daylight, blue sky and unlit lamps on the retained wide bookshop, ceramics and bicycle scene. No clock board, character or name plaque."
+    },
+    {
+      "id": "nishi-ogikubo-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "nishi-ogikubo",
+      "path": "sources/backgrounds/nishi-ogikubo/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2877469,
+      "sha256": "305b32220f59748cad061be18ca89a8e074bfa9544344a16a07ddc045d3f9310",
+      "prompt": "prompts/nishi-ogikubo-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/nishi-ogikubo/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-30980701-1274-4f42-bf2b-a982143fcdc0.png",
+      "visual_review": "Reviewed: low morning sunlight on retained blue-green bookshop, ceramics, bicycle and plants; clean landing. No clock board, name plaque or character."
+    },
+    {
+      "id": "nishi-ogikubo-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "nishi-ogikubo",
+      "path": "sources/backgrounds/nishi-ogikubo/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3115981,
+      "sha256": "f56787d41d5cb78893f2d02c852af70287599b5161605396b508885de7cc929d",
+      "prompt": "prompts/nishi-ogikubo-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/nishi-ogikubo/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-452b5253-0cb0-445a-9ba5-1ad1dd11532e.png",
+      "visual_review": "Reviewed: low warm sun, fresh foliage and long shadows on the retained wide bookshop, ceramics and bicycle scene. No clock board, character or name plaque."
+    },
+    {
+      "id": "nishi-ogikubo-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "nishi-ogikubo",
+      "path": "sources/backgrounds/nishi-ogikubo/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2487411,
+      "sha256": "2d8a578f16fe10acc944f1d90047a098181487b6931d662bc8f07bb22c79001d",
+      "prompt": "prompts/nishi-ogikubo-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/nishi-ogikubo/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-31333ec2-bc80-470d-a08e-042054cb71cd.png",
+      "visual_review": "Reviewed: deep navy night with moon, subdued shop interior and warm lamps. Bookshop architecture, ceramics and bicycle retained; no board, name plaque or character."
+    },
+    {
+      "id": "nishi-ogikubo-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "nishi-ogikubo",
+      "path": "sources/backgrounds/nishi-ogikubo/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2611656,
+      "sha256": "19aa6e8d3d204aad36dd7a32dccebb85f7fd37c21354d2592f18c569a96aa2d4",
+      "prompt": "prompts/nishi-ogikubo-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/nishi-ogikubo/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-f52e105c-b5da-43c4-9f13-d0bcfd1a1f99.png",
+      "visual_review": "Reviewed: deep blue moonlight, sparse lit windows and dimmed shop interior on the retained wide bookshop, ceramics and bicycle scene. No clock board, character or name plaque."
+    },
+    {
+      "id": "ogikubo-evening-square-v01",
+      "path": "sources/backgrounds/ogikubo/evening/square-v01.png",
+      "neighborhood": "ogikubo",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "5ee3ecd16eabfaa102888b82044ffb18970557f50f4fb10c7105a56cea48e525",
+      "bytes": 2663643,
+      "prompt": "prompts/ogikubo-evening-square-v01.txt",
+      "references": [
+        "references/ogikubo-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-a7b2893e-99f3-4213-a3c5-6afbc4276f05.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually viewed: mascot and oversized clock board removed, recognizable shop identity and evening painting style preserved, clear foreground. Native crops and text contrast remain review work."
+      }
+    },
+    {
+      "id": "ogikubo-evening-wide-v01",
+      "path": "sources/backgrounds/ogikubo/evening/wide-v01.png",
+      "neighborhood": "ogikubo",
+      "phase": "evening",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "eab030215e5a43c7cb5228a80a3062909b2e1019feebf8903016462975470b6e",
+      "bytes": 2888927,
+      "prompt": "prompts/ogikubo-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/ogikubo/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-f385e08f-cd40-4d17-826f-fe998b211b6f.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: expanded wide evening scene retains its key landscape/shop identity and clear foreground, no mascot or clock board. Left context suitable for separate time overlay with UI scrim."
+      }
+    },
+    {
+      "id": "ogikubo-midday-square-v01",
+      "path": "sources/backgrounds/ogikubo/midday/square-v01.png",
+      "neighborhood": "ogikubo",
+      "phase": "midday",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "9688595197605df1e295b5d64baf22dbb5f1ad81b850afe3017b9e3ab704b367",
+      "bytes": 2894206,
+      "prompt": "prompts/ogikubo-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/ogikubo/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-1992bdb4-9311-442b-8950-fe3235236225.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: Bright neutral daylight with unlit fixtures; storefront, bowls, noren, stools and garden geometry retained."
+      }
+    },
+    {
+      "id": "ogikubo-midday-wide-v01",
+      "path": "sources/backgrounds/ogikubo/midday/wide-v01.png",
+      "neighborhood": "ogikubo",
+      "phase": "midday",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "51b8729e8c2a8b464202c7e53c5ebdd548061c1aa8141d5256c0e7aafecc3bd2",
+      "bytes": 3150701,
+      "prompt": "prompts/ogikubo-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/ogikubo/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-86761cd1-bd44-4fc2-9995-20a3d8e3439a.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: distinct phase lighting, recognizable scene geometry and clean separate-layer backdrop retained. No mascot or clock board. Native surface cropping and final text contrast remain consumer integration checks."
+      }
+    },
+    {
+      "id": "ogikubo-morning-square-v01",
+      "path": "sources/backgrounds/ogikubo/morning/square-v01.png",
+      "neighborhood": "ogikubo",
+      "phase": "morning",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "116bf6ce272309360269a9af6b14f5830306d65a8e34301467d9df77e1a77c22",
+      "bytes": 2917767,
+      "prompt": "prompts/ogikubo-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/ogikubo/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-23c90eba-0425-4f6b-8f7f-4ba4ab452cb3.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: Morning lighting and unlit lanterns read clearly; main shop geometry retained. Small drift: two hanging counter lamps are absent, unlike evening."
+      }
+    },
+    {
+      "id": "ogikubo-morning-wide-v01",
+      "path": "sources/backgrounds/ogikubo/morning/wide-v01.png",
+      "neighborhood": "ogikubo",
+      "phase": "morning",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "6672dbb4fe9246ed27362904dd91cc6dadd0a7898bfd324b7a1b0074470daba1",
+      "bytes": 3186962,
+      "prompt": "prompts/ogikubo-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/ogikubo/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-e26dca8d-4d41-4692-82ee-7835b58209f9.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: distinct phase lighting, recognizable scene geometry and clean separate-layer backdrop retained. No mascot or clock board. Native surface cropping and final text contrast remain consumer integration checks."
+      }
+    },
+    {
+      "id": "ogikubo-night-square-v01",
+      "path": "sources/backgrounds/ogikubo/night/square-v01.png",
+      "neighborhood": "ogikubo",
+      "phase": "night",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "5b799af432a482e0bfc62f16754f5aec905c6f97a6c2177d12ba746b2499b92c",
+      "bytes": 2415995,
+      "prompt": "prompts/ogikubo-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/ogikubo/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-aec30f72-b855-4326-bd01-4dc43caf8494.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: distinct phase lighting, recognizable scene geometry and clean separate-layer backdrop retained. No mascot or clock board. Native surface cropping and final text contrast remain consumer integration checks."
+      }
+    },
+    {
+      "id": "ogikubo-night-wide-v01",
+      "path": "sources/backgrounds/ogikubo/night/wide-v01.png",
+      "neighborhood": "ogikubo",
+      "phase": "night",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "71b9e00e2bd423678638369c9e1e74cd09dc1099dd1559678f88e61d5f3d51d4",
+      "bytes": 2531325,
+      "prompt": "prompts/ogikubo-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/ogikubo/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-cef19bf6-2e47-416a-b7a1-52e942d7bccb.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: distinct phase lighting, recognizable scene geometry and clean separate-layer backdrop retained. No mascot or clock board. Native surface cropping and final text contrast remain consumer integration checks."
+      }
+    },
+    {
+      "id": "omiya-matsunoki-evening-square-v01",
+      "path": "sources/backgrounds/omiya-matsunoki/evening/square-v01.png",
+      "neighborhood": "omiya-matsunoki",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "370475ab8fed1b5eca061ef5bd1f78ab234031ac1baf27c422ccb57fc2086cd0",
+      "bytes": 3118693,
+      "prompt": "prompts/omiya-matsunoki-evening-square-v01.txt",
+      "references": [
+        "references/omiya-matsunoki-evening-legacy.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-e79f0e88-201e-4cc7-8515-42b51b6a9539.png",
+      "visual_review": "Individually viewed: board, plaque, sign supports and Namisuke removed; neighborhood landmark retained, natural reconstruction and clear foreground. Small product markings are incidental painting detail, not live UI. Collection draft; native legibility still to test."
+    },
+    {
+      "id": "omiya-matsunoki-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "omiya-matsunoki",
+      "path": "sources/backgrounds/omiya-matsunoki/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3255173,
+      "sha256": "e1cb00eb9e435547db8faeeedb79d6b4f86d16ec3b61370ad564aa8640b4b820",
+      "prompt": "prompts/omiya-matsunoki-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/omiya-matsunoki/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-91c8b4a1-3b29-4ad0-be39-b26c68241bff.png",
+      "visual_review": "Individually viewed: 2:1 evening extension preserves recognizable landmark and painterly style, places main subject center-right with calm left region and open foreground. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "omiya-matsunoki-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "omiya-matsunoki",
+      "path": "sources/backgrounds/omiya-matsunoki/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3468153,
+      "sha256": "e5553316bb72409b3f718bfdf1ae9c6f16743a835a60f9680a2b0aa227a1c8a4",
+      "prompt": "prompts/omiya-matsunoki-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/omiya-matsunoki/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-03f02c79-9751-4518-978a-7c192b14f5fa.png",
+      "visual_review": "Individually viewed: scene framing and landmark remain consistent with evening target; phase lighting is distinct, daytime lamps off and night cool with restrained lights. No characters, boards or UI. Collection draft."
+    },
+    {
+      "id": "omiya-matsunoki-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "omiya-matsunoki",
+      "path": "sources/backgrounds/omiya-matsunoki/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3501178,
+      "sha256": "e767ac546f2c0798517ac4b8f27b997a838eeb190befad696456738b584411d8",
+      "prompt": "prompts/omiya-matsunoki-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/omiya-matsunoki/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-ca252417-eada-4aac-9fca-12f3fb7430c0.png",
+      "visual_review": "Individually viewed: stable composition and landmark, distinct phase lighting, daytime lamps off and night restrained. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "omiya-matsunoki-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "omiya-matsunoki",
+      "path": "sources/backgrounds/omiya-matsunoki/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3403208,
+      "sha256": "b284840ec986da87e17a04f9270856fe4594e6090441f25773cc2b31c0be05c0",
+      "prompt": "prompts/omiya-matsunoki-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/omiya-matsunoki/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-3435d23e-5f1c-49a9-aed8-61080bd4db21.png",
+      "visual_review": "Individually viewed: scene framing and landmark remain consistent with evening target; phase lighting is distinct, daytime lamps off and night cool with restrained lights. No characters, boards or UI. Collection draft."
+    },
+    {
+      "id": "omiya-matsunoki-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "omiya-matsunoki",
+      "path": "sources/backgrounds/omiya-matsunoki/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3427898,
+      "sha256": "ec8b9ec8e1ba6f0a15a5562cfd5053e803fe5bad87cc077a066b2cf096473cda",
+      "prompt": "prompts/omiya-matsunoki-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/omiya-matsunoki/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-be6a95ee-2d21-45a7-82a7-8142dba9bff1.png",
+      "visual_review": "Individually viewed: scene framing and landmark remain consistent with evening target; phase lighting is distinct, daytime lamps off and night cool with restrained lights. No characters, boards or UI. Collection draft."
+    },
+    {
+      "id": "omiya-matsunoki-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "omiya-matsunoki",
+      "path": "sources/backgrounds/omiya-matsunoki/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2980958,
+      "sha256": "6b463272637416f8b97cc7c8a28884db792c2299a215cd299b56f9d6527fbd09",
+      "prompt": "prompts/omiya-matsunoki-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/omiya-matsunoki/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-7ec07ee2-89e1-4d5a-bf3d-576daeb910ff.png",
+      "visual_review": "Individually viewed: scene framing and landmark remain consistent with evening target; phase lighting is distinct, daytime lamps off and night cool with restrained lights. No characters, boards or UI. Collection draft."
+    },
+    {
+      "id": "omiya-matsunoki-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "omiya-matsunoki",
+      "path": "sources/backgrounds/omiya-matsunoki/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2934963,
+      "sha256": "4044431e9a4e3a3d1d24d67e486d93c0af6ff8cbbdd6c14f21ec5578bca77a2f",
+      "prompt": "prompts/omiya-matsunoki-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/omiya-matsunoki/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-9d046726-36e8-4304-a13c-a122ba2c5db4.png",
+      "visual_review": "Individually viewed: stable composition and landmark, distinct phase lighting, daytime lamps off and night restrained. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "shimizu-evening-square-v01",
+      "path": "sources/backgrounds/shimizu/evening/square-v01.png",
+      "neighborhood": "shimizu",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "dad95268ead314df7f1b8c90773f02069d2872057c39554b0ba983a6e8b29d2c",
+      "bytes": 3039709,
+      "prompt": "prompts/shimizu-evening-square-v01.txt",
+      "references": [
+        "references/shimizu-evening-legacy.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-c863b2e7-5bc9-480c-9c92-6f3c2c32861a.png",
+      "visual_review": "Individually viewed: board, plaque, sign supports and Namisuke removed; neighborhood landmark retained, natural reconstruction and clear foreground. Small product markings are incidental painting detail, not live UI. Collection draft; native legibility still to test."
+    },
+    {
+      "id": "shimizu-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "shimizu",
+      "path": "sources/backgrounds/shimizu/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3308763,
+      "sha256": "b3420739ad6199c872fc897df61c8f02d7b513097bdca46d317ab694e2a52dab",
+      "prompt": "prompts/shimizu-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/shimizu/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-a52de3b3-7113-448a-9c47-a04e065d68cb.png",
+      "visual_review": "Individually viewed: 2:1 evening extension preserves recognizable landmark and painterly style, places main subject center-right with calm left region and open foreground. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "shimizu-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "shimizu",
+      "path": "sources/backgrounds/shimizu/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3325636,
+      "sha256": "10df4bc7d81b9b34cc0f6644264368503618bb2023372107ad681281be5efbb7",
+      "prompt": "prompts/shimizu-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/shimizu/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-72c360f1-2a1a-4206-b8c6-05e5a9d1f371.png",
+      "visual_review": "Reviewed: neutral midday sunshine and lamps off; retained pond, fountain, bench and pavilion and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "shimizu-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "shimizu",
+      "path": "sources/backgrounds/shimizu/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3462277,
+      "sha256": "109982c92c8d2b3a69bc4a8a069cd84532445b9cea6e6b17fe0671140468428a",
+      "prompt": "prompts/shimizu-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/shimizu/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-b9b6c86f-2cf1-4101-8d36-b523994840f5.png",
+      "visual_review": "Reviewed: neutral midday sunshine; retained pond, fountain, bench and pavilion and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "shimizu-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "shimizu",
+      "path": "sources/backgrounds/shimizu/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3227219,
+      "sha256": "1238f3d7bac4e230676b1ef65718dfbc2a8b2b3f725a94f8f15ece10d7359427",
+      "prompt": "prompts/shimizu-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/shimizu/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-35456cdf-a8dd-43bd-bf1d-d173f52c9306.png",
+      "visual_review": "Reviewed: low warm morning light and lamps off; retained pond, fountain, bench and pavilion and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "shimizu-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "shimizu",
+      "path": "sources/backgrounds/shimizu/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3386464,
+      "sha256": "3de358c8c7fb732ee6eaee9057ff65a2cd451c9ae793b87c5573c4a58e2326df",
+      "prompt": "prompts/shimizu-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/shimizu/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-d3776cf0-0908-43fb-8999-08c3a15b0172.png",
+      "visual_review": "Reviewed: warm morning sunlight; retained pond, fountain, bench and pavilion and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "shimizu-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "shimizu",
+      "path": "sources/backgrounds/shimizu/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2795900,
+      "sha256": "664c6a08a475312a5a248c080229b9614dad8bc29da9de8a22f68f617271ec54",
+      "prompt": "prompts/shimizu-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/shimizu/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-be905e9e-63d8-47f3-b895-15055e4d8d46.png",
+      "visual_review": "Reviewed: navy night sky and selective warm lights; retained pond, fountain, bench and pavilion and square framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "shimizu-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "shimizu",
+      "path": "sources/backgrounds/shimizu/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3016127,
+      "sha256": "f90f55487b85bfee2f7a48aea5269e24d843ead18d08848328b22a9dbd4c16fe",
+      "prompt": "prompts/shimizu-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/shimizu/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-571d440c-2b15-4c8e-b2a6-dc4f027d73f2.png",
+      "visual_review": "Reviewed: navy night sky and selective warm lights; retained pond, fountain, bench and pavilion and wide framing. No clock board, name plaque or mascot."
+    },
+    {
+      "id": "shimo-takaido-evening-square-v01",
+      "phase": "evening",
+      "shape": "square",
+      "neighborhood": "shimo-takaido",
+      "path": "sources/backgrounds/shimo-takaido/evening/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2915151,
+      "sha256": "d3eaec0a3451ffcc6eac6a7f1c59ac0cc2eaceef89d6e5a2b9277b0286cd7469",
+      "prompt": "prompts/shimo-takaido-evening-square-v01.txt",
+      "references": [
+        "references/shimo-takaido-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-4eb1f087-3d12-459c-bf0f-fdc536db3f0b.png",
+      "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; evening lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "shimo-takaido-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "shimo-takaido",
+      "path": "sources/backgrounds/shimo-takaido/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3044126,
+      "sha256": "c08175382a77d85f34b370b1972b47b0b43ec1ba8abf9a40f695e8d50b62c288",
+      "prompt": "prompts/shimo-takaido-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/shimo-takaido/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-b0b9aed5-b4b3-4882-9814-fe4dc88ef04e.png",
+      "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; evening lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "shimo-takaido-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "shimo-takaido",
+      "path": "sources/backgrounds/shimo-takaido/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3193585,
+      "sha256": "a2926e5a48ca13767fda373cb635614be168f9859e6a6d20b6d3952afbf45b8a",
+      "prompt": "prompts/shimo-takaido-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/shimo-takaido/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-4916b679-9e80-453c-a77a-a888aa96a2ff.png",
+      "visual_review": "Visually reviewed: Park lawn, pavilion, bench with bag, lamps and residential skyline retain a coherent layout. Bright blue sky, green foliage and neutral daylight read clearly as midday. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "shimo-takaido-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "shimo-takaido",
+      "path": "sources/backgrounds/shimo-takaido/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3111825,
+      "sha256": "ef8692ee2e744329c0b1bdc8bd105f38434aaabc743b44e5f0a2842680a38c74",
+      "prompt": "prompts/shimo-takaido-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/shimo-takaido/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-2d269919-4af2-4b9e-98c9-d842cfcec7f2.png",
+      "visual_review": "Visually reviewed: Park lawn, pavilion, bench, lamps, residential skyline and open foreground retain the supplied composition. Bright blue sky, neutral daylight, vibrant lawn and unlit park lamps clearly establish midday. No people, mascot, clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "shimo-takaido-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "shimo-takaido",
+      "path": "sources/backgrounds/shimo-takaido/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3069850,
+      "sha256": "4802fd4b6d1bc069ad3690b60aaecb1fc4eb09f0160c44cb13fbebe1ac54e249",
+      "prompt": "prompts/shimo-takaido-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/shimo-takaido/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-c09de3bb-5597-4aab-8da2-f9f357775d6c.png",
+      "visual_review": "Visually reviewed: Park lawn, pavilion, bench with bag, lamps and residential skyline retain a coherent layout. Low warm sun and blue sky read clearly as morning; foreground lamps are unlit. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "shimo-takaido-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "shimo-takaido",
+      "path": "sources/backgrounds/shimo-takaido/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3069560,
+      "sha256": "c239119418e1b14a80e36433ea21faa1635969328079d93b07e8a5933e91a3c5",
+      "prompt": "prompts/shimo-takaido-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/shimo-takaido/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-c4c525b7-1ed8-4802-a9d2-393410142f16.png",
+      "visual_review": "Visually reviewed: Park lawn, pavilion, bench, lamps, residential skyline and open foreground retain the supplied composition. Low warm sun, long shadows, pale blue sky and unlit park lamps clearly establish morning. No people, mascot, clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "shimo-takaido-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "shimo-takaido",
+      "path": "sources/backgrounds/shimo-takaido/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2682188,
+      "sha256": "c7bc538e17c62f0d47bc9c805db49bfd9987a6f0affdcd99556c3023c62d991b",
+      "prompt": "prompts/shimo-takaido-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/shimo-takaido/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-43ffdabc-e79b-4878-98be-024c1fd1bb48.png",
+      "visual_review": "Visually reviewed: Park lawn, pavilion, bench, lamps, residential skyline and open foreground retain the supplied composition. Deep navy sky, moonlit foreground, cool foliage and localized warm lamps clearly establish night. No people, mascot, clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "shimo-takaido-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "shimo-takaido",
+      "path": "sources/backgrounds/shimo-takaido/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2693189,
+      "sha256": "7a936d82ee80d2667d36e82dcd5705529d19ea6f6c07a1e9459720a3a980559b",
+      "prompt": "prompts/shimo-takaido-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/shimo-takaido/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-91789e46-d425-4b9a-8837-7f6eb9d58c9e.png",
+      "visual_review": "Visually reviewed: Park lawn, pavilion, bench, lamps, residential skyline and open foreground retain the supplied composition. Deep navy sky, moonlit foreground, cool foliage and localized warm lamps clearly establish night. No people, mascot, clock board, name plaque, readable text or UI."
+    },
+    {
+      "id": "takaido-fujimigaoka-evening-square-v01",
+      "path": "sources/backgrounds/takaido-fujimigaoka/evening/square-v01.png",
+      "neighborhood": "takaido-fujimigaoka",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3069177,
+      "sha256": "c73cfb0316888393949ec799c885c6c81e7b3e94ff2c5b8f455296a35042a95b",
+      "prompt": "prompts/takaido-fujimigaoka-evening-square-v01.txt",
+      "references": [
+        "references/takaido-fujimigaoka-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-0a975acf-b46a-45c4-bd16-9c8f64f17b0a.png",
+      "visual_review": "Visually reviewed: mascot, large clock board, its supports and neighborhood plaque removed; local landmarks, painterly evening palette and open foreground retained. No time/date/UI baked in."
+    },
+    {
+      "id": "takaido-fujimigaoka-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "takaido-fujimigaoka",
+      "path": "sources/backgrounds/takaido-fujimigaoka/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3155433,
+      "sha256": "ece3bf9e935045198836ee9dbca861cf6c835d508c156a31b9b38308de39f255",
+      "prompt": "prompts/takaido-fujimigaoka-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/takaido-fujimigaoka/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-2ee6ab2d-88be-4712-b405-dfb2b4affaaf.png",
+      "visual_review": "Visually reviewed: wide composition retains neighborhood landmark and evening palette, clean of characters, large boards, name plaques and UI. Calm left sky and open foreground retained."
+    },
+    {
+      "id": "takaido-fujimigaoka-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "takaido-fujimigaoka",
+      "path": "sources/backgrounds/takaido-fujimigaoka/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3325875,
+      "sha256": "f04f00ecfa1d170071cf0de8a51d58c900d151bd20466a13d47400c72bed6347",
+      "prompt": "prompts/takaido-fujimigaoka-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/takaido-fujimigaoka/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-40bd9169-243e-45b8-9d03-fed94f27e5f4.png",
+      "visual_review": "Visually reviewed: Railway bridge, green-striped train, chimney, river embankment, flowered footpath and railings remain coherent in the scene. Bright blue sky, green foliage and neutral daylight read clearly as midday. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "takaido-fujimigaoka-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "takaido-fujimigaoka",
+      "path": "sources/backgrounds/takaido-fujimigaoka/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3238342,
+      "sha256": "603c35e6e85a247e77877e1dc3b5ad807831232dd67fbb6ad1da14c0dc7c54fb",
+      "prompt": "prompts/takaido-fujimigaoka-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/takaido-fujimigaoka/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-504d880b-f9b8-459f-85ad-598ca554ad73.png",
+      "visual_review": "Visually reviewed: Railway bridge, green-striped train, chimney, river embankment, flowered footpath and railings remain coherent in the scene. Bright blue sky, green foliage and neutral daylight read clearly as midday. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "takaido-fujimigaoka-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "takaido-fujimigaoka",
+      "path": "sources/backgrounds/takaido-fujimigaoka/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3299243,
+      "sha256": "f238cc6f8adc73b2926350a6d0b790d2b86aa8c9e29762835272749f96758417",
+      "prompt": "prompts/takaido-fujimigaoka-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/takaido-fujimigaoka/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-0017cd86-a99c-4dde-be02-84c5a85afd62.png",
+      "visual_review": "Visually reviewed: Railway bridge, green-striped train, chimney, river embankment, flowered footpath and railings remain coherent in the scene. Low warm sun and blue sky read clearly as morning; foreground lamps are unlit. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "takaido-fujimigaoka-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "takaido-fujimigaoka",
+      "path": "sources/backgrounds/takaido-fujimigaoka/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3225440,
+      "sha256": "51533422014844370d92f653d24e31139d98e85e530bbd951607081c80363dc3",
+      "prompt": "prompts/takaido-fujimigaoka-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/takaido-fujimigaoka/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-ddc2b91f-59e9-4db9-9367-92411ac3cd1e.png",
+      "visual_review": "Visually reviewed: Railway bridge, green-striped train, chimney, river embankment, flowered footpath and railings remain coherent in the scene. Low warm sun and blue sky read clearly as morning; foreground lamps are unlit. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "takaido-fujimigaoka-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "takaido-fujimigaoka",
+      "path": "sources/backgrounds/takaido-fujimigaoka/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2823586,
+      "sha256": "ed80f5dc15c0bb2e0f171f83117499409ff9dfb99903b42d06fb1a387bdd8c5c",
+      "prompt": "prompts/takaido-fujimigaoka-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/takaido-fujimigaoka/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-477950e6-8ce1-4f93-a5cf-24420558d234.png",
+      "visual_review": "Visually reviewed: Railway bridge, green-striped train, chimney, river embankment, flowered footpath and railings remain coherent in the scene. Navy sky, moonlight and warm lamps/windows read clearly as night without sunset orange. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "takaido-fujimigaoka-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "takaido-fujimigaoka",
+      "path": "sources/backgrounds/takaido-fujimigaoka/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2820880,
+      "sha256": "d3f2899ad9d386d802189b60f5e922ac6226d8dbecb35ce7e03b1670ef05057a",
+      "prompt": "prompts/takaido-fujimigaoka-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/takaido-fujimigaoka/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-81675e7c-b02f-4ae5-85a1-92f95cf7b5a3.png",
+      "visual_review": "Visually reviewed: Railway bridge, green-striped train, chimney, river embankment, flowered footpath and railings remain coherent in the scene. Navy sky, moonlight and warm lamps/windows read clearly as night without sunset orange. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+    },
+    {
+      "id": "wada-evening-square-v01",
+      "phase": "evening",
+      "shape": "square",
+      "neighborhood": "wada",
+      "path": "sources/backgrounds/wada/evening/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2875149,
+      "sha256": "09bdba6a682fb6577b9b87cdecb686ee45985629723fea08e66e8073b8450e35",
+      "prompt": "prompts/wada-evening-square-v01.txt",
+      "references": [
+        "references/wada-evening-legacy.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-b8708c70-72f7-4629-9700-701683a45dbc.png",
+      "visual_review": "Individually viewed: clean evening scene retains landmark/shop identity; large clock board and name plaque removed, no mascot or live UI baked in, foreground clear. Minor incidental product/art marks may remain. Collection draft."
+    },
+    {
+      "id": "wada-evening-wide-v01",
+      "phase": "evening",
+      "shape": "wide",
+      "neighborhood": "wada",
+      "path": "sources/backgrounds/wada/evening/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3094613,
+      "sha256": "43f053c7c940ccb1e74c6ee38ca1a4197e330a5670dcb78f418ede15ac678ae9",
+      "prompt": "prompts/wada-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/wada/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-255dca47-cb84-40eb-94f2-dfbf495347af.png",
+      "visual_review": "Individually viewed: 2:1 evening extension preserves recognizable landmark and painterly style, places main subject center-right with calm left region and open foreground. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "wada-midday-square-v01",
+      "phase": "midday",
+      "shape": "square",
+      "neighborhood": "wada",
+      "path": "sources/backgrounds/wada/midday/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3151840,
+      "sha256": "b1bb083d72829c2a04f7357f6eba97b6f44339d2ffee903996a4cc27f49a2a3f",
+      "prompt": "prompts/wada-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/wada/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-b166e1f8-3356-4c3b-a661-9e0f5793bc62.png",
+      "visual_review": "Individually viewed: stable art-shop framing and objects, distinct phase lighting; daytime external lamps off, night shop dark. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "wada-midday-wide-v01",
+      "phase": "midday",
+      "shape": "wide",
+      "neighborhood": "wada",
+      "path": "sources/backgrounds/wada/midday/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3307208,
+      "sha256": "ed8f1f0f6f752099d4e1460977fd0b0d686fbf7c9d3c61b64b26bc4b3dd54def",
+      "prompt": "prompts/wada-midday-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/wada/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-5adbc9a9-51a8-451a-b4fc-c94706d941d4.png",
+      "visual_review": "Individually viewed: stable shop framing and objects, distinct phase lighting; external daytime lamps off, night shop dark. No mascot, clock boards or live UI. Wada midday retains subtle interior lamp highlights. Collection draft."
+    },
+    {
+      "id": "wada-morning-square-v01",
+      "phase": "morning",
+      "shape": "square",
+      "neighborhood": "wada",
+      "path": "sources/backgrounds/wada/morning/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 3088314,
+      "sha256": "856b8a3a26e510f0426eb114272f05dd2c43390097eb1531241d635003f32a99",
+      "prompt": "prompts/wada-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/wada/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-92635e5f-35c1-4076-8b30-2d609d231c6b.png",
+      "visual_review": "Individually viewed: stable art-shop framing and objects, distinct phase lighting; daytime external lamps off, night shop dark. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "wada-morning-wide-v01",
+      "phase": "morning",
+      "shape": "wide",
+      "neighborhood": "wada",
+      "path": "sources/backgrounds/wada/morning/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 3169564,
+      "sha256": "ea6f19a1af57f4ec2ce953500b86c6da8a19e18f3dd7e7a29ffbd9a7c189eded",
+      "prompt": "prompts/wada-morning-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/wada/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-36c0c753-4fe6-4dee-8d57-3879aa466c56.png",
+      "visual_review": "Individually viewed: stable art-shop framing and objects, distinct phase lighting; daytime external lamps off, night shop dark. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "wada-night-square-v01",
+      "phase": "night",
+      "shape": "square",
+      "neighborhood": "wada",
+      "path": "sources/backgrounds/wada/night/square-v01.png",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "bytes": 2602169,
+      "sha256": "a22b69ff072718054441886782170491602b678032eb0e3eff8ab22c6c2796a6",
+      "prompt": "prompts/wada-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/wada/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-96b0fb7c-7e15-41f4-91f2-f187170ab840.png",
+      "visual_review": "Individually viewed: stable art-shop framing and objects, distinct phase lighting; daytime external lamps off, night shop dark. No mascot, clock boards or live UI. Collection draft."
+    },
+    {
+      "id": "wada-night-wide-v01",
+      "phase": "night",
+      "shape": "wide",
+      "neighborhood": "wada",
+      "path": "sources/backgrounds/wada/night/wide-v01.png",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "bytes": 2655050,
+      "sha256": "79e7bb0f76877bbe14d2080ca6a147e57e7e062f51f1ba3d886ef4a058aa6d15",
+      "prompt": "prompts/wada-night-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/wada/evening/wide-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-4b86513c-06d2-4eb9-b1da-4c1212dff1eb.png",
+      "visual_review": "Individually viewed: stable shop framing and objects, distinct phase lighting; external daytime lamps off, night shop dark. No mascot, clock boards or live UI. Wada midday retains subtle interior lamp highlights. Collection draft."
+    },
+    {
+      "id": "zenpukuji-evening-square-v01",
+      "path": "sources/backgrounds/zenpukuji/evening/square-v01.png",
+      "neighborhood": "zenpukuji",
+      "phase": "evening",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "76b5f5242f3fd8e50db9e967d36bae986058b6097292ded84a75ac2705114523",
+      "bytes": 2979636,
+      "prompt": "prompts/zenpukuji-evening-square-v01.txt",
+      "references": [
+        "references/zenpukuji-evening-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-927ee5a3-a2fa-43ae-8ac6-376f6ed42123.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: clean background without clock board, supports, name plaque or mascot; recognizable scene and painterly evening palette retained. Wide variant, where applicable, has expanded left street/sky and landmark at center-right."
+      }
+    },
+    {
+      "id": "zenpukuji-evening-wide-v01",
+      "path": "sources/backgrounds/zenpukuji/evening/wide-v01.png",
+      "neighborhood": "zenpukuji",
+      "phase": "evening",
+      "shape": "wide",
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "c9233948a502de5f455cd687d773027ab5eef997e44cce85440056cd3a685948",
+      "bytes": 3276436,
+      "prompt": "prompts/zenpukuji-evening-wide-v01.txt",
+      "references": [
+        "sources/backgrounds/zenpukuji/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-53e10e45-80a2-4e2c-86fd-bb4a53124b02.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: expanded wide evening scene retains its key landscape/shop identity and clear foreground, no mascot or clock board. Left context suitable for separate time overlay with UI scrim."
+      }
+    },
+    {
+      "id": "zenpukuji-midday-square-v01",
+      "path": "sources/backgrounds/zenpukuji/midday/square-v01.png",
+      "neighborhood": "zenpukuji",
+      "phase": "midday",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "664623917e7531276afc0242c15a35013ca8c5601e52462790bb908b2fca5969",
+      "bytes": 3227013,
+      "prompt": "prompts/zenpukuji-midday-square-v01.txt",
+      "references": [
+        "sources/backgrounds/zenpukuji/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-8fe91a06-9dd8-4237-948d-54cd82fec426.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: distinct phase light and main composition retained. Park preserves willow, pond reflection, bench, fence, ducks; bakery preserves storefront and bicycle. Clean backdrop without mascot or clock board."
+      }
+    },
+    {
+      "id": "zenpukuji-midday-wide-v01",
+      "path": "sources/backgrounds/zenpukuji/midday/wide-v01.png",
+      "neighborhood": "zenpukuji",
+      "phase": "midday",
+      "shape": "wide",
+      "references": [
+        "sources/backgrounds/zenpukuji/evening/wide-v01.png"
+      ],
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "6b1fb1a3864474096cb00bc717becbe3f63d401339e9eee6510cca93c597c03d",
+      "bytes": 3389355,
+      "prompt": "prompts/zenpukuji-midday-wide-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-7e8266a5-fc34-4604-a651-3cb034a85080.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: willow, bench, pond, two ducks, fences and framing preserved; distinct midday lighting. No mascot, clock board or rendered text. Daytime foreground lantern unlit; night lantern and distant windows light the pond."
+      }
+    },
+    {
+      "id": "zenpukuji-morning-square-v01",
+      "path": "sources/backgrounds/zenpukuji/morning/square-v01.png",
+      "neighborhood": "zenpukuji",
+      "phase": "morning",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "8d79a97382fb0cc640aa8589c157d269b79a4339b01e9f760fcf8ff83383df4b",
+      "bytes": 3177663,
+      "prompt": "prompts/zenpukuji-morning-square-v01.txt",
+      "references": [
+        "sources/backgrounds/zenpukuji/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-10a7ec81-d739-4923-9c48-9d6e9ea116f6.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: distinct phase light and main composition retained. Park preserves willow, pond reflection, bench, fence, ducks; bakery preserves storefront and bicycle. Clean backdrop without mascot or clock board."
+      }
+    },
+    {
+      "id": "zenpukuji-morning-wide-v01",
+      "path": "sources/backgrounds/zenpukuji/morning/wide-v01.png",
+      "neighborhood": "zenpukuji",
+      "phase": "morning",
+      "shape": "wide",
+      "references": [
+        "sources/backgrounds/zenpukuji/evening/wide-v01.png"
+      ],
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "9953816b19d02e4432ede86c93e24bfb4201c1c63e8880d3df37ff18005db28c",
+      "bytes": 3358699,
+      "prompt": "prompts/zenpukuji-morning-wide-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-32605043-65a3-444e-b3f4-4de2c7cb93b1.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: willow, bench, pond, two ducks, fences and framing preserved; distinct morning lighting. No mascot, clock board or rendered text. Daytime foreground lantern unlit; night lantern and distant windows light the pond."
+      }
+    },
+    {
+      "id": "zenpukuji-night-square-v01",
+      "path": "sources/backgrounds/zenpukuji/night/square-v01.png",
+      "neighborhood": "zenpukuji",
+      "phase": "night",
+      "shape": "square",
+      "width": 1254,
+      "height": 1254,
+      "mode": "RGB",
+      "sha256": "65307497c43b26837eeaf729399af32d8008770441d32fe5eadf45b7ec79fa04",
+      "bytes": 2655590,
+      "prompt": "prompts/zenpukuji-night-square-v01.txt",
+      "references": [
+        "sources/backgrounds/zenpukuji/evening/square-v01.png"
+      ],
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-a0edcd0e-d754-4821-9b3d-7ad3a5411d5a.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: distinct phase light and main composition retained. Park preserves willow, pond reflection, bench, fence, ducks; bakery preserves storefront and bicycle. Clean backdrop without mascot or clock board."
+      }
+    },
+    {
+      "id": "zenpukuji-night-wide-v01",
+      "path": "sources/backgrounds/zenpukuji/night/wide-v01.png",
+      "neighborhood": "zenpukuji",
+      "phase": "night",
+      "shape": "wide",
+      "references": [
+        "sources/backgrounds/zenpukuji/evening/wide-v01.png"
+      ],
+      "width": 1774,
+      "height": 887,
+      "mode": "RGB",
+      "sha256": "7519045018eebeec58a9c7dded7ab1a9ccfe5cbe61c0b95ebdefdbf0f97e7ab1",
+      "bytes": 2787101,
+      "prompt": "prompts/zenpukuji-night-wide-v01.txt",
+      "generator": "built-in image_gen",
+      "status": "collection-draft",
+      "source_filename": "exec-c938136c-64c9-45f9-97f1-55b683a20683.png",
+      "visual_review": {
+        "status": "reviewed",
+        "notes": "Individually inspected: willow, bench, pond, two ducks, fences and framing preserved; distinct night lighting. No mascot, clock board or rendered text. Daytime foreground lantern unlit; night lantern and distant windows light the pond."
+      }
+    }
+  ],
+  "summary": {
+    "neighborhoods": 23,
+    "phases": 4,
+    "backgrounds_available": 184,
+    "backgrounds_expected": 184,
+    "backgrounds_missing": [],
+    "characters_missing": []
+  }
+}

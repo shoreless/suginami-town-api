@@ -1,0 +1,23 @@
+{
+  "id": "zenpukuji-morning-square-v01",
+  "path": "sources/backgrounds/zenpukuji/morning/square-v01.png",
+  "neighborhood": "zenpukuji",
+  "phase": "morning",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "8d79a97382fb0cc640aa8589c157d269b79a4339b01e9f760fcf8ff83383df4b",
+  "bytes": 3177663,
+  "prompt": "prompts/zenpukuji-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/zenpukuji/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-10a7ec81-d739-4923-9c48-9d6e9ea116f6.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: distinct phase light and main composition retained. Park preserves willow, pond reflection, bench, fence, ducks; bakery preserves storefront and bicycle. Clean backdrop without mascot or clock board."
+  }
+}

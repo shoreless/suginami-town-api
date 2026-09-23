@@ -1,0 +1,7 @@
+Use case: precise-object-edit.
+Asset type: square illustrated background layer for watch faces and phone widgets.
+Input image 1 is the existing evening illustration and edit target.
+Primary request: remove Namisuke completely, including any mascot-shaped shadow, and naturally repair the ground where he stood. Remove the entire enormous horizontal blank clock board, its frame, dedicated support posts and vertical neighborhood plaque. Reconstruct believable architecture, canopy or sky behind them; no blank rectangular replacement panel. Preserve the blue-door brick bakery, striped blue and cream awning, bread and croissant baskets, potted hydrangeas and delivery bicycle.
+Composition: single full-bleed 1:1 square. Keep the original camera and major landmark geometry. Leave lower center naturally clear for a separately added character; upper area has calm natural architecture, sky or foliage for live text. Fill former board area organically, not with another sign. Preserve the neighborhood identity.
+Style: same lush textured hand-painted storybook illustration, deep teal foliage, indigo evening sky and restrained amber lighting. Attractive detail, same painting aesthetic.
+Constraints: background only; absolutely no mascot, person, creature, character-shaped shadow, clock, numbers, UI, weather symbols, mockup, border, watermark, readable lettering, blank signboards or boards reserved for text. Remove incidental freestanding menu boards too. Single finished image, no montage.

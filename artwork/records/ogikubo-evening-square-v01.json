@@ -1,0 +1,23 @@
+{
+  "id": "ogikubo-evening-square-v01",
+  "path": "sources/backgrounds/ogikubo/evening/square-v01.png",
+  "neighborhood": "ogikubo",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "5ee3ecd16eabfaa102888b82044ffb18970557f50f4fb10c7105a56cea48e525",
+  "bytes": 2663643,
+  "prompt": "prompts/ogikubo-evening-square-v01.txt",
+  "references": [
+    "references/ogikubo-evening-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-a7b2893e-99f3-4213-a3c5-6afbc4276f05.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually viewed: mascot and oversized clock board removed, recognizable shop identity and evening painting style preserved, clear foreground. Native crops and text contrast remain review work."
+  }
+}

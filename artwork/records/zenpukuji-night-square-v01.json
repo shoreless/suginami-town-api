@@ -1,0 +1,23 @@
+{
+  "id": "zenpukuji-night-square-v01",
+  "path": "sources/backgrounds/zenpukuji/night/square-v01.png",
+  "neighborhood": "zenpukuji",
+  "phase": "night",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "65307497c43b26837eeaf729399af32d8008770441d32fe5eadf45b7ec79fa04",
+  "bytes": 2655590,
+  "prompt": "prompts/zenpukuji-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/zenpukuji/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-a0edcd0e-d754-4821-9b3d-7ad3a5411d5a.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: distinct phase light and main composition retained. Park preserves willow, pond reflection, bench, fence, ducks; bakery preserves storefront and bicycle. Clean backdrop without mascot or clock board."
+  }
+}

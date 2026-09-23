@@ -1,0 +1,20 @@
+{
+  "id": "horinouchi-umezato-morning-wide-v01",
+  "phase": "morning",
+  "shape": "wide",
+  "neighborhood": "horinouchi-umezato",
+  "path": "sources/backgrounds/horinouchi-umezato/morning/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3265076,
+  "sha256": "64980781237a39888149b12c3bcb0f81c4c8cf603a66b4588de0c1bcc521eb11",
+  "prompt": "prompts/horinouchi-umezato-morning-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/horinouchi-umezato/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-f87e71dc-4f1d-42ba-af07-dacff252e532.png",
+  "visual_review": "Individually viewed: stable shop framing, distinct phase lighting, daytime lamps off and night shop dark with sparse remaining lights. No mascot, clock boards or live UI. Collection draft."
+}

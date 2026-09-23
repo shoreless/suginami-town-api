@@ -1,0 +1,20 @@
+{
+  "id": "honan-evening-square-v01",
+  "phase": "evening",
+  "shape": "square",
+  "neighborhood": "honan",
+  "path": "sources/backgrounds/honan/evening/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2718085,
+  "sha256": "feec0e9ee91e37903fc903ec15925060de38cd9e65e1ca8c7e5151da98a25d70",
+  "prompt": "prompts/honan-evening-square-v01.txt",
+  "references": [
+    "references/honan-evening-legacy.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-270e9e71-4143-4c08-9921-915a508f943a.png",
+  "visual_review": "Individually viewed: clean evening scene retains landmark/shop identity; large clock board and name plaque removed, no mascot or live UI baked in, foreground clear. Minor incidental product/art marks may remain. Collection draft."
+}

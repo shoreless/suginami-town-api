@@ -1,0 +1,6 @@
+Use case: precise-object-edit
+Asset type: clean square neighborhood background for layered watch faces and phone widgets.
+Input image 1 is the edit target: hamadayama evening legacy illustration.
+Remove the entire giant blank clock signboard, its frame and ALL of its supporting posts, the vertical neighborhood-name plaque and Namisuke mascot. Seamlessly rebuild the hidden sky, trees, foliage and ground behind every removed object. Retain the pond, stepping stones, arched little bridge, right-side gazebo, left large tree, right bench and hydrangeas.
+Keep the original camera, square 1:1 framing, painterly textured storybook style, brushwork, richly layered natural foliage and warm evening blue/gold lighting. No unrelated new structures. Keep the original distinctive scene identity. Leave natural open foreground for a separately placed character.
+Output only one full-bleed square illustration. No character, creature, people, text, typography, digits, blank signage, lettering, logo, watermark, clock, date, weather, UI, border or device mockup. No signboard supports left standing. No artificial bright empty rectangle.

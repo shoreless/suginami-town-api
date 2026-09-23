@@ -1,0 +1,20 @@
+{
+  "id": "hamadayama-evening-square-v01",
+  "path": "sources/backgrounds/hamadayama/evening/square-v01.png",
+  "neighborhood": "hamadayama",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3188225,
+  "sha256": "bf7e7d789b5445fda58e83081f4e69cd7d3a33afb1524df7dc1348b44fe2132a",
+  "prompt": "prompts/hamadayama-evening-square-v01.txt",
+  "references": [
+    "references/hamadayama-evening-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-04977899-73dc-4852-995b-312ff8e346f6.png",
+  "visual_review": "Visually reviewed: mascot, large clock board, its supports and neighborhood plaque removed; local landmarks, painterly evening palette and open foreground retained. No time/date/UI baked in."
+}

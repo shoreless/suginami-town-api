@@ -1,0 +1,20 @@
+{
+  "id": "honan-night-wide-v01",
+  "phase": "night",
+  "shape": "wide",
+  "neighborhood": "honan",
+  "path": "sources/backgrounds/honan/night/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 2628083,
+  "sha256": "c2aa620d686728892fca94e7d2c6ccaa4855130b55458d7d6bffc739c6f08f55",
+  "prompt": "prompts/honan-night-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/honan/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-a73cd52c-5535-4667-b269-496a1c27c0bd.png",
+  "visual_review": "Individually viewed: stable shop framing and produce, distinct phase lighting; daytime external lamps off, night shop dark and street lights remain. No mascot, clock boards or live UI. Collection draft."
+}

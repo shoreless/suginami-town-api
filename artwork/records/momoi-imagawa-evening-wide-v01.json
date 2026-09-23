@@ -1,0 +1,23 @@
+{
+  "id": "momoi-imagawa-evening-wide-v01",
+  "path": "sources/backgrounds/momoi-imagawa/evening/wide-v01.png",
+  "neighborhood": "momoi-imagawa",
+  "phase": "evening",
+  "shape": "wide",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "7464523008d2c52fc6c00489dfd8f7ecb9e224f6327ccf92e097e8feda19736c",
+  "bytes": 3027263,
+  "prompt": "prompts/momoi-imagawa-evening-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/momoi-imagawa/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-534094bc-fc3b-4938-8bcc-da7c243ab676.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: expanded wide evening scene retains its key landscape/shop identity and clear foreground, no mascot or clock board. Left context suitable for separate time overlay with UI scrim."
+  }
+}

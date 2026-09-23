@@ -3,6 +3,16 @@
 Open data about the neighborhoods of Suginami, Tokyo, served as static JSON. It is maintained as a
 volunteer project and is the data behind the すぎなみ好き (Suginami Suki) stamp-book app.
 
+This repository is also the home for the new [layered artwork system](artwork/README.md):
+neighborhood backgrounds and separate Namisuke artwork, composed by phone widgets and watch
+faces beneath live time/date information. The source migration and new renderer are planned;
+the current `v0/art/` files remain the compatible flattened images.
+
+[Review the neighborhood collection](artwork/COLLECTION.md): 23 neighborhoods across four times
+of day, with separate square/wide backgrounds and transparent Namisuke layers. The browser
+study keeps Japanese names first and uses regular serif text at 95% opacity. The
+[original two-neighborhood evening study](artwork/FIRST-PASS.md) is retained as the design baseline.
+
 There is no server: every endpoint is a file, served by GitHub Pages, so it is free to use and has
 no rate limits or keys.
 

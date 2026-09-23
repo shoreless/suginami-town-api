@@ -1,0 +1,20 @@
+{
+  "id": "hamadayama-night-wide-v01",
+  "phase": "night",
+  "shape": "wide",
+  "neighborhood": "hamadayama",
+  "path": "sources/backgrounds/hamadayama/night/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 2870957,
+  "sha256": "66c03117e675824898c0d1b89616cdace268cd0b86bf54ab69616aa2d6cf2c02",
+  "prompt": "prompts/hamadayama-night-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/hamadayama/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-4bfe3141-90e0-4aad-b4b3-68e2cd674824.png",
+  "visual_review": "Visually reviewed: scene identity, painterly style and landmark layout retained; night lighting is distinct and appropriate. No mascot, large clock board, name plaque, readable text or UI."
+}

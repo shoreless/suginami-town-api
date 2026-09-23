@@ -1,0 +1,23 @@
+{
+  "id": "amanuma-evening-wide-v01",
+  "path": "sources/backgrounds/amanuma/evening/wide-v01.png",
+  "neighborhood": "amanuma",
+  "phase": "evening",
+  "shape": "wide",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "sha256": "56e5f3b8b61a30a9c96a388a3c05f4bf629fca6227a47403db3ea004572013b2",
+  "bytes": 2987459,
+  "prompt": "prompts/amanuma-evening-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/amanuma/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-1993a3ec-63f2-4c0f-bd9e-31ed4a4d31de.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: expanded wide evening scene retains its key landscape/shop identity and clear foreground, no mascot or clock board. Left context suitable for separate time overlay with UI scrim."
+  }
+}

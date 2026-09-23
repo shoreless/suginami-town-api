@@ -1,0 +1,20 @@
+{
+  "id": "miyamae-morning-wide-v01",
+  "phase": "morning",
+  "shape": "wide",
+  "neighborhood": "miyamae",
+  "path": "sources/backgrounds/miyamae/morning/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3305107,
+  "sha256": "d4f5364f8e9112f50d3a04c5adf42badc5b0234f4fadd6a3b1af5e476fc19d7b",
+  "prompt": "prompts/miyamae-morning-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/miyamae/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-9f8b5f37-d6e1-467b-a907-e94f52fce8f9.png",
+  "visual_review": "Visually reviewed: Woodland stream, stepping stones, playground, bench and path retain a coherent landmark layout. Low warm sun and blue sky read clearly as morning; foreground lamps are unlit. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+}

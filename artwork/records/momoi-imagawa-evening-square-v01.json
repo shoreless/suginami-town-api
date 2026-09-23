@@ -1,0 +1,23 @@
+{
+  "id": "momoi-imagawa-evening-square-v01",
+  "path": "sources/backgrounds/momoi-imagawa/evening/square-v01.png",
+  "neighborhood": "momoi-imagawa",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "1d0328023fe18b2164e361a7749b6ac379848bfb5b47c004dfa2ce015b295d2f",
+  "bytes": 2851609,
+  "prompt": "prompts/momoi-imagawa-evening-square-v01.txt",
+  "references": [
+    "references/momoi-imagawa-evening-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-3cf1e1fc-6275-4977-9e75-9363c0cbb336.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: clean background without clock board, supports, name plaque or mascot; recognizable scene and painterly evening palette retained. Wide variant, where applicable, has expanded left street/sky and landmark at center-right."
+  }
+}

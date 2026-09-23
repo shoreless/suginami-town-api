@@ -1,0 +1,20 @@
+{
+  "id": "omiya-matsunoki-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "omiya-matsunoki",
+  "path": "sources/backgrounds/omiya-matsunoki/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3468153,
+  "sha256": "e5553316bb72409b3f718bfdf1ae9c6f16743a835a60f9680a2b0aa227a1c8a4",
+  "prompt": "prompts/omiya-matsunoki-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/omiya-matsunoki/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-03f02c79-9751-4518-978a-7c192b14f5fa.png",
+  "visual_review": "Individually viewed: scene framing and landmark remain consistent with evening target; phase lighting is distinct, daytime lamps off and night cool with restrained lights. No characters, boards or UI. Collection draft."
+}

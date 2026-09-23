@@ -1,0 +1,20 @@
+{
+  "id": "shimo-takaido-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "shimo-takaido",
+  "path": "sources/backgrounds/shimo-takaido/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3193585,
+  "sha256": "a2926e5a48ca13767fda373cb635614be168f9859e6a6d20b6d3952afbf45b8a",
+  "prompt": "prompts/shimo-takaido-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/shimo-takaido/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-4916b679-9e80-453c-a77a-a888aa96a2ff.png",
+  "visual_review": "Visually reviewed: Park lawn, pavilion, bench with bag, lamps and residential skyline retain a coherent layout. Bright blue sky, green foliage and neutral daylight read clearly as midday. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+}

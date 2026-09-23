@@ -1,0 +1,20 @@
+{
+  "id": "narita-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "narita",
+  "path": "sources/backgrounds/narita/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3160076,
+  "sha256": "c8ec7bd44268de4fe18456aea61363215a99f359d2c7e2fd4ff5ce080a1a7edb",
+  "prompt": "prompts/narita-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/narita/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-5fb36c81-4424-40d1-9aa3-ed6042a22b44.png",
+  "visual_review": "Reviewed: low warm morning light and lamps off; retained residential river bend, bridge and walking path and square framing. No clock board, name plaque or mascot."
+}

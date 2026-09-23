@@ -1,0 +1,7 @@
+Use case: lighting-weather.
+Asset type: wide 2:1 phone-widget background.
+Input image 1 is the approved board-free evening kugayama background; it is the edit target.
+Change ONLY the time-of-day atmosphere to midday. Midday: clear bright blue sky and neutral high sun, short shadows, crisp fresh green foliage and blue water where present. All exterior lamps OFF; daylight dominates interiors. No orange sunset, moon, stars, fireflies or glowing insects.
+Keep the exact camera, aspect ratio, framing, architecture, landmark position, object placement, river/footpath geometry and plant silhouettes of the supplied image. Preserve its richly hand-painted storybook texture, teal/green palette and believable neighborhood detail. The arched footbridge and riverbank must remain clearly the same place.
+Retain open foreground for a separately composited character and quiet left region for live typography; do not paint a special panel for text.
+No Namisuke, no people/creatures/characters, no blank signboards or support structures, no name plaques, no readable text/numerals, no clocks, date, weather icons, UI or mockup hardware. No character-shaped shadow. Single full-bleed image.

@@ -1,0 +1,20 @@
+{
+  "id": "honan-night-square-v01",
+  "phase": "night",
+  "shape": "square",
+  "neighborhood": "honan",
+  "path": "sources/backgrounds/honan/night/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2405757,
+  "sha256": "5da3829bdbcd0d2f449bfa43094df9d4f04ada2ba536dfab044d4ffdf7c0c5bd",
+  "prompt": "prompts/honan-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/honan/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-62fee1b6-2212-44c8-b5d7-01f6dd8af2be.png",
+  "visual_review": "Individually viewed: stable shop framing and produce, distinct phase lighting; daytime external lamps off, night shop dark and street lights remain. No mascot, clock boards or live UI. Collection draft."
+}

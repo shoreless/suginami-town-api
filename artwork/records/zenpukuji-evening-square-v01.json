@@ -1,0 +1,23 @@
+{
+  "id": "zenpukuji-evening-square-v01",
+  "path": "sources/backgrounds/zenpukuji/evening/square-v01.png",
+  "neighborhood": "zenpukuji",
+  "phase": "evening",
+  "shape": "square",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "sha256": "76b5f5242f3fd8e50db9e967d36bae986058b6097292ded84a75ac2705114523",
+  "bytes": 2979636,
+  "prompt": "prompts/zenpukuji-evening-square-v01.txt",
+  "references": [
+    "references/zenpukuji-evening-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-927ee5a3-a2fa-43ae-8ac6-376f6ed42123.png",
+  "visual_review": {
+    "status": "reviewed",
+    "notes": "Individually inspected: clean background without clock board, supports, name plaque or mascot; recognizable scene and painterly evening palette retained. Wide variant, where applicable, has expanded left street/sky and landmark at center-right."
+  }
+}

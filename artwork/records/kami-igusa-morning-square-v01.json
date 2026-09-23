@@ -1,0 +1,20 @@
+{
+  "id": "kami-igusa-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "kami-igusa",
+  "path": "sources/backgrounds/kami-igusa/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2940250,
+  "sha256": "32f0ab385431f4d948d33d7e700459f9097f389758c7ccc10006270318036992",
+  "prompt": "prompts/kami-igusa-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/kami-igusa/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-aef296a6-5d56-4223-91cf-7bbb82de7940.png",
+  "visual_review": "Individually viewed: morning scene has pale blue sky, low warm sunlight and long shadows with unlit studio/street lamps. Ivy-covered studio, storyboards, chair, bag and bench preserve source layout and square framing. No mascot, clock UI or new name plaque. Collection draft."
+}

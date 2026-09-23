@@ -1,0 +1,20 @@
+{
+  "id": "koenji-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "koenji",
+  "path": "sources/backgrounds/koenji/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3014715,
+  "sha256": "6777e2ca470bb67ff5a5a930b0da23c3663d8dc40212ac9ebfb591b4238d9ebf",
+  "prompt": "prompts/koenji-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/koenji/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-36e29d3f-f05f-4d43-a9a3-d906af6b2566.png",
+  "visual_review": "Reviewed: low warm morning light and lamps off; retained record shop, records and jackets and square framing. No clock board, name plaque or mascot."
+}

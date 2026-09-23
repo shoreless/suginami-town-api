@@ -1,0 +1,20 @@
+{
+  "id": "eifuku-night-square-v01",
+  "phase": "night",
+  "shape": "square",
+  "neighborhood": "eifuku",
+  "path": "sources/backgrounds/eifuku/night/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2465998,
+  "sha256": "3030814c9f30a4ee1daa2001a03045612a489e1301928091e519030f8ac566a0",
+  "prompt": "prompts/eifuku-night-square-v01.txt",
+  "references": [
+    "sources/backgrounds/eifuku/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-85420d57-5b96-48bd-b696-d699d51b4d25.png",
+  "visual_review": "Individually viewed: deep navy night with cool foliage and paving, subdued shop interior and sparse warm street/window lights. Shop doorway, bowl window, bench, foliage and framing preserved. Incidental decorative wall marks remain from source. No mascot or clock UI baked in. Collection draft."
+}

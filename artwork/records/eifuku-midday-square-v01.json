@@ -1,0 +1,20 @@
+{
+  "id": "eifuku-midday-square-v01",
+  "phase": "midday",
+  "shape": "square",
+  "neighborhood": "eifuku",
+  "path": "sources/backgrounds/eifuku/midday/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2983944,
+  "sha256": "e9a1c118999b2747a6d51033559525e055b7ab46b0b254b05f414302f57ca657",
+  "prompt": "prompts/eifuku-midday-square-v01.txt",
+  "references": [
+    "sources/backgrounds/eifuku/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-a1707597-94bb-468d-b03b-f2e71d0a40ba.png",
+  "visual_review": "Individually viewed: high neutral midday sunlight, blue sky, green foliage and unlit lamps. Shop doorway, bowl window, bench, foliage and square framing preserved. Incidental decorative wall marks remain from source. No mascot or clock UI baked in. Collection draft."
+}

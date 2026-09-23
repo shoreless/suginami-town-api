@@ -1,0 +1,20 @@
+{
+  "id": "wada-night-wide-v01",
+  "phase": "night",
+  "shape": "wide",
+  "neighborhood": "wada",
+  "path": "sources/backgrounds/wada/night/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 2655050,
+  "sha256": "79e7bb0f76877bbe14d2080ca6a147e57e7e062f51f1ba3d886ef4a058aa6d15",
+  "prompt": "prompts/wada-night-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/wada/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-4b86513c-06d2-4eb9-b1da-4c1212dff1eb.png",
+  "visual_review": "Individually viewed: stable shop framing and objects, distinct phase lighting; external daytime lamps off, night shop dark. No mascot, clock boards or live UI. Wada midday retains subtle interior lamp highlights. Collection draft."
+}

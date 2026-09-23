@@ -1,0 +1,20 @@
+{
+  "id": "shimizu-evening-wide-v01",
+  "phase": "evening",
+  "shape": "wide",
+  "neighborhood": "shimizu",
+  "path": "sources/backgrounds/shimizu/evening/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3308763,
+  "sha256": "b3420739ad6199c872fc897df61c8f02d7b513097bdca46d317ab694e2a52dab",
+  "prompt": "prompts/shimizu-evening-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/shimizu/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-a52de3b3-7113-448a-9c47-a04e065d68cb.png",
+  "visual_review": "Individually viewed: 2:1 evening extension preserves recognizable landmark and painterly style, places main subject center-right with calm left region and open foreground. No mascot, clock boards or live UI. Collection draft."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kami-takaido-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "kami-takaido",
+  "path": "sources/backgrounds/kami-takaido/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 3286072,
+  "sha256": "a1522a853d4b7ebb739021dcc7a245c10227e11fe63b27764cdbd80415475c37",
+  "prompt": "prompts/kami-takaido-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/kami-takaido/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-1da17333-c784-41a5-ae86-782cab3492f4.png",
+  "visual_review": "Visually reviewed: Produce stall, cucumber baskets, jars, trellis, watering can and residential lane remain coherent. Small blank price cards are retained as shop props; no readable lettering. Low warm sun and blue sky read clearly as morning; foreground lamps are unlit. No people, mascot, large clock board, neighborhood plaque, time/date text or UI. Foreground remains available for a separate character layer."
+}

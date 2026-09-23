@@ -1,0 +1,20 @@
+{
+  "id": "kami-igusa-midday-wide-v01",
+  "phase": "midday",
+  "shape": "wide",
+  "neighborhood": "kami-igusa",
+  "path": "sources/backgrounds/kami-igusa/midday/wide-v01.png",
+  "width": 1774,
+  "height": 887,
+  "mode": "RGB",
+  "bytes": 3250782,
+  "sha256": "1e0f80b9009be5d2f0d44aa132eedcca32349e00d6da27f5ac444696254f9b6e",
+  "prompt": "prompts/kami-igusa-midday-wide-v01.txt",
+  "references": [
+    "sources/backgrounds/kami-igusa/evening/wide-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-638d4a5e-7170-4518-84ad-98d6a5538dab.png",
+  "visual_review": "Individually viewed: bright blue midday sky, high neutral sunlight, shorter shadows and unlit street lamps. Studio contents and wide street framing preserved; interior pendant bulbs have pale highlights without the prior warm glow. No mascot, clock UI or new name plaque. Collection draft."
+}

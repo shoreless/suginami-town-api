@@ -1,0 +1,20 @@
+{
+  "id": "horinouchi-umezato-morning-square-v01",
+  "phase": "morning",
+  "shape": "square",
+  "neighborhood": "horinouchi-umezato",
+  "path": "sources/backgrounds/horinouchi-umezato/morning/square-v01.png",
+  "width": 1254,
+  "height": 1254,
+  "mode": "RGB",
+  "bytes": 2962478,
+  "sha256": "728fa08cb7d2006ad43b2d548b05f9b517cf8b740841f32257bdf8a7dfd27bfd",
+  "prompt": "prompts/horinouchi-umezato-morning-square-v01.txt",
+  "references": [
+    "sources/backgrounds/horinouchi-umezato/evening/square-v01.png"
+  ],
+  "generator": "built-in image_gen",
+  "status": "collection-draft",
+  "source_filename": "exec-4213273f-f6af-4297-91f1-829528aa3421.png",
+  "visual_review": "Individually viewed: stable composition and landmark, distinct phase lighting, daytime lamps off and night restrained. No mascot, clock boards or live UI. Collection draft."
+}
