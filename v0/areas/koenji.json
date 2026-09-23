@@ -59,7 +59,11 @@
      "en": "Morning in Kōenji",
      "ja": "高円寺の朝"
     },
-    "art": "art/moment-koenji-morning-178c9a2008.jpg"
+    "art": "art/moment-koenji-morning-178c9a2008.jpg",
+    "widget": {
+     "square": "art/widget-square-koenji-morning-f02097a113.jpg",
+     "wide": "art/widget-wide-koenji-morning-28e25aa1c9.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -67,7 +71,11 @@
      "en": "Midday in Kōenji",
      "ja": "高円寺の昼"
     },
-    "art": "art/moment-koenji-midday-f7815b574c.jpg"
+    "art": "art/moment-koenji-midday-f7815b574c.jpg",
+    "widget": {
+     "square": "art/widget-square-koenji-midday-4952f70338.jpg",
+     "wide": "art/widget-wide-koenji-midday-5d2b8911a6.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -75,7 +83,11 @@
      "en": "Record-shop evening",
      "ja": "レコード屋の夕暮れ"
     },
-    "art": "art/moment-koenji-evening-adc57a4e0e.jpg"
+    "art": "art/moment-koenji-evening-adc57a4e0e.jpg",
+    "widget": {
+     "square": "art/widget-square-koenji-evening-9b6e019c16.jpg",
+     "wide": "art/widget-wide-koenji-evening-f8cc07d416.jpg"
+    }
    },
    {
     "phase": "night",
@@ -83,7 +95,11 @@
      "en": "Night in Kōenji",
      "ja": "高円寺の夜"
     },
-    "art": "art/moment-koenji-night-6a3c510690.jpg"
+    "art": "art/moment-koenji-night-6a3c510690.jpg",
+    "widget": {
+     "square": "art/widget-square-koenji-night-ede55acfac.jpg",
+     "wide": "art/widget-wide-koenji-night-d00e05f191.jpg"
+    }
    }
   ],
   "spots": [

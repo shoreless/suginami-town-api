@@ -39,7 +39,11 @@
      "en": "Morning in Eifuku / Nishi-Eifuku",
      "ja": "永福の朝"
     },
-    "art": "art/moment-eifuku-morning-e1e0af3bce.jpg"
+    "art": "art/moment-eifuku-morning-e1e0af3bce.jpg",
+    "widget": {
+     "square": "art/widget-square-eifuku-morning-2de7422464.jpg",
+     "wide": "art/widget-wide-eifuku-morning-4fd8639ac3.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -47,7 +51,11 @@
      "en": "Midday in Eifuku / Nishi-Eifuku",
      "ja": "永福の昼"
     },
-    "art": "art/moment-eifuku-midday-8cde36d6a0.jpg"
+    "art": "art/moment-eifuku-midday-8cde36d6a0.jpg",
+    "widget": {
+     "square": "art/widget-square-eifuku-midday-7dabd051bb.jpg",
+     "wide": "art/widget-wide-eifuku-midday-b7fc49eec7.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -55,7 +63,11 @@
      "en": "Evening in Eifuku / Nishi-Eifuku",
      "ja": "永福の夕方"
     },
-    "art": "art/moment-eifuku-evening-77a708ab42.jpg"
+    "art": "art/moment-eifuku-evening-77a708ab42.jpg",
+    "widget": {
+     "square": "art/widget-square-eifuku-evening-ddb0358d03.jpg",
+     "wide": "art/widget-wide-eifuku-evening-3ba8fe6a3c.jpg"
+    }
    },
    {
     "phase": "night",
@@ -63,7 +75,11 @@
      "en": "Night in Eifuku / Nishi-Eifuku",
      "ja": "永福の夜"
     },
-    "art": "art/moment-eifuku-night-d4f097f3ae.jpg"
+    "art": "art/moment-eifuku-night-d4f097f3ae.jpg",
+    "widget": {
+     "square": "art/widget-square-eifuku-night-3ebb703f47.jpg",
+     "wide": "art/widget-wide-eifuku-night-bae0f30dfd.jpg"
+    }
    }
   ],
   "spots": [

@@ -43,7 +43,11 @@
      "en": "Morning in Shimo-Takaido / Sakurajōsui side",
      "ja": "下高井戸の朝"
     },
-    "art": "art/moment-shimo-takaido-morning-017fa3efcb.jpg"
+    "art": "art/moment-shimo-takaido-morning-017fa3efcb.jpg",
+    "widget": {
+     "square": "art/widget-square-shimo-takaido-morning-38068ae0e3.jpg",
+     "wide": "art/widget-wide-shimo-takaido-morning-c6dae84ee8.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -51,7 +55,11 @@
      "en": "Midday in Shimo-Takaido / Sakurajōsui side",
      "ja": "下高井戸の昼"
     },
-    "art": "art/moment-shimo-takaido-midday-d3283002a4.jpg"
+    "art": "art/moment-shimo-takaido-midday-d3283002a4.jpg",
+    "widget": {
+     "square": "art/widget-square-shimo-takaido-midday-9328dd95a5.jpg",
+     "wide": "art/widget-wide-shimo-takaido-midday-ba42291fe9.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -59,7 +67,11 @@
      "en": "Evening in Shimo-Takaido / Sakurajōsui side",
      "ja": "下高井戸の夕方"
     },
-    "art": "art/moment-shimo-takaido-evening-05e2d559fc.jpg"
+    "art": "art/moment-shimo-takaido-evening-05e2d559fc.jpg",
+    "widget": {
+     "square": "art/widget-square-shimo-takaido-evening-3399287b4d.jpg",
+     "wide": "art/widget-wide-shimo-takaido-evening-df369fbf4e.jpg"
+    }
    },
    {
     "phase": "night",
@@ -67,7 +79,11 @@
      "en": "Night in Shimo-Takaido / Sakurajōsui side",
      "ja": "下高井戸の夜"
     },
-    "art": "art/moment-shimo-takaido-night-ce6f238593.jpg"
+    "art": "art/moment-shimo-takaido-night-ce6f238593.jpg",
+    "widget": {
+     "square": "art/widget-square-shimo-takaido-night-b1226d457c.jpg",
+     "wide": "art/widget-wide-shimo-takaido-night-5a3872e412.jpg"
+    }
    }
   ],
   "spots": [

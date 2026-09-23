@@ -35,7 +35,11 @@
      "en": "Morning in Shimizu",
      "ja": "清水の朝"
     },
-    "art": "art/moment-shimizu-morning-e0726af91d.jpg"
+    "art": "art/moment-shimizu-morning-e0726af91d.jpg",
+    "widget": {
+     "square": "art/widget-square-shimizu-morning-7edee61dfb.jpg",
+     "wide": "art/widget-wide-shimizu-morning-7535d80137.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -43,7 +47,11 @@
      "en": "Midday in Shimizu",
      "ja": "清水の昼"
     },
-    "art": "art/moment-shimizu-midday-cbc2a8f65a.jpg"
+    "art": "art/moment-shimizu-midday-cbc2a8f65a.jpg",
+    "widget": {
+     "square": "art/widget-square-shimizu-midday-796ad4dfe3.jpg",
+     "wide": "art/widget-wide-shimizu-midday-6da9a4b4f7.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -51,7 +59,11 @@
      "en": "Evening in Shimizu",
      "ja": "清水の夕方"
     },
-    "art": "art/moment-shimizu-evening-63628da856.jpg"
+    "art": "art/moment-shimizu-evening-63628da856.jpg",
+    "widget": {
+     "square": "art/widget-square-shimizu-evening-4878ea12eb.jpg",
+     "wide": "art/widget-wide-shimizu-evening-8ef1e4fd26.jpg"
+    }
    },
    {
     "phase": "night",
@@ -59,7 +71,11 @@
      "en": "Night in Shimizu",
      "ja": "清水の夜"
     },
-    "art": "art/moment-shimizu-night-385d0b2e14.jpg"
+    "art": "art/moment-shimizu-night-385d0b2e14.jpg",
+    "widget": {
+     "square": "art/widget-square-shimizu-night-794559598f.jpg",
+     "wide": "art/widget-wide-shimizu-night-995a7c92c7.jpg"
+    }
    }
   ],
   "spots": [

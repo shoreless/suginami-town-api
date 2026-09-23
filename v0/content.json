@@ -48,7 +48,11 @@
       "en": "Morning in Amanuma",
       "ja": "天沼の朝"
      },
-     "art": "art/moment-amanuma-morning-8ef3bc6ea8.jpg"
+     "art": "art/moment-amanuma-morning-8ef3bc6ea8.jpg",
+     "widget": {
+      "square": "art/widget-square-amanuma-morning-4bcb0ac8a2.jpg",
+      "wide": "art/widget-wide-amanuma-morning-aa8d79837c.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -56,7 +60,11 @@
       "en": "Midday in Amanuma",
       "ja": "天沼の昼"
      },
-     "art": "art/moment-amanuma-midday-c9fc9fd098.jpg"
+     "art": "art/moment-amanuma-midday-c9fc9fd098.jpg",
+     "widget": {
+      "square": "art/widget-square-amanuma-midday-3195097ecc.jpg",
+      "wide": "art/widget-wide-amanuma-midday-756a0c4599.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -64,7 +72,11 @@
       "en": "Evening in Amanuma",
       "ja": "天沼の夕方"
      },
-     "art": "art/moment-amanuma-evening-dab5440357.jpg"
+     "art": "art/moment-amanuma-evening-dab5440357.jpg",
+     "widget": {
+      "square": "art/widget-square-amanuma-evening-c309e0f7fc.jpg",
+      "wide": "art/widget-wide-amanuma-evening-2d87c89819.jpg"
+     }
     },
     {
      "phase": "night",
@@ -72,7 +84,11 @@
       "en": "Night in Amanuma",
       "ja": "天沼の夜"
      },
-     "art": "art/moment-amanuma-night-e515eb3983.jpg"
+     "art": "art/moment-amanuma-night-e515eb3983.jpg",
+     "widget": {
+      "square": "art/widget-square-amanuma-night-50e4e193a8.jpg",
+      "wide": "art/widget-wide-amanuma-night-22bd77322a.jpg"
+     }
     }
    ],
    "spots": [
@@ -207,7 +223,11 @@
       "en": "Morning in Asagaya",
       "ja": "阿佐ヶ谷の朝"
      },
-     "art": "art/moment-asagaya-morning-73c0b783d0.jpg"
+     "art": "art/moment-asagaya-morning-73c0b783d0.jpg",
+     "widget": {
+      "square": "art/widget-square-asagaya-morning-c6ff546ff0.jpg",
+      "wide": "art/widget-wide-asagaya-morning-70a5fd1ce1.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -215,7 +235,11 @@
       "en": "Midday in Asagaya",
       "ja": "阿佐ヶ谷の昼"
      },
-     "art": "art/moment-asagaya-midday-4debe8372c.jpg"
+     "art": "art/moment-asagaya-midday-4debe8372c.jpg",
+     "widget": {
+      "square": "art/widget-square-asagaya-midday-5859729803.jpg",
+      "wide": "art/widget-wide-asagaya-midday-87a10d520b.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -223,7 +247,11 @@
       "en": "Leafy café",
       "ja": "緑のカフェ"
      },
-     "art": "art/moment-asagaya-evening-f8faec8e24.jpg"
+     "art": "art/moment-asagaya-evening-f8faec8e24.jpg",
+     "widget": {
+      "square": "art/widget-square-asagaya-evening-ebf4736b69.jpg",
+      "wide": "art/widget-wide-asagaya-evening-c86a7d9442.jpg"
+     }
     },
     {
      "phase": "night",
@@ -231,7 +259,11 @@
       "en": "Night in Asagaya",
       "ja": "阿佐ヶ谷の夜"
      },
-     "art": "art/moment-asagaya-night-0329c6f1ea.jpg"
+     "art": "art/moment-asagaya-night-0329c6f1ea.jpg",
+     "widget": {
+      "square": "art/widget-square-asagaya-night-a061890bad.jpg",
+      "wide": "art/widget-wide-asagaya-night-2310099931.jpg"
+     }
     }
    ],
    "spots": [
@@ -349,7 +381,11 @@
       "en": "Morning in Eifuku / Nishi-Eifuku",
       "ja": "永福の朝"
      },
-     "art": "art/moment-eifuku-morning-e1e0af3bce.jpg"
+     "art": "art/moment-eifuku-morning-e1e0af3bce.jpg",
+     "widget": {
+      "square": "art/widget-square-eifuku-morning-2de7422464.jpg",
+      "wide": "art/widget-wide-eifuku-morning-4fd8639ac3.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -357,7 +393,11 @@
       "en": "Midday in Eifuku / Nishi-Eifuku",
       "ja": "永福の昼"
      },
-     "art": "art/moment-eifuku-midday-8cde36d6a0.jpg"
+     "art": "art/moment-eifuku-midday-8cde36d6a0.jpg",
+     "widget": {
+      "square": "art/widget-square-eifuku-midday-7dabd051bb.jpg",
+      "wide": "art/widget-wide-eifuku-midday-b7fc49eec7.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -365,7 +405,11 @@
       "en": "Evening in Eifuku / Nishi-Eifuku",
       "ja": "永福の夕方"
      },
-     "art": "art/moment-eifuku-evening-77a708ab42.jpg"
+     "art": "art/moment-eifuku-evening-77a708ab42.jpg",
+     "widget": {
+      "square": "art/widget-square-eifuku-evening-ddb0358d03.jpg",
+      "wide": "art/widget-wide-eifuku-evening-3ba8fe6a3c.jpg"
+     }
     },
     {
      "phase": "night",
@@ -373,7 +417,11 @@
       "en": "Night in Eifuku / Nishi-Eifuku",
       "ja": "永福の夜"
      },
-     "art": "art/moment-eifuku-night-d4f097f3ae.jpg"
+     "art": "art/moment-eifuku-night-d4f097f3ae.jpg",
+     "widget": {
+      "square": "art/widget-square-eifuku-night-3ebb703f47.jpg",
+      "wide": "art/widget-wide-eifuku-night-bae0f30dfd.jpg"
+     }
     }
    ],
    "spots": [
@@ -439,7 +487,11 @@
       "en": "Morning in Hamadayama",
       "ja": "浜田山の朝"
      },
-     "art": "art/moment-hamadayama-morning-2fd3286171.jpg"
+     "art": "art/moment-hamadayama-morning-2fd3286171.jpg",
+     "widget": {
+      "square": "art/widget-square-hamadayama-morning-acec37dea5.jpg",
+      "wide": "art/widget-wide-hamadayama-morning-7f9a9dc804.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -447,7 +499,11 @@
       "en": "Midday in Hamadayama",
       "ja": "浜田山の昼"
      },
-     "art": "art/moment-hamadayama-midday-f3d42e3388.jpg"
+     "art": "art/moment-hamadayama-midday-f3d42e3388.jpg",
+     "widget": {
+      "square": "art/widget-square-hamadayama-midday-8aa495d663.jpg",
+      "wide": "art/widget-wide-hamadayama-midday-7f40017203.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -455,7 +511,11 @@
       "en": "Evening in Hamadayama",
       "ja": "浜田山の夕方"
      },
-     "art": "art/moment-hamadayama-evening-3553cceac4.jpg"
+     "art": "art/moment-hamadayama-evening-3553cceac4.jpg",
+     "widget": {
+      "square": "art/widget-square-hamadayama-evening-4b5d63072d.jpg",
+      "wide": "art/widget-wide-hamadayama-evening-260c7a7e8b.jpg"
+     }
     },
     {
      "phase": "night",
@@ -463,7 +523,11 @@
       "en": "Night in Hamadayama",
       "ja": "浜田山の夜"
      },
-     "art": "art/moment-hamadayama-night-8ec22fb884.jpg"
+     "art": "art/moment-hamadayama-night-8ec22fb884.jpg",
+     "widget": {
+      "square": "art/widget-square-hamadayama-night-052469822d.jpg",
+      "wide": "art/widget-wide-hamadayama-night-bad86c935f.jpg"
+     }
     }
    ],
    "spots": [],
@@ -496,7 +560,11 @@
       "en": "Morning in Hōnan",
       "ja": "方南の朝"
      },
-     "art": "art/moment-honan-morning-eb0a29ba2a.jpg"
+     "art": "art/moment-honan-morning-eb0a29ba2a.jpg",
+     "widget": {
+      "square": "art/widget-square-honan-morning-18ed4fa2df.jpg",
+      "wide": "art/widget-wide-honan-morning-a83accca14.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -504,7 +572,11 @@
       "en": "Midday in Hōnan",
       "ja": "方南の昼"
      },
-     "art": "art/moment-honan-midday-90c7fc7a04.jpg"
+     "art": "art/moment-honan-midday-90c7fc7a04.jpg",
+     "widget": {
+      "square": "art/widget-square-honan-midday-4f1351c6f8.jpg",
+      "wide": "art/widget-wide-honan-midday-cdac88ef59.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -512,7 +584,11 @@
       "en": "Evening in Hōnan",
       "ja": "方南の夕方"
      },
-     "art": "art/moment-honan-evening-1f84366ce9.jpg"
+     "art": "art/moment-honan-evening-1f84366ce9.jpg",
+     "widget": {
+      "square": "art/widget-square-honan-evening-9d7550b475.jpg",
+      "wide": "art/widget-wide-honan-evening-ac38c80090.jpg"
+     }
     },
     {
      "phase": "night",
@@ -520,7 +596,11 @@
       "en": "Night in Hōnan",
       "ja": "方南の夜"
      },
-     "art": "art/moment-honan-night-ea6b31e180.jpg"
+     "art": "art/moment-honan-night-ea6b31e180.jpg",
+     "widget": {
+      "square": "art/widget-square-honan-night-ba5a8fca6f.jpg",
+      "wide": "art/widget-wide-honan-night-5fe6ea7cf2.jpg"
+     }
     }
    ],
    "spots": [],
@@ -565,7 +645,11 @@
       "en": "Morning in Horinouchi / Umezato",
       "ja": "堀ノ内の朝"
      },
-     "art": "art/moment-horinouchi-umezato-morning-0bd63e3b83.jpg"
+     "art": "art/moment-horinouchi-umezato-morning-0bd63e3b83.jpg",
+     "widget": {
+      "square": "art/widget-square-horinouchi-umezato-morning-0f144c11f5.jpg",
+      "wide": "art/widget-wide-horinouchi-umezato-morning-58ae658e4c.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -573,7 +657,11 @@
       "en": "Midday in Horinouchi / Umezato",
       "ja": "堀ノ内の昼"
      },
-     "art": "art/moment-horinouchi-umezato-midday-2c83a52f3a.jpg"
+     "art": "art/moment-horinouchi-umezato-midday-2c83a52f3a.jpg",
+     "widget": {
+      "square": "art/widget-square-horinouchi-umezato-midday-ca923992eb.jpg",
+      "wide": "art/widget-wide-horinouchi-umezato-midday-b545025ae1.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -581,7 +669,11 @@
       "en": "Evening in Horinouchi / Umezato",
       "ja": "堀ノ内の夕方"
      },
-     "art": "art/moment-horinouchi-umezato-evening-70ae84a312.jpg"
+     "art": "art/moment-horinouchi-umezato-evening-70ae84a312.jpg",
+     "widget": {
+      "square": "art/widget-square-horinouchi-umezato-evening-0a49d60649.jpg",
+      "wide": "art/widget-wide-horinouchi-umezato-evening-fccf85be39.jpg"
+     }
     },
     {
      "phase": "night",
@@ -589,7 +681,11 @@
       "en": "Night in Horinouchi / Umezato",
       "ja": "堀ノ内の夜"
      },
-     "art": "art/moment-horinouchi-umezato-night-dfb3b87083.jpg"
+     "art": "art/moment-horinouchi-umezato-night-dfb3b87083.jpg",
+     "widget": {
+      "square": "art/widget-square-horinouchi-umezato-night-e0ba7054c1.jpg",
+      "wide": "art/widget-wide-horinouchi-umezato-night-d515b32e30.jpg"
+     }
     }
    ],
    "spots": [
@@ -681,7 +777,11 @@
       "en": "Morning in Igusa / Iogi / Shimo-Igusa",
       "ja": "井草の朝"
      },
-     "art": "art/moment-igusa-morning-c25d28834b.jpg"
+     "art": "art/moment-igusa-morning-c25d28834b.jpg",
+     "widget": {
+      "square": "art/widget-square-igusa-morning-1716ab6155.jpg",
+      "wide": "art/widget-wide-igusa-morning-c56752e5d4.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -689,7 +789,11 @@
       "en": "Midday in Igusa / Iogi / Shimo-Igusa",
       "ja": "井草の昼"
      },
-     "art": "art/moment-igusa-midday-26029d12c9.jpg"
+     "art": "art/moment-igusa-midday-26029d12c9.jpg",
+     "widget": {
+      "square": "art/widget-square-igusa-midday-d285be656c.jpg",
+      "wide": "art/widget-wide-igusa-midday-bbee82f42f.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -697,7 +801,11 @@
       "en": "Evening in Igusa / Iogi / Shimo-Igusa",
       "ja": "井草の夕方"
      },
-     "art": "art/moment-igusa-evening-c4e03f79ce.jpg"
+     "art": "art/moment-igusa-evening-c4e03f79ce.jpg",
+     "widget": {
+      "square": "art/widget-square-igusa-evening-6959088933.jpg",
+      "wide": "art/widget-wide-igusa-evening-360d1a5973.jpg"
+     }
     },
     {
      "phase": "night",
@@ -705,7 +813,11 @@
       "en": "Night in Igusa / Iogi / Shimo-Igusa",
       "ja": "井草の夜"
      },
-     "art": "art/moment-igusa-night-6e3dd96056.jpg"
+     "art": "art/moment-igusa-night-6e3dd96056.jpg",
+     "widget": {
+      "square": "art/widget-square-igusa-night-74de5edee4.jpg",
+      "wide": "art/widget-wide-igusa-night-1aeea42b60.jpg"
+     }
     }
    ],
    "spots": [
@@ -789,7 +901,11 @@
       "en": "Morning in Izumi / Daitabashi side",
       "ja": "和泉の朝"
      },
-     "art": "art/moment-izumi-morning-c475929df6.jpg"
+     "art": "art/moment-izumi-morning-c475929df6.jpg",
+     "widget": {
+      "square": "art/widget-square-izumi-morning-da4cae96c1.jpg",
+      "wide": "art/widget-wide-izumi-morning-8385a527ea.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -797,7 +913,11 @@
       "en": "Midday in Izumi / Daitabashi side",
       "ja": "和泉の昼"
      },
-     "art": "art/moment-izumi-midday-6d2b52f378.jpg"
+     "art": "art/moment-izumi-midday-6d2b52f378.jpg",
+     "widget": {
+      "square": "art/widget-square-izumi-midday-85c81c3c7d.jpg",
+      "wide": "art/widget-wide-izumi-midday-bafa4802c9.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -805,7 +925,11 @@
       "en": "Evening in Izumi / Daitabashi side",
       "ja": "和泉の夕方"
      },
-     "art": "art/moment-izumi-evening-d201957e00.jpg"
+     "art": "art/moment-izumi-evening-d201957e00.jpg",
+     "widget": {
+      "square": "art/widget-square-izumi-evening-01732eda2f.jpg",
+      "wide": "art/widget-wide-izumi-evening-7aca55ce0b.jpg"
+     }
     },
     {
      "phase": "night",
@@ -813,7 +937,11 @@
       "en": "Night in Izumi / Daitabashi side",
       "ja": "和泉の夜"
      },
-     "art": "art/moment-izumi-night-2aa0ad290f.jpg"
+     "art": "art/moment-izumi-night-2aa0ad290f.jpg",
+     "widget": {
+      "square": "art/widget-square-izumi-night-5e3e66bb68.jpg",
+      "wide": "art/widget-wide-izumi-night-11607f746d.jpg"
+     }
     }
    ],
    "spots": [
@@ -905,7 +1033,11 @@
       "en": "Morning in Kami-Igusa",
       "ja": "上井草の朝"
      },
-     "art": "art/moment-kami-igusa-morning-374a2ad8a4.jpg"
+     "art": "art/moment-kami-igusa-morning-374a2ad8a4.jpg",
+     "widget": {
+      "square": "art/widget-square-kami-igusa-morning-36a756af7e.jpg",
+      "wide": "art/widget-wide-kami-igusa-morning-090b8ed23d.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -913,7 +1045,11 @@
       "en": "Midday in Kami-Igusa",
       "ja": "上井草の昼"
      },
-     "art": "art/moment-kami-igusa-midday-4c864aa191.jpg"
+     "art": "art/moment-kami-igusa-midday-4c864aa191.jpg",
+     "widget": {
+      "square": "art/widget-square-kami-igusa-midday-ccec4bd40f.jpg",
+      "wide": "art/widget-wide-kami-igusa-midday-f81b80013f.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -921,7 +1057,11 @@
       "en": "Evening in Kami-Igusa",
       "ja": "上井草の夕方"
      },
-     "art": "art/moment-kami-igusa-evening-a5ea975d72.jpg"
+     "art": "art/moment-kami-igusa-evening-a5ea975d72.jpg",
+     "widget": {
+      "square": "art/widget-square-kami-igusa-evening-644838c7ee.jpg",
+      "wide": "art/widget-wide-kami-igusa-evening-0a552cbecd.jpg"
+     }
     },
     {
      "phase": "night",
@@ -929,7 +1069,11 @@
       "en": "Night in Kami-Igusa",
       "ja": "上井草の夜"
      },
-     "art": "art/moment-kami-igusa-night-bcaad1357a.jpg"
+     "art": "art/moment-kami-igusa-night-bcaad1357a.jpg",
+     "widget": {
+      "square": "art/widget-square-kami-igusa-night-1563a7ad73.jpg",
+      "wide": "art/widget-wide-kami-igusa-night-d03d096de9.jpg"
+     }
     }
    ],
    "spots": [],
@@ -966,7 +1110,11 @@
       "en": "Morning in Kami-Takaido / Hachimanyama side",
       "ja": "上高井戸の朝"
      },
-     "art": "art/moment-kami-takaido-morning-0aeb594987.jpg"
+     "art": "art/moment-kami-takaido-morning-0aeb594987.jpg",
+     "widget": {
+      "square": "art/widget-square-kami-takaido-morning-c714890f1a.jpg",
+      "wide": "art/widget-wide-kami-takaido-morning-51c9a2edf0.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -974,7 +1122,11 @@
       "en": "Midday in Kami-Takaido / Hachimanyama side",
       "ja": "上高井戸の昼"
      },
-     "art": "art/moment-kami-takaido-midday-4dbbd6c285.jpg"
+     "art": "art/moment-kami-takaido-midday-4dbbd6c285.jpg",
+     "widget": {
+      "square": "art/widget-square-kami-takaido-midday-1f39d4cdbf.jpg",
+      "wide": "art/widget-wide-kami-takaido-midday-0566d5fc9e.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -982,7 +1134,11 @@
       "en": "Evening in Kami-Takaido / Hachimanyama side",
       "ja": "上高井戸の夕方"
      },
-     "art": "art/moment-kami-takaido-evening-ad7f6bbcc4.jpg"
+     "art": "art/moment-kami-takaido-evening-ad7f6bbcc4.jpg",
+     "widget": {
+      "square": "art/widget-square-kami-takaido-evening-64abedd630.jpg",
+      "wide": "art/widget-wide-kami-takaido-evening-724dce5884.jpg"
+     }
     },
     {
      "phase": "night",
@@ -990,7 +1146,11 @@
       "en": "Night in Kami-Takaido / Hachimanyama side",
       "ja": "上高井戸の夜"
      },
-     "art": "art/moment-kami-takaido-night-da77d5bbf7.jpg"
+     "art": "art/moment-kami-takaido-night-da77d5bbf7.jpg",
+     "widget": {
+      "square": "art/widget-square-kami-takaido-night-79589fda78.jpg",
+      "wide": "art/widget-wide-kami-takaido-night-d1982640bc.jpg"
+     }
     }
    ],
    "spots": [],
@@ -1051,7 +1211,11 @@
       "en": "Morning in Kōenji",
       "ja": "高円寺の朝"
      },
-     "art": "art/moment-koenji-morning-178c9a2008.jpg"
+     "art": "art/moment-koenji-morning-178c9a2008.jpg",
+     "widget": {
+      "square": "art/widget-square-koenji-morning-f02097a113.jpg",
+      "wide": "art/widget-wide-koenji-morning-28e25aa1c9.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -1059,7 +1223,11 @@
       "en": "Midday in Kōenji",
       "ja": "高円寺の昼"
      },
-     "art": "art/moment-koenji-midday-f7815b574c.jpg"
+     "art": "art/moment-koenji-midday-f7815b574c.jpg",
+     "widget": {
+      "square": "art/widget-square-koenji-midday-4952f70338.jpg",
+      "wide": "art/widget-wide-koenji-midday-5d2b8911a6.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -1067,7 +1235,11 @@
       "en": "Record-shop evening",
       "ja": "レコード屋の夕暮れ"
      },
-     "art": "art/moment-koenji-evening-adc57a4e0e.jpg"
+     "art": "art/moment-koenji-evening-adc57a4e0e.jpg",
+     "widget": {
+      "square": "art/widget-square-koenji-evening-9b6e019c16.jpg",
+      "wide": "art/widget-wide-koenji-evening-f8cc07d416.jpg"
+     }
     },
     {
      "phase": "night",
@@ -1075,7 +1247,11 @@
       "en": "Night in Kōenji",
       "ja": "高円寺の夜"
      },
-     "art": "art/moment-koenji-night-6a3c510690.jpg"
+     "art": "art/moment-koenji-night-6a3c510690.jpg",
+     "widget": {
+      "square": "art/widget-square-koenji-night-ede55acfac.jpg",
+      "wide": "art/widget-wide-koenji-night-d00e05f191.jpg"
+     }
     }
    ],
    "spots": [
@@ -1217,7 +1393,11 @@
       "en": "Morning by the river",
       "ja": "川辺の朝"
      },
-     "art": "art/moment-kugayama-morning-dd7a90093a.jpg"
+     "art": "art/moment-kugayama-morning-dd7a90093a.jpg",
+     "widget": {
+      "square": "art/widget-square-kugayama-morning-f4cdd0fd26.jpg",
+      "wide": "art/widget-wide-kugayama-morning-5756e47aaa.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -1225,7 +1405,11 @@
       "en": "Sunlit river walk",
       "ja": "陽ざしの川べり"
      },
-     "art": "art/moment-kugayama-midday-d3cd4a89ad.jpg"
+     "art": "art/moment-kugayama-midday-d3cd4a89ad.jpg",
+     "widget": {
+      "square": "art/widget-square-kugayama-midday-200c564886.jpg",
+      "wide": "art/widget-wide-kugayama-midday-c531e3fa0f.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -1233,7 +1417,11 @@
       "en": "Summer waterway",
       "ja": "夏の水辺"
      },
-     "art": "art/moment-kugayama-evening-785ca73811.jpg"
+     "art": "art/moment-kugayama-evening-785ca73811.jpg",
+     "widget": {
+      "square": "art/widget-square-kugayama-evening-920442ff74.jpg",
+      "wide": "art/widget-wide-kugayama-evening-acc43b51fd.jpg"
+     }
     },
     {
      "phase": "night",
@@ -1241,7 +1429,11 @@
       "en": "Fireflies and moonlight",
       "ja": "ホタルと月あかり"
      },
-     "art": "art/moment-kugayama-night-bf2e95b501.jpg"
+     "art": "art/moment-kugayama-night-bf2e95b501.jpg",
+     "widget": {
+      "square": "art/widget-square-kugayama-night-1ebc1e24fc.jpg",
+      "wide": "art/widget-wide-kugayama-night-d2a8398600.jpg"
+     }
     }
    ],
    "spots": [
@@ -1311,7 +1503,11 @@
       "en": "Morning in Miyamae",
       "ja": "宮前の朝"
      },
-     "art": "art/moment-miyamae-morning-c57dd1ac0a.jpg"
+     "art": "art/moment-miyamae-morning-c57dd1ac0a.jpg",
+     "widget": {
+      "square": "art/widget-square-miyamae-morning-4c6778f319.jpg",
+      "wide": "art/widget-wide-miyamae-morning-f5dc041bce.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -1319,7 +1515,11 @@
       "en": "Midday in Miyamae",
       "ja": "宮前の昼"
      },
-     "art": "art/moment-miyamae-midday-5be715bc73.jpg"
+     "art": "art/moment-miyamae-midday-5be715bc73.jpg",
+     "widget": {
+      "square": "art/widget-square-miyamae-midday-b6ac785aed.jpg",
+      "wide": "art/widget-wide-miyamae-midday-aeaa4dcb1a.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -1327,7 +1527,11 @@
       "en": "Evening in Miyamae",
       "ja": "宮前の夕方"
      },
-     "art": "art/moment-miyamae-evening-80e23b3dd4.jpg"
+     "art": "art/moment-miyamae-evening-80e23b3dd4.jpg",
+     "widget": {
+      "square": "art/widget-square-miyamae-evening-7ca4fda7d9.jpg",
+      "wide": "art/widget-wide-miyamae-evening-67d81144d7.jpg"
+     }
     },
     {
      "phase": "night",
@@ -1335,7 +1539,11 @@
       "en": "Night in Miyamae",
       "ja": "宮前の夜"
      },
-     "art": "art/moment-miyamae-night-65191d92e1.jpg"
+     "art": "art/moment-miyamae-night-65191d92e1.jpg",
+     "widget": {
+      "square": "art/widget-square-miyamae-night-59dbbeb026.jpg",
+      "wide": "art/widget-wide-miyamae-night-4bfe8b5ede.jpg"
+     }
     }
    ],
    "spots": [
@@ -1420,7 +1628,11 @@
       "en": "Morning in Momoi / Imagawa",
       "ja": "桃井の朝"
      },
-     "art": "art/moment-momoi-imagawa-morning-cc6eb91565.jpg"
+     "art": "art/moment-momoi-imagawa-morning-cc6eb91565.jpg",
+     "widget": {
+      "square": "art/widget-square-momoi-imagawa-morning-a781038c30.jpg",
+      "wide": "art/widget-wide-momoi-imagawa-morning-0f3d7fbe46.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -1428,7 +1640,11 @@
       "en": "Midday in Momoi / Imagawa",
       "ja": "桃井の昼"
      },
-     "art": "art/moment-momoi-imagawa-midday-68dbd671dc.jpg"
+     "art": "art/moment-momoi-imagawa-midday-68dbd671dc.jpg",
+     "widget": {
+      "square": "art/widget-square-momoi-imagawa-midday-dd890b5926.jpg",
+      "wide": "art/widget-wide-momoi-imagawa-midday-4c8be235ca.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -1436,7 +1652,11 @@
       "en": "Evening in Momoi / Imagawa",
       "ja": "桃井の夕方"
      },
-     "art": "art/moment-momoi-imagawa-evening-829ef4eb0a.jpg"
+     "art": "art/moment-momoi-imagawa-evening-829ef4eb0a.jpg",
+     "widget": {
+      "square": "art/widget-square-momoi-imagawa-evening-3ec4341821.jpg",
+      "wide": "art/widget-wide-momoi-imagawa-evening-0a02801284.jpg"
+     }
     },
     {
      "phase": "night",
@@ -1444,7 +1664,11 @@
       "en": "Night in Momoi / Imagawa",
       "ja": "桃井の夜"
      },
-     "art": "art/moment-momoi-imagawa-night-4a3889fc3c.jpg"
+     "art": "art/moment-momoi-imagawa-night-4a3889fc3c.jpg",
+     "widget": {
+      "square": "art/widget-square-momoi-imagawa-night-18812d989d.jpg",
+      "wide": "art/widget-wide-momoi-imagawa-night-2ebefb8806.jpg"
+     }
     }
    ],
    "spots": [],
@@ -1505,7 +1729,11 @@
       "en": "Morning in Narita",
       "ja": "成田の朝"
      },
-     "art": "art/moment-narita-morning-a311fa1d9a.jpg"
+     "art": "art/moment-narita-morning-a311fa1d9a.jpg",
+     "widget": {
+      "square": "art/widget-square-narita-morning-6d7b2f3589.jpg",
+      "wide": "art/widget-wide-narita-morning-791997dd22.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -1513,7 +1741,11 @@
       "en": "Midday in Narita",
       "ja": "成田の昼"
      },
-     "art": "art/moment-narita-midday-6c936fe60b.jpg"
+     "art": "art/moment-narita-midday-6c936fe60b.jpg",
+     "widget": {
+      "square": "art/widget-square-narita-midday-6f0237904d.jpg",
+      "wide": "art/widget-wide-narita-midday-a3d48874c4.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -1521,7 +1753,11 @@
       "en": "Evening in Narita",
       "ja": "成田の夕方"
      },
-     "art": "art/moment-narita-evening-4e0417d8b7.jpg"
+     "art": "art/moment-narita-evening-4e0417d8b7.jpg",
+     "widget": {
+      "square": "art/widget-square-narita-evening-f6fc0997ff.jpg",
+      "wide": "art/widget-wide-narita-evening-4ac5010aab.jpg"
+     }
     },
     {
      "phase": "night",
@@ -1529,7 +1765,11 @@
       "en": "Night in Narita",
       "ja": "成田の夜"
      },
-     "art": "art/moment-narita-night-4d6ffd53b2.jpg"
+     "art": "art/moment-narita-night-4d6ffd53b2.jpg",
+     "widget": {
+      "square": "art/widget-square-narita-night-ebc4d9d36f.jpg",
+      "wide": "art/widget-wide-narita-night-e7a0c65165.jpg"
+     }
     }
    ],
    "spots": [
@@ -1677,7 +1917,11 @@
       "en": "A bookshop morning",
       "ja": "古本屋の朝"
      },
-     "art": "art/moment-nishi-ogikubo-morning-09e72f2cac.jpg"
+     "art": "art/moment-nishi-ogikubo-morning-09e72f2cac.jpg",
+     "widget": {
+      "square": "art/widget-square-nishi-ogikubo-morning-04f035b201.jpg",
+      "wide": "art/widget-wide-nishi-ogikubo-morning-c3bed04c79.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -1685,7 +1929,11 @@
       "en": "Books in the sunshine",
       "ja": "陽だまりの本"
      },
-     "art": "art/moment-nishi-ogikubo-midday-549af0ab26.jpg"
+     "art": "art/moment-nishi-ogikubo-midday-549af0ab26.jpg",
+     "widget": {
+      "square": "art/widget-square-nishi-ogikubo-midday-7541ed8063.jpg",
+      "wide": "art/widget-wide-nishi-ogikubo-midday-450a639f9b.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -1693,7 +1941,11 @@
       "en": "Books and ceramics",
       "ja": "本と器の夕暮れ"
      },
-     "art": "art/moment-nishi-ogikubo-evening-91aca9befe.jpg"
+     "art": "art/moment-nishi-ogikubo-evening-91aca9befe.jpg",
+     "widget": {
+      "square": "art/widget-square-nishi-ogikubo-evening-2e4a72a659.jpg",
+      "wide": "art/widget-wide-nishi-ogikubo-evening-e89046b210.jpg"
+     }
     },
     {
      "phase": "night",
@@ -1701,7 +1953,11 @@
       "en": "The quiet bookshop",
       "ja": "静かな夜の古本屋"
      },
-     "art": "art/moment-nishi-ogikubo-night-d6d6b1d9ff.jpg"
+     "art": "art/moment-nishi-ogikubo-night-d6d6b1d9ff.jpg",
+     "widget": {
+      "square": "art/widget-square-nishi-ogikubo-night-6e6a29bbb3.jpg",
+      "wide": "art/widget-wide-nishi-ogikubo-night-35adb39287.jpg"
+     }
     }
    ],
    "spots": [
@@ -1824,7 +2080,11 @@
       "en": "Morning in Ogikubo",
       "ja": "荻窪の朝"
      },
-     "art": "art/moment-ogikubo-morning-bcc4014f4d.jpg"
+     "art": "art/moment-ogikubo-morning-bcc4014f4d.jpg",
+     "widget": {
+      "square": "art/widget-square-ogikubo-morning-6b7935e5bd.jpg",
+      "wide": "art/widget-wide-ogikubo-morning-282c765af2.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -1832,7 +2092,11 @@
       "en": "Midday in Ogikubo",
       "ja": "荻窪の昼"
      },
-     "art": "art/moment-ogikubo-midday-9751b33605.jpg"
+     "art": "art/moment-ogikubo-midday-9751b33605.jpg",
+     "widget": {
+      "square": "art/widget-square-ogikubo-midday-23ad18a8cd.jpg",
+      "wide": "art/widget-wide-ogikubo-midday-e45a151e20.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -1840,7 +2104,11 @@
       "en": "Evening in Ogikubo",
       "ja": "荻窪の夕方"
      },
-     "art": "art/moment-ogikubo-evening-e770c9a932.jpg"
+     "art": "art/moment-ogikubo-evening-e770c9a932.jpg",
+     "widget": {
+      "square": "art/widget-square-ogikubo-evening-77a4f9e436.jpg",
+      "wide": "art/widget-wide-ogikubo-evening-b8a09c7ce0.jpg"
+     }
     },
     {
      "phase": "night",
@@ -1848,7 +2116,11 @@
       "en": "Night in Ogikubo",
       "ja": "荻窪の夜"
      },
-     "art": "art/moment-ogikubo-night-43f8d29358.jpg"
+     "art": "art/moment-ogikubo-night-43f8d29358.jpg",
+     "widget": {
+      "square": "art/widget-square-ogikubo-night-2c8101cc8a.jpg",
+      "wide": "art/widget-wide-ogikubo-night-28c9468aa4.jpg"
+     }
     }
    ],
    "spots": [
@@ -1991,7 +2263,11 @@
       "en": "Morning in Ōmiya / Matsunoki",
       "ja": "大宮の朝"
      },
-     "art": "art/moment-omiya-matsunoki-morning-e9eb88dcbf.jpg"
+     "art": "art/moment-omiya-matsunoki-morning-e9eb88dcbf.jpg",
+     "widget": {
+      "square": "art/widget-square-omiya-matsunoki-morning-fc52f07ddb.jpg",
+      "wide": "art/widget-wide-omiya-matsunoki-morning-4e24b35396.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -1999,7 +2275,11 @@
       "en": "Midday in Ōmiya / Matsunoki",
       "ja": "大宮の昼"
      },
-     "art": "art/moment-omiya-matsunoki-midday-0d748e4263.jpg"
+     "art": "art/moment-omiya-matsunoki-midday-0d748e4263.jpg",
+     "widget": {
+      "square": "art/widget-square-omiya-matsunoki-midday-70b0c5feab.jpg",
+      "wide": "art/widget-wide-omiya-matsunoki-midday-6888803957.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -2007,7 +2287,11 @@
       "en": "Evening in Ōmiya / Matsunoki",
       "ja": "大宮の夕方"
      },
-     "art": "art/moment-omiya-matsunoki-evening-a6f4ee424f.jpg"
+     "art": "art/moment-omiya-matsunoki-evening-a6f4ee424f.jpg",
+     "widget": {
+      "square": "art/widget-square-omiya-matsunoki-evening-941a996b97.jpg",
+      "wide": "art/widget-wide-omiya-matsunoki-evening-3f1f3bb004.jpg"
+     }
     },
     {
      "phase": "night",
@@ -2015,7 +2299,11 @@
       "en": "Night in Ōmiya / Matsunoki",
       "ja": "大宮の夜"
      },
-     "art": "art/moment-omiya-matsunoki-night-e005628ebe.jpg"
+     "art": "art/moment-omiya-matsunoki-night-e005628ebe.jpg",
+     "widget": {
+      "square": "art/widget-square-omiya-matsunoki-night-b0cf3ed61b.jpg",
+      "wide": "art/widget-wide-omiya-matsunoki-night-9fd2add9ca.jpg"
+     }
     }
    ],
    "spots": [
@@ -2103,7 +2391,11 @@
       "en": "Morning in Shimizu",
       "ja": "清水の朝"
      },
-     "art": "art/moment-shimizu-morning-e0726af91d.jpg"
+     "art": "art/moment-shimizu-morning-e0726af91d.jpg",
+     "widget": {
+      "square": "art/widget-square-shimizu-morning-7edee61dfb.jpg",
+      "wide": "art/widget-wide-shimizu-morning-7535d80137.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -2111,7 +2403,11 @@
       "en": "Midday in Shimizu",
       "ja": "清水の昼"
      },
-     "art": "art/moment-shimizu-midday-cbc2a8f65a.jpg"
+     "art": "art/moment-shimizu-midday-cbc2a8f65a.jpg",
+     "widget": {
+      "square": "art/widget-square-shimizu-midday-796ad4dfe3.jpg",
+      "wide": "art/widget-wide-shimizu-midday-6da9a4b4f7.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -2119,7 +2415,11 @@
       "en": "Evening in Shimizu",
       "ja": "清水の夕方"
      },
-     "art": "art/moment-shimizu-evening-63628da856.jpg"
+     "art": "art/moment-shimizu-evening-63628da856.jpg",
+     "widget": {
+      "square": "art/widget-square-shimizu-evening-4878ea12eb.jpg",
+      "wide": "art/widget-wide-shimizu-evening-8ef1e4fd26.jpg"
+     }
     },
     {
      "phase": "night",
@@ -2127,7 +2427,11 @@
       "en": "Night in Shimizu",
       "ja": "清水の夜"
      },
-     "art": "art/moment-shimizu-night-385d0b2e14.jpg"
+     "art": "art/moment-shimizu-night-385d0b2e14.jpg",
+     "widget": {
+      "square": "art/widget-square-shimizu-night-794559598f.jpg",
+      "wide": "art/widget-wide-shimizu-night-995a7c92c7.jpg"
+     }
     }
    ],
    "spots": [
@@ -2199,7 +2503,11 @@
       "en": "Morning in Shimo-Takaido / Sakurajōsui side",
       "ja": "下高井戸の朝"
      },
-     "art": "art/moment-shimo-takaido-morning-017fa3efcb.jpg"
+     "art": "art/moment-shimo-takaido-morning-017fa3efcb.jpg",
+     "widget": {
+      "square": "art/widget-square-shimo-takaido-morning-38068ae0e3.jpg",
+      "wide": "art/widget-wide-shimo-takaido-morning-c6dae84ee8.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -2207,7 +2515,11 @@
       "en": "Midday in Shimo-Takaido / Sakurajōsui side",
       "ja": "下高井戸の昼"
      },
-     "art": "art/moment-shimo-takaido-midday-d3283002a4.jpg"
+     "art": "art/moment-shimo-takaido-midday-d3283002a4.jpg",
+     "widget": {
+      "square": "art/widget-square-shimo-takaido-midday-9328dd95a5.jpg",
+      "wide": "art/widget-wide-shimo-takaido-midday-ba42291fe9.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -2215,7 +2527,11 @@
       "en": "Evening in Shimo-Takaido / Sakurajōsui side",
       "ja": "下高井戸の夕方"
      },
-     "art": "art/moment-shimo-takaido-evening-05e2d559fc.jpg"
+     "art": "art/moment-shimo-takaido-evening-05e2d559fc.jpg",
+     "widget": {
+      "square": "art/widget-square-shimo-takaido-evening-3399287b4d.jpg",
+      "wide": "art/widget-wide-shimo-takaido-evening-df369fbf4e.jpg"
+     }
     },
     {
      "phase": "night",
@@ -2223,7 +2539,11 @@
       "en": "Night in Shimo-Takaido / Sakurajōsui side",
       "ja": "下高井戸の夜"
      },
-     "art": "art/moment-shimo-takaido-night-ce6f238593.jpg"
+     "art": "art/moment-shimo-takaido-night-ce6f238593.jpg",
+     "widget": {
+      "square": "art/widget-square-shimo-takaido-night-b1226d457c.jpg",
+      "wide": "art/widget-wide-shimo-takaido-night-5a3872e412.jpg"
+     }
     }
    ],
    "spots": [
@@ -2301,7 +2621,11 @@
       "en": "Morning in Takaido / Fujimigaoka",
       "ja": "高井戸の朝"
      },
-     "art": "art/moment-takaido-fujimigaoka-morning-a9e1a8f316.jpg"
+     "art": "art/moment-takaido-fujimigaoka-morning-a9e1a8f316.jpg",
+     "widget": {
+      "square": "art/widget-square-takaido-fujimigaoka-morning-a406e62a71.jpg",
+      "wide": "art/widget-wide-takaido-fujimigaoka-morning-57116e229b.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -2309,7 +2633,11 @@
       "en": "Midday in Takaido / Fujimigaoka",
       "ja": "高井戸の昼"
      },
-     "art": "art/moment-takaido-fujimigaoka-midday-3562dd79ac.jpg"
+     "art": "art/moment-takaido-fujimigaoka-midday-3562dd79ac.jpg",
+     "widget": {
+      "square": "art/widget-square-takaido-fujimigaoka-midday-2329e23bcd.jpg",
+      "wide": "art/widget-wide-takaido-fujimigaoka-midday-cb695da215.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -2317,7 +2645,11 @@
       "en": "Evening in Takaido / Fujimigaoka",
       "ja": "高井戸の夕方"
      },
-     "art": "art/moment-takaido-fujimigaoka-evening-2f014385ed.jpg"
+     "art": "art/moment-takaido-fujimigaoka-evening-2f014385ed.jpg",
+     "widget": {
+      "square": "art/widget-square-takaido-fujimigaoka-evening-254a83cbcd.jpg",
+      "wide": "art/widget-wide-takaido-fujimigaoka-evening-81af3452a9.jpg"
+     }
     },
     {
      "phase": "night",
@@ -2325,7 +2657,11 @@
       "en": "Night in Takaido / Fujimigaoka",
       "ja": "高井戸の夜"
      },
-     "art": "art/moment-takaido-fujimigaoka-night-48f30ca800.jpg"
+     "art": "art/moment-takaido-fujimigaoka-night-48f30ca800.jpg",
+     "widget": {
+      "square": "art/widget-square-takaido-fujimigaoka-night-3fffca759f.jpg",
+      "wide": "art/widget-wide-takaido-fujimigaoka-night-cd18bf8f0b.jpg"
+     }
     }
    ],
    "spots": [
@@ -2413,7 +2749,11 @@
       "en": "Morning in Wada",
       "ja": "和田の朝"
      },
-     "art": "art/moment-wada-morning-1e356ac27c.jpg"
+     "art": "art/moment-wada-morning-1e356ac27c.jpg",
+     "widget": {
+      "square": "art/widget-square-wada-morning-e3d9fca97f.jpg",
+      "wide": "art/widget-wide-wada-morning-19cd382eee.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -2421,7 +2761,11 @@
       "en": "Midday in Wada",
       "ja": "和田の昼"
      },
-     "art": "art/moment-wada-midday-b4855b14e5.jpg"
+     "art": "art/moment-wada-midday-b4855b14e5.jpg",
+     "widget": {
+      "square": "art/widget-square-wada-midday-9815a0225a.jpg",
+      "wide": "art/widget-wide-wada-midday-329dd242dd.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -2429,7 +2773,11 @@
       "en": "Evening in Wada",
       "ja": "和田の夕方"
      },
-     "art": "art/moment-wada-evening-baa5bd6174.jpg"
+     "art": "art/moment-wada-evening-baa5bd6174.jpg",
+     "widget": {
+      "square": "art/widget-square-wada-evening-2eca7fe4be.jpg",
+      "wide": "art/widget-wide-wada-evening-2a01210cc0.jpg"
+     }
     },
     {
      "phase": "night",
@@ -2437,7 +2785,11 @@
       "en": "Night in Wada",
       "ja": "和田の夜"
      },
-     "art": "art/moment-wada-night-176c754c57.jpg"
+     "art": "art/moment-wada-night-176c754c57.jpg",
+     "widget": {
+      "square": "art/widget-square-wada-night-e8238a6c2b.jpg",
+      "wide": "art/widget-wide-wada-night-31748703bc.jpg"
+     }
     }
    ],
    "spots": [],
@@ -2478,7 +2830,11 @@
       "en": "Morning in Zenpukuji",
       "ja": "善福寺の朝"
      },
-     "art": "art/moment-zenpukuji-morning-95e467c60c.jpg"
+     "art": "art/moment-zenpukuji-morning-95e467c60c.jpg",
+     "widget": {
+      "square": "art/widget-square-zenpukuji-morning-65a6ced4e3.jpg",
+      "wide": "art/widget-wide-zenpukuji-morning-e740b8dee1.jpg"
+     }
     },
     {
      "phase": "midday",
@@ -2486,7 +2842,11 @@
       "en": "Midday in Zenpukuji",
       "ja": "善福寺の昼"
      },
-     "art": "art/moment-zenpukuji-midday-0be01c9d28.jpg"
+     "art": "art/moment-zenpukuji-midday-0be01c9d28.jpg",
+     "widget": {
+      "square": "art/widget-square-zenpukuji-midday-1b20e71c5f.jpg",
+      "wide": "art/widget-wide-zenpukuji-midday-e3c83d2ad7.jpg"
+     }
     },
     {
      "phase": "evening",
@@ -2494,7 +2854,11 @@
       "en": "Evening in Zenpukuji",
       "ja": "善福寺の夕方"
      },
-     "art": "art/moment-zenpukuji-evening-681c8d11dd.jpg"
+     "art": "art/moment-zenpukuji-evening-681c8d11dd.jpg",
+     "widget": {
+      "square": "art/widget-square-zenpukuji-evening-3ee83b0cc5.jpg",
+      "wide": "art/widget-wide-zenpukuji-evening-009792c2b6.jpg"
+     }
     },
     {
      "phase": "night",
@@ -2502,7 +2866,11 @@
       "en": "Night in Zenpukuji",
       "ja": "善福寺の夜"
      },
-     "art": "art/moment-zenpukuji-night-295d662a56.jpg"
+     "art": "art/moment-zenpukuji-night-295d662a56.jpg",
+     "widget": {
+      "square": "art/widget-square-zenpukuji-night-dbafcb304e.jpg",
+      "wide": "art/widget-wide-zenpukuji-night-4bdc2bf199.jpg"
+     }
     }
    ],
    "spots": [

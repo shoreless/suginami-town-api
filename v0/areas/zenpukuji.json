@@ -39,7 +39,11 @@
      "en": "Morning in Zenpukuji",
      "ja": "善福寺の朝"
     },
-    "art": "art/moment-zenpukuji-morning-95e467c60c.jpg"
+    "art": "art/moment-zenpukuji-morning-95e467c60c.jpg",
+    "widget": {
+     "square": "art/widget-square-zenpukuji-morning-65a6ced4e3.jpg",
+     "wide": "art/widget-wide-zenpukuji-morning-e740b8dee1.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -47,7 +51,11 @@
      "en": "Midday in Zenpukuji",
      "ja": "善福寺の昼"
     },
-    "art": "art/moment-zenpukuji-midday-0be01c9d28.jpg"
+    "art": "art/moment-zenpukuji-midday-0be01c9d28.jpg",
+    "widget": {
+     "square": "art/widget-square-zenpukuji-midday-1b20e71c5f.jpg",
+     "wide": "art/widget-wide-zenpukuji-midday-e3c83d2ad7.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -55,7 +63,11 @@
      "en": "Evening in Zenpukuji",
      "ja": "善福寺の夕方"
     },
-    "art": "art/moment-zenpukuji-evening-681c8d11dd.jpg"
+    "art": "art/moment-zenpukuji-evening-681c8d11dd.jpg",
+    "widget": {
+     "square": "art/widget-square-zenpukuji-evening-3ee83b0cc5.jpg",
+     "wide": "art/widget-wide-zenpukuji-evening-009792c2b6.jpg"
+    }
    },
    {
     "phase": "night",
@@ -63,7 +75,11 @@
      "en": "Night in Zenpukuji",
      "ja": "善福寺の夜"
     },
-    "art": "art/moment-zenpukuji-night-295d662a56.jpg"
+    "art": "art/moment-zenpukuji-night-295d662a56.jpg",
+    "widget": {
+     "square": "art/widget-square-zenpukuji-night-dbafcb304e.jpg",
+     "wide": "art/widget-wide-zenpukuji-night-4bdc2bf199.jpg"
+    }
    }
   ],
   "spots": [

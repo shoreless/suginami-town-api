@@ -39,7 +39,11 @@
      "en": "Morning in Izumi / Daitabashi side",
      "ja": "和泉の朝"
     },
-    "art": "art/moment-izumi-morning-c475929df6.jpg"
+    "art": "art/moment-izumi-morning-c475929df6.jpg",
+    "widget": {
+     "square": "art/widget-square-izumi-morning-da4cae96c1.jpg",
+     "wide": "art/widget-wide-izumi-morning-8385a527ea.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -47,7 +51,11 @@
      "en": "Midday in Izumi / Daitabashi side",
      "ja": "和泉の昼"
     },
-    "art": "art/moment-izumi-midday-6d2b52f378.jpg"
+    "art": "art/moment-izumi-midday-6d2b52f378.jpg",
+    "widget": {
+     "square": "art/widget-square-izumi-midday-85c81c3c7d.jpg",
+     "wide": "art/widget-wide-izumi-midday-bafa4802c9.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -55,7 +63,11 @@
      "en": "Evening in Izumi / Daitabashi side",
      "ja": "和泉の夕方"
     },
-    "art": "art/moment-izumi-evening-d201957e00.jpg"
+    "art": "art/moment-izumi-evening-d201957e00.jpg",
+    "widget": {
+     "square": "art/widget-square-izumi-evening-01732eda2f.jpg",
+     "wide": "art/widget-wide-izumi-evening-7aca55ce0b.jpg"
+    }
    },
    {
     "phase": "night",
@@ -63,7 +75,11 @@
      "en": "Night in Izumi / Daitabashi side",
      "ja": "和泉の夜"
     },
-    "art": "art/moment-izumi-night-2aa0ad290f.jpg"
+    "art": "art/moment-izumi-night-2aa0ad290f.jpg",
+    "widget": {
+     "square": "art/widget-square-izumi-night-5e3e66bb68.jpg",
+     "wide": "art/widget-wide-izumi-night-11607f746d.jpg"
+    }
    }
   ],
   "spots": [

@@ -47,7 +47,11 @@
      "en": "Morning in Amanuma",
      "ja": "天沼の朝"
     },
-    "art": "art/moment-amanuma-morning-8ef3bc6ea8.jpg"
+    "art": "art/moment-amanuma-morning-8ef3bc6ea8.jpg",
+    "widget": {
+     "square": "art/widget-square-amanuma-morning-4bcb0ac8a2.jpg",
+     "wide": "art/widget-wide-amanuma-morning-aa8d79837c.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -55,7 +59,11 @@
      "en": "Midday in Amanuma",
      "ja": "天沼の昼"
     },
-    "art": "art/moment-amanuma-midday-c9fc9fd098.jpg"
+    "art": "art/moment-amanuma-midday-c9fc9fd098.jpg",
+    "widget": {
+     "square": "art/widget-square-amanuma-midday-3195097ecc.jpg",
+     "wide": "art/widget-wide-amanuma-midday-756a0c4599.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -63,7 +71,11 @@
      "en": "Evening in Amanuma",
      "ja": "天沼の夕方"
     },
-    "art": "art/moment-amanuma-evening-dab5440357.jpg"
+    "art": "art/moment-amanuma-evening-dab5440357.jpg",
+    "widget": {
+     "square": "art/widget-square-amanuma-evening-c309e0f7fc.jpg",
+     "wide": "art/widget-wide-amanuma-evening-2d87c89819.jpg"
+    }
    },
    {
     "phase": "night",
@@ -71,7 +83,11 @@
      "en": "Night in Amanuma",
      "ja": "天沼の夜"
     },
-    "art": "art/moment-amanuma-night-e515eb3983.jpg"
+    "art": "art/moment-amanuma-night-e515eb3983.jpg",
+    "widget": {
+     "square": "art/widget-square-amanuma-night-50e4e193a8.jpg",
+     "wide": "art/widget-wide-amanuma-night-22bd77322a.jpg"
+    }
    }
   ],
   "spots": [

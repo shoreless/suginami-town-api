@@ -31,7 +31,11 @@
      "en": "Morning in Hōnan",
      "ja": "方南の朝"
     },
-    "art": "art/moment-honan-morning-eb0a29ba2a.jpg"
+    "art": "art/moment-honan-morning-eb0a29ba2a.jpg",
+    "widget": {
+     "square": "art/widget-square-honan-morning-18ed4fa2df.jpg",
+     "wide": "art/widget-wide-honan-morning-a83accca14.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -39,7 +43,11 @@
      "en": "Midday in Hōnan",
      "ja": "方南の昼"
     },
-    "art": "art/moment-honan-midday-90c7fc7a04.jpg"
+    "art": "art/moment-honan-midday-90c7fc7a04.jpg",
+    "widget": {
+     "square": "art/widget-square-honan-midday-4f1351c6f8.jpg",
+     "wide": "art/widget-wide-honan-midday-cdac88ef59.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -47,7 +55,11 @@
      "en": "Evening in Hōnan",
      "ja": "方南の夕方"
     },
-    "art": "art/moment-honan-evening-1f84366ce9.jpg"
+    "art": "art/moment-honan-evening-1f84366ce9.jpg",
+    "widget": {
+     "square": "art/widget-square-honan-evening-9d7550b475.jpg",
+     "wide": "art/widget-wide-honan-evening-ac38c80090.jpg"
+    }
    },
    {
     "phase": "night",
@@ -55,7 +67,11 @@
      "en": "Night in Hōnan",
      "ja": "方南の夜"
     },
-    "art": "art/moment-honan-night-ea6b31e180.jpg"
+    "art": "art/moment-honan-night-ea6b31e180.jpg",
+    "widget": {
+     "square": "art/widget-square-honan-night-ba5a8fca6f.jpg",
+     "wide": "art/widget-wide-honan-night-5fe6ea7cf2.jpg"
+    }
    }
   ],
   "spots": [],

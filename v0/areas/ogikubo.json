@@ -75,7 +75,11 @@
      "en": "Morning in Ogikubo",
      "ja": "荻窪の朝"
     },
-    "art": "art/moment-ogikubo-morning-bcc4014f4d.jpg"
+    "art": "art/moment-ogikubo-morning-bcc4014f4d.jpg",
+    "widget": {
+     "square": "art/widget-square-ogikubo-morning-6b7935e5bd.jpg",
+     "wide": "art/widget-wide-ogikubo-morning-282c765af2.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -83,7 +87,11 @@
      "en": "Midday in Ogikubo",
      "ja": "荻窪の昼"
     },
-    "art": "art/moment-ogikubo-midday-9751b33605.jpg"
+    "art": "art/moment-ogikubo-midday-9751b33605.jpg",
+    "widget": {
+     "square": "art/widget-square-ogikubo-midday-23ad18a8cd.jpg",
+     "wide": "art/widget-wide-ogikubo-midday-e45a151e20.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -91,7 +99,11 @@
      "en": "Evening in Ogikubo",
      "ja": "荻窪の夕方"
     },
-    "art": "art/moment-ogikubo-evening-e770c9a932.jpg"
+    "art": "art/moment-ogikubo-evening-e770c9a932.jpg",
+    "widget": {
+     "square": "art/widget-square-ogikubo-evening-77a4f9e436.jpg",
+     "wide": "art/widget-wide-ogikubo-evening-b8a09c7ce0.jpg"
+    }
    },
    {
     "phase": "night",
@@ -99,7 +111,11 @@
      "en": "Night in Ogikubo",
      "ja": "荻窪の夜"
     },
-    "art": "art/moment-ogikubo-night-43f8d29358.jpg"
+    "art": "art/moment-ogikubo-night-43f8d29358.jpg",
+    "widget": {
+     "square": "art/widget-square-ogikubo-night-2c8101cc8a.jpg",
+     "wide": "art/widget-wide-ogikubo-night-28c9468aa4.jpg"
+    }
    }
   ],
   "spots": [

@@ -43,7 +43,11 @@
      "en": "Morning in Ōmiya / Matsunoki",
      "ja": "大宮の朝"
     },
-    "art": "art/moment-omiya-matsunoki-morning-e9eb88dcbf.jpg"
+    "art": "art/moment-omiya-matsunoki-morning-e9eb88dcbf.jpg",
+    "widget": {
+     "square": "art/widget-square-omiya-matsunoki-morning-fc52f07ddb.jpg",
+     "wide": "art/widget-wide-omiya-matsunoki-morning-4e24b35396.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -51,7 +55,11 @@
      "en": "Midday in Ōmiya / Matsunoki",
      "ja": "大宮の昼"
     },
-    "art": "art/moment-omiya-matsunoki-midday-0d748e4263.jpg"
+    "art": "art/moment-omiya-matsunoki-midday-0d748e4263.jpg",
+    "widget": {
+     "square": "art/widget-square-omiya-matsunoki-midday-70b0c5feab.jpg",
+     "wide": "art/widget-wide-omiya-matsunoki-midday-6888803957.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -59,7 +67,11 @@
      "en": "Evening in Ōmiya / Matsunoki",
      "ja": "大宮の夕方"
     },
-    "art": "art/moment-omiya-matsunoki-evening-a6f4ee424f.jpg"
+    "art": "art/moment-omiya-matsunoki-evening-a6f4ee424f.jpg",
+    "widget": {
+     "square": "art/widget-square-omiya-matsunoki-evening-941a996b97.jpg",
+     "wide": "art/widget-wide-omiya-matsunoki-evening-3f1f3bb004.jpg"
+    }
    },
    {
     "phase": "night",
@@ -67,7 +79,11 @@
      "en": "Night in Ōmiya / Matsunoki",
      "ja": "大宮の夜"
     },
-    "art": "art/moment-omiya-matsunoki-night-e005628ebe.jpg"
+    "art": "art/moment-omiya-matsunoki-night-e005628ebe.jpg",
+    "widget": {
+     "square": "art/widget-square-omiya-matsunoki-night-b0cf3ed61b.jpg",
+     "wide": "art/widget-wide-omiya-matsunoki-night-9fd2add9ca.jpg"
+    }
    }
   ],
   "spots": [

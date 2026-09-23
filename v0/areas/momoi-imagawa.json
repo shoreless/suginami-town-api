@@ -55,7 +55,11 @@
      "en": "Morning in Momoi / Imagawa",
      "ja": "桃井の朝"
     },
-    "art": "art/moment-momoi-imagawa-morning-cc6eb91565.jpg"
+    "art": "art/moment-momoi-imagawa-morning-cc6eb91565.jpg",
+    "widget": {
+     "square": "art/widget-square-momoi-imagawa-morning-a781038c30.jpg",
+     "wide": "art/widget-wide-momoi-imagawa-morning-0f3d7fbe46.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -63,7 +67,11 @@
      "en": "Midday in Momoi / Imagawa",
      "ja": "桃井の昼"
     },
-    "art": "art/moment-momoi-imagawa-midday-68dbd671dc.jpg"
+    "art": "art/moment-momoi-imagawa-midday-68dbd671dc.jpg",
+    "widget": {
+     "square": "art/widget-square-momoi-imagawa-midday-dd890b5926.jpg",
+     "wide": "art/widget-wide-momoi-imagawa-midday-4c8be235ca.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -71,7 +79,11 @@
      "en": "Evening in Momoi / Imagawa",
      "ja": "桃井の夕方"
     },
-    "art": "art/moment-momoi-imagawa-evening-829ef4eb0a.jpg"
+    "art": "art/moment-momoi-imagawa-evening-829ef4eb0a.jpg",
+    "widget": {
+     "square": "art/widget-square-momoi-imagawa-evening-3ec4341821.jpg",
+     "wide": "art/widget-wide-momoi-imagawa-evening-0a02801284.jpg"
+    }
    },
    {
     "phase": "night",
@@ -79,7 +91,11 @@
      "en": "Night in Momoi / Imagawa",
      "ja": "桃井の夜"
     },
-    "art": "art/moment-momoi-imagawa-night-4a3889fc3c.jpg"
+    "art": "art/moment-momoi-imagawa-night-4a3889fc3c.jpg",
+    "widget": {
+     "square": "art/widget-square-momoi-imagawa-night-18812d989d.jpg",
+     "wide": "art/widget-wide-momoi-imagawa-night-2ebefb8806.jpg"
+    }
    }
   ],
   "spots": [],

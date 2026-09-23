@@ -43,7 +43,11 @@
      "en": "Morning by the river",
      "ja": "川辺の朝"
     },
-    "art": "art/moment-kugayama-morning-dd7a90093a.jpg"
+    "art": "art/moment-kugayama-morning-dd7a90093a.jpg",
+    "widget": {
+     "square": "art/widget-square-kugayama-morning-f4cdd0fd26.jpg",
+     "wide": "art/widget-wide-kugayama-morning-5756e47aaa.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -51,7 +55,11 @@
      "en": "Sunlit river walk",
      "ja": "陽ざしの川べり"
     },
-    "art": "art/moment-kugayama-midday-d3cd4a89ad.jpg"
+    "art": "art/moment-kugayama-midday-d3cd4a89ad.jpg",
+    "widget": {
+     "square": "art/widget-square-kugayama-midday-200c564886.jpg",
+     "wide": "art/widget-wide-kugayama-midday-c531e3fa0f.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -59,7 +67,11 @@
      "en": "Summer waterway",
      "ja": "夏の水辺"
     },
-    "art": "art/moment-kugayama-evening-785ca73811.jpg"
+    "art": "art/moment-kugayama-evening-785ca73811.jpg",
+    "widget": {
+     "square": "art/widget-square-kugayama-evening-920442ff74.jpg",
+     "wide": "art/widget-wide-kugayama-evening-acc43b51fd.jpg"
+    }
    },
    {
     "phase": "night",
@@ -67,7 +79,11 @@
      "en": "Fireflies and moonlight",
      "ja": "ホタルと月あかり"
     },
-    "art": "art/moment-kugayama-night-bf2e95b501.jpg"
+    "art": "art/moment-kugayama-night-bf2e95b501.jpg",
+    "widget": {
+     "square": "art/widget-square-kugayama-night-1ebc1e24fc.jpg",
+     "wide": "art/widget-wide-kugayama-night-d2a8398600.jpg"
+    }
    }
   ],
   "spots": [

@@ -39,7 +39,11 @@
      "en": "Morning in Hamadayama",
      "ja": "浜田山の朝"
     },
-    "art": "art/moment-hamadayama-morning-2fd3286171.jpg"
+    "art": "art/moment-hamadayama-morning-2fd3286171.jpg",
+    "widget": {
+     "square": "art/widget-square-hamadayama-morning-acec37dea5.jpg",
+     "wide": "art/widget-wide-hamadayama-morning-7f9a9dc804.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -47,7 +51,11 @@
      "en": "Midday in Hamadayama",
      "ja": "浜田山の昼"
     },
-    "art": "art/moment-hamadayama-midday-f3d42e3388.jpg"
+    "art": "art/moment-hamadayama-midday-f3d42e3388.jpg",
+    "widget": {
+     "square": "art/widget-square-hamadayama-midday-8aa495d663.jpg",
+     "wide": "art/widget-wide-hamadayama-midday-7f40017203.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -55,7 +63,11 @@
      "en": "Evening in Hamadayama",
      "ja": "浜田山の夕方"
     },
-    "art": "art/moment-hamadayama-evening-3553cceac4.jpg"
+    "art": "art/moment-hamadayama-evening-3553cceac4.jpg",
+    "widget": {
+     "square": "art/widget-square-hamadayama-evening-4b5d63072d.jpg",
+     "wide": "art/widget-wide-hamadayama-evening-260c7a7e8b.jpg"
+    }
    },
    {
     "phase": "night",
@@ -63,7 +75,11 @@
      "en": "Night in Hamadayama",
      "ja": "浜田山の夜"
     },
-    "art": "art/moment-hamadayama-night-8ec22fb884.jpg"
+    "art": "art/moment-hamadayama-night-8ec22fb884.jpg",
+    "widget": {
+     "square": "art/widget-square-hamadayama-night-052469822d.jpg",
+     "wide": "art/widget-wide-hamadayama-night-bad86c935f.jpg"
+    }
    }
   ],
   "spots": [],

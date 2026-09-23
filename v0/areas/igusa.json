@@ -63,7 +63,11 @@
      "en": "Morning in Igusa / Iogi / Shimo-Igusa",
      "ja": "井草の朝"
     },
-    "art": "art/moment-igusa-morning-c25d28834b.jpg"
+    "art": "art/moment-igusa-morning-c25d28834b.jpg",
+    "widget": {
+     "square": "art/widget-square-igusa-morning-1716ab6155.jpg",
+     "wide": "art/widget-wide-igusa-morning-c56752e5d4.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -71,7 +75,11 @@
      "en": "Midday in Igusa / Iogi / Shimo-Igusa",
      "ja": "井草の昼"
     },
-    "art": "art/moment-igusa-midday-26029d12c9.jpg"
+    "art": "art/moment-igusa-midday-26029d12c9.jpg",
+    "widget": {
+     "square": "art/widget-square-igusa-midday-d285be656c.jpg",
+     "wide": "art/widget-wide-igusa-midday-bbee82f42f.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -79,7 +87,11 @@
      "en": "Evening in Igusa / Iogi / Shimo-Igusa",
      "ja": "井草の夕方"
     },
-    "art": "art/moment-igusa-evening-c4e03f79ce.jpg"
+    "art": "art/moment-igusa-evening-c4e03f79ce.jpg",
+    "widget": {
+     "square": "art/widget-square-igusa-evening-6959088933.jpg",
+     "wide": "art/widget-wide-igusa-evening-360d1a5973.jpg"
+    }
    },
    {
     "phase": "night",
@@ -87,7 +99,11 @@
      "en": "Night in Igusa / Iogi / Shimo-Igusa",
      "ja": "井草の夜"
     },
-    "art": "art/moment-igusa-night-6e3dd96056.jpg"
+    "art": "art/moment-igusa-night-6e3dd96056.jpg",
+    "widget": {
+     "square": "art/widget-square-igusa-night-74de5edee4.jpg",
+     "wide": "art/widget-wide-igusa-night-1aeea42b60.jpg"
+    }
    }
   ],
   "spots": [

@@ -71,7 +71,11 @@
      "en": "A bookshop morning",
      "ja": "古本屋の朝"
     },
-    "art": "art/moment-nishi-ogikubo-morning-09e72f2cac.jpg"
+    "art": "art/moment-nishi-ogikubo-morning-09e72f2cac.jpg",
+    "widget": {
+     "square": "art/widget-square-nishi-ogikubo-morning-04f035b201.jpg",
+     "wide": "art/widget-wide-nishi-ogikubo-morning-c3bed04c79.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -79,7 +83,11 @@
      "en": "Books in the sunshine",
      "ja": "陽だまりの本"
     },
-    "art": "art/moment-nishi-ogikubo-midday-549af0ab26.jpg"
+    "art": "art/moment-nishi-ogikubo-midday-549af0ab26.jpg",
+    "widget": {
+     "square": "art/widget-square-nishi-ogikubo-midday-7541ed8063.jpg",
+     "wide": "art/widget-wide-nishi-ogikubo-midday-450a639f9b.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -87,7 +95,11 @@
      "en": "Books and ceramics",
      "ja": "本と器の夕暮れ"
     },
-    "art": "art/moment-nishi-ogikubo-evening-91aca9befe.jpg"
+    "art": "art/moment-nishi-ogikubo-evening-91aca9befe.jpg",
+    "widget": {
+     "square": "art/widget-square-nishi-ogikubo-evening-2e4a72a659.jpg",
+     "wide": "art/widget-wide-nishi-ogikubo-evening-e89046b210.jpg"
+    }
    },
    {
     "phase": "night",
@@ -95,7 +107,11 @@
      "en": "The quiet bookshop",
      "ja": "静かな夜の古本屋"
     },
-    "art": "art/moment-nishi-ogikubo-night-d6d6b1d9ff.jpg"
+    "art": "art/moment-nishi-ogikubo-night-d6d6b1d9ff.jpg",
+    "widget": {
+     "square": "art/widget-square-nishi-ogikubo-night-6e6a29bbb3.jpg",
+     "wide": "art/widget-wide-nishi-ogikubo-night-35adb39287.jpg"
+    }
    }
   ],
   "spots": [

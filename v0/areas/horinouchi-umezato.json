@@ -43,7 +43,11 @@
      "en": "Morning in Horinouchi / Umezato",
      "ja": "堀ノ内の朝"
     },
-    "art": "art/moment-horinouchi-umezato-morning-0bd63e3b83.jpg"
+    "art": "art/moment-horinouchi-umezato-morning-0bd63e3b83.jpg",
+    "widget": {
+     "square": "art/widget-square-horinouchi-umezato-morning-0f144c11f5.jpg",
+     "wide": "art/widget-wide-horinouchi-umezato-morning-58ae658e4c.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -51,7 +55,11 @@
      "en": "Midday in Horinouchi / Umezato",
      "ja": "堀ノ内の昼"
     },
-    "art": "art/moment-horinouchi-umezato-midday-2c83a52f3a.jpg"
+    "art": "art/moment-horinouchi-umezato-midday-2c83a52f3a.jpg",
+    "widget": {
+     "square": "art/widget-square-horinouchi-umezato-midday-ca923992eb.jpg",
+     "wide": "art/widget-wide-horinouchi-umezato-midday-b545025ae1.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -59,7 +67,11 @@
      "en": "Evening in Horinouchi / Umezato",
      "ja": "堀ノ内の夕方"
     },
-    "art": "art/moment-horinouchi-umezato-evening-70ae84a312.jpg"
+    "art": "art/moment-horinouchi-umezato-evening-70ae84a312.jpg",
+    "widget": {
+     "square": "art/widget-square-horinouchi-umezato-evening-0a49d60649.jpg",
+     "wide": "art/widget-wide-horinouchi-umezato-evening-fccf85be39.jpg"
+    }
    },
    {
     "phase": "night",
@@ -67,7 +79,11 @@
      "en": "Night in Horinouchi / Umezato",
      "ja": "堀ノ内の夜"
     },
-    "art": "art/moment-horinouchi-umezato-night-dfb3b87083.jpg"
+    "art": "art/moment-horinouchi-umezato-night-dfb3b87083.jpg",
+    "widget": {
+     "square": "art/widget-square-horinouchi-umezato-night-e0ba7054c1.jpg",
+     "wide": "art/widget-wide-horinouchi-umezato-night-d515b32e30.jpg"
+    }
    }
   ],
   "spots": [

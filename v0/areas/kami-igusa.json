@@ -39,7 +39,11 @@
      "en": "Morning in Kami-Igusa",
      "ja": "上井草の朝"
     },
-    "art": "art/moment-kami-igusa-morning-374a2ad8a4.jpg"
+    "art": "art/moment-kami-igusa-morning-374a2ad8a4.jpg",
+    "widget": {
+     "square": "art/widget-square-kami-igusa-morning-36a756af7e.jpg",
+     "wide": "art/widget-wide-kami-igusa-morning-090b8ed23d.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -47,7 +51,11 @@
      "en": "Midday in Kami-Igusa",
      "ja": "上井草の昼"
     },
-    "art": "art/moment-kami-igusa-midday-4c864aa191.jpg"
+    "art": "art/moment-kami-igusa-midday-4c864aa191.jpg",
+    "widget": {
+     "square": "art/widget-square-kami-igusa-midday-ccec4bd40f.jpg",
+     "wide": "art/widget-wide-kami-igusa-midday-f81b80013f.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -55,7 +63,11 @@
      "en": "Evening in Kami-Igusa",
      "ja": "上井草の夕方"
     },
-    "art": "art/moment-kami-igusa-evening-a5ea975d72.jpg"
+    "art": "art/moment-kami-igusa-evening-a5ea975d72.jpg",
+    "widget": {
+     "square": "art/widget-square-kami-igusa-evening-644838c7ee.jpg",
+     "wide": "art/widget-wide-kami-igusa-evening-0a552cbecd.jpg"
+    }
    },
    {
     "phase": "night",
@@ -63,7 +75,11 @@
      "en": "Night in Kami-Igusa",
      "ja": "上井草の夜"
     },
-    "art": "art/moment-kami-igusa-night-bcaad1357a.jpg"
+    "art": "art/moment-kami-igusa-night-bcaad1357a.jpg",
+    "widget": {
+     "square": "art/widget-square-kami-igusa-night-1563a7ad73.jpg",
+     "wide": "art/widget-wide-kami-igusa-night-d03d096de9.jpg"
+    }
    }
   ],
   "spots": [],

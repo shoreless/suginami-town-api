@@ -35,7 +35,11 @@
      "en": "Morning in Kami-Takaido / Hachimanyama side",
      "ja": "上高井戸の朝"
     },
-    "art": "art/moment-kami-takaido-morning-0aeb594987.jpg"
+    "art": "art/moment-kami-takaido-morning-0aeb594987.jpg",
+    "widget": {
+     "square": "art/widget-square-kami-takaido-morning-c714890f1a.jpg",
+     "wide": "art/widget-wide-kami-takaido-morning-51c9a2edf0.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -43,7 +47,11 @@
      "en": "Midday in Kami-Takaido / Hachimanyama side",
      "ja": "上高井戸の昼"
     },
-    "art": "art/moment-kami-takaido-midday-4dbbd6c285.jpg"
+    "art": "art/moment-kami-takaido-midday-4dbbd6c285.jpg",
+    "widget": {
+     "square": "art/widget-square-kami-takaido-midday-1f39d4cdbf.jpg",
+     "wide": "art/widget-wide-kami-takaido-midday-0566d5fc9e.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -51,7 +59,11 @@
      "en": "Evening in Kami-Takaido / Hachimanyama side",
      "ja": "上高井戸の夕方"
     },
-    "art": "art/moment-kami-takaido-evening-ad7f6bbcc4.jpg"
+    "art": "art/moment-kami-takaido-evening-ad7f6bbcc4.jpg",
+    "widget": {
+     "square": "art/widget-square-kami-takaido-evening-64abedd630.jpg",
+     "wide": "art/widget-wide-kami-takaido-evening-724dce5884.jpg"
+    }
    },
    {
     "phase": "night",
@@ -59,7 +71,11 @@
      "en": "Night in Kami-Takaido / Hachimanyama side",
      "ja": "上高井戸の夜"
     },
-    "art": "art/moment-kami-takaido-night-da77d5bbf7.jpg"
+    "art": "art/moment-kami-takaido-night-da77d5bbf7.jpg",
+    "widget": {
+     "square": "art/widget-square-kami-takaido-night-79589fda78.jpg",
+     "wide": "art/widget-wide-kami-takaido-night-d1982640bc.jpg"
+    }
    }
   ],
   "spots": [],

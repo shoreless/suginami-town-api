@@ -35,7 +35,11 @@
      "en": "Morning in Wada",
      "ja": "和田の朝"
     },
-    "art": "art/moment-wada-morning-1e356ac27c.jpg"
+    "art": "art/moment-wada-morning-1e356ac27c.jpg",
+    "widget": {
+     "square": "art/widget-square-wada-morning-e3d9fca97f.jpg",
+     "wide": "art/widget-wide-wada-morning-19cd382eee.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -43,7 +47,11 @@
      "en": "Midday in Wada",
      "ja": "和田の昼"
     },
-    "art": "art/moment-wada-midday-b4855b14e5.jpg"
+    "art": "art/moment-wada-midday-b4855b14e5.jpg",
+    "widget": {
+     "square": "art/widget-square-wada-midday-9815a0225a.jpg",
+     "wide": "art/widget-wide-wada-midday-329dd242dd.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -51,7 +59,11 @@
      "en": "Evening in Wada",
      "ja": "和田の夕方"
     },
-    "art": "art/moment-wada-evening-baa5bd6174.jpg"
+    "art": "art/moment-wada-evening-baa5bd6174.jpg",
+    "widget": {
+     "square": "art/widget-square-wada-evening-2eca7fe4be.jpg",
+     "wide": "art/widget-wide-wada-evening-2a01210cc0.jpg"
+    }
    },
    {
     "phase": "night",
@@ -59,7 +71,11 @@
      "en": "Night in Wada",
      "ja": "和田の夜"
     },
-    "art": "art/moment-wada-night-176c754c57.jpg"
+    "art": "art/moment-wada-night-176c754c57.jpg",
+    "widget": {
+     "square": "art/widget-square-wada-night-e8238a6c2b.jpg",
+     "wide": "art/widget-wide-wada-night-31748703bc.jpg"
+    }
    }
   ],
   "spots": [],

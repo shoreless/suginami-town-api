@@ -51,7 +51,11 @@
      "en": "Morning in Takaido / Fujimigaoka",
      "ja": "高井戸の朝"
     },
-    "art": "art/moment-takaido-fujimigaoka-morning-a9e1a8f316.jpg"
+    "art": "art/moment-takaido-fujimigaoka-morning-a9e1a8f316.jpg",
+    "widget": {
+     "square": "art/widget-square-takaido-fujimigaoka-morning-a406e62a71.jpg",
+     "wide": "art/widget-wide-takaido-fujimigaoka-morning-57116e229b.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -59,7 +63,11 @@
      "en": "Midday in Takaido / Fujimigaoka",
      "ja": "高井戸の昼"
     },
-    "art": "art/moment-takaido-fujimigaoka-midday-3562dd79ac.jpg"
+    "art": "art/moment-takaido-fujimigaoka-midday-3562dd79ac.jpg",
+    "widget": {
+     "square": "art/widget-square-takaido-fujimigaoka-midday-2329e23bcd.jpg",
+     "wide": "art/widget-wide-takaido-fujimigaoka-midday-cb695da215.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -67,7 +75,11 @@
      "en": "Evening in Takaido / Fujimigaoka",
      "ja": "高井戸の夕方"
     },
-    "art": "art/moment-takaido-fujimigaoka-evening-2f014385ed.jpg"
+    "art": "art/moment-takaido-fujimigaoka-evening-2f014385ed.jpg",
+    "widget": {
+     "square": "art/widget-square-takaido-fujimigaoka-evening-254a83cbcd.jpg",
+     "wide": "art/widget-wide-takaido-fujimigaoka-evening-81af3452a9.jpg"
+    }
    },
    {
     "phase": "night",
@@ -75,7 +87,11 @@
      "en": "Night in Takaido / Fujimigaoka",
      "ja": "高井戸の夜"
     },
-    "art": "art/moment-takaido-fujimigaoka-night-48f30ca800.jpg"
+    "art": "art/moment-takaido-fujimigaoka-night-48f30ca800.jpg",
+    "widget": {
+     "square": "art/widget-square-takaido-fujimigaoka-night-3fffca759f.jpg",
+     "wide": "art/widget-wide-takaido-fujimigaoka-night-cd18bf8f0b.jpg"
+    }
    }
   ],
   "spots": [

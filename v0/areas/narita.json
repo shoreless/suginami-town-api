@@ -59,7 +59,11 @@
      "en": "Morning in Narita",
      "ja": "成田の朝"
     },
-    "art": "art/moment-narita-morning-a311fa1d9a.jpg"
+    "art": "art/moment-narita-morning-a311fa1d9a.jpg",
+    "widget": {
+     "square": "art/widget-square-narita-morning-6d7b2f3589.jpg",
+     "wide": "art/widget-wide-narita-morning-791997dd22.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -67,7 +71,11 @@
      "en": "Midday in Narita",
      "ja": "成田の昼"
     },
-    "art": "art/moment-narita-midday-6c936fe60b.jpg"
+    "art": "art/moment-narita-midday-6c936fe60b.jpg",
+    "widget": {
+     "square": "art/widget-square-narita-midday-6f0237904d.jpg",
+     "wide": "art/widget-wide-narita-midday-a3d48874c4.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -75,7 +83,11 @@
      "en": "Evening in Narita",
      "ja": "成田の夕方"
     },
-    "art": "art/moment-narita-evening-4e0417d8b7.jpg"
+    "art": "art/moment-narita-evening-4e0417d8b7.jpg",
+    "widget": {
+     "square": "art/widget-square-narita-evening-f6fc0997ff.jpg",
+     "wide": "art/widget-wide-narita-evening-4ac5010aab.jpg"
+    }
    },
    {
     "phase": "night",
@@ -83,7 +95,11 @@
      "en": "Night in Narita",
      "ja": "成田の夜"
     },
-    "art": "art/moment-narita-night-4d6ffd53b2.jpg"
+    "art": "art/moment-narita-night-4d6ffd53b2.jpg",
+    "widget": {
+     "square": "art/widget-square-narita-night-ebc4d9d36f.jpg",
+     "wide": "art/widget-wide-narita-night-e7a0c65165.jpg"
+    }
    }
   ],
   "spots": [

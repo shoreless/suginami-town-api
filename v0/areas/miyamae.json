@@ -43,7 +43,11 @@
      "en": "Morning in Miyamae",
      "ja": "宮前の朝"
     },
-    "art": "art/moment-miyamae-morning-c57dd1ac0a.jpg"
+    "art": "art/moment-miyamae-morning-c57dd1ac0a.jpg",
+    "widget": {
+     "square": "art/widget-square-miyamae-morning-4c6778f319.jpg",
+     "wide": "art/widget-wide-miyamae-morning-f5dc041bce.jpg"
+    }
    },
    {
     "phase": "midday",
@@ -51,7 +55,11 @@
      "en": "Midday in Miyamae",
      "ja": "宮前の昼"
     },
-    "art": "art/moment-miyamae-midday-5be715bc73.jpg"
+    "art": "art/moment-miyamae-midday-5be715bc73.jpg",
+    "widget": {
+     "square": "art/widget-square-miyamae-midday-b6ac785aed.jpg",
+     "wide": "art/widget-wide-miyamae-midday-aeaa4dcb1a.jpg"
+    }
    },
    {
     "phase": "evening",
@@ -59,7 +67,11 @@
      "en": "Evening in Miyamae",
      "ja": "宮前の夕方"
     },
-    "art": "art/moment-miyamae-evening-80e23b3dd4.jpg"
+    "art": "art/moment-miyamae-evening-80e23b3dd4.jpg",
+    "widget": {
+     "square": "art/widget-square-miyamae-evening-7ca4fda7d9.jpg",
+     "wide": "art/widget-wide-miyamae-evening-67d81144d7.jpg"
+    }
    },
    {
     "phase": "night",
@@ -67,7 +79,11 @@
      "en": "Night in Miyamae",
      "ja": "宮前の夜"
     },
-    "art": "art/moment-miyamae-night-65191d92e1.jpg"
+    "art": "art/moment-miyamae-night-65191d92e1.jpg",
+    "widget": {
+     "square": "art/widget-square-miyamae-night-59dbbeb026.jpg",
+     "wide": "art/widget-wide-miyamae-night-4bfe8b5ede.jpg"
+    }
    }
   ],
   "spots": [
