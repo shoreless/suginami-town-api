@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790309382,
+ "revision": 1790311445,
  "languages": [
   "en",
   "ja"
@@ -23,6 +23,10 @@
    "area": "amanuma",
    "code": "13115015001",
    "name": "天沼一丁目",
+   "center": [
+    35.707946,
+    139.628266
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -55,6 +59,10 @@
    "area": "amanuma",
    "code": "13115015002",
    "name": "天沼二丁目",
+   "center": [
+    35.70831,
+    139.624813
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -87,6 +95,10 @@
    "area": "amanuma",
    "code": "13115015003",
    "name": "天沼三丁目",
+   "center": [
+    35.707908,
+    139.620206
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -119,6 +131,10 @@
    "area": "amanuma",
    "code": "13115016001",
    "name": "本天沼一丁目",
+   "center": [
+    35.713606,
+    139.631211
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -151,6 +167,10 @@
    "area": "amanuma",
    "code": "13115016002",
    "name": "本天沼二丁目",
+   "center": [
+    35.714001,
+    139.62614
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -183,6 +203,10 @@
    "area": "amanuma",
    "code": "13115016003",
    "name": "本天沼三丁目",
+   "center": [
+    35.714209,
+    139.622041
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -215,6 +239,10 @@
    "area": "asagaya",
    "code": "13115013001",
    "name": "阿佐谷南一丁目",
+   "center": [
+    35.700581,
+    139.639736
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -247,6 +275,10 @@
    "area": "asagaya",
    "code": "13115013002",
    "name": "阿佐谷南二丁目",
+   "center": [
+    35.703876,
+    139.641258
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -279,6 +311,10 @@
    "area": "asagaya",
    "code": "13115013003",
    "name": "阿佐谷南三丁目",
+   "center": [
+    35.702982,
+    139.632346
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -311,6 +347,10 @@
    "area": "asagaya",
    "code": "13115014001",
    "name": "阿佐谷北一丁目",
+   "center": [
+    35.707504,
+    139.637888
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -343,6 +383,10 @@
    "area": "asagaya",
    "code": "13115014002",
    "name": "阿佐谷北二丁目",
+   "center": [
+    35.706218,
+    139.632975
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -375,6 +419,10 @@
    "area": "asagaya",
    "code": "13115014003",
    "name": "阿佐谷北三丁目",
+   "center": [
+    35.710067,
+    139.632016
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -407,6 +455,10 @@
    "area": "asagaya",
    "code": "13115014004",
    "name": "阿佐谷北四丁目",
+   "center": [
+    35.711857,
+    139.636251
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -439,6 +491,10 @@
    "area": "asagaya",
    "code": "13115014005",
    "name": "阿佐谷北五丁目",
+   "center": [
+    35.709849,
+    139.640858
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -471,6 +527,10 @@
    "area": "asagaya",
    "code": "13115014006",
    "name": "阿佐谷北六丁目",
+   "center": [
+    35.714369,
+    139.638536
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -503,6 +563,10 @@
    "area": "eifuku",
    "code": "13115004001",
    "name": "永福一丁目",
+   "center": [
+    35.671141,
+    139.645404
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -535,6 +599,10 @@
    "area": "eifuku",
    "code": "13115004002",
    "name": "永福二丁目",
+   "center": [
+    35.673746,
+    139.640501
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -567,6 +635,10 @@
    "area": "eifuku",
    "code": "13115004003",
    "name": "永福三丁目",
+   "center": [
+    35.676867,
+    139.636709
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -599,6 +671,10 @@
    "area": "eifuku",
    "code": "13115004004",
    "name": "永福四丁目",
+   "center": [
+    35.679376,
+    139.641211
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -631,6 +707,10 @@
    "area": "hamadayama",
    "code": "13115005001",
    "name": "浜田山一丁目",
+   "center": [
+    35.677834,
+    139.630883
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -663,6 +743,10 @@
    "area": "hamadayama",
    "code": "13115005002",
    "name": "浜田山二丁目",
+   "center": [
+    35.678843,
+    139.626553
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -695,6 +779,10 @@
    "area": "hamadayama",
    "code": "13115005003",
    "name": "浜田山三丁目",
+   "center": [
+    35.682145,
+    139.629807
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -727,6 +815,10 @@
    "area": "hamadayama",
    "code": "13115005004",
    "name": "浜田山四丁目",
+   "center": [
+    35.684637,
+    139.630262
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -759,6 +851,10 @@
    "area": "honan",
    "code": "13115001001",
    "name": "方南一丁目",
+   "center": [
+    35.677446,
+    139.660825
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -791,6 +887,10 @@
    "area": "honan",
    "code": "13115001002",
    "name": "方南二丁目",
+   "center": [
+    35.683434,
+    139.658373
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -823,6 +923,10 @@
    "area": "horinouchi-umezato",
    "code": "13115007001",
    "name": "堀ノ内一丁目",
+   "center": [
+    35.684899,
+    139.650756
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -855,6 +959,10 @@
    "area": "horinouchi-umezato",
    "code": "13115007002",
    "name": "堀ノ内二丁目",
+   "center": [
+    35.688234,
+    139.651733
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -887,6 +995,10 @@
    "area": "horinouchi-umezato",
    "code": "13115007003",
    "name": "堀ノ内三丁目",
+   "center": [
+    35.692619,
+    139.65063
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -919,6 +1031,10 @@
    "area": "horinouchi-umezato",
    "code": "13115010001",
    "name": "梅里一丁目",
+   "center": [
+    35.696409,
+    139.651421
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -951,6 +1067,10 @@
    "area": "horinouchi-umezato",
    "code": "13115010002",
    "name": "梅里二丁目",
+   "center": [
+    35.696681,
+    139.643498
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -983,6 +1103,10 @@
    "area": "igusa",
    "code": "13115027001",
    "name": "井草一丁目",
+   "center": [
+    35.72664,
+    139.623819
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1015,6 +1139,10 @@
    "area": "igusa",
    "code": "13115027002",
    "name": "井草二丁目",
+   "center": [
+    35.727734,
+    139.619456
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1047,6 +1175,10 @@
    "area": "igusa",
    "code": "13115027003",
    "name": "井草三丁目",
+   "center": [
+    35.727326,
+    139.615532
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1079,6 +1211,10 @@
    "area": "igusa",
    "code": "13115027004",
    "name": "井草四丁目",
+   "center": [
+    35.727058,
+    139.611581
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1111,6 +1247,10 @@
    "area": "igusa",
    "code": "13115027005",
    "name": "井草五丁目",
+   "center": [
+    35.726201,
+    139.606482
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1143,6 +1283,10 @@
    "area": "igusa",
    "code": "13115028001",
    "name": "下井草一丁目",
+   "center": [
+    35.716174,
+    139.631953
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1175,6 +1319,10 @@
    "area": "igusa",
    "code": "13115028002",
    "name": "下井草二丁目",
+   "center": [
+    35.720321,
+    139.627863
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1207,6 +1355,10 @@
    "area": "igusa",
    "code": "13115028003",
    "name": "下井草三丁目",
+   "center": [
+    35.720449,
+    139.62388
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1239,6 +1391,10 @@
    "area": "igusa",
    "code": "13115028004",
    "name": "下井草四丁目",
+   "center": [
+    35.72154,
+    139.61943
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1271,6 +1427,10 @@
    "area": "igusa",
    "code": "13115028005",
    "name": "下井草五丁目",
+   "center": [
+    35.721968,
+    139.615618
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1303,6 +1463,10 @@
    "area": "izumi",
    "code": "13115002001",
    "name": "和泉一丁目",
+   "center": [
+    35.674927,
+    139.657222
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1335,6 +1499,10 @@
    "area": "izumi",
    "code": "13115002002",
    "name": "和泉二丁目",
+   "center": [
+    35.673901,
+    139.651661
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1367,6 +1535,10 @@
    "area": "izumi",
    "code": "13115002003",
    "name": "和泉三丁目",
+   "center": [
+    35.679155,
+    139.646747
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1399,6 +1571,10 @@
    "area": "izumi",
    "code": "13115002004",
    "name": "和泉四丁目",
+   "center": [
+    35.679963,
+    139.653661
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1431,6 +1607,10 @@
    "area": "kami-igusa",
    "code": "13115029001",
    "name": "上井草一丁目",
+   "center": [
+    35.722131,
+    139.612336
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1463,6 +1643,10 @@
    "area": "kami-igusa",
    "code": "13115029002",
    "name": "上井草二丁目",
+   "center": [
+    35.722212,
+    139.607654
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1495,6 +1679,10 @@
    "area": "kami-igusa",
    "code": "13115029003",
    "name": "上井草三丁目",
+   "center": [
+    35.72156,
+    139.602103
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1527,6 +1715,10 @@
    "area": "kami-igusa",
    "code": "13115029004",
    "name": "上井草四丁目",
+   "center": [
+    35.719615,
+    139.597176
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1559,6 +1751,10 @@
    "area": "kami-takaido",
    "code": "13115036001",
    "name": "上高井戸一丁目",
+   "center": [
+    35.672566,
+    139.612082
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1591,6 +1787,10 @@
    "area": "kami-takaido",
    "code": "13115036002",
    "name": "上高井戸二丁目",
+   "center": [
+    35.678109,
+    139.609383
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1623,6 +1823,10 @@
    "area": "kami-takaido",
    "code": "13115036003",
    "name": "上高井戸三丁目",
+   "center": [
+    35.674896,
+    139.617771
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1655,6 +1859,10 @@
    "area": "koenji",
    "code": "13115011001",
    "name": "高円寺南一丁目",
+   "center": [
+    35.699547,
+    139.658455
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1687,6 +1895,10 @@
    "area": "koenji",
    "code": "13115011002",
    "name": "高円寺南二丁目",
+   "center": [
+    35.700191,
+    139.651055
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1719,6 +1931,10 @@
    "area": "koenji",
    "code": "13115011003",
    "name": "高円寺南三丁目",
+   "center": [
+    35.701722,
+    139.646028
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1751,6 +1967,10 @@
    "area": "koenji",
    "code": "13115011004",
    "name": "高円寺南四丁目",
+   "center": [
+    35.703845,
+    139.652137
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1783,6 +2003,10 @@
    "area": "koenji",
    "code": "13115011005",
    "name": "高円寺南五丁目",
+   "center": [
+    35.703289,
+    139.657965
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1815,6 +2039,10 @@
    "area": "koenji",
    "code": "13115012001",
    "name": "高円寺北一丁目",
+   "center": [
+    35.707373,
+    139.656346
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1847,6 +2075,10 @@
    "area": "koenji",
    "code": "13115012002",
    "name": "高円寺北二丁目",
+   "center": [
+    35.707322,
+    139.652123
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1879,6 +2111,10 @@
    "area": "koenji",
    "code": "13115012003",
    "name": "高円寺北三丁目",
+   "center": [
+    35.70774,
+    139.64759
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1911,6 +2147,10 @@
    "area": "koenji",
    "code": "13115012004",
    "name": "高円寺北四丁目",
+   "center": [
+    35.70809,
+    139.644068
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1943,6 +2183,10 @@
    "area": "kugayama",
    "code": "13115033001",
    "name": "久我山一丁目",
+   "center": [
+    35.68312,
+    139.596845
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -1975,6 +2219,10 @@
    "area": "kugayama",
    "code": "13115033002",
    "name": "久我山二丁目",
+   "center": [
+    35.683942,
+    139.603034
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2007,6 +2255,10 @@
    "area": "kugayama",
    "code": "13115033003",
    "name": "久我山三丁目",
+   "center": [
+    35.687266,
+    139.59552
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2039,6 +2291,10 @@
    "area": "kugayama",
    "code": "13115033004",
    "name": "久我山四丁目",
+   "center": [
+    35.691946,
+    139.59443
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2071,6 +2327,10 @@
    "area": "kugayama",
    "code": "13115033005",
    "name": "久我山五丁目",
+   "center": [
+    35.687972,
+    139.604246
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2103,6 +2363,10 @@
    "area": "miyamae",
    "code": "13115032001",
    "name": "宮前一丁目",
+   "center": [
+    35.690273,
+    139.611882
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2135,6 +2399,10 @@
    "area": "miyamae",
    "code": "13115032002",
    "name": "宮前二丁目",
+   "center": [
+    35.692841,
+    139.613425
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2167,6 +2435,10 @@
    "area": "miyamae",
    "code": "13115032003",
    "name": "宮前三丁目",
+   "center": [
+    35.695613,
+    139.607522
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2199,6 +2471,10 @@
    "area": "miyamae",
    "code": "13115032004",
    "name": "宮前四丁目",
+   "center": [
+    35.69169,
+    139.605732
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2231,6 +2507,10 @@
    "area": "miyamae",
    "code": "13115032005",
    "name": "宮前五丁目",
+   "center": [
+    35.694355,
+    139.599888
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2263,6 +2543,10 @@
    "area": "momoi-imagawa",
    "code": "13115024001",
    "name": "今川一丁目",
+   "center": [
+    35.717022,
+    139.612594
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2295,6 +2579,10 @@
    "area": "momoi-imagawa",
    "code": "13115024002",
    "name": "今川二丁目",
+   "center": [
+    35.717125,
+    139.608861
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2327,6 +2615,10 @@
    "area": "momoi-imagawa",
    "code": "13115024003",
    "name": "今川三丁目",
+   "center": [
+    35.716533,
+    139.604688
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2359,6 +2651,10 @@
    "area": "momoi-imagawa",
    "code": "13115024004",
    "name": "今川四丁目",
+   "center": [
+    35.716244,
+    139.60003
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2391,6 +2687,10 @@
    "area": "momoi-imagawa",
    "code": "13115026001",
    "name": "桃井一丁目",
+   "center": [
+    35.712018,
+    139.613082
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2423,6 +2723,10 @@
    "area": "momoi-imagawa",
    "code": "13115026002",
    "name": "桃井二丁目",
+   "center": [
+    35.712663,
+    139.609723
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2455,6 +2759,10 @@
    "area": "momoi-imagawa",
    "code": "13115026003",
    "name": "桃井三丁目",
+   "center": [
+    35.713017,
+    139.606357
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2487,6 +2795,10 @@
    "area": "momoi-imagawa",
    "code": "13115026004",
    "name": "桃井四丁目",
+   "center": [
+    35.713468,
+    139.602301
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2519,6 +2831,10 @@
    "area": "narita",
    "code": "13115017001",
    "name": "成田西一丁目",
+   "center": [
+    35.68701,
+    139.633271
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2551,6 +2867,10 @@
    "area": "narita",
    "code": "13115017002",
    "name": "成田西二丁目",
+   "center": [
+    35.6891,
+    139.627005
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2583,6 +2903,10 @@
    "area": "narita",
    "code": "13115017003",
    "name": "成田西三丁目",
+   "center": [
+    35.6923,
+    139.629133
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2615,6 +2939,10 @@
    "area": "narita",
    "code": "13115017004",
    "name": "成田西四丁目",
+   "center": [
+    35.694402,
+    139.629225
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2647,6 +2975,10 @@
    "area": "narita",
    "code": "13115018001",
    "name": "成田東一丁目",
+   "center": [
+    35.690383,
+    139.63913
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2679,6 +3011,10 @@
    "area": "narita",
    "code": "13115018002",
    "name": "成田東二丁目",
+   "center": [
+    35.689004,
+    139.635016
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2711,6 +3047,10 @@
    "area": "narita",
    "code": "13115018003",
    "name": "成田東三丁目",
+   "center": [
+    35.693824,
+    139.637303
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2743,6 +3083,10 @@
    "area": "narita",
    "code": "13115018004",
    "name": "成田東四丁目",
+   "center": [
+    35.696849,
+    139.635831
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2775,6 +3119,10 @@
    "area": "narita",
    "code": "13115018005",
    "name": "成田東五丁目",
+   "center": [
+    35.699358,
+    139.63078
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2807,6 +3155,10 @@
    "area": "nishi-ogikubo",
    "code": "13115022001",
    "name": "西荻南一丁目",
+   "center": [
+    35.698022,
+    139.602761
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2839,6 +3191,10 @@
    "area": "nishi-ogikubo",
    "code": "13115022002",
    "name": "西荻南二丁目",
+   "center": [
+    35.699797,
+    139.599945
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2871,6 +3227,10 @@
    "area": "nishi-ogikubo",
    "code": "13115022003",
    "name": "西荻南三丁目",
+   "center": [
+    35.70278,
+    139.602156
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2903,6 +3263,10 @@
    "area": "nishi-ogikubo",
    "code": "13115022004",
    "name": "西荻南四丁目",
+   "center": [
+    35.701715,
+    139.605754
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2935,6 +3299,10 @@
    "area": "nishi-ogikubo",
    "code": "13115023001",
    "name": "西荻北一丁目",
+   "center": [
+    35.705621,
+    139.607439
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2967,6 +3335,10 @@
    "area": "nishi-ogikubo",
    "code": "13115023002",
    "name": "西荻北二丁目",
+   "center": [
+    35.70628,
+    139.603609
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -2999,6 +3371,10 @@
    "area": "nishi-ogikubo",
    "code": "13115023003",
    "name": "西荻北三丁目",
+   "center": [
+    35.705666,
+    139.598587
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3031,6 +3407,10 @@
    "area": "nishi-ogikubo",
    "code": "13115023004",
    "name": "西荻北四丁目",
+   "center": [
+    35.707895,
+    139.595328
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3063,6 +3443,10 @@
    "area": "nishi-ogikubo",
    "code": "13115023005",
    "name": "西荻北五丁目",
+   "center": [
+    35.709464,
+    139.600111
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3095,6 +3479,10 @@
    "area": "nishi-ogikubo",
    "code": "13115031001",
    "name": "松庵一丁目",
+   "center": [
+    35.695256,
+    139.593771
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3127,6 +3515,10 @@
    "area": "nishi-ogikubo",
    "code": "13115031002",
    "name": "松庵二丁目",
+   "center": [
+    35.698182,
+    139.594876
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3159,6 +3551,10 @@
    "area": "nishi-ogikubo",
    "code": "13115031003",
    "name": "松庵三丁目",
+   "center": [
+    35.701577,
+    139.596446
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3191,6 +3587,10 @@
    "area": "ogikubo",
    "code": "13115019001",
    "name": "荻窪一丁目",
+   "center": [
+    35.693523,
+    139.622415
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3223,6 +3623,10 @@
    "area": "ogikubo",
    "code": "13115019002",
    "name": "荻窪二丁目",
+   "center": [
+    35.69721,
+    139.620654
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3255,6 +3659,10 @@
    "area": "ogikubo",
    "code": "13115019003",
    "name": "荻窪三丁目",
+   "center": [
+    35.699153,
+    139.62603
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3287,6 +3695,10 @@
    "area": "ogikubo",
    "code": "13115019004",
    "name": "荻窪四丁目",
+   "center": [
+    35.701565,
+    139.621782
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3319,6 +3731,10 @@
    "area": "ogikubo",
    "code": "13115019005",
    "name": "荻窪五丁目",
+   "center": [
+    35.702902,
+    139.618964
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3351,6 +3767,10 @@
    "area": "ogikubo",
    "code": "13115020001",
    "name": "南荻窪一丁目",
+   "center": [
+    35.696287,
+    139.615186
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3383,6 +3803,10 @@
    "area": "ogikubo",
    "code": "13115020002",
    "name": "南荻窪二丁目",
+   "center": [
+    35.698976,
+    139.610028
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3415,6 +3839,10 @@
    "area": "ogikubo",
    "code": "13115020003",
    "name": "南荻窪三丁目",
+   "center": [
+    35.702406,
+    139.610615
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3447,6 +3875,10 @@
    "area": "ogikubo",
    "code": "13115020004",
    "name": "南荻窪四丁目",
+   "center": [
+    35.701379,
+    139.615091
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3479,6 +3911,10 @@
    "area": "ogikubo",
    "code": "13115021001",
    "name": "上荻一丁目",
+   "center": [
+    35.705611,
+    139.618271
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3511,6 +3947,10 @@
    "area": "ogikubo",
    "code": "13115021002",
    "name": "上荻二丁目",
+   "center": [
+    35.706612,
+    139.612885
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3543,6 +3983,10 @@
    "area": "ogikubo",
    "code": "13115021003",
    "name": "上荻三丁目",
+   "center": [
+    35.70846,
+    139.609116
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3575,6 +4019,10 @@
    "area": "ogikubo",
    "code": "13115021004",
    "name": "上荻四丁目",
+   "center": [
+    35.710174,
+    139.604372
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3607,6 +4055,10 @@
    "area": "omiya-matsunoki",
    "code": "13115008001",
    "name": "松ノ木一丁目",
+   "center": [
+    35.687403,
+    139.642308
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3639,6 +4091,10 @@
    "area": "omiya-matsunoki",
    "code": "13115008002",
    "name": "松ノ木二丁目",
+   "center": [
+    35.690908,
+    139.643548
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3671,6 +4127,10 @@
    "area": "omiya-matsunoki",
    "code": "13115008003",
    "name": "松ノ木三丁目",
+   "center": [
+    35.694248,
+    139.644853
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3703,6 +4163,10 @@
    "area": "omiya-matsunoki",
    "code": "13115009001",
    "name": "大宮一丁目",
+   "center": [
+    35.685426,
+    139.645253
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3735,6 +4199,10 @@
    "area": "omiya-matsunoki",
    "code": "13115009002",
    "name": "大宮二丁目",
+   "center": [
+    35.683118,
+    139.639124
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3767,6 +4235,10 @@
    "area": "shimizu",
    "code": "13115025001",
    "name": "清水一丁目",
+   "center": [
+    35.710605,
+    139.617171
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3799,6 +4271,10 @@
    "area": "shimizu",
    "code": "13115025002",
    "name": "清水二丁目",
+   "center": [
+    35.713958,
+    139.617468
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3831,6 +4307,10 @@
    "area": "shimizu",
    "code": "13115025003",
    "name": "清水三丁目",
+   "center": [
+    35.717152,
+    139.617616
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3863,6 +4343,10 @@
    "area": "shimo-takaido",
    "code": "13115003001",
    "name": "下高井戸一丁目",
+   "center": [
+    35.668256,
+    139.633523
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3895,6 +4379,10 @@
    "area": "shimo-takaido",
    "code": "13115003002",
    "name": "下高井戸二丁目",
+   "center": [
+    35.669552,
+    139.638047
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3927,6 +4415,10 @@
    "area": "shimo-takaido",
    "code": "13115003003",
    "name": "下高井戸三丁目",
+   "center": [
+    35.672682,
+    139.633297
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3959,6 +4451,10 @@
    "area": "shimo-takaido",
    "code": "13115003004",
    "name": "下高井戸四丁目",
+   "center": [
+    35.672781,
+    139.628327
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -3991,6 +4487,10 @@
    "area": "shimo-takaido",
    "code": "13115003005",
    "name": "下高井戸五丁目",
+   "center": [
+    35.674566,
+    139.622856
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4023,6 +4523,10 @@
    "area": "takaido-fujimigaoka",
    "code": "13115034001",
    "name": "高井戸東一丁目",
+   "center": [
+    35.679774,
+    139.621555
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4055,6 +4559,10 @@
    "area": "takaido-fujimigaoka",
    "code": "13115034002",
    "name": "高井戸東二丁目",
+   "center": [
+    35.679999,
+    139.616801
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4087,6 +4595,10 @@
    "area": "takaido-fujimigaoka",
    "code": "13115034003",
    "name": "高井戸東三丁目",
+   "center": [
+    35.684972,
+    139.620254
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4119,6 +4631,10 @@
    "area": "takaido-fujimigaoka",
    "code": "13115034004",
    "name": "高井戸東四丁目",
+   "center": [
+    35.689075,
+    139.620207
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4151,6 +4667,10 @@
    "area": "takaido-fujimigaoka",
    "code": "13115035001",
    "name": "高井戸西一丁目",
+   "center": [
+    35.681366,
+    139.611051
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4183,6 +4703,10 @@
    "area": "takaido-fujimigaoka",
    "code": "13115035002",
    "name": "高井戸西二丁目",
+   "center": [
+    35.68545,
+    139.611894
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4215,6 +4739,10 @@
    "area": "takaido-fujimigaoka",
    "code": "13115035003",
    "name": "高井戸西三丁目",
+   "center": [
+    35.688196,
+    139.612958
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4247,6 +4775,10 @@
    "area": "wada",
    "code": "13115006001",
    "name": "和田一丁目",
+   "center": [
+    35.691996,
+    139.663071
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4279,6 +4811,10 @@
    "area": "wada",
    "code": "13115006002",
    "name": "和田二丁目",
+   "center": [
+    35.689469,
+    139.658009
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4311,6 +4847,10 @@
    "area": "wada",
    "code": "13115006003",
    "name": "和田三丁目",
+   "center": [
+    35.695499,
+    139.657386
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4343,6 +4883,10 @@
    "area": "zenpukuji",
    "code": "13115030001",
    "name": "善福寺一丁目",
+   "center": [
+    35.713168,
+    139.597122
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4375,6 +4919,10 @@
    "area": "zenpukuji",
    "code": "13115030002",
    "name": "善福寺二丁目",
+   "center": [
+    35.712106,
+    139.591619
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4407,6 +4955,10 @@
    "area": "zenpukuji",
    "code": "13115030003",
    "name": "善福寺三丁目",
+   "center": [
+    35.715941,
+    139.590049
+   ],
    "trash": {
     "burnable": {
      "days": [
@@ -4439,6 +4991,10 @@
    "area": "zenpukuji",
    "code": "13115030004",
    "name": "善福寺四丁目",
+   "center": [
+    35.718405,
+    139.588615
+   ],
    "trash": {
     "burnable": {
      "days": [

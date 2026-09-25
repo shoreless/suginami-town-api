@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790309382,
+ "revision": 1790311445,
  "languages": [
   "en",
   "ja"
@@ -1158,6 +1158,4995 @@
    "fee": true
   }
  ],
+ "resident": {
+  "shelters": [
+   {
+    "id": "131156200001",
+    "name": "杉並第一小学校",
+    "location": [
+     35.706406,
+     139.636848
+    ],
+    "address": "東京都杉並区阿佐谷北1-5-27",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1023
+   },
+   {
+    "id": "131156200002",
+    "name": "杉並第二小学校",
+    "location": [
+     35.693045,
+     139.632115
+    ],
+    "address": "東京都杉並区成田西3-4-1",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1873
+   },
+   {
+    "id": "131156200003",
+    "name": "杉並第七小学校",
+    "location": [
+     35.70221,
+     139.630982
+    ],
+    "address": "東京都杉並区阿佐谷南3-19-2",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1262
+   },
+   {
+    "id": "131156200004",
+    "name": "西田小学校",
+    "location": [
+     35.694734,
+     139.62199
+    ],
+    "address": "東京都杉並区荻窪1-38-15",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1658
+   },
+   {
+    "id": "131156200005",
+    "name": "東田小学校",
+    "location": [
+     35.691158,
+     139.639316
+    ],
+    "address": "東京都杉並区成田東1-21-1",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1214
+   },
+   {
+    "id": "131156200006",
+    "name": "馬橋小学校",
+    "location": [
+     35.708744,
+     139.643243
+    ],
+    "address": "東京都杉並区高円寺北4-28-5",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1489
+   },
+   {
+    "id": "131156200007",
+    "name": "高円寺学園",
+    "location": [
+     35.706139,
+     139.655281
+    ],
+    "address": "東京都杉並区高円寺北1-4-11",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 5146
+   },
+   {
+    "id": "131156200008",
+    "name": "杉森中学校",
+    "location": [
+     35.711871,
+     139.64127
+    ],
+    "address": "東京都杉並区阿佐谷北5-45-24",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1399
+   },
+   {
+    "id": "131156200009",
+    "name": "阿佐ヶ谷中学校",
+    "location": [
+     35.700333,
+     139.636135
+    ],
+    "address": "東京都杉並区阿佐谷南1-17-3",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1545
+   },
+   {
+    "id": "131156200010",
+    "name": "東田中学校",
+    "location": [
+     35.694554,
+     139.635169
+    ],
+    "address": "東京都杉並区成田東3-19-17",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1504
+   },
+   {
+    "id": "131156200011",
+    "name": "松溪中学校",
+    "location": [
+     35.695931,
+     139.622032
+    ],
+    "address": "東京都杉並区荻窪2-3-1",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1741
+   },
+   {
+    "id": "131156200012",
+    "name": "桃井第一小学校",
+    "location": [
+     35.712077,
+     139.609112
+    ],
+    "address": "東京都杉並区桃井2-6-1",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1614
+   },
+   {
+    "id": "131156200013",
+    "name": "桃井第五小学校",
+    "location": [
+     35.722136,
+     139.61974
+    ],
+    "address": "東京都杉並区下井草4-22-4",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1742
+   },
+   {
+    "id": "131156200014",
+    "name": "四宮小学校",
+    "location": [
+     35.721615,
+     139.610056
+    ],
+    "address": "東京都杉並区上井草2-12-26",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1678
+   },
+   {
+    "id": "131156200015",
+    "name": "沓掛小学校",
+    "location": [
+     35.716387,
+     139.620902
+    ],
+    "address": "東京都杉並区清水3-1-9",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1440
+   },
+   {
+    "id": "131156200016",
+    "name": "八成小学校",
+    "location": [
+     35.728545,
+     139.619679
+    ],
+    "address": "東京都杉並区井草2-25-4",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1460
+   },
+   {
+    "id": "131156200017",
+    "name": "東原中学校",
+    "location": [
+     35.717785,
+     139.630907
+    ],
+    "address": "東京都杉並区下井草1-28-5",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1495
+   },
+   {
+    "id": "131156200018",
+    "name": "中瀬中学校",
+    "location": [
+     35.719498,
+     139.619938
+    ],
+    "address": "東京都杉並区下井草4-3-29",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1451
+   },
+   {
+    "id": "131156200019",
+    "name": "井荻中学校",
+    "location": [
+     35.718072,
+     139.610435
+    ],
+    "address": "東京都杉並区今川2-13-24",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 2000
+   },
+   {
+    "id": "131156200020",
+    "name": "高井戸第三小学校",
+    "location": [
+     35.672033,
+     139.630831
+    ],
+    "address": "東京都杉並区下高井戸4-16-24",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1476
+   },
+   {
+    "id": "131156200021",
+    "name": "浜田山小学校",
+    "location": [
+     35.685633,
+     139.629373
+    ],
+    "address": "東京都杉並区浜田山4-23-1",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1716
+   },
+   {
+    "id": "131156200022",
+    "name": "旧新泉小学校",
+    "location": [
+     35.675846,
+     139.6563
+    ],
+    "address": "東京都杉並区和泉1-44-26",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 548
+   },
+   {
+    "id": "131156200023",
+    "name": "方南小学校",
+    "location": [
+     35.679046,
+     139.657878
+    ],
+    "address": "東京都杉並区方南1-52-14",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1701
+   },
+   {
+    "id": "131156200024",
+    "name": "永福小学校",
+    "location": [
+     35.673466,
+     139.639703
+    ],
+    "address": "東京都杉並区永福2-16-33",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1504
+   },
+   {
+    "id": "131156200025",
+    "name": "向陽中学校",
+    "location": [
+     35.672493,
+     139.634836
+    ],
+    "address": "東京都杉並区下高井戸3-24-1",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1487
+   },
+   {
+    "id": "131156200026",
+    "name": "泉南中学校",
+    "location": [
+     35.684182,
+     139.655546
+    ],
+    "address": "東京都杉並区堀ノ内1-3-1",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1262
+   },
+   {
+    "id": "131156200027",
+    "name": "杉並第九小学校",
+    "location": [
+     35.71363,
+     139.633086
+    ],
+    "address": "東京都杉並区本天沼1-2-19",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1493
+   },
+   {
+    "id": "131156200028",
+    "name": "桃井第二小学校",
+    "location": [
+     35.701157,
+     139.618042
+    ],
+    "address": "東京都杉並区荻窪5-10-25",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 2071
+   },
+   {
+    "id": "131156200029",
+    "name": "天沼小学校",
+    "location": [
+     35.710716,
+     139.623041
+    ],
+    "address": "東京都杉並区天沼2-46-3",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1765
+   },
+   {
+    "id": "131156200030",
+    "name": "天沼中学校",
+    "location": [
+     35.711495,
+     139.620412
+    ],
+    "address": "東京都杉並区本天沼3-10-20",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1419
+   },
+   {
+    "id": "131156200031",
+    "name": "旧若杉小学校",
+    "location": [
+     35.708488,
+     139.618191
+    ],
+    "address": "東京都杉並区天沼3-15-20",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 150
+   },
+   {
+    "id": "131156200032",
+    "name": "神明中学校",
+    "location": [
+     35.700292,
+     139.609832
+    ],
+    "address": "東京都杉並区南荻窪2-37-28",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1142
+   },
+   {
+    "id": "131156200033",
+    "name": "杉並第三小学校",
+    "location": [
+     35.699553,
+     139.656567
+    ],
+    "address": "東京都杉並区高円寺南1-15-13",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1128
+   },
+   {
+    "id": "131156200034",
+    "name": "杉並第六小学校",
+    "location": [
+     35.701533,
+     139.643295
+    ],
+    "address": "東京都杉並区阿佐谷南1-24-21",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1156
+   },
+   {
+    "id": "131156200035",
+    "name": "杉並第十小学校",
+    "location": [
+     35.697,
+     139.657443
+    ],
+    "address": "東京都杉並区和田3-55-49",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1625
+   },
+   {
+    "id": "131156200036",
+    "name": "大宮小学校",
+    "location": [
+     35.683477,
+     139.649548
+    ],
+    "address": "東京都杉並区堀ノ内1-12-16",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1312
+   },
+   {
+    "id": "131156200037",
+    "name": "堀之内小学校",
+    "location": [
+     35.692816,
+     139.64716
+    ],
+    "address": "東京都杉並区堀ノ内3-24-11",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1513
+   },
+   {
+    "id": "131156200038",
+    "name": "和田小学校",
+    "location": [
+     35.690918,
+     139.656997
+    ],
+    "address": "東京都杉並区和田2-30-21",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1285
+   },
+   {
+    "id": "131156200039",
+    "name": "済美小学校",
+    "location": [
+     35.685791,
+     139.649581
+    ],
+    "address": "東京都杉並区堀ノ内1-17-24",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1399
+   },
+   {
+    "id": "131156200040",
+    "name": "松ノ木小学校",
+    "location": [
+     35.687492,
+     139.642805
+    ],
+    "address": "東京都杉並区松ノ木1-2-26",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1068
+   },
+   {
+    "id": "131156200041",
+    "name": "高南中学校",
+    "location": [
+     35.695762,
+     139.657887
+    ],
+    "address": "東京都杉並区和田3-40-10",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1342
+   },
+   {
+    "id": "131156200042",
+    "name": "松ノ木中学校",
+    "location": [
+     35.686802,
+     139.640775
+    ],
+    "address": "東京都杉並区松ノ木1-4-1",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1329
+   },
+   {
+    "id": "131156200043",
+    "name": "大宮中学校",
+    "location": [
+     35.686753,
+     139.648329
+    ],
+    "address": "東京都杉並区堀ノ内1-16-38",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1663
+   },
+   {
+    "id": "131156200044",
+    "name": "和田中学校",
+    "location": [
+     35.689753,
+     139.658364
+    ],
+    "address": "東京都杉並区和田2-21-8",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1298
+   },
+   {
+    "id": "131156200045",
+    "name": "荻窪小学校",
+    "location": [
+     35.69502,
+     139.6118
+    ],
+    "address": "東京都杉並区宮前2-13-18",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1994
+   },
+   {
+    "id": "131156200046",
+    "name": "高井戸小学校",
+    "location": [
+     35.683911,
+     139.614914
+    ],
+    "address": "東京都杉並区高井戸西2-2-1",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 2070
+   },
+   {
+    "id": "131156200047",
+    "name": "高井戸第二小学校",
+    "location": [
+     35.691799,
+     139.599208
+    ],
+    "address": "東京都杉並区久我山4-49-1",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 2077
+   },
+   {
+    "id": "131156200048",
+    "name": "高井戸第四小学校",
+    "location": [
+     35.698257,
+     139.602384
+    ],
+    "address": "東京都杉並区西荻南1-8-16",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1273
+   },
+   {
+    "id": "131156200049",
+    "name": "松庵小学校",
+    "location": [
+     35.700116,
+     139.593085
+    ],
+    "address": "東京都杉並区松庵2-23-24",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1241
+   },
+   {
+    "id": "131156200050",
+    "name": "富士見丘小学校",
+    "location": [
+     35.683102,
+     139.605133
+    ],
+    "address": "東京都杉並区久我山2-19-1",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1699
+   },
+   {
+    "id": "131156200051",
+    "name": "高井戸東小学校",
+    "location": [
+     35.68024,
+     139.619549
+    ],
+    "address": "東京都杉並区高井戸東1-12-1",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1418
+   },
+   {
+    "id": "131156200052",
+    "name": "久我山小学校",
+    "location": [
+     35.685961,
+     139.606275
+    ],
+    "address": "東京都杉並区久我山5-18-7",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1428
+   },
+   {
+    "id": "131156200053",
+    "name": "宮前中学校",
+    "location": [
+     35.693161,
+     139.610626
+    ],
+    "address": "東京都杉並区宮前2-12-1",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1688
+   },
+   {
+    "id": "131156200054",
+    "name": "富士見丘中学校",
+    "location": [
+     35.679455,
+     139.607043
+    ],
+    "address": "東京都杉並区上高井戸2-16-13",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1312
+   },
+   {
+    "id": "131156200055",
+    "name": "高井戸中学校",
+    "location": [
+     35.681175,
+     139.622206
+    ],
+    "address": "東京都杉並区高井戸東1-28-1",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1699
+   },
+   {
+    "id": "131156200056",
+    "name": "西宮中学校",
+    "location": [
+     35.692603,
+     139.601751
+    ],
+    "address": "東京都杉並区宮前5-1-25",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1397
+   },
+   {
+    "id": "131156200057",
+    "name": "桃井第三小学校",
+    "location": [
+     35.704851,
+     139.602643
+    ],
+    "address": "東京都杉並区西荻北2-10-7",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1291
+   },
+   {
+    "id": "131156200058",
+    "name": "桃井第四小学校",
+    "location": [
+     35.716997,
+     139.594583
+    ],
+    "address": "東京都杉並区善福寺3-3-5",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1356
+   },
+   {
+    "id": "131156200059",
+    "name": "井荻小学校",
+    "location": [
+     35.711328,
+     139.596807
+    ],
+    "address": "東京都杉並区善福寺1-10-19",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1260
+   },
+   {
+    "id": "131156200060",
+    "name": "三谷小学校",
+    "location": [
+     35.720398,
+     139.602349
+    ],
+    "address": "東京都杉並区上井草3-14-12",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1319
+   },
+   {
+    "id": "131156200061",
+    "name": "井草中学校",
+    "location": [
+     35.721994,
+     139.602554
+    ],
+    "address": "東京都杉並区上井草3-20-11",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 2064
+   },
+   {
+    "id": "131156200062",
+    "name": "荻窪中学校",
+    "location": [
+     35.710339,
+     139.596473
+    ],
+    "address": "東京都杉並区善福寺1-8-3",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1316
+   },
+   {
+    "id": "131156200063",
+    "name": "杉並和泉学園",
+    "location": [
+     35.674488,
+     139.648622
+    ],
+    "address": "東京都杉並区和泉2-17-14",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 3077
+   },
+   {
+    "id": "131156200064",
+    "name": "馬橋公園",
+    "location": [
+     35.709593,
+     139.643058
+    ],
+    "address": "東京都杉並区高円寺北4-35-5",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   },
+   {
+    "id": "131156200065",
+    "name": "塚山公園",
+    "location": [
+     35.674981,
+     139.624761
+    ],
+    "address": "東京都杉並区下高井戸5-23-12",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   },
+   {
+    "id": "131156200066",
+    "name": "大宮前体育館",
+    "location": [
+     35.696783,
+     139.610739
+    ],
+    "address": "東京都杉並区南荻窪2-1-1",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 500
+   },
+   {
+    "id": "131156200067",
+    "name": "久我山会館",
+    "location": [
+     35.686585,
+     139.599367
+    ],
+    "address": "東京都杉並区久我山3-23-20",
+    "hazards": [
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 223
+   },
+   {
+    "id": "131156200068",
+    "name": "下高井戸おおぞら公園",
+    "location": [
+     35.67091,
+     139.636998
+    ],
+    "address": "東京都杉並区下高井戸2-28-23",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   },
+   {
+    "id": "131156200069",
+    "name": "高井戸地域区民センター",
+    "location": [
+     35.683686,
+     139.61655
+    ],
+    "address": "東京都杉並区高井戸東3-7-5",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1563
+   },
+   {
+    "id": "131156200070",
+    "name": "西荻地域区民センター",
+    "location": [
+     35.712536,
+     139.602192
+    ],
+    "address": "東京都杉並区桃井4-3-2",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1013
+   },
+   {
+    "id": "131156200071",
+    "name": "阿佐谷地域区民センター",
+    "location": [
+     35.705796,
+     139.64166
+    ],
+    "address": "東京都杉並区阿佐谷北1-1-1",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 387
+   },
+   {
+    "id": "131156200072",
+    "name": "高円寺地域区民センター",
+    "location": [
+     35.697055,
+     139.653723
+    ],
+    "address": "東京都杉並区梅里1-22-32",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 1020
+   },
+   {
+    "id": "131156200073",
+    "name": "永福和泉地域区民センター",
+    "location": [
+     35.675672,
+     139.645976
+    ],
+    "address": "東京都杉並区和泉3-8-18",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 386
+   },
+   {
+    "id": "131156200074",
+    "name": "井草地域区民センター",
+    "location": [
+     35.720742,
+     139.6165
+    ],
+    "address": "東京都杉並区下井草5-7-22",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ],
+    "capacity": 414
+   },
+   {
+    "id": "131156200075",
+    "name": "旧杉並第四小学校",
+    "location": [
+     35.706593,
+     139.653627
+    ],
+    "address": "東京都杉並区高円寺北2-14-13",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ],
+    "capacity": 1098
+   },
+   {
+    "id": "131156200076",
+    "name": "ふらっとすぎはち",
+    "location": [
+     35.70152,
+     139.65177
+    ],
+    "address": "東京都杉並区高円寺南2-40-24",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  ],
+  "wide_areas": [
+   {
+    "name": {
+     "en": "Igusa Hachimangū area",
+     "ja": "井草八幡宮一帯"
+    },
+    "covers": "杉並区善福寺",
+    "location": [
+     35.715712,
+     139.59548
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15073.html"
+   },
+   {
+    "name": {
+     "en": "Igusa-no-mori Park area",
+     "ja": "井草森公園一帯"
+    },
+    "covers": "杉並区井草",
+    "location": [
+     35.727294,
+     139.612409
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15072.html"
+   },
+   {
+    "name": {
+     "en": "Kashiwanomiya Park area",
+     "ja": "柏の宮公園一帯"
+    },
+    "covers": "杉並区高井戸東、浜田山",
+    "location": [
+     35.678149,
+     139.625579
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15071.html"
+   },
+   {
+    "name": {
+     "en": "Kami-Igusa Sports Center area",
+     "ja": "上井草スポーツセンター一帯"
+    },
+    "covers": "杉並区今川、上井草、練馬区下石神井",
+    "location": [
+     35.722753,
+     139.601711
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15070.html"
+   },
+   {
+    "name": {
+     "en": "Takaido Park area",
+     "ja": "高井戸公園一帯"
+    },
+    "covers": "杉並区久我山",
+    "location": [
+     35.681838,
+     139.604282
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15069.html"
+   },
+   {
+    "name": {
+     "en": "Kosha Heim Nakano-Yayoichō and Risshō Kōsei-kai Great Sacred Hall area",
+     "ja": "コーシャハイム中野弥生町・立正佼成会大聖堂一帯"
+    },
+    "covers": "杉並区和田、中野区弥生町",
+    "location": [
+     35.68839,
+     139.657313
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15068.html"
+   },
+   {
+    "name": {
+     "en": "Sanshi-no-mori Park area",
+     "ja": "蚕糸の森公園一帯"
+    },
+    "covers": "杉並区和田",
+    "location": [
+     35.697459,
+     139.656014
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15067.html"
+   },
+   {
+    "name": {
+     "en": "Charaille Ogikubo area",
+     "ja": "シャレール荻窪一帯"
+    },
+    "covers": "杉並区荻窪",
+    "location": [
+     35.697038,
+     139.625842
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15066.html"
+   },
+   {
+    "name": {
+     "en": "Cession Suginami and Myōhōji area",
+     "ja": "セシオン杉並・妙法寺一帯"
+    },
+    "covers": "杉並区梅里、堀ノ内",
+    "location": [
+     35.694142,
+     139.652737
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15065.html"
+   },
+   {
+    "name": {
+     "en": "Zenpukuji River Green Space and Wadabori Park (west) area",
+     "ja": "善福寺川緑地・和田堀公園（西地区）一帯"
+    },
+    "covers": "杉並区成田西、成田東、松ノ木、大宮",
+    "location": [
+     35.685386,
+     139.64226
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15064.html"
+   },
+   {
+    "name": {
+     "en": "Zenpukuji Park and Tokyo Woman's Christian University area",
+     "ja": "善福寺公園・東京女子大学一帯"
+    },
+    "covers": "杉並区善福寺",
+    "location": [
+     35.712079,
+     139.591713
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15063.html"
+   },
+   {
+    "name": {
+     "en": "Takaido Station area",
+     "ja": "高井戸駅一帯"
+    },
+    "covers": "杉並区高井戸西、高井戸東",
+    "location": [
+     35.682871,
+     139.611045
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15062.html"
+   },
+   {
+    "name": {
+     "en": "Wadabori Park (east) area",
+     "ja": "和田堀公園（東地区）一帯"
+    },
+    "covers": "杉並区大宮、堀ノ内",
+    "location": [
+     35.685585,
+     139.647918
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15059.html"
+   },
+   {
+    "name": {
+     "en": "Roka Park and Meiji University Hachimanyama grounds area",
+     "ja": "芦花公園・明大八幡山グランド一帯"
+    },
+    "covers": "世田谷区粕谷、八幡山、船橋",
+    "location": [
+     35.662748,
+     139.617088
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15058.html"
+   },
+   {
+    "name": {
+     "en": "Nakano City Office area",
+     "ja": "中野区役所一帯"
+    },
+    "covers": "杉並区高円寺北、中野区中野",
+    "location": [
+     35.708177,
+     139.661323
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15057.html"
+   },
+   {
+    "name": {
+     "en": "Shirasagi 1-chōme district",
+     "ja": "白鷺一丁目地区"
+    },
+    "covers": "中野区白鷺、若宮",
+    "location": [
+     35.718316,
+     139.639113
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15056.html"
+   },
+   {
+    "name": {
+     "en": "Kōsha Saginomiya-nishi housing area",
+     "ja": "公社鷺宮西住宅一帯"
+    },
+    "covers": "中野区白鷺",
+    "location": [
+     35.720907,
+     139.634294
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15055.html"
+   },
+   {
+    "name": {
+     "en": "Meiji University Izumi campus area",
+     "ja": "明大和泉校舎一帯"
+    },
+    "covers": "杉並区永福",
+    "location": [
+     35.670795,
+     139.648404
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15061.html"
+   },
+   {
+    "name": {
+     "en": "Momoi Harappa Park area",
+     "ja": "桃井原っぱ公園一帯"
+    },
+    "covers": "杉並区桃井",
+    "location": [
+     35.713301,
+     139.607507
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15060.html"
+   },
+   {
+    "name": {
+     "en": "Japan Post and Takaido-higashi Elementary School area",
+     "ja": "日本郵政・高井戸東小学校一帯"
+    },
+    "covers": "杉並区高井戸東",
+    "location": [
+     35.68094,
+     139.620111
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s015/shisetsu/15054.html"
+   }
+  ],
+  "water": [
+   {
+    "name": "和泉水圧調整所",
+    "location": [
+     35.671071,
+     139.652962
+    ],
+    "litres": 16600000
+   },
+   {
+    "name": "上井草給水所",
+    "location": [
+     35.721635,
+     139.601235
+    ],
+    "litres": 60000000
+   },
+   {
+    "name": "都立和田堀公園",
+    "location": [
+     35.68491,
+     139.641511
+    ],
+    "litres": 1500000
+   },
+   {
+    "name": "区立蚕糸の森公園",
+    "location": [
+     35.69637,
+     139.65699
+    ],
+    "litres": 1500000,
+    "note": {
+     "en": "Closed for repairs until 31 March 2028.",
+     "ja": "補修工事のため2028年3月31日まで使用停止。"
+    }
+   },
+   {
+    "name": "区立昭栄公園",
+    "location": [
+     35.680084,
+     139.608351
+    ],
+    "litres": 1500000
+   },
+   {
+    "name": "区立井草森公園",
+    "location": [
+     35.726951,
+     139.611737
+    ],
+    "litres": 1500000
+   },
+   {
+    "name": "区立馬橋公園",
+    "location": [
+     35.709583,
+     139.643056
+    ],
+    "litres": 100000
+   },
+   {
+    "name": "都立善福寺川緑地",
+    "location": [
+     35.692188,
+     139.628662
+    ],
+    "litres": 100000
+   }
+  ],
+  "hospitals": [
+   {
+    "name": {
+     "en": "Ogikubo Hospital",
+     "ja": "荻窪病院"
+    },
+    "role": {
+     "en": "Disaster base hospital",
+     "ja": "災害拠点病院"
+    },
+    "location": [
+     35.715364,
+     139.607452
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s045/shisetsu/15053.html"
+   },
+   {
+    "name": {
+     "en": "Kyorin University Suginami Hospital",
+     "ja": "杏林大学医学部付属杉並病院"
+    },
+    "role": {
+     "en": "Disaster base hospital",
+     "ja": "災害拠点病院"
+    },
+    "location": [
+     35.690322,
+     139.655952
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s045/shisetsu/15052.html"
+   },
+   {
+    "name": {
+     "en": "Hamadayama Hospital",
+     "ja": "浜田山病院"
+    },
+    "role": {
+     "en": "Disaster partner hospital",
+     "ja": "災害拠点連携病院"
+    },
+    "location": [
+     35.681447,
+     139.634764
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s045/shisetsu/15051.html"
+   },
+   {
+    "name": {
+     "en": "Kawakita General Hospital",
+     "ja": "河北総合病院"
+    },
+    "role": {
+     "en": "Disaster partner hospital",
+     "ja": "災害拠点連携病院"
+    },
+    "location": [
+     35.706437,
+     139.638542
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s045/shisetsu/15050.html"
+   },
+   {
+    "name": {
+     "en": "Kiyokawa Hospital",
+     "ja": "清川病院"
+    },
+    "role": {
+     "en": "Disaster support hospital",
+     "ja": "災害拠点協力病院"
+    },
+    "location": [
+     35.704104,
+     139.643867
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s045/shisetsu/15049.html"
+   },
+   {
+    "name": {
+     "en": "Jōsai Hospital",
+     "ja": "城西病院"
+    },
+    "role": {
+     "en": "Disaster partner hospital",
+     "ja": "災害拠点連携病院"
+    },
+    "location": [
+     35.707917,
+     139.6146
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s045/shisetsu/15048.html"
+   },
+   {
+    "name": {
+     "en": "Tokyo Adventist Hospital",
+     "ja": "東京衛生アドベンチスト病院"
+    },
+    "role": {
+     "en": "Disaster partner hospital",
+     "ja": "災害拠点連携病院"
+    },
+    "location": [
+     35.708176,
+     139.619513
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s045/shisetsu/15047.html"
+   },
+   {
+    "name": {
+     "en": "New Heart Watanabe Institute",
+     "ja": "ニューハート・ワタナベ国際病院"
+    },
+    "role": {
+     "en": "Disaster partner hospital",
+     "ja": "災害拠点連携病院"
+    },
+    "location": [
+     35.683143,
+     139.629727
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s045/shisetsu/15046.html"
+   },
+   {
+    "name": {
+     "en": "Yamanaka Hospital",
+     "ja": "山中病院"
+    },
+    "role": {
+     "en": "Disaster partner hospital",
+     "ja": "災害拠点連携病院"
+    },
+    "location": [
+     35.694641,
+     139.617152
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s045/shisetsu/15045.html"
+   },
+   {
+    "name": {
+     "en": "Yokufūkai Hospital",
+     "ja": "浴風会病院"
+    },
+    "role": {
+     "en": "Disaster partner hospital",
+     "ja": "災害拠点連携病院"
+    },
+    "location": [
+     35.680506,
+     139.609119
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s045/shisetsu/15044.html"
+   },
+   {
+    "name": {
+     "en": "TMS Suginami Hospital",
+     "ja": "タムス杉並病院"
+    },
+    "role": {
+     "en": "Disaster support hospital",
+     "ja": "災害拠点協力病院"
+    },
+    "location": [
+     35.690644,
+     139.660223
+    ],
+    "source": "https://www.city.suginami.tokyo.jp/s045/shisetsu/15043.html"
+   }
+  ],
+  "aeds": [
+   {
+    "id": "131156700001",
+    "name": "杉並区役所",
+    "location": [
+     35.699539,
+     139.636423
+    ],
+    "where": "中棟2階、中棟3階、中棟6階、西棟1階、西棟9階、夜間受付（午後5時以降）"
+   },
+   {
+    "id": "131156700002",
+    "name": "杉並区役所分庁舎",
+    "location": [
+     35.698487,
+     139.637602
+    ],
+    "where": "1階"
+   },
+   {
+    "id": "131156700003",
+    "name": "井草区民事務所",
+    "location": [
+     35.7234,
+     139.618882
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700004",
+    "name": "荻窪区民事務所",
+    "location": [
+     35.70482,
+     139.622877
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700005",
+    "name": "高井戸区民事務所",
+    "location": [
+     35.683373,
+     139.615084
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700006",
+    "name": "西荻区民事務所",
+    "location": [
+     35.701512,
+     139.601826
+    ],
+    "where": "1階エレベーター付近"
+   },
+   {
+    "id": "131156700007",
+    "name": "阿佐谷地域区民センター",
+    "location": [
+     35.705796,
+     139.64166
+    ],
+    "where": "1階ロビー、2階第3集会室横、3階エレベーターホール"
+   },
+   {
+    "id": "131156700008",
+    "name": "井草地域区民センター",
+    "location": [
+     35.720742,
+     139.6165
+    ],
+    "where": "1階ロビー"
+   },
+   {
+    "id": "131156700009",
+    "name": "永福和泉地域区民センター",
+    "location": [
+     35.675672,
+     139.645976
+    ],
+    "where": "1階風除室、2階談話コーナー"
+   },
+   {
+    "id": "131156700010",
+    "name": "荻窪地域区民センター(令和6年11月1日～令和8年9月30日まで休館)",
+    "location": [
+     35.698546,
+     139.618976
+    ],
+    "where": "1階ロビー、地下2階体育室前通路"
+   },
+   {
+    "id": "131156700011",
+    "name": "高円寺地域区民センター",
+    "location": [
+     35.69668,
+     139.653998
+    ],
+    "where": "正面入口"
+   },
+   {
+    "id": "131156700012",
+    "name": "西荻地域区民センター",
+    "location": [
+     35.712536,
+     139.602192
+    ],
+    "where": "1階受付横、地下2階階段横"
+   },
+   {
+    "id": "131156700013",
+    "name": "高井戸地域区民センター",
+    "location": [
+     35.683686,
+     139.61655
+    ],
+    "where": "1階ロビー、3階ロビー"
+   },
+   {
+    "id": "131156700014",
+    "name": "梅里区民集会所",
+    "location": [
+     35.696312,
+     139.641475
+    ],
+    "where": "1階ロビー"
+   },
+   {
+    "id": "131156700015",
+    "name": "上高井戸区民集会所",
+    "location": [
+     35.671096,
+     139.612527
+    ],
+    "where": "1階ロビー"
+   },
+   {
+    "id": "131156700016",
+    "name": "高円寺北区民集会所",
+    "location": [
+     35.707667,
+     139.648386
+    ],
+    "where": "1階談話コーナー"
+   },
+   {
+    "id": "131156700017",
+    "name": "四宮区民集会所",
+    "location": [
+     35.722843,
+     139.608658
+    ],
+    "where": "1階ロビー"
+   },
+   {
+    "id": "131156700018",
+    "name": "西荻南区民集会所",
+    "location": [
+     35.704728,
+     139.608865
+    ],
+    "where": "事務室内"
+   },
+   {
+    "id": "131156700019",
+    "name": "八成区民集会所",
+    "location": [
+     35.724405,
+     139.621728
+    ],
+    "where": "1階ロビー"
+   },
+   {
+    "id": "131156700020",
+    "name": "久我山会館",
+    "location": [
+     35.686585,
+     139.599367
+    ],
+    "where": "1階ロビー"
+   },
+   {
+    "id": "131156700021",
+    "name": "方南会館",
+    "location": [
+     35.680987,
+     139.656076
+    ],
+    "where": "1階ロビー"
+   },
+   {
+    "id": "131156700022",
+    "name": "浜田山会館",
+    "location": [
+     35.680455,
+     139.630019
+    ],
+    "where": "1階ロビー"
+   },
+   {
+    "id": "131156700023",
+    "name": "コミュニティふらっと阿佐谷",
+    "location": [
+     35.706068,
+     139.633821
+    ],
+    "where": "ラウンジ"
+   },
+   {
+    "id": "131156700024",
+    "name": "コミュニティふらっと馬橋",
+    "location": [
+     35.701999,
+     139.643895
+    ],
+    "where": "ラウンジ"
+   },
+   {
+    "id": "131156700025",
+    "name": "コミュニティふらっと東原",
+    "location": [
+     35.715584,
+     139.632019
+    ],
+    "where": "事務室前"
+   },
+   {
+    "id": "131156700026",
+    "name": "コミュニティふらっと成田",
+    "location": [
+     35.690444,
+     139.631265
+    ],
+    "where": "受付カウンター"
+   },
+   {
+    "id": "131156700027",
+    "name": "ゆうゆう井草館",
+    "location": [
+     35.727,
+     139.619588
+    ],
+    "where": "ホール"
+   },
+   {
+    "id": "131156700028",
+    "name": "ゆうゆう和泉館",
+    "location": [
+     35.679361,
+     139.649959
+    ],
+    "where": "ホール"
+   },
+   {
+    "id": "131156700029",
+    "name": "ゆうゆう梅里堀ノ内館",
+    "location": [
+     35.693294,
+     139.649752
+    ],
+    "where": "ホール"
+   },
+   {
+    "id": "131156700030",
+    "name": "ゆうゆう永福館",
+    "location": [
+     35.672204,
+     139.639566
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700031",
+    "name": "ゆうゆう大宮堀ノ内館",
+    "location": [
+     35.687191,
+     139.648257
+    ],
+    "where": "ホール"
+   },
+   {
+    "id": "131156700032",
+    "name": "ゆうゆう大宮前館",
+    "location": [
+     35.694745,
+     139.60125
+    ],
+    "where": "ホール"
+   },
+   {
+    "id": "131156700033",
+    "name": "ゆうゆう荻窪館",
+    "location": [
+     35.698746,
+     139.61257
+    ],
+    "where": "ホール"
+   },
+   {
+    "id": "131156700034",
+    "name": "ゆうゆう荻窪東館",
+    "location": [
+     35.701831,
+     139.623372
+    ],
+    "where": "玄関靴箱の上"
+   },
+   {
+    "id": "131156700035",
+    "name": "ゆうゆう上荻窪館",
+    "location": [
+     35.71039,
+     139.607852
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700036",
+    "name": "ゆうゆう上高井戸館",
+    "location": [
+     35.677807,
+     139.616552
+    ],
+    "where": "事務室横"
+   },
+   {
+    "id": "131156700037",
+    "name": "ゆうゆう久我山館",
+    "location": [
+     35.688408,
+     139.601541
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700038",
+    "name": "ゆうゆう高円寺北館",
+    "location": [
+     35.706847,
+     139.648658
+    ],
+    "where": "ホール"
+   },
+   {
+    "id": "131156700039",
+    "name": "ゆうゆう高円寺東館",
+    "location": [
+     35.698618,
+     139.658096
+    ],
+    "where": "ホール"
+   },
+   {
+    "id": "131156700040",
+    "name": "ゆうゆう高円寺南館",
+    "location": [
+     35.704953,
+     139.651343
+    ],
+    "where": "ホール"
+   },
+   {
+    "id": "131156700041",
+    "name": "ゆうゆう四宮館",
+    "location": [
+     35.722688,
+     139.608752
+    ],
+    "where": "受付横廊下"
+   },
+   {
+    "id": "131156700042",
+    "name": "ゆうゆう下井草館",
+    "location": [
+     35.719369,
+     139.624633
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700043",
+    "name": "ゆうゆう下高井戸館",
+    "location": [
+     35.673128,
+     139.63038
+    ],
+    "where": "1階受付"
+   },
+   {
+    "id": "131156700044",
+    "name": "ゆうゆう善福寺館",
+    "location": [
+     35.713373,
+     139.588655
+    ],
+    "where": "ホール"
+   },
+   {
+    "id": "131156700045",
+    "name": "ゆうゆう高井戸西館",
+    "location": [
+     35.681369,
+     139.606896
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700046",
+    "name": "ゆうゆう高井戸東館",
+    "location": [
+     35.683166,
+     139.624319
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700047",
+    "name": "ゆうゆう西荻北館",
+    "location": [
+     35.707303,
+     139.602619
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700048",
+    "name": "ゆうゆう西田館",
+    "location": [
+     35.694515,
+     139.627511
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700049",
+    "name": "ゆうゆう堀ノ内松ノ木館",
+    "location": [
+     35.692033,
+     139.642709
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700050",
+    "name": "ゆうゆう桃井館",
+    "location": [
+     35.713602,
+     139.613285
+    ],
+    "where": "ホール"
+   },
+   {
+    "id": "131156700051",
+    "name": "ゆうゆう和田館",
+    "location": [
+     35.691599,
+     139.659554
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700052",
+    "name": "阿佐谷北保育園",
+    "location": [
+     35.715901,
+     139.630205
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700053",
+    "name": "阿佐谷東保育園",
+    "location": [
+     35.702009,
+     139.639752
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700054",
+    "name": "阿佐谷南保育園",
+    "location": [
+     35.702946,
+     139.628944
+    ],
+    "where": "1階エントランス"
+   },
+   {
+    "id": "131156700055",
+    "name": "和泉保育園",
+    "location": [
+     35.679361,
+     139.649959
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700056",
+    "name": "今川保育園",
+    "location": [
+     35.715173,
+     139.605713
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700057",
+    "name": "永福北保育園",
+    "location": [
+     35.678413,
+     139.638018
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700058",
+    "name": "永福南保育園",
+    "location": [
+     35.671565,
+     139.639073
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700059",
+    "name": "善福寺保育園",
+    "location": [
+     35.713373,
+     139.588655
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700060",
+    "name": "荻窪南保育園",
+    "location": [
+     35.690662,
+     139.621071
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700061",
+    "name": "上荻保育園",
+    "location": [
+     35.706035,
+     139.616939
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700062",
+    "name": "久我山東保育園",
+    "location": [
+     35.687941,
+     139.607337
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700063",
+    "name": "高円寺東保育園",
+    "location": [
+     35.700666,
+     139.660844
+    ],
+    "where": "1階玄関ホール"
+   },
+   {
+    "id": "131156700064",
+    "name": "松庵保育園",
+    "location": [
+     35.699603,
+     139.593285
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700065",
+    "name": "成田保育園",
+    "location": [
+     35.690444,
+     139.631265
+    ],
+    "where": "1階事務室内医務室"
+   },
+   {
+    "id": "131156700066",
+    "name": "西荻北保育園",
+    "location": [
+     35.707303,
+     139.602619
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700067",
+    "name": "浜田山保育園",
+    "location": [
+     35.687183,
+     139.626228
+    ],
+    "where": "1階事務室内医務室"
+   },
+   {
+    "id": "131156700068",
+    "name": "堀ノ内保育園",
+    "location": [
+     35.68663,
+     139.653031
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700069",
+    "name": "本天沼保育園",
+    "location": [
+     35.716326,
+     139.623076
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700070",
+    "name": "松ノ木保育園",
+    "location": [
+     35.692328,
+     139.646127
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700071",
+    "name": "宮前保育園",
+    "location": [
+     35.693106,
+     139.614763
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700072",
+    "name": "和田保育園",
+    "location": [
+     35.695024,
+     139.662327
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700073",
+    "name": "小規模保育事業所宮前北",
+    "location": [
+     35.694682,
+     139.604705
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700074",
+    "name": "高井戸東保育園",
+    "location": [
+     35.683166,
+     139.624319
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700075",
+    "name": "高円寺北子供園",
+    "location": [
+     35.70683,
+     139.653581
+    ],
+    "where": "1階職員室"
+   },
+   {
+    "id": "131156700076",
+    "name": "下高井戸子供園",
+    "location": [
+     35.674393,
+     139.630184
+    ],
+    "where": "1階職員室"
+   },
+   {
+    "id": "131156700077",
+    "name": "高井戸西子供園",
+    "location": [
+     35.688291,
+     139.610551
+    ],
+    "where": "1階職員室"
+   },
+   {
+    "id": "131156700078",
+    "name": "成田西子供園",
+    "location": [
+     35.690471,
+     139.629961
+    ],
+    "where": "1階職員室"
+   },
+   {
+    "id": "131156700079",
+    "name": "西荻北子供園",
+    "location": [
+     35.707748,
+     139.607122
+    ],
+    "where": "1階玄関"
+   },
+   {
+    "id": "131156700080",
+    "name": "堀ノ内子供園",
+    "location": [
+     35.683591,
+     139.651181
+    ],
+    "where": "1階職員室"
+   },
+   {
+    "id": "131156700081",
+    "name": "井草保育園",
+    "location": [
+     35.727,
+     139.619588
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700082",
+    "name": "天沼児童館",
+    "location": [
+     35.705548,
+     139.627113
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700083",
+    "name": "宮前児童館",
+    "location": [
+     35.692386,
+     139.60246
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700084",
+    "name": "荻窪児童館",
+    "location": [
+     35.697787,
+     139.622273
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700085",
+    "name": "桃井児童館",
+    "location": [
+     35.711984,
+     139.610819
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700086",
+    "name": "宮前北児童館",
+    "location": [
+     35.696608,
+     139.608258
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700087",
+    "name": "子ども・子育てプラザ善福寺",
+    "location": [
+     35.713024,
+     139.597672
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700088",
+    "name": "上井草児童館",
+    "location": [
+     35.718578,
+     139.602502
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700089",
+    "name": "高井戸児童館",
+    "location": [
+     35.683981,
+     139.611772
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700090",
+    "name": "子ども・子育てプラザ和泉",
+    "location": [
+     35.675143,
+     139.651124
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700091",
+    "name": "子ども・子育てプラザ成田西",
+    "location": [
+     35.691198,
+     139.630722
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700092",
+    "name": "善福寺北児童館",
+    "location": [
+     35.717734,
+     139.592779
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700093",
+    "name": "四宮森児童館",
+    "location": [
+     35.724315,
+     139.608204
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700094",
+    "name": "子ども・子育てプラザ高円寺",
+    "location": [
+     35.702063,
+     139.651799
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700095",
+    "name": "和田中央児童館",
+    "location": [
+     35.692433,
+     139.661105
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700096",
+    "name": "馬橋児童館",
+    "location": [
+     35.705811,
+     139.64355
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700097",
+    "name": "今川北学童クラブ",
+    "location": [
+     35.718567,
+     139.608423
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700098",
+    "name": "上井草スポーツセンター",
+    "location": [
+     35.723988,
+     139.602048
+    ],
+    "where": "フロントロビー、弓道場、プール受付、屋外本部棟、トレーニングルーム受付"
+   },
+   {
+    "id": "131156700099",
+    "name": "下高井戸運動場",
+    "location": [
+     35.672086,
+     139.635923
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700100",
+    "name": "松ノ木運動場",
+    "location": [
+     35.685637,
+     139.642053
+    ],
+    "where": "ロビー（受付）、事務室"
+   },
+   {
+    "id": "131156700101",
+    "name": "永福体育館",
+    "location": [
+     35.669341,
+     139.643155
+    ],
+    "where": "1階体育館前ホール、2階トレーニングルーム前"
+   },
+   {
+    "id": "131156700102",
+    "name": "大宮前体育館",
+    "location": [
+     35.696784,
+     139.610518
+    ],
+    "where": "1階総合受付、地下1階プール監視室"
+   },
+   {
+    "id": "131156700103",
+    "name": "荻窪体育館",
+    "location": [
+     35.7027,
+     139.626962
+    ],
+    "where": "地下1階、1階受付"
+   },
+   {
+    "id": "131156700104",
+    "name": "高円寺体育館",
+    "location": [
+     35.69977,
+     139.654233
+    ],
+    "where": "体育館正面入り口"
+   },
+   {
+    "id": "131156700105",
+    "name": "妙正寺体育館",
+    "location": [
+     35.718435,
+     139.617696
+    ],
+    "where": "1階事務室、地下1階小体育室横"
+   },
+   {
+    "id": "131156700106",
+    "name": "杉並第十小学校温水プール",
+    "location": [
+     35.697,
+     139.657443
+    ],
+    "where": "地下1階ロビー"
+   },
+   {
+    "id": "131156700107",
+    "name": "高井戸温水プール",
+    "location": [
+     35.683686,
+     139.61655
+    ],
+    "where": "プール内"
+   },
+   {
+    "id": "131156700108",
+    "name": "和田堀公園プール",
+    "location": [
+     35.68193,
+     139.641437
+    ],
+    "where": "プール内"
+   },
+   {
+    "id": "131156700109",
+    "name": "杉並児童交通公園",
+    "location": [
+     35.688944,
+     139.631109
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700110",
+    "name": "大田黒公園",
+    "location": [
+     35.700817,
+     139.624583
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700111",
+    "name": "蚕糸の森公園",
+    "location": [
+     35.697669,
+     139.656038
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700112",
+    "name": "塚山公園",
+    "location": [
+     35.674981,
+     139.624761
+    ],
+    "where": "管理棟展示室内"
+   },
+   {
+    "id": "131156700113",
+    "name": "柏の宮公園",
+    "location": [
+     35.677536,
+     139.626323
+    ],
+    "where": "1階ロビー"
+   },
+   {
+    "id": "131156700114",
+    "name": "馬橋公園",
+    "location": [
+     35.709593,
+     139.643058
+    ],
+    "where": "管理事務所内"
+   },
+   {
+    "id": "131156700115",
+    "name": "井草森公園",
+    "location": [
+     35.726903,
+     139.611062
+    ],
+    "where": "管理事務所内"
+   },
+   {
+    "id": "131156700116",
+    "name": "桃井原っぱ公園",
+    "location": [
+     35.71283,
+     139.607493
+    ],
+    "where": "管理棟入口"
+   },
+   {
+    "id": "131156700117",
+    "name": "成田西ふれあい農業公園",
+    "location": [
+     35.691408,
+     139.623645
+    ],
+    "where": "管理事務所内"
+   },
+   {
+    "id": "131156700118",
+    "name": "下高井戸おおぞら公園",
+    "location": [
+     35.67091,
+     139.636998
+    ],
+    "where": "事務室内"
+   },
+   {
+    "id": "131156700119",
+    "name": "杉並区農福連携農園",
+    "location": [
+     35.727312,
+     139.616987
+    ],
+    "where": "管理棟事務所内"
+   },
+   {
+    "id": "131156700120",
+    "name": "杉並福祉事務所 高円寺事務所",
+    "location": [
+     35.700675,
+     139.649201
+    ],
+    "where": "2階事務室カウンター近く"
+   },
+   {
+    "id": "131156700121",
+    "name": "杉並福祉事務所 高井戸事務所",
+    "location": [
+     35.685732,
+     139.616252
+    ],
+    "where": "1階ロビー"
+   },
+   {
+    "id": "131156700122",
+    "name": "障害者福祉会館",
+    "location": [
+     35.689372,
+     139.617776
+    ],
+    "where": "2階ロビー"
+   },
+   {
+    "id": "131156700123",
+    "name": "和田区民集会所",
+    "location": [
+     35.691073,
+     139.65786
+    ],
+    "where": "談話コーナー"
+   },
+   {
+    "id": "131156700124",
+    "name": "高円寺障害者交流館",
+    "location": [
+     35.700675,
+     139.649201
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700125",
+    "name": "杉並視覚障害者会館（アイプラザ）",
+    "location": [
+     35.703291,
+     139.610995
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700126",
+    "name": "こども発達センター",
+    "location": [
+     35.682591,
+     139.619791
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700127",
+    "name": "なのはな生活園",
+    "location": [
+     35.692227,
+     139.613426
+    ],
+    "where": "1階玄関"
+   },
+   {
+    "id": "131156700128",
+    "name": "こすもす生活園",
+    "location": [
+     35.687191,
+     139.648257
+    ],
+    "where": "1階玄関"
+   },
+   {
+    "id": "131156700129",
+    "name": "こすもす生活園分室",
+    "location": [
+     35.685868,
+     139.646516
+    ],
+    "where": "1階玄関"
+   },
+   {
+    "id": "131156700130",
+    "name": "すぎのき生活園（すぎのきグループ）",
+    "location": [
+     35.727469,
+     139.615703
+    ],
+    "where": "すぎのき棟事務室"
+   },
+   {
+    "id": "131156700131",
+    "name": "すぎのき生活園（けやきグループ）",
+    "location": [
+     35.727122,
+     139.615792
+    ],
+    "where": "けやき棟事務室"
+   },
+   {
+    "id": "131156700132",
+    "name": "ひまわり作業所",
+    "location": [
+     35.698268,
+     139.592688
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700133",
+    "name": "あすなろ作業所",
+    "location": [
+     35.674164,
+     139.660239
+    ],
+    "where": "玄関"
+   },
+   {
+    "id": "131156700134",
+    "name": "あけぼの作業所",
+    "location": [
+     35.718065,
+     139.597032
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700135",
+    "name": "済美職業実習所",
+    "location": [
+     35.686127,
+     139.649246
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700136",
+    "name": "阿佐谷福祉工房",
+    "location": [
+     35.707704,
+     139.629766
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700137",
+    "name": "すだちの里すぎなみ",
+    "location": [
+     35.717924,
+     139.609168
+    ],
+    "where": "すだちの里すぎなみ事務室内"
+   },
+   {
+    "id": "131156700138",
+    "name": "杉並区障害者雇用支援事業団（ワークサポート杉並）",
+    "location": [
+     35.689628,
+     139.61782
+    ],
+    "where": "杉並障害者福祉会館1階ロビー"
+   },
+   {
+    "id": "131156700139",
+    "name": "わかば",
+    "location": [
+     35.708488,
+     139.618191
+    ],
+    "where": "事務室"
+   },
+   {
+    "id": "131156700140",
+    "name": "子どもの家エラン",
+    "location": [
+     35.697103,
+     139.613862
+    ],
+    "where": "1階表玄関内"
+   },
+   {
+    "id": "131156700141",
+    "name": "杉並保健所",
+    "location": [
+     35.702227,
+     139.62022
+    ],
+    "where": "1階受付横、2階エレベーター前"
+   },
+   {
+    "id": "131156700142",
+    "name": "杉並保健所",
+    "location": [
+     35.702227,
+     139.62022
+    ],
+    "where": "4階エレベーター前"
+   },
+   {
+    "id": "131156700143",
+    "name": "高井戸保健センター",
+    "location": [
+     35.684712,
+     139.620235
+    ],
+    "where": "1階風除室"
+   },
+   {
+    "id": "131156700144",
+    "name": "高円寺保健センター",
+    "location": [
+     35.701433,
+     139.645821
+    ],
+    "where": "1階エントランス"
+   },
+   {
+    "id": "131156700145",
+    "name": "上井草保健センター",
+    "location": [
+     35.718981,
+     139.601463
+    ],
+    "where": "風除室"
+   },
+   {
+    "id": "131156700146",
+    "name": "和泉保健センター",
+    "location": [
+     35.682647,
+     139.655912
+    ],
+    "where": "1階エントランス"
+   },
+   {
+    "id": "131156700147",
+    "name": "中央図書館",
+    "location": [
+     35.701537,
+     139.626386
+    ],
+    "where": "1階給水器横"
+   },
+   {
+    "id": "131156700148",
+    "name": "阿佐谷図書館",
+    "location": [
+     35.711694,
+     139.633256
+    ],
+    "where": "1階"
+   },
+   {
+    "id": "131156700149",
+    "name": "永福図書館",
+    "location": [
+     35.678413,
+     139.638018
+    ],
+    "where": "1階入口横"
+   },
+   {
+    "id": "131156700150",
+    "name": "柿木図書館",
+    "location": [
+     35.720282,
+     139.612098
+    ],
+    "where": "正面玄関風除室"
+   },
+   {
+    "id": "131156700151",
+    "name": "高円寺図書館",
+    "location": [
+     35.700408,
+     139.654146
+    ],
+    "where": "3階図書館カウンター"
+   },
+   {
+    "id": "131156700152",
+    "name": "下井草図書館",
+    "location": [
+     35.720918,
+     139.623258
+    ],
+    "where": "1階昇降階段前"
+   },
+   {
+    "id": "131156700153",
+    "name": "高井戸図書館",
+    "location": [
+     35.681175,
+     139.622206
+    ],
+    "where": "1階階段脇"
+   },
+   {
+    "id": "131156700154",
+    "name": "成田図書館",
+    "location": [
+     35.695068,
+     139.63751
+    ],
+    "where": "1階出入口横"
+   },
+   {
+    "id": "131156700155",
+    "name": "西荻図書館",
+    "location": [
+     35.70779,
+     139.60594
+    ],
+    "where": "1階入り口横"
+   },
+   {
+    "id": "131156700156",
+    "name": "方南図書館",
+    "location": [
+     35.678987,
+     139.660066
+    ],
+    "where": "1階玄関脇"
+   },
+   {
+    "id": "131156700157",
+    "name": "南荻窪図書館",
+    "location": [
+     35.695024,
+     139.614529
+    ],
+    "where": "1階CD視聴ブース横"
+   },
+   {
+    "id": "131156700158",
+    "name": "宮前図書館",
+    "location": [
+     35.693209,
+     139.598897
+    ],
+    "where": "1階貸出カウンター奥"
+   },
+   {
+    "id": "131156700159",
+    "name": "今川図書館",
+    "location": [
+     35.715533,
+     139.59981
+    ],
+    "where": "1階出入口脇"
+   },
+   {
+    "id": "131156700160",
+    "name": "桜上水北図書サービスコーナー",
+    "location": [
+     35.668334,
+     139.632403
+    ],
+    "where": "風除室"
+   },
+   {
+    "id": "131156700161",
+    "name": "杉並清掃事務所",
+    "location": [
+     35.702248,
+     139.628594
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700162",
+    "name": "杉並清掃事務所方南支所",
+    "location": [
+     35.674164,
+     139.660239
+    ],
+    "where": "2階事務室"
+   },
+   {
+    "id": "131156700163",
+    "name": "社会教育センター（セシオン杉並）",
+    "location": [
+     35.69668,
+     139.653998
+    ],
+    "where": "ホールロビー"
+   },
+   {
+    "id": "131156700164",
+    "name": "杉並会館",
+    "location": [
+     35.71039,
+     139.607852
+    ],
+    "where": "1階クローク脇"
+   },
+   {
+    "id": "131156700165",
+    "name": "郷土博物館",
+    "location": [
+     35.685988,
+     139.645467
+    ],
+    "where": "本館風除室"
+   },
+   {
+    "id": "131156700166",
+    "name": "郷土博物館分館",
+    "location": [
+     35.708697,
+     139.621546
+    ],
+    "where": "分館西棟受付横"
+   },
+   {
+    "id": "131156700167",
+    "name": "産業商工会館",
+    "location": [
+     35.701762,
+     139.63529
+    ],
+    "where": "正面玄関"
+   },
+   {
+    "id": "131156700168",
+    "name": "ウェルファーム杉並 複合施設棟",
+    "location": [
+     35.710095,
+     139.620796
+    ],
+    "where": "1階総合案内横、3階受付"
+   },
+   {
+    "id": "131156700170",
+    "name": "杉並公会堂",
+    "location": [
+     35.706591,
+     139.616392
+    ],
+    "where": "2階"
+   },
+   {
+    "id": "131156700171",
+    "name": "杉並芸術会館（座・高円寺）",
+    "location": [
+     35.705901,
+     139.653996
+    ],
+    "where": "2階事務室、地下1階廊下"
+   },
+   {
+    "id": "131156700172",
+    "name": "角川庭園・幻戯山房「すぎなみ詩歌館」",
+    "location": [
+     35.698679,
+     139.62483
+    ],
+    "where": "1階事務室"
+   },
+   {
+    "id": "131156700173",
+    "name": "環境活動推進センター",
+    "location": [
+     35.68349,
+     139.615953
+    ],
+    "where": "1階"
+   },
+   {
+    "id": "131156700174",
+    "name": "旧杉並第四小学校グラウンド（IMAGINUS併設）",
+    "location": [
+     35.70683,
+     139.653581
+    ],
+    "where": "南棟グラウンド受付（管理事務所）"
+   },
+   {
+    "id": "131156700175",
+    "name": "松ノ木町会まちかど救急隊",
+    "location": [
+     35.688455,
+     139.641401
+    ],
+    "where": "ファミリーマート松ノ木一丁目店内"
+   },
+   {
+    "id": "131156700176",
+    "name": "阿佐谷パールセンター",
+    "location": [
+     35.702655,
+     139.636709
+    ],
+    "where": "組合事務所"
+   },
+   {
+    "id": "131156700177",
+    "name": "方南レスキュー隊",
+    "location": [
+     35.682852,
+     139.657316
+    ],
+    "where": "手芸用品くるみや店内"
+   },
+   {
+    "id": "131156700178",
+    "name": "成田東まちかど救急隊",
+    "location": [
+     35.694264,
+     139.640759
+    ],
+    "where": "畳店内"
+   },
+   {
+    "id": "131156700179",
+    "name": "ワイルドボイスまちかど救急隊",
+    "location": [
+     35.697642,
+     139.648372
+    ],
+    "where": "事務所内"
+   },
+   {
+    "id": "131156700180",
+    "name": "ディー工房まちかど救急隊",
+    "location": [
+     35.692092,
+     139.6298
+    ],
+    "where": "玄関"
+   },
+   {
+    "id": "131156700181",
+    "name": "杉並第一小学校",
+    "location": [
+     35.706406,
+     139.636848
+    ],
+    "where": "西昇降口"
+   },
+   {
+    "id": "131156700182",
+    "name": "杉並第二小学校",
+    "location": [
+     35.693045,
+     139.632115
+    ],
+    "where": "職員玄関突当"
+   },
+   {
+    "id": "131156700183",
+    "name": "杉並第三小学校",
+    "location": [
+     35.699553,
+     139.656567
+    ],
+    "where": "緑校舎1階"
+   },
+   {
+    "id": "131156700184",
+    "name": "杉並第六小学校",
+    "location": [
+     35.701533,
+     139.643295
+    ],
+    "where": "北側玄関脇"
+   },
+   {
+    "id": "131156700185",
+    "name": "杉並第七小学校",
+    "location": [
+     35.70221,
+     139.630982
+    ],
+    "where": "事務室前"
+   },
+   {
+    "id": "131156700186",
+    "name": "杉並第九小学校",
+    "location": [
+     35.71363,
+     139.633086
+    ],
+    "where": "正面玄関"
+   },
+   {
+    "id": "131156700187",
+    "name": "杉並第十小学校",
+    "location": [
+     35.697,
+     139.657443
+    ],
+    "where": "昇降口"
+   },
+   {
+    "id": "131156700188",
+    "name": "西田小学校",
+    "location": [
+     35.694734,
+     139.62199
+    ],
+    "where": "職員用玄関"
+   },
+   {
+    "id": "131156700189",
+    "name": "東田小学校",
+    "location": [
+     35.691158,
+     139.639316
+    ],
+    "where": "西昇降口"
+   },
+   {
+    "id": "131156700190",
+    "name": "馬橋小学校",
+    "location": [
+     35.708744,
+     139.643243
+    ],
+    "where": "正面玄関"
+   },
+   {
+    "id": "131156700191",
+    "name": "桃井第一小学校",
+    "location": [
+     35.712077,
+     139.609112
+    ],
+    "where": "中央昇降口"
+   },
+   {
+    "id": "131156700192",
+    "name": "桃井第二小学校",
+    "location": [
+     35.701157,
+     139.618042
+    ],
+    "where": "中央昇降口"
+   },
+   {
+    "id": "131156700193",
+    "name": "桃井第三小学校",
+    "location": [
+     35.704851,
+     139.602643
+    ],
+    "where": "西昇降口"
+   },
+   {
+    "id": "131156700194",
+    "name": "桃井第四小学校",
+    "location": [
+     35.716997,
+     139.594583
+    ],
+    "where": "西昇降口"
+   },
+   {
+    "id": "131156700195",
+    "name": "桃井第五小学校",
+    "location": [
+     35.722136,
+     139.61974
+    ],
+    "where": "来客用玄関"
+   },
+   {
+    "id": "131156700196",
+    "name": "四宮小学校",
+    "location": [
+     35.721615,
+     139.610056
+    ],
+    "where": "東昇降口"
+   },
+   {
+    "id": "131156700197",
+    "name": "荻窪小学校",
+    "location": [
+     35.69502,
+     139.6118
+    ],
+    "where": "昇降口"
+   },
+   {
+    "id": "131156700198",
+    "name": "井荻小学校",
+    "location": [
+     35.711328,
+     139.596807
+    ],
+    "where": "昇降口"
+   },
+   {
+    "id": "131156700199",
+    "name": "沓掛小学校",
+    "location": [
+     35.716387,
+     139.620902
+    ],
+    "where": "第一昇降口"
+   },
+   {
+    "id": "131156700200",
+    "name": "高井戸小学校",
+    "location": [
+     35.683911,
+     139.614914
+    ],
+    "where": "職員玄関"
+   },
+   {
+    "id": "131156700201",
+    "name": "高井戸第二小学校",
+    "location": [
+     35.691799,
+     139.599208
+    ],
+    "where": "１階玄関（北側）"
+   },
+   {
+    "id": "131156700202",
+    "name": "高井戸第三小学校",
+    "location": [
+     35.672033,
+     139.630831
+    ],
+    "where": "職員室前"
+   },
+   {
+    "id": "131156700203",
+    "name": "高井戸第四小学校",
+    "location": [
+     35.698257,
+     139.602384
+    ],
+    "where": "正面玄関"
+   },
+   {
+    "id": "131156700204",
+    "name": "松庵小学校",
+    "location": [
+     35.700116,
+     139.593085
+    ],
+    "where": "事務室前"
+   },
+   {
+    "id": "131156700205",
+    "name": "浜田山小学校",
+    "location": [
+     35.685633,
+     139.629373
+    ],
+    "where": "職員玄関近く"
+   },
+   {
+    "id": "131156700207",
+    "name": "大宮小学校",
+    "location": [
+     35.683477,
+     139.649548
+    ],
+    "where": "玄関"
+   },
+   {
+    "id": "131156700208",
+    "name": "堀之内小学校",
+    "location": [
+     35.692816,
+     139.64716
+    ],
+    "where": "西昇降口"
+   },
+   {
+    "id": "131156700209",
+    "name": "和田小学校",
+    "location": [
+     35.690918,
+     139.656997
+    ],
+    "where": "西校舎1階"
+   },
+   {
+    "id": "131156700210",
+    "name": "方南小学校",
+    "location": [
+     35.679046,
+     139.657878
+    ],
+    "where": "玄関"
+   },
+   {
+    "id": "131156700211",
+    "name": "済美小学校",
+    "location": [
+     35.685791,
+     139.649581
+    ],
+    "where": "第一校舎東昇降口"
+   },
+   {
+    "id": "131156700212",
+    "name": "八成小学校",
+    "location": [
+     35.728545,
+     139.619679
+    ],
+    "where": "東昇降口"
+   },
+   {
+    "id": "131156700213",
+    "name": "三谷小学校",
+    "location": [
+     35.720398,
+     139.602349
+    ],
+    "where": "西校舎入口踊り場"
+   },
+   {
+    "id": "131156700214",
+    "name": "松ノ木小学校",
+    "location": [
+     35.687492,
+     139.642805
+    ],
+    "where": "昇降口"
+   },
+   {
+    "id": "131156700215",
+    "name": "高井戸東小学校",
+    "location": [
+     35.68024,
+     139.619549
+    ],
+    "where": "西玄関"
+   },
+   {
+    "id": "131156700216",
+    "name": "久我山小学校",
+    "location": [
+     35.685961,
+     139.606275
+    ],
+    "where": "職員玄関"
+   },
+   {
+    "id": "131156700217",
+    "name": "天沼小学校",
+    "location": [
+     35.710716,
+     139.623041
+    ],
+    "where": "児童昇降口"
+   },
+   {
+    "id": "131156700218",
+    "name": "永福小学校",
+    "location": [
+     35.673466,
+     139.639703
+    ],
+    "where": "中央昇降口"
+   },
+   {
+    "id": "131156700219",
+    "name": "新泉和泉小学校",
+    "location": [
+     35.674488,
+     139.648622
+    ],
+    "where": "小学部昇降口"
+   },
+   {
+    "id": "131156700220",
+    "name": "高円寺小学校",
+    "location": [
+     35.706139,
+     139.655281
+    ],
+    "where": "1階職員玄関"
+   },
+   {
+    "id": "131156700221",
+    "name": "高南中学校",
+    "location": [
+     35.695762,
+     139.657887
+    ],
+    "where": "職員用玄関"
+   },
+   {
+    "id": "131156700222",
+    "name": "杉森中学校",
+    "location": [
+     35.711871,
+     139.64127
+    ],
+    "where": "保健室前"
+   },
+   {
+    "id": "131156700223",
+    "name": "阿佐ヶ谷中学校",
+    "location": [
+     35.700333,
+     139.636135
+    ],
+    "where": "昇降口"
+   },
+   {
+    "id": "131156700224",
+    "name": "東田中学校",
+    "location": [
+     35.694554,
+     139.635169
+    ],
+    "where": "昇降口"
+   },
+   {
+    "id": "131156700225",
+    "name": "松溪中学校",
+    "location": [
+     35.695931,
+     139.622032
+    ],
+    "where": "１階交流ホール東側"
+   },
+   {
+    "id": "131156700226",
+    "name": "天沼中学校",
+    "location": [
+     35.711495,
+     139.620412
+    ],
+    "where": "昇降口横オープンスペース"
+   },
+   {
+    "id": "131156700227",
+    "name": "東原中学校",
+    "location": [
+     35.717785,
+     139.630907
+    ],
+    "where": "玄関横"
+   },
+   {
+    "id": "131156700228",
+    "name": "中瀬中学校",
+    "location": [
+     35.719498,
+     139.619938
+    ],
+    "where": "玄関"
+   },
+   {
+    "id": "131156700229",
+    "name": "井荻中学校",
+    "location": [
+     35.718072,
+     139.610435
+    ],
+    "where": "1階昇降口奥"
+   },
+   {
+    "id": "131156700230",
+    "name": "井草中学校",
+    "location": [
+     35.721994,
+     139.602554
+    ],
+    "where": "生徒昇降口"
+   },
+   {
+    "id": "131156700231",
+    "name": "荻窪中学校",
+    "location": [
+     35.710339,
+     139.596473
+    ],
+    "where": "昇降口"
+   },
+   {
+    "id": "131156700232",
+    "name": "神明中学校",
+    "location": [
+     35.700292,
+     139.609832
+    ],
+    "where": "正面玄関"
+   },
+   {
+    "id": "131156700233",
+    "name": "宮前中学校",
+    "location": [
+     35.693161,
+     139.610626
+    ],
+    "where": "正面玄関"
+   },
+   {
+    "id": "131156700235",
+    "name": "高井戸中学校",
+    "location": [
+     35.681175,
+     139.622206
+    ],
+    "where": "昇降口 事務室窓口横"
+   },
+   {
+    "id": "131156700236",
+    "name": "向陽中学校",
+    "location": [
+     35.672493,
+     139.634836
+    ],
+    "where": "東昇降口"
+   },
+   {
+    "id": "131156700237",
+    "name": "松ノ木中学校",
+    "location": [
+     35.686802,
+     139.640775
+    ],
+    "where": "職員玄関"
+   },
+   {
+    "id": "131156700238",
+    "name": "大宮中学校",
+    "location": [
+     35.686753,
+     139.648329
+    ],
+    "where": "中央昇降口"
+   },
+   {
+    "id": "131156700239",
+    "name": "泉南中学校",
+    "location": [
+     35.684182,
+     139.655546
+    ],
+    "where": "1階昇降口"
+   },
+   {
+    "id": "131156700240",
+    "name": "和田中学校",
+    "location": [
+     35.689753,
+     139.658364
+    ],
+    "where": "正面玄関"
+   },
+   {
+    "id": "131156700241",
+    "name": "西宮中学校",
+    "location": [
+     35.692603,
+     139.601751
+    ],
+    "where": "正面玄関前"
+   },
+   {
+    "id": "131156700242",
+    "name": "和泉中学校",
+    "location": [
+     35.674488,
+     139.648622
+    ],
+    "where": "中学部昇降口"
+   },
+   {
+    "id": "131156700243",
+    "name": "高円寺中学校",
+    "location": [
+     35.706139,
+     139.655281
+    ],
+    "where": "４階大アリーナ側"
+   },
+   {
+    "id": "131156700244",
+    "name": "済美養護学校",
+    "location": [
+     35.685722,
+     139.650524
+    ],
+    "where": "昇降口、体育館"
+   },
+   {
+    "id": "131156700245",
+    "name": "さざんかステップアップ和田教室",
+    "location": [
+     35.691599,
+     139.659554
+    ],
+    "where": "3階教室入口前"
+   },
+   {
+    "id": "131156700246",
+    "name": "さざんかステップアップ宮前教室",
+    "location": [
+     35.693209,
+     139.598897
+    ],
+    "where": "1階教室"
+   },
+   {
+    "id": "131156700247",
+    "name": "さざんかステップアップ荻窪教室",
+    "location": [
+     35.708488,
+     139.618191
+    ],
+    "where": "3階教室"
+   }
+  ],
+  "facilities": [
+   {
+    "id": "131156000063",
+    "name": "井草地域区民センター",
+    "kind": "community_centre",
+    "location": [
+     35.720581,
+     139.616898
+    ],
+    "address": "東京都杉並区下井草5-7-22"
+   },
+   {
+    "id": "131156000068",
+    "name": "永福和泉地域区民センター",
+    "kind": "community_centre",
+    "location": [
+     35.675861,
+     139.646072
+    ],
+    "address": "東京都杉並区和泉3-8-18"
+   },
+   {
+    "id": "131156000065",
+    "name": "荻窪地域区民センター",
+    "kind": "community_centre",
+    "location": [
+     35.69883,
+     139.61882
+    ],
+    "address": "東京都杉並区荻窪2-34-20"
+   },
+   {
+    "id": "131156000064",
+    "name": "西荻地域区民センター",
+    "kind": "community_centre",
+    "location": [
+     35.712227,
+     139.602219
+    ],
+    "address": "東京都杉並区桃井4-3-2"
+   },
+   {
+    "id": "131156000561",
+    "name": "阿佐谷地域区民センター",
+    "kind": "community_centre",
+    "location": [
+     35.705551,
+     139.640991
+    ],
+    "address": "東京都杉並区阿佐谷北1-1-1"
+   },
+   {
+    "id": "131156000067",
+    "name": "高井戸地域区民センター",
+    "kind": "community_centre",
+    "location": [
+     35.683449,
+     139.615952
+    ],
+    "address": "東京都杉並区高井戸東3-7-5"
+   },
+   {
+    "id": "131156000066",
+    "name": "高円寺地域区民センター",
+    "kind": "community_centre",
+    "location": [
+     35.696636,
+     139.654297
+    ],
+    "address": "東京都杉並区梅里1-22-32"
+   },
+   {
+    "id": "131156000178",
+    "name": "上井草保健センター",
+    "kind": "health_centre",
+    "location": [
+     35.719067,
+     139.601654
+    ],
+    "address": "東京都杉並区上井草3-8-19"
+   },
+   {
+    "id": "131156000176",
+    "name": "和泉保健センター",
+    "kind": "health_centre",
+    "location": [
+     35.682674,
+     139.655685
+    ],
+    "address": "東京都杉並区和泉4-50-6"
+   },
+   {
+    "id": "131156000172",
+    "name": "杉並保健所",
+    "kind": "health_centre",
+    "location": [
+     35.701988,
+     139.620255
+    ],
+    "address": "東京都杉並区荻窪5-20-1"
+   },
+   {
+    "id": "131156000173",
+    "name": "荻窪保健センター",
+    "kind": "health_centre",
+    "location": [
+     35.701988,
+     139.620255
+    ],
+    "address": "東京都杉並区荻窪5-20-1"
+   },
+   {
+    "id": "131156000174",
+    "name": "高井戸保健センター",
+    "kind": "health_centre",
+    "location": [
+     35.684624,
+     139.620209
+    ],
+    "address": "東京都杉並区高井戸東3-20-3"
+   },
+   {
+    "id": "131156000177",
+    "name": "高円寺保健センター",
+    "kind": "health_centre",
+    "location": [
+     35.701416,
+     139.645584
+    ],
+    "address": "東京都杉並区高円寺南3-24-15"
+   },
+   {
+    "id": "131156000422",
+    "name": "下井草図書館",
+    "kind": "library",
+    "location": [
+     35.720657,
+     139.623245
+    ],
+    "address": "東京都杉並区下井草3-26-5"
+   },
+   {
+    "id": "131156000413",
+    "name": "中央図書館",
+    "kind": "library",
+    "location": [
+     35.701965,
+     139.62709
+    ],
+    "address": "東京都杉並区荻窪3-40-23"
+   },
+   {
+    "id": "131156000425",
+    "name": "今川図書館",
+    "kind": "library",
+    "location": [
+     35.715763,
+     139.599548
+    ],
+    "address": "東京都杉並区今川4-12-10"
+   },
+   {
+    "id": "131156000421",
+    "name": "南荻窪図書館",
+    "kind": "library",
+    "location": [
+     35.694946,
+     139.6147
+    ],
+    "address": "東京都杉並区南荻窪1-10-2"
+   },
+   {
+    "id": "131156000417",
+    "name": "宮前図書館",
+    "kind": "library",
+    "location": [
+     35.693283,
+     139.599167
+    ],
+    "address": "東京都杉並区宮前5-5-27"
+   },
+   {
+    "id": "131156000418",
+    "name": "成田図書館",
+    "kind": "library",
+    "location": [
+     35.695091,
+     139.637222
+    ],
+    "address": "東京都杉並区成田東3-28-5"
+   },
+   {
+    "id": "131156000424",
+    "name": "方南図書館",
+    "kind": "library",
+    "location": [
+     35.678551,
+     139.660492
+    ],
+    "address": "東京都杉並区方南1-51-2"
+   },
+   {
+    "id": "131156000415",
+    "name": "柿木図書館",
+    "kind": "library",
+    "location": [
+     35.720417,
+     139.612076
+    ],
+    "address": "東京都杉並区上井草1-6-13"
+   },
+   {
+    "id": "131156000518",
+    "name": "永福図書館",
+    "kind": "library",
+    "location": [
+     35.678596,
+     139.638153
+    ],
+    "address": "東京都杉並区永福3-51-17"
+   },
+   {
+    "id": "131156000419",
+    "name": "西荻図書館",
+    "kind": "library",
+    "location": [
+     35.707882,
+     139.605759
+    ],
+    "address": "東京都杉並区西荻北2-33-9"
+   },
+   {
+    "id": "131156000420",
+    "name": "阿佐谷図書館",
+    "kind": "library",
+    "location": [
+     35.711903,
+     139.633286
+    ],
+    "address": "東京都杉並区阿佐谷北3-36-14"
+   },
+   {
+    "id": "131156000423",
+    "name": "高井戸図書館",
+    "kind": "library",
+    "location": [
+     35.679974,
+     139.622894
+    ],
+    "address": "東京都杉並区高井戸東1-28-1"
+   },
+   {
+    "id": "131156000416",
+    "name": "高円寺図書館",
+    "kind": "library",
+    "location": [
+     35.700459,
+     139.654312
+    ],
+    "address": "東京都杉並区高円寺南2-36-25"
+   },
+   {
+    "id": "131156000006",
+    "name": "井草区民事務所",
+    "kind": "office",
+    "location": [
+     35.723267,
+     139.618942
+    ],
+    "address": "東京都杉並区下井草4-30-2"
+   },
+   {
+    "id": "131156000001",
+    "name": "本庁舎",
+    "kind": "office",
+    "location": [
+     35.699203,
+     139.636505
+    ],
+    "address": "東京都杉並区阿佐谷南1-15-1"
+   },
+   {
+    "id": "131156000009",
+    "name": "永福和泉区民事務所",
+    "kind": "office",
+    "location": [
+     35.675861,
+     139.646072
+    ],
+    "address": "東京都杉並区和泉3-8-18"
+   },
+   {
+    "id": "131156000010",
+    "name": "荻窪区民事務所",
+    "kind": "office",
+    "location": [
+     35.70488,
+     139.622726
+    ],
+    "address": "東京都杉並区上荻1-2-1"
+   },
+   {
+    "id": "131156000586",
+    "name": "西荻区民事務所",
+    "kind": "office",
+    "location": [
+     35.70145,
+     139.601913
+    ],
+    "address": "東京都杉並区西荻南3-5-23"
+   },
+   {
+    "id": "131156000008",
+    "name": "高井戸区民事務所",
+    "kind": "office",
+    "location": [
+     35.683319,
+     139.615463
+    ],
+    "address": "東京都杉並区高井戸西2-1-26"
+   },
+   {
+    "id": "131156000007",
+    "name": "高円寺区民事務所",
+    "kind": "office",
+    "location": [
+     35.696636,
+     139.654297
+    ],
+    "address": "東京都杉並区梅里1-22-32"
+   },
+   {
+    "id": "131156000089",
+    "name": "上井草スポーツセンター",
+    "kind": "sports",
+    "location": [
+     35.723862,
+     139.601929
+    ],
+    "address": "東京都杉並区上井草3-34-1"
+   },
+   {
+    "id": "131156000096",
+    "name": "下高井戸運動場",
+    "kind": "sports",
+    "location": [
+     35.672733,
+     139.635666
+    ],
+    "address": "東京都杉並区下高井戸3-26-1"
+   },
+   {
+    "id": "131156000098",
+    "name": "井草森公園運動場",
+    "kind": "sports",
+    "location": [
+     35.726555,
+     139.611816
+    ],
+    "address": "東京都杉並区井草4-12-1"
+   },
+   {
+    "id": "131156000097",
+    "name": "塚山公園運動場",
+    "kind": "sports",
+    "location": [
+     35.674896,
+     139.62442
+    ],
+    "address": "東京都杉並区下高井戸5-23-12"
+   },
+   {
+    "id": "131156000094",
+    "name": "大宮前体育館",
+    "kind": "sports",
+    "location": [
+     35.696514,
+     139.61058
+    ],
+    "address": "東京都杉並区南荻窪2-1-1"
+   },
+   {
+    "id": "131156000092",
+    "name": "妙正寺体育館",
+    "kind": "sports",
+    "location": [
+     35.718761,
+     139.617676
+    ],
+    "address": "東京都杉並区清水3-20-12"
+   },
+   {
+    "id": "131156000095",
+    "name": "松ノ木運動場",
+    "kind": "sports",
+    "location": [
+     35.685886,
+     139.642014
+    ],
+    "address": "東京都杉並区松ノ木1-3-22"
+   },
+   {
+    "id": "131156000093",
+    "name": "永福体育館",
+    "kind": "sports",
+    "location": [
+     35.669518,
+     139.641998
+    ],
+    "address": "東京都杉並区永福1-7-6"
+   },
+   {
+    "id": "131156000090",
+    "name": "荻窪体育館",
+    "kind": "sports",
+    "location": [
+     35.702415,
+     139.626907
+    ],
+    "address": "東京都杉並区荻窪3-47-2"
+   },
+   {
+    "id": "131156000102",
+    "name": "蚕糸の森公園運動場",
+    "kind": "sports",
+    "location": [
+     35.697144,
+     139.657852
+    ],
+    "address": "東京都杉並区和田3-55-49"
+   },
+   {
+    "id": "131156000091",
+    "name": "高円寺体育館",
+    "kind": "sports",
+    "location": [
+     35.699745,
+     139.654495
+    ],
+    "address": "東京都杉並区高円寺南2-36-31"
+   }
+  ],
+  "drop_off": [
+   {
+    "id": "cooking-oil",
+    "name": {
+     "en": "Used cooking oil",
+     "ja": "廃食用油"
+    },
+    "what": {
+     "en": "Cooking oil from home, including out-of-date oil: salad oil, sesame oil, lard, olive oil. Let it cool, bring it in a sealed container that isn't glass, and hand it to staff.",
+     "ja": "家庭で使い終わった油や賞味期限切れの食用油（サラダ油・ごま油・ラード・オリーブ油など）。冷ましてからふたのできる容器（びんは不可）に入れ、職員に手渡してください。"
+    },
+    "source": "https://www.city.suginami.tokyo.jp/s104/747.html",
+    "places": [
+     {
+      "name": "本庁舎",
+      "location": [
+       35.699203,
+       139.636505
+      ]
+     },
+     {
+      "name": "杉並清掃事務所",
+      "location": [
+       35.702312,
+       139.628784
+      ]
+     },
+     {
+      "name": "杉並清掃事務所方南支所",
+      "location": [
+       35.673946,
+       139.660126
+      ]
+     },
+     {
+      "name": "杉並清掃事務所高円寺車庫",
+      "location": [
+       35.699745,
+       139.654495
+      ]
+     },
+     {
+      "name": "環境活動推進センター",
+      "location": [
+       35.683449,
+       139.615952
+      ]
+     },
+     {
+      "name": "阿佐谷地域区民センター",
+      "location": [
+       35.705551,
+       139.640991
+      ]
+     },
+     {
+      "name": "井草地域区民センター",
+      "location": [
+       35.720581,
+       139.616898
+      ]
+     },
+     {
+      "name": "永福和泉地域区民センター",
+      "location": [
+       35.675861,
+       139.646072
+      ]
+     },
+     {
+      "name": "荻窪地域区民センター",
+      "location": [
+       35.69883,
+       139.61882
+      ]
+     },
+     {
+      "name": "高円寺地域区民センター",
+      "location": [
+       35.696636,
+       139.654297
+      ]
+     },
+     {
+      "name": "高井戸地域区民センター",
+      "location": [
+       35.683449,
+       139.615952
+      ]
+     },
+     {
+      "name": "西荻地域区民センター",
+      "location": [
+       35.712227,
+       139.602219
+      ]
+     }
+    ]
+   },
+   {
+    "id": "clothes",
+    "name": {
+     "en": "Clothes",
+     "ja": "衣類"
+    },
+    "what": {
+     "en": "Clean, dry clothes, folded in a see-through bag. Second Saturday of each month, 10 am to noon; cancelled if it rains. There's also a box on the ward office's ground floor, weekdays 8:30 am to 5 pm.",
+     "ja": "洗濯してたたんだ衣類を中身の見える袋に入れて。毎月第2土曜日 午前10時〜正午（雨天中止）。区役所1階の衣類回収ボックスは平日午前8時30分〜午後5時。"
+    },
+    "source": "https://www.city.suginami.tokyo.jp/s104/732.html",
+    "places": [
+     {
+      "name": "本庁舎",
+      "location": [
+       35.699203,
+       139.636505
+      ]
+     },
+     {
+      "name": "環境活動推進センター",
+      "location": [
+       35.683449,
+       139.615952
+      ]
+     },
+     {
+      "name": "井草地域区民センター",
+      "location": [
+       35.720581,
+       139.616898
+      ]
+     },
+     {
+      "name": "永福和泉地域区民センター",
+      "location": [
+       35.675861,
+       139.646072
+      ]
+     },
+     {
+      "name": "荻窪地域区民センター",
+      "location": [
+       35.69883,
+       139.61882
+      ]
+     },
+     {
+      "name": "高円寺地域区民センター",
+      "location": [
+       35.696636,
+       139.654297
+      ]
+     },
+     {
+      "name": "西荻地域区民センター",
+      "location": [
+       35.712227,
+       139.602219
+      ]
+     },
+     {
+      "name": "宮前図書館",
+      "location": [
+       35.693283,
+       139.599167
+      ]
+     },
+     {
+      "name": "方南会館",
+      "location": [
+       35.680832,
+       139.656189
+      ]
+     }
+    ]
+   },
+   {
+    "id": "small-appliances",
+    "name": {
+     "en": "Small appliances",
+     "ja": "小型家電"
+    },
+    "what": {
+     "en": "Fifteen kinds only: mobile phones, music players, handheld games, digital cameras, electronic dictionaries, cables and adapters, camcorders, portable car navigation, calculators, phones, fax machines, radios, hair dryers, shavers, rice cookers. Wipe your data and take out memory cards.",
+     "ja": "対象の15品目のみ：携帯電話、携帯音楽プレーヤー、携帯ゲーム機、デジタルカメラ、電子辞書、コード類、ポータブルビデオカメラ、ポータブルカーナビ、卓上計算機、電話機、ファクシミリ、ラジオ、ヘアドライヤー、電気かみそり、炊飯器。個人情報は消去し、SDカード等は取り除いてください。"
+    },
+    "source": "https://www.city.suginami.tokyo.jp/s104/730.html",
+    "places": [
+     {
+      "name": "本庁舎",
+      "location": [
+       35.699203,
+       139.636505
+      ]
+     },
+     {
+      "name": "杉並清掃事務所",
+      "location": [
+       35.702312,
+       139.628784
+      ]
+     },
+     {
+      "name": "杉並清掃事務所方南支所",
+      "location": [
+       35.673946,
+       139.660126
+      ]
+     },
+     {
+      "name": "杉並清掃事務所高円寺車庫",
+      "location": [
+       35.699745,
+       139.654495
+      ]
+     },
+     {
+      "name": "環境活動推進センター",
+      "location": [
+       35.683449,
+       139.615952
+      ]
+     },
+     {
+      "name": "柿木図書館",
+      "location": [
+       35.720417,
+       139.612076
+      ]
+     }
+    ]
+   },
+   {
+    "id": "rechargeable-batteries",
+    "name": {
+     "en": "Rechargeable batteries",
+     "ja": "小型充電式電池"
+    },
+    "what": {
+     "en": "Lithium-ion, nickel-metal hydride and nickel-cadmium batteries with the recycling mark, not swollen. Tape over the terminals. Swollen batteries, and products with batteries built in, go out as non-burnable.",
+     "ja": "リサイクルマークのあるリチウムイオン・ニッケル水素・ニカド電池（膨張していないもの）。端子をテープで絶縁してください。膨張した電池や電池内蔵の製品は不燃ごみへ。"
+    },
+    "source": "https://www.city.suginami.tokyo.jp/s104/749.html",
+    "places": [
+     {
+      "name": "本庁舎",
+      "location": [
+       35.699203,
+       139.636505
+      ]
+     },
+     {
+      "name": "杉並清掃事務所",
+      "location": [
+       35.702312,
+       139.628784
+      ]
+     },
+     {
+      "name": "杉並清掃事務所方南支所",
+      "location": [
+       35.673946,
+       139.660126
+      ]
+     },
+     {
+      "name": "杉並清掃事務所高円寺車庫",
+      "location": [
+       35.699745,
+       139.654495
+      ]
+     },
+     {
+      "name": "環境活動推進センター",
+      "location": [
+       35.683449,
+       139.615952
+      ]
+     },
+     {
+      "name": "阿佐谷地域区民センター",
+      "location": [
+       35.705551,
+       139.640991
+      ]
+     },
+     {
+      "name": "井草地域区民センター",
+      "location": [
+       35.720581,
+       139.616898
+      ]
+     },
+     {
+      "name": "永福和泉地域区民センター",
+      "location": [
+       35.675861,
+       139.646072
+      ]
+     },
+     {
+      "name": "荻窪地域区民センター",
+      "location": [
+       35.69883,
+       139.61882
+      ]
+     },
+     {
+      "name": "高円寺地域区民センター",
+      "location": [
+       35.696636,
+       139.654297
+      ]
+     },
+     {
+      "name": "高井戸地域区民センター",
+      "location": [
+       35.683449,
+       139.615952
+      ]
+     },
+     {
+      "name": "西荻地域区民センター",
+      "location": [
+       35.712227,
+       139.602219
+      ]
+     },
+     {
+      "name": "大宮前体育館",
+      "location": [
+       35.696514,
+       139.61058
+      ]
+     },
+     {
+      "name": "永福体育館",
+      "location": [
+       35.669518,
+       139.641998
+      ]
+     },
+     {
+      "name": "下高井戸運動場",
+      "location": [
+       35.672733,
+       139.635666
+      ]
+     }
+    ]
+   },
+   {
+    "id": "mercury",
+    "name": {
+     "en": "Mercury thermometers",
+     "ja": "水銀体温計・血圧計・温度計"
+    },
+    "what": {
+     "en": "Mercury thermometers and blood-pressure gauges. Never put them out with burnable or non-burnable waste.",
+     "ja": "水銀体温計・水銀血圧計・水銀温度計。可燃ごみ・不燃ごみには絶対に出さないでください。"
+    },
+    "source": "https://www.city.suginami.tokyo.jp/s104/743.html",
+    "places": [
+     {
+      "name": "本庁舎",
+      "location": [
+       35.699203,
+       139.636505
+      ]
+     },
+     {
+      "name": "杉並清掃事務所",
+      "location": [
+       35.702312,
+       139.628784
+      ]
+     },
+     {
+      "name": "杉並清掃事務所方南支所",
+      "location": [
+       35.673946,
+       139.660126
+      ]
+     },
+     {
+      "name": "杉並清掃事務所高円寺車庫",
+      "location": [
+       35.699745,
+       139.654495
+      ]
+     },
+     {
+      "name": "環境活動推進センター",
+      "location": [
+       35.683449,
+       139.615952
+      ]
+     }
+    ]
+   },
+   {
+    "id": "ink-cartridges",
+    "name": {
+     "en": "Ink cartridges",
+     "ja": "インクカートリッジ"
+    },
+    "what": {
+     "en": "Brother, Canon, Epson and HP cartridges, out of their bags. Not toner.",
+     "ja": "ブラザー・キヤノン・エプソン・ヒューレットのインクカートリッジ（袋から出して）。トナーは不可。"
+    },
+    "source": "https://www.city.suginami.tokyo.jp/s104/19076.html",
+    "places": [
+     {
+      "name": "本庁舎",
+      "location": [
+       35.699203,
+       139.636505
+      ]
+     },
+     {
+      "name": "杉並清掃事務所",
+      "location": [
+       35.702312,
+       139.628784
+      ]
+     },
+     {
+      "name": "杉並清掃事務所方南支所",
+      "location": [
+       35.673946,
+       139.660126
+      ]
+     },
+     {
+      "name": "杉並清掃事務所高円寺車庫",
+      "location": [
+       35.699745,
+       139.654495
+      ]
+     },
+     {
+      "name": "環境活動推進センター",
+      "location": [
+       35.683449,
+       139.615952
+      ]
+     },
+     {
+      "name": "阿佐谷地域区民センター",
+      "location": [
+       35.705551,
+       139.640991
+      ]
+     },
+     {
+      "name": "井草地域区民センター",
+      "location": [
+       35.720581,
+       139.616898
+      ]
+     },
+     {
+      "name": "永福和泉地域区民センター",
+      "location": [
+       35.675861,
+       139.646072
+      ]
+     },
+     {
+      "name": "荻窪地域区民センター",
+      "location": [
+       35.69883,
+       139.61882
+      ]
+     },
+     {
+      "name": "高円寺地域区民センター",
+      "location": [
+       35.696636,
+       139.654297
+      ]
+     },
+     {
+      "name": "高井戸地域区民センター",
+      "location": [
+       35.683449,
+       139.615952
+      ]
+     },
+     {
+      "name": "西荻地域区民センター",
+      "location": [
+       35.712227,
+       139.602219
+      ]
+     },
+     {
+      "name": "柿木図書館",
+      "location": [
+       35.720417,
+       139.612076
+      ]
+     },
+     {
+      "name": "中央図書館",
+      "location": [
+       35.701965,
+       139.62709
+      ]
+     },
+     {
+      "name": "阿佐谷図書館",
+      "location": [
+       35.711903,
+       139.633286
+      ]
+     },
+     {
+      "name": "今川図書館",
+      "location": [
+       35.715763,
+       139.599548
+      ]
+     },
+     {
+      "name": "永福図書館",
+      "location": [
+       35.678596,
+       139.638153
+      ]
+     },
+     {
+      "name": "下井草図書館",
+      "location": [
+       35.720657,
+       139.623245
+      ]
+     },
+     {
+      "name": "高井戸図書館",
+      "location": [
+       35.679974,
+       139.622894
+      ]
+     },
+     {
+      "name": "西荻図書館",
+      "location": [
+       35.707882,
+       139.605759
+      ]
+     },
+     {
+      "name": "方南図書館",
+      "location": [
+       35.678551,
+       139.660492
+      ]
+     },
+     {
+      "name": "南荻窪図書館",
+      "location": [
+       35.694946,
+       139.6147
+      ]
+     },
+     {
+      "name": "宮前図書館",
+      "location": [
+       35.693283,
+       139.599167
+      ]
+     }
+    ]
+   },
+   {
+    "id": "down",
+    "name": {
+     "en": "Down clothing",
+     "ja": "ダウン製品（衣類）"
+    },
+    "what": {
+     "en": "Jackets, coats, vests and gloves that are at least 50% down (check the label), dry. Tape over any holes.",
+     "ja": "ダウン率50％以上の衣類（ジャケット・コート・ベスト・手袋など）。濡れていないもの。穴はテープで塞いでください。"
+    },
+    "source": "https://www.city.suginami.tokyo.jp/s104/19807.html",
+    "places": [
+     {
+      "name": "本庁舎",
+      "location": [
+       35.699203,
+       139.636505
+      ]
+     },
+     {
+      "name": "杉並清掃事務所",
+      "location": [
+       35.702312,
+       139.628784
+      ]
+     },
+     {
+      "name": "杉並清掃事務所方南支所",
+      "location": [
+       35.673946,
+       139.660126
+      ]
+     },
+     {
+      "name": "杉並清掃事務所高円寺車庫",
+      "location": [
+       35.699745,
+       139.654495
+      ]
+     }
+    ]
+   }
+  ],
+  "oversized": {
+   "phone": "03-5296-5300",
+   "fax": "03-6880-5852",
+   "how": {
+    "en": "Anything over about 30 cm on its longest side. Book a collection with the oversized waste center, buy stickers for each item and put them on. Or book, then bring it yourself on a Sunday, 9 am to 4 pm, to the Horinouchi transfer station: ¥400 an item, up to five a visit, with ID showing a Suginami address.",
+    "ja": "最大辺がおおむね30cmを超えるもの。粗大ごみ受付センターに申し込み、有料粗大ごみ処理券を貼って出します。事前に申し込めば、日曜日の午前9時〜午後4時に堀ノ内中継所へ自分で持ち込むこともできます（1点400円、1回5点まで。区内住所の本人確認書類を持参）。"
+   },
+   "drop_off_place": {
+    "en": "Horinouchi transfer station",
+    "ja": "堀ノ内中継所"
+   },
+   "drop_off_location": [
+    35.687072,
+    139.655482
+   ],
+   "source": "https://www.city.suginami.tokyo.jp/s104/713.html"
+  },
+  "contacts": [
+   {
+    "name": {
+     "en": "Ambulance and fire",
+     "ja": "救急車・火事"
+    },
+    "number": "119"
+   },
+   {
+    "name": {
+     "en": "Police",
+     "ja": "警察"
+    },
+    "number": "110"
+   },
+   {
+    "name": {
+     "en": "Not sure if you need an ambulance? Tokyo Fire Department advice, 24 hours",
+     "ja": "救急車を呼ぶか迷ったら：東京消防庁救急相談センター（24時間）"
+    },
+    "number": "#7119"
+   },
+   {
+    "name": {
+     "en": "Which doctor is open now? Suginami emergency medical information: weekday nights 8 pm to 9 am; weekends and holidays, around the clock",
+     "ja": "今診てもらえる医療機関は？杉並区急病医療情報センター（平日午後8時〜翌朝9時、土日祝は午前9時〜翌朝9時）"
+    },
+    "number": "#7399",
+    "alternative": "03-5347-2252",
+    "source": "https://www.city.suginami.tokyo.jp/s045/1503.html"
+   },
+   {
+    "name": {
+     "en": "Holiday and night clinic, Suginami health center 2F: children weekday evenings; medicine, children, ENT on Saturday evenings, Sundays and holidays; surgery Sundays and holidays. Book by phone first.",
+     "ja": "休日等夜間急病診療所（杉並保健所2階）：小児科は平日夜間、内科・小児科・耳鼻咽喉科は土曜夜間と日曜・祝日、外科は日曜・祝日。受診前に必ず電話予約を。"
+    },
+    "number": "03-3391-1599",
+    "source": "https://www.city.suginami.tokyo.jp/s045/1503.html",
+    "location": [
+     35.701988,
+     139.620255
+    ]
+   },
+   {
+    "name": {
+     "en": "Holiday dentist, Suginami health center 5F: Sundays and holidays, 9 am to 5 pm",
+     "ja": "休日歯科診療（杉並保健所5階）：日曜・祝日 午前9時〜午後5時"
+    },
+    "number": "03-3398-5666",
+    "source": "https://www.city.suginami.tokyo.jp/s045/1503.html"
+   },
+   {
+    "name": {
+     "en": "After a disaster: leave or hear a message for family",
+     "ja": "災害用伝言ダイヤル"
+    },
+    "number": "171"
+   }
+  ],
+  "sources": {
+   "shelters": {
+    "name": {
+     "en": "Suginami City: evacuation places (CC BY 4.0)",
+     "ja": "杉並区 指定緊急避難場所一覧（CC BY 4.0）"
+    },
+    "url": "https://www.city.suginami.tokyo.jp/s015/1499.html"
+   },
+   "aeds": {
+    "name": {
+     "en": "Suginami City: AED locations (CC BY 4.0)",
+     "ja": "杉並区 AED設置箇所一覧（CC BY 4.0）"
+    },
+    "url": "https://www.city.suginami.tokyo.jp/s045/1474.html"
+   },
+   "facilities": {
+    "name": {
+     "en": "Suginami City: public facilities (CC BY 4.0)",
+     "ja": "杉並区 公共施設一覧（CC BY 4.0）"
+    },
+    "url": "https://www.city.suginami.tokyo.jp/s002/1345.html"
+   },
+   "water": {
+    "name": {
+     "en": "Tokyo Waterworks: water supply points (CC BY 4.0)",
+     "ja": "東京都水道局 給水拠点一覧（CC BY 4.0）"
+    },
+    "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000019d0000000001"
+   }
+  }
+ },
  "areas": [
   {
    "id": "amanuma",
@@ -1169,6 +6158,10 @@
     {
      "code": "13115015001",
      "name": "天沼一丁目",
+     "center": [
+      35.707946,
+      139.628266
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1200,6 +6193,10 @@
     {
      "code": "13115015002",
      "name": "天沼二丁目",
+     "center": [
+      35.70831,
+      139.624813
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1231,6 +6228,10 @@
     {
      "code": "13115015003",
      "name": "天沼三丁目",
+     "center": [
+      35.707908,
+      139.620206
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1262,6 +6263,10 @@
     {
      "code": "13115016001",
      "name": "本天沼一丁目",
+     "center": [
+      35.713606,
+      139.631211
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1293,6 +6298,10 @@
     {
      "code": "13115016002",
      "name": "本天沼二丁目",
+     "center": [
+      35.714001,
+      139.62614
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1324,6 +6333,10 @@
     {
      "code": "13115016003",
      "name": "本天沼三丁目",
+     "center": [
+      35.714209,
+      139.622041
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1514,6 +6527,10 @@
     {
      "code": "13115013001",
      "name": "阿佐谷南一丁目",
+     "center": [
+      35.700581,
+      139.639736
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1545,6 +6562,10 @@
     {
      "code": "13115013002",
      "name": "阿佐谷南二丁目",
+     "center": [
+      35.703876,
+      139.641258
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1576,6 +6597,10 @@
     {
      "code": "13115013003",
      "name": "阿佐谷南三丁目",
+     "center": [
+      35.702982,
+      139.632346
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1607,6 +6632,10 @@
     {
      "code": "13115014001",
      "name": "阿佐谷北一丁目",
+     "center": [
+      35.707504,
+      139.637888
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1638,6 +6667,10 @@
     {
      "code": "13115014002",
      "name": "阿佐谷北二丁目",
+     "center": [
+      35.706218,
+      139.632975
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1669,6 +6702,10 @@
     {
      "code": "13115014003",
      "name": "阿佐谷北三丁目",
+     "center": [
+      35.710067,
+      139.632016
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1700,6 +6737,10 @@
     {
      "code": "13115014004",
      "name": "阿佐谷北四丁目",
+     "center": [
+      35.711857,
+      139.636251
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1731,6 +6772,10 @@
     {
      "code": "13115014005",
      "name": "阿佐谷北五丁目",
+     "center": [
+      35.709849,
+      139.640858
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1762,6 +6807,10 @@
     {
      "code": "13115014006",
      "name": "阿佐谷北六丁目",
+     "center": [
+      35.714369,
+      139.638536
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -1973,6 +7022,10 @@
     {
      "code": "13115004001",
      "name": "永福一丁目",
+     "center": [
+      35.671141,
+      139.645404
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2004,6 +7057,10 @@
     {
      "code": "13115004002",
      "name": "永福二丁目",
+     "center": [
+      35.673746,
+      139.640501
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2035,6 +7092,10 @@
     {
      "code": "13115004003",
      "name": "永福三丁目",
+     "center": [
+      35.676867,
+      139.636709
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2066,6 +7127,10 @@
     {
      "code": "13115004004",
      "name": "永福四丁目",
+     "center": [
+      35.679376,
+      139.641211
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2207,6 +7272,10 @@
     {
      "code": "13115005001",
      "name": "浜田山一丁目",
+     "center": [
+      35.677834,
+      139.630883
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2238,6 +7307,10 @@
     {
      "code": "13115005002",
      "name": "浜田山二丁目",
+     "center": [
+      35.678843,
+      139.626553
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2269,6 +7342,10 @@
     {
      "code": "13115005003",
      "name": "浜田山三丁目",
+     "center": [
+      35.682145,
+      139.629807
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2300,6 +7377,10 @@
     {
      "code": "13115005004",
      "name": "浜田山四丁目",
+     "center": [
+      35.684637,
+      139.630262
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2416,6 +7497,10 @@
     {
      "code": "13115001001",
      "name": "方南一丁目",
+     "center": [
+      35.677446,
+      139.660825
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2447,6 +7532,10 @@
     {
      "code": "13115001002",
      "name": "方南二丁目",
+     "center": [
+      35.683434,
+      139.658373
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2563,6 +7652,10 @@
     {
      "code": "13115007001",
      "name": "堀ノ内一丁目",
+     "center": [
+      35.684899,
+      139.650756
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2594,6 +7687,10 @@
     {
      "code": "13115007002",
      "name": "堀ノ内二丁目",
+     "center": [
+      35.688234,
+      139.651733
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2625,6 +7722,10 @@
     {
      "code": "13115007003",
      "name": "堀ノ内三丁目",
+     "center": [
+      35.692619,
+      139.65063
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2656,6 +7757,10 @@
     {
      "code": "13115010001",
      "name": "梅里一丁目",
+     "center": [
+      35.696409,
+      139.651421
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2687,6 +7792,10 @@
     {
      "code": "13115010002",
      "name": "梅里二丁目",
+     "center": [
+      35.696681,
+      139.643498
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2830,6 +7939,10 @@
     {
      "code": "13115027001",
      "name": "井草一丁目",
+     "center": [
+      35.72664,
+      139.623819
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2861,6 +7974,10 @@
     {
      "code": "13115027002",
      "name": "井草二丁目",
+     "center": [
+      35.727734,
+      139.619456
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2892,6 +8009,10 @@
     {
      "code": "13115027003",
      "name": "井草三丁目",
+     "center": [
+      35.727326,
+      139.615532
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2923,6 +8044,10 @@
     {
      "code": "13115027004",
      "name": "井草四丁目",
+     "center": [
+      35.727058,
+      139.611581
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2954,6 +8079,10 @@
     {
      "code": "13115027005",
      "name": "井草五丁目",
+     "center": [
+      35.726201,
+      139.606482
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -2985,6 +8114,10 @@
     {
      "code": "13115028001",
      "name": "下井草一丁目",
+     "center": [
+      35.716174,
+      139.631953
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3016,6 +8149,10 @@
     {
      "code": "13115028002",
      "name": "下井草二丁目",
+     "center": [
+      35.720321,
+      139.627863
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3047,6 +8184,10 @@
     {
      "code": "13115028003",
      "name": "下井草三丁目",
+     "center": [
+      35.720449,
+      139.62388
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3078,6 +8219,10 @@
     {
      "code": "13115028004",
      "name": "下井草四丁目",
+     "center": [
+      35.72154,
+      139.61943
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3109,6 +8254,10 @@
     {
      "code": "13115028005",
      "name": "下井草五丁目",
+     "center": [
+      35.721968,
+      139.615618
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3268,6 +8417,10 @@
     {
      "code": "13115002001",
      "name": "和泉一丁目",
+     "center": [
+      35.674927,
+      139.657222
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3299,6 +8452,10 @@
     {
      "code": "13115002002",
      "name": "和泉二丁目",
+     "center": [
+      35.673901,
+      139.651661
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3330,6 +8487,10 @@
     {
      "code": "13115002003",
      "name": "和泉三丁目",
+     "center": [
+      35.679155,
+      139.646747
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3361,6 +8522,10 @@
     {
      "code": "13115002004",
      "name": "和泉四丁目",
+     "center": [
+      35.679963,
+      139.653661
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3528,6 +8693,10 @@
     {
      "code": "13115029001",
      "name": "上井草一丁目",
+     "center": [
+      35.722131,
+      139.612336
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3559,6 +8728,10 @@
     {
      "code": "13115029002",
      "name": "上井草二丁目",
+     "center": [
+      35.722212,
+      139.607654
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3590,6 +8763,10 @@
     {
      "code": "13115029003",
      "name": "上井草三丁目",
+     "center": [
+      35.72156,
+      139.602103
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3621,6 +8798,10 @@
     {
      "code": "13115029004",
      "name": "上井草四丁目",
+     "center": [
+      35.719615,
+      139.597176
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3737,6 +8918,10 @@
     {
      "code": "13115036001",
      "name": "上高井戸一丁目",
+     "center": [
+      35.672566,
+      139.612082
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3768,6 +8953,10 @@
     {
      "code": "13115036002",
      "name": "上高井戸二丁目",
+     "center": [
+      35.678109,
+      139.609383
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3799,6 +8988,10 @@
     {
      "code": "13115036003",
      "name": "上高井戸三丁目",
+     "center": [
+      35.674896,
+      139.617771
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3915,6 +9108,10 @@
     {
      "code": "13115011001",
      "name": "高円寺南一丁目",
+     "center": [
+      35.699547,
+      139.658455
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3946,6 +9143,10 @@
     {
      "code": "13115011002",
      "name": "高円寺南二丁目",
+     "center": [
+      35.700191,
+      139.651055
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -3977,6 +9178,10 @@
     {
      "code": "13115011003",
      "name": "高円寺南三丁目",
+     "center": [
+      35.701722,
+      139.646028
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4008,6 +9213,10 @@
     {
      "code": "13115011004",
      "name": "高円寺南四丁目",
+     "center": [
+      35.703845,
+      139.652137
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4039,6 +9248,10 @@
     {
      "code": "13115011005",
      "name": "高円寺南五丁目",
+     "center": [
+      35.703289,
+      139.657965
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4070,6 +9283,10 @@
     {
      "code": "13115012001",
      "name": "高円寺北一丁目",
+     "center": [
+      35.707373,
+      139.656346
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4101,6 +9318,10 @@
     {
      "code": "13115012002",
      "name": "高円寺北二丁目",
+     "center": [
+      35.707322,
+      139.652123
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4132,6 +9353,10 @@
     {
      "code": "13115012003",
      "name": "高円寺北三丁目",
+     "center": [
+      35.70774,
+      139.64759
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4163,6 +9388,10 @@
     {
      "code": "13115012004",
      "name": "高円寺北四丁目",
+     "center": [
+      35.70809,
+      139.644068
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4394,6 +9623,10 @@
     {
      "code": "13115033001",
      "name": "久我山一丁目",
+     "center": [
+      35.68312,
+      139.596845
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4425,6 +9658,10 @@
     {
      "code": "13115033002",
      "name": "久我山二丁目",
+     "center": [
+      35.683942,
+      139.603034
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4456,6 +9693,10 @@
     {
      "code": "13115033003",
      "name": "久我山三丁目",
+     "center": [
+      35.687266,
+      139.59552
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4487,6 +9728,10 @@
     {
      "code": "13115033004",
      "name": "久我山四丁目",
+     "center": [
+      35.691946,
+      139.59443
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4518,6 +9763,10 @@
     {
      "code": "13115033005",
      "name": "久我山五丁目",
+     "center": [
+      35.687972,
+      139.604246
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4659,6 +9908,10 @@
     {
      "code": "13115032001",
      "name": "宮前一丁目",
+     "center": [
+      35.690273,
+      139.611882
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4690,6 +9943,10 @@
     {
      "code": "13115032002",
      "name": "宮前二丁目",
+     "center": [
+      35.692841,
+      139.613425
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4721,6 +9978,10 @@
     {
      "code": "13115032003",
      "name": "宮前三丁目",
+     "center": [
+      35.695613,
+      139.607522
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4752,6 +10013,10 @@
     {
      "code": "13115032004",
      "name": "宮前四丁目",
+     "center": [
+      35.69169,
+      139.605732
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4783,6 +10048,10 @@
     {
      "code": "13115032005",
      "name": "宮前五丁目",
+     "center": [
+      35.694355,
+      139.599888
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4927,6 +10196,10 @@
     {
      "code": "13115024001",
      "name": "今川一丁目",
+     "center": [
+      35.717022,
+      139.612594
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4958,6 +10231,10 @@
     {
      "code": "13115024002",
      "name": "今川二丁目",
+     "center": [
+      35.717125,
+      139.608861
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -4989,6 +10266,10 @@
     {
      "code": "13115024003",
      "name": "今川三丁目",
+     "center": [
+      35.716533,
+      139.604688
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5020,6 +10301,10 @@
     {
      "code": "13115024004",
      "name": "今川四丁目",
+     "center": [
+      35.716244,
+      139.60003
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5051,6 +10336,10 @@
     {
      "code": "13115026001",
      "name": "桃井一丁目",
+     "center": [
+      35.712018,
+      139.613082
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5082,6 +10371,10 @@
     {
      "code": "13115026002",
      "name": "桃井二丁目",
+     "center": [
+      35.712663,
+      139.609723
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5113,6 +10406,10 @@
     {
      "code": "13115026003",
      "name": "桃井三丁目",
+     "center": [
+      35.713017,
+      139.606357
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5144,6 +10441,10 @@
     {
      "code": "13115026004",
      "name": "桃井四丁目",
+     "center": [
+      35.713468,
+      139.602301
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5278,6 +10579,10 @@
     {
      "code": "13115017001",
      "name": "成田西一丁目",
+     "center": [
+      35.68701,
+      139.633271
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5309,6 +10614,10 @@
     {
      "code": "13115017002",
      "name": "成田西二丁目",
+     "center": [
+      35.6891,
+      139.627005
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5340,6 +10649,10 @@
     {
      "code": "13115017003",
      "name": "成田西三丁目",
+     "center": [
+      35.6923,
+      139.629133
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5371,6 +10684,10 @@
     {
      "code": "13115017004",
      "name": "成田西四丁目",
+     "center": [
+      35.694402,
+      139.629225
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5402,6 +10719,10 @@
     {
      "code": "13115018001",
      "name": "成田東一丁目",
+     "center": [
+      35.690383,
+      139.63913
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5433,6 +10754,10 @@
     {
      "code": "13115018002",
      "name": "成田東二丁目",
+     "center": [
+      35.689004,
+      139.635016
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5464,6 +10789,10 @@
     {
      "code": "13115018003",
      "name": "成田東三丁目",
+     "center": [
+      35.693824,
+      139.637303
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5495,6 +10824,10 @@
     {
      "code": "13115018004",
      "name": "成田東四丁目",
+     "center": [
+      35.696849,
+      139.635831
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5526,6 +10859,10 @@
     {
      "code": "13115018005",
      "name": "成田東五丁目",
+     "center": [
+      35.699358,
+      139.63078
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5717,6 +11054,10 @@
     {
      "code": "13115022001",
      "name": "西荻南一丁目",
+     "center": [
+      35.698022,
+      139.602761
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5748,6 +11089,10 @@
     {
      "code": "13115022002",
      "name": "西荻南二丁目",
+     "center": [
+      35.699797,
+      139.599945
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5779,6 +11124,10 @@
     {
      "code": "13115022003",
      "name": "西荻南三丁目",
+     "center": [
+      35.70278,
+      139.602156
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5810,6 +11159,10 @@
     {
      "code": "13115022004",
      "name": "西荻南四丁目",
+     "center": [
+      35.701715,
+      139.605754
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5841,6 +11194,10 @@
     {
      "code": "13115023001",
      "name": "西荻北一丁目",
+     "center": [
+      35.705621,
+      139.607439
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5872,6 +11229,10 @@
     {
      "code": "13115023002",
      "name": "西荻北二丁目",
+     "center": [
+      35.70628,
+      139.603609
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5903,6 +11264,10 @@
     {
      "code": "13115023003",
      "name": "西荻北三丁目",
+     "center": [
+      35.705666,
+      139.598587
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5934,6 +11299,10 @@
     {
      "code": "13115023004",
      "name": "西荻北四丁目",
+     "center": [
+      35.707895,
+      139.595328
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5965,6 +11334,10 @@
     {
      "code": "13115023005",
      "name": "西荻北五丁目",
+     "center": [
+      35.709464,
+      139.600111
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -5996,6 +11369,10 @@
     {
      "code": "13115031001",
      "name": "松庵一丁目",
+     "center": [
+      35.695256,
+      139.593771
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6027,6 +11404,10 @@
     {
      "code": "13115031002",
      "name": "松庵二丁目",
+     "center": [
+      35.698182,
+      139.594876
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6058,6 +11439,10 @@
     {
      "code": "13115031003",
      "name": "松庵三丁目",
+     "center": [
+      35.701577,
+      139.596446
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6238,6 +11623,10 @@
     {
      "code": "13115019001",
      "name": "荻窪一丁目",
+     "center": [
+      35.693523,
+      139.622415
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6269,6 +11658,10 @@
     {
      "code": "13115019002",
      "name": "荻窪二丁目",
+     "center": [
+      35.69721,
+      139.620654
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6300,6 +11693,10 @@
     {
      "code": "13115019003",
      "name": "荻窪三丁目",
+     "center": [
+      35.699153,
+      139.62603
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6331,6 +11728,10 @@
     {
      "code": "13115019004",
      "name": "荻窪四丁目",
+     "center": [
+      35.701565,
+      139.621782
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6362,6 +11763,10 @@
     {
      "code": "13115019005",
      "name": "荻窪五丁目",
+     "center": [
+      35.702902,
+      139.618964
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6393,6 +11798,10 @@
     {
      "code": "13115020001",
      "name": "南荻窪一丁目",
+     "center": [
+      35.696287,
+      139.615186
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6424,6 +11833,10 @@
     {
      "code": "13115020002",
      "name": "南荻窪二丁目",
+     "center": [
+      35.698976,
+      139.610028
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6455,6 +11868,10 @@
     {
      "code": "13115020003",
      "name": "南荻窪三丁目",
+     "center": [
+      35.702406,
+      139.610615
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6486,6 +11903,10 @@
     {
      "code": "13115020004",
      "name": "南荻窪四丁目",
+     "center": [
+      35.701379,
+      139.615091
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6517,6 +11938,10 @@
     {
      "code": "13115021001",
      "name": "上荻一丁目",
+     "center": [
+      35.705611,
+      139.618271
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6548,6 +11973,10 @@
     {
      "code": "13115021002",
      "name": "上荻二丁目",
+     "center": [
+      35.706612,
+      139.612885
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6579,6 +12008,10 @@
     {
      "code": "13115021003",
      "name": "上荻三丁目",
+     "center": [
+      35.70846,
+      139.609116
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6610,6 +12043,10 @@
     {
      "code": "13115021004",
      "name": "上荻四丁目",
+     "center": [
+      35.710174,
+      139.604372
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6842,6 +12279,10 @@
     {
      "code": "13115008001",
      "name": "松ノ木一丁目",
+     "center": [
+      35.687403,
+      139.642308
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6873,6 +12314,10 @@
     {
      "code": "13115008002",
      "name": "松ノ木二丁目",
+     "center": [
+      35.690908,
+      139.643548
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6904,6 +12349,10 @@
     {
      "code": "13115008003",
      "name": "松ノ木三丁目",
+     "center": [
+      35.694248,
+      139.644853
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6935,6 +12384,10 @@
     {
      "code": "13115009001",
      "name": "大宮一丁目",
+     "center": [
+      35.685426,
+      139.645253
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -6966,6 +12419,10 @@
     {
      "code": "13115009002",
      "name": "大宮二丁目",
+     "center": [
+      35.683118,
+      139.639124
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7133,6 +12590,10 @@
     {
      "code": "13115025001",
      "name": "清水一丁目",
+     "center": [
+      35.710605,
+      139.617171
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7164,6 +12625,10 @@
     {
      "code": "13115025002",
      "name": "清水二丁目",
+     "center": [
+      35.713958,
+      139.617468
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7195,6 +12660,10 @@
     {
      "code": "13115025003",
      "name": "清水三丁目",
+     "center": [
+      35.717152,
+      139.617616
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7338,6 +12807,10 @@
     {
      "code": "13115003001",
      "name": "下高井戸一丁目",
+     "center": [
+      35.668256,
+      139.633523
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7369,6 +12842,10 @@
     {
      "code": "13115003002",
      "name": "下高井戸二丁目",
+     "center": [
+      35.669552,
+      139.638047
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7400,6 +12877,10 @@
     {
      "code": "13115003003",
      "name": "下高井戸三丁目",
+     "center": [
+      35.672682,
+      139.633297
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7431,6 +12912,10 @@
     {
      "code": "13115003004",
      "name": "下高井戸四丁目",
+     "center": [
+      35.672781,
+      139.628327
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7462,6 +12947,10 @@
     {
      "code": "13115003005",
      "name": "下高井戸五丁目",
+     "center": [
+      35.674566,
+      139.622856
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7603,6 +13092,10 @@
     {
      "code": "13115034001",
      "name": "高井戸東一丁目",
+     "center": [
+      35.679774,
+      139.621555
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7634,6 +13127,10 @@
     {
      "code": "13115034002",
      "name": "高井戸東二丁目",
+     "center": [
+      35.679999,
+      139.616801
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7665,6 +13162,10 @@
     {
      "code": "13115034003",
      "name": "高井戸東三丁目",
+     "center": [
+      35.684972,
+      139.620254
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7696,6 +13197,10 @@
     {
      "code": "13115034004",
      "name": "高井戸東四丁目",
+     "center": [
+      35.689075,
+      139.620207
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7727,6 +13232,10 @@
     {
      "code": "13115035001",
      "name": "高井戸西一丁目",
+     "center": [
+      35.681366,
+      139.611051
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7758,6 +13267,10 @@
     {
      "code": "13115035002",
      "name": "高井戸西二丁目",
+     "center": [
+      35.68545,
+      139.611894
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7789,6 +13302,10 @@
     {
      "code": "13115035003",
      "name": "高井戸西三丁目",
+     "center": [
+      35.688196,
+      139.612958
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7956,6 +13473,10 @@
     {
      "code": "13115006001",
      "name": "和田一丁目",
+     "center": [
+      35.691996,
+      139.663071
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -7987,6 +13508,10 @@
     {
      "code": "13115006002",
      "name": "和田二丁目",
+     "center": [
+      35.689469,
+      139.658009
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -8018,6 +13543,10 @@
     {
      "code": "13115006003",
      "name": "和田三丁目",
+     "center": [
+      35.695499,
+      139.657386
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -8134,6 +13663,10 @@
     {
      "code": "13115030001",
      "name": "善福寺一丁目",
+     "center": [
+      35.713168,
+      139.597122
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -8165,6 +13698,10 @@
     {
      "code": "13115030002",
      "name": "善福寺二丁目",
+     "center": [
+      35.712106,
+      139.591619
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -8196,6 +13733,10 @@
     {
      "code": "13115030003",
      "name": "善福寺三丁目",
+     "center": [
+      35.715941,
+      139.590049
+     ],
      "trash": {
       "burnable": {
        "days": [
@@ -8227,6 +13768,10 @@
     {
      "code": "13115030004",
      "name": "善福寺四丁目",
+     "center": [
+      35.718405,
+      139.588615
+     ],
      "trash": {
       "burnable": {
        "days": [

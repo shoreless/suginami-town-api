@@ -1,0 +1,6344 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636848,
+     35.706406
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "杉並第一小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632115,
+     35.693045
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "杉並第二小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630982,
+     35.70221
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "杉並第七小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62199,
+     35.694734
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "西田小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639316,
+     35.691158
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "東田小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643243,
+     35.708744
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "馬橋小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655281,
+     35.706139
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "高円寺学園",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64127,
+     35.711871
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "杉森中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636135,
+     35.700333
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "阿佐ヶ谷中学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635169,
+     35.694554
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "東田中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622032,
+     35.695931
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "松溪中学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609112,
+     35.712077
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "桃井第一小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61974,
+     35.722136
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "桃井第五小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610056,
+     35.721615
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "四宮小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620902,
+     35.716387
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "沓掛小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619679,
+     35.728545
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "八成小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630907,
+     35.717785
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "東原中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619938,
+     35.719498
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "中瀬中学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610435,
+     35.718072
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "井荻中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630831,
+     35.672033
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "高井戸第三小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629373,
+     35.685633
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "浜田山小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6563,
+     35.675846
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "旧新泉小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657878,
+     35.679046
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "方南小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639703,
+     35.673466
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "永福小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634836,
+     35.672493
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "向陽中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655546,
+     35.684182
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "泉南中学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633086,
+     35.71363
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "杉並第九小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618042,
+     35.701157
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "桃井第二小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623041,
+     35.710716
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "天沼小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620412,
+     35.711495
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "天沼中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618191,
+     35.708488
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "旧若杉小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609832,
+     35.700292
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "神明中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656567,
+     35.699553
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "杉並第三小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643295,
+     35.701533
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "杉並第六小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657443,
+     35.697
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "杉並第十小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649548,
+     35.683477
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "大宮小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64716,
+     35.692816
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "堀之内小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656997,
+     35.690918
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "和田小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649581,
+     35.685791
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "済美小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642805,
+     35.687492
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "松ノ木小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657887,
+     35.695762
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "高南中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640775,
+     35.686802
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "松ノ木中学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648329,
+     35.686753
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "大宮中学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658364,
+     35.689753
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "和田中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6118,
+     35.69502
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "荻窪小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614914,
+     35.683911
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "高井戸小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599208,
+     35.691799
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "高井戸第二小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602384,
+     35.698257
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "高井戸第四小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.593085,
+     35.700116
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "松庵小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.605133,
+     35.683102
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "富士見丘小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619549,
+     35.68024
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "高井戸東小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606275,
+     35.685961
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "久我山小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610626,
+     35.693161
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "宮前中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607043,
+     35.679455
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "富士見丘中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622206,
+     35.681175
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "高井戸中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601751,
+     35.692603
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "西宮中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602643,
+     35.704851
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "桃井第三小学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.594583,
+     35.716997
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "桃井第四小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596807,
+     35.711328
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "井荻小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602349,
+     35.720398
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "三谷小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602554,
+     35.721994
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "井草中学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596473,
+     35.710339
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "荻窪中学校",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648622,
+     35.674488
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "杉並和泉学園",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643058,
+     35.709593
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "馬橋公園",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624761,
+     35.674981
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "塚山公園",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610739,
+     35.696783
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "大宮前体育館",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599367,
+     35.686585
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "久我山会館",
+    "hazards": [
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636998,
+     35.67091
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "下高井戸おおぞら公園",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61655,
+     35.683686
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "高井戸地域区民センター",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602192,
+     35.712536
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "西荻地域区民センター",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64166,
+     35.705796
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "阿佐谷地域区民センター",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653723,
+     35.697055
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "高円寺地域区民センター",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645976,
+     35.675672
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "永福和泉地域区民センター",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6165,
+     35.720742
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "井草地域区民センター",
+    "hazards": [
+     "earthquake",
+     "fire",
+     "flood",
+     "inland_flood",
+     "landslide"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653627,
+     35.706593
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "旧杉並第四小学校",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.65177,
+     35.70152
+    ]
+   },
+   "properties": {
+    "kind": "shelter",
+    "name": "ふらっとすぎはち",
+    "hazards": [
+     "earthquake",
+     "fire"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.59548,
+     35.715712
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "井草八幡宮一帯",
+    "name_en": "Igusa Hachimangū area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612409,
+     35.727294
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "井草森公園一帯",
+    "name_en": "Igusa-no-mori Park area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625579,
+     35.678149
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "柏の宮公園一帯",
+    "name_en": "Kashiwanomiya Park area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601711,
+     35.722753
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "上井草スポーツセンター一帯",
+    "name_en": "Kami-Igusa Sports Center area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.604282,
+     35.681838
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "高井戸公園一帯",
+    "name_en": "Takaido Park area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657313,
+     35.68839
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "コーシャハイム中野弥生町・立正佼成会大聖堂一帯",
+    "name_en": "Kosha Heim Nakano-Yayoichō and Risshō Kōsei-kai Great Sacred Hall area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656014,
+     35.697459
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "蚕糸の森公園一帯",
+    "name_en": "Sanshi-no-mori Park area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625842,
+     35.697038
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "シャレール荻窪一帯",
+    "name_en": "Charaille Ogikubo area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652737,
+     35.694142
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "セシオン杉並・妙法寺一帯",
+    "name_en": "Cession Suginami and Myōhōji area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64226,
+     35.685386
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "善福寺川緑地・和田堀公園（西地区）一帯",
+    "name_en": "Zenpukuji River Green Space and Wadabori Park (west) area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.591713,
+     35.712079
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "善福寺公園・東京女子大学一帯",
+    "name_en": "Zenpukuji Park and Tokyo Woman's Christian University area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611045,
+     35.682871
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "高井戸駅一帯",
+    "name_en": "Takaido Station area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.647918,
+     35.685585
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "和田堀公園（東地区）一帯",
+    "name_en": "Wadabori Park (east) area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617088,
+     35.662748
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "芦花公園・明大八幡山グランド一帯",
+    "name_en": "Roka Park and Meiji University Hachimanyama grounds area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.661323,
+     35.708177
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "中野区役所一帯",
+    "name_en": "Nakano City Office area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639113,
+     35.718316
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "白鷺一丁目地区",
+    "name_en": "Shirasagi 1-chōme district"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634294,
+     35.720907
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "公社鷺宮西住宅一帯",
+    "name_en": "Kōsha Saginomiya-nishi housing area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648404,
+     35.670795
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "明大和泉校舎一帯",
+    "name_en": "Meiji University Izumi campus area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607507,
+     35.713301
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "桃井原っぱ公園一帯",
+    "name_en": "Momoi Harappa Park area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620111,
+     35.68094
+    ]
+   },
+   "properties": {
+    "kind": "wide_area",
+    "name": "日本郵政・高井戸東小学校一帯",
+    "name_en": "Japan Post and Takaido-higashi Elementary School area"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652962,
+     35.671071
+    ]
+   },
+   "properties": {
+    "kind": "water",
+    "name": "和泉水圧調整所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601235,
+     35.721635
+    ]
+   },
+   "properties": {
+    "kind": "water",
+    "name": "上井草給水所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641511,
+     35.68491
+    ]
+   },
+   "properties": {
+    "kind": "water",
+    "name": "都立和田堀公園"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.65699,
+     35.69637
+    ]
+   },
+   "properties": {
+    "kind": "water",
+    "name": "区立蚕糸の森公園"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608351,
+     35.680084
+    ]
+   },
+   "properties": {
+    "kind": "water",
+    "name": "区立昭栄公園"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611737,
+     35.726951
+    ]
+   },
+   "properties": {
+    "kind": "water",
+    "name": "区立井草森公園"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643056,
+     35.709583
+    ]
+   },
+   "properties": {
+    "kind": "water",
+    "name": "区立馬橋公園"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.628662,
+     35.692188
+    ]
+   },
+   "properties": {
+    "kind": "water",
+    "name": "都立善福寺川緑地"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607452,
+     35.715364
+    ]
+   },
+   "properties": {
+    "kind": "hospital",
+    "name": "荻窪病院",
+    "name_en": "Ogikubo Hospital"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655952,
+     35.690322
+    ]
+   },
+   "properties": {
+    "kind": "hospital",
+    "name": "杏林大学医学部付属杉並病院",
+    "name_en": "Kyorin University Suginami Hospital"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634764,
+     35.681447
+    ]
+   },
+   "properties": {
+    "kind": "hospital",
+    "name": "浜田山病院",
+    "name_en": "Hamadayama Hospital"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638542,
+     35.706437
+    ]
+   },
+   "properties": {
+    "kind": "hospital",
+    "name": "河北総合病院",
+    "name_en": "Kawakita General Hospital"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643867,
+     35.704104
+    ]
+   },
+   "properties": {
+    "kind": "hospital",
+    "name": "清川病院",
+    "name_en": "Kiyokawa Hospital"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6146,
+     35.707917
+    ]
+   },
+   "properties": {
+    "kind": "hospital",
+    "name": "城西病院",
+    "name_en": "Jōsai Hospital"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619513,
+     35.708176
+    ]
+   },
+   "properties": {
+    "kind": "hospital",
+    "name": "東京衛生アドベンチスト病院",
+    "name_en": "Tokyo Adventist Hospital"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629727,
+     35.683143
+    ]
+   },
+   "properties": {
+    "kind": "hospital",
+    "name": "ニューハート・ワタナベ国際病院",
+    "name_en": "New Heart Watanabe Institute"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617152,
+     35.694641
+    ]
+   },
+   "properties": {
+    "kind": "hospital",
+    "name": "山中病院",
+    "name_en": "Yamanaka Hospital"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609119,
+     35.680506
+    ]
+   },
+   "properties": {
+    "kind": "hospital",
+    "name": "浴風会病院",
+    "name_en": "Yokufūkai Hospital"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660223,
+     35.690644
+    ]
+   },
+   "properties": {
+    "kind": "hospital",
+    "name": "タムス杉並病院",
+    "name_en": "TMS Suginami Hospital"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636423,
+     35.699539
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並区役所",
+    "where": "中棟2階、中棟3階、中棟6階、西棟1階、西棟9階、夜間受付（午後5時以降）"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637602,
+     35.698487
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並区役所分庁舎",
+    "where": "1階"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618882,
+     35.7234
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "井草区民事務所",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622877,
+     35.70482
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "荻窪区民事務所",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615084,
+     35.683373
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸区民事務所",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601826,
+     35.701512
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "西荻区民事務所",
+    "where": "1階エレベーター付近"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64166,
+     35.705796
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "阿佐谷地域区民センター",
+    "where": "1階ロビー、2階第3集会室横、3階エレベーターホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6165,
+     35.720742
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "井草地域区民センター",
+    "where": "1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645976,
+     35.675672
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "永福和泉地域区民センター",
+    "where": "1階風除室、2階談話コーナー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618976,
+     35.698546
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "荻窪地域区民センター(令和6年11月1日～令和8年9月30日まで休館)",
+    "where": "1階ロビー、地下2階体育室前通路"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653998,
+     35.69668
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高円寺地域区民センター",
+    "where": "正面入口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602192,
+     35.712536
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "西荻地域区民センター",
+    "where": "1階受付横、地下2階階段横"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61655,
+     35.683686
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸地域区民センター",
+    "where": "1階ロビー、3階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641475,
+     35.696312
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "梅里区民集会所",
+    "where": "1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612527,
+     35.671096
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "上高井戸区民集会所",
+    "where": "1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648386,
+     35.707667
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高円寺北区民集会所",
+    "where": "1階談話コーナー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608658,
+     35.722843
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "四宮区民集会所",
+    "where": "1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608865,
+     35.704728
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "西荻南区民集会所",
+    "where": "事務室内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621728,
+     35.724405
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "八成区民集会所",
+    "where": "1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599367,
+     35.686585
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "久我山会館",
+    "where": "1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656076,
+     35.680987
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "方南会館",
+    "where": "1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630019,
+     35.680455
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "浜田山会館",
+    "where": "1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633821,
+     35.706068
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "コミュニティふらっと阿佐谷",
+    "where": "ラウンジ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643895,
+     35.701999
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "コミュニティふらっと馬橋",
+    "where": "ラウンジ"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632019,
+     35.715584
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "コミュニティふらっと東原",
+    "where": "事務室前"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631265,
+     35.690444
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "コミュニティふらっと成田",
+    "where": "受付カウンター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619588,
+     35.727
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう井草館",
+    "where": "ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649959,
+     35.679361
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう和泉館",
+    "where": "ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649752,
+     35.693294
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう梅里堀ノ内館",
+    "where": "ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639566,
+     35.672204
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう永福館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648257,
+     35.687191
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう大宮堀ノ内館",
+    "where": "ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60125,
+     35.694745
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう大宮前館",
+    "where": "ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61257,
+     35.698746
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう荻窪館",
+    "where": "ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623372,
+     35.701831
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう荻窪東館",
+    "where": "玄関靴箱の上"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607852,
+     35.71039
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう上荻窪館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616552,
+     35.677807
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう上高井戸館",
+    "where": "事務室横"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601541,
+     35.688408
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう久我山館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648658,
+     35.706847
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう高円寺北館",
+    "where": "ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658096,
+     35.698618
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう高円寺東館",
+    "where": "ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651343,
+     35.704953
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう高円寺南館",
+    "where": "ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608752,
+     35.722688
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう四宮館",
+    "where": "受付横廊下"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624633,
+     35.719369
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう下井草館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63038,
+     35.673128
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう下高井戸館",
+    "where": "1階受付"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.588655,
+     35.713373
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう善福寺館",
+    "where": "ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606896,
+     35.681369
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう高井戸西館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624319,
+     35.683166
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう高井戸東館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602619,
+     35.707303
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう西荻北館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627511,
+     35.694515
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう西田館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642709,
+     35.692033
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう堀ノ内松ノ木館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613285,
+     35.713602
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう桃井館",
+    "where": "ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.659554,
+     35.691599
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ゆうゆう和田館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630205,
+     35.715901
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "阿佐谷北保育園",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639752,
+     35.702009
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "阿佐谷東保育園",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.628944,
+     35.702946
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "阿佐谷南保育園",
+    "where": "1階エントランス"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649959,
+     35.679361
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "和泉保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.605713,
+     35.715173
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "今川保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638018,
+     35.678413
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "永福北保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639073,
+     35.671565
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "永福南保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.588655,
+     35.713373
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "善福寺保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621071,
+     35.690662
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "荻窪南保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616939,
+     35.706035
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "上荻保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607337,
+     35.687941
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "久我山東保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660844,
+     35.700666
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高円寺東保育園",
+    "where": "1階玄関ホール"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.593285,
+     35.699603
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "松庵保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631265,
+     35.690444
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "成田保育園",
+    "where": "1階事務室内医務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602619,
+     35.707303
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "西荻北保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626228,
+     35.687183
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "浜田山保育園",
+    "where": "1階事務室内医務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653031,
+     35.68663
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "堀ノ内保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623076,
+     35.716326
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "本天沼保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.646127,
+     35.692328
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "松ノ木保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614763,
+     35.693106
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "宮前保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.662327,
+     35.695024
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "和田保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.604705,
+     35.694682
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "小規模保育事業所宮前北",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624319,
+     35.683166
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸東保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653581,
+     35.70683
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高円寺北子供園",
+    "where": "1階職員室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630184,
+     35.674393
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "下高井戸子供園",
+    "where": "1階職員室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610551,
+     35.688291
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸西子供園",
+    "where": "1階職員室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629961,
+     35.690471
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "成田西子供園",
+    "where": "1階職員室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607122,
+     35.707748
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "西荻北子供園",
+    "where": "1階玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651181,
+     35.683591
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "堀ノ内子供園",
+    "where": "1階職員室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619588,
+     35.727
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "井草保育園",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627113,
+     35.705548
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "天沼児童館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60246,
+     35.692386
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "宮前児童館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622273,
+     35.697787
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "荻窪児童館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610819,
+     35.711984
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "桃井児童館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608258,
+     35.696608
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "宮前北児童館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597672,
+     35.713024
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "子ども・子育てプラザ善福寺",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602502,
+     35.718578
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "上井草児童館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611772,
+     35.683981
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸児童館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651124,
+     35.675143
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "子ども・子育てプラザ和泉",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630722,
+     35.691198
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "子ども・子育てプラザ成田西",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.592779,
+     35.717734
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "善福寺北児童館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608204,
+     35.724315
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "四宮森児童館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651799,
+     35.702063
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "子ども・子育てプラザ高円寺",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.661105,
+     35.692433
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "和田中央児童館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64355,
+     35.705811
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "馬橋児童館",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608423,
+     35.718567
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "今川北学童クラブ",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602048,
+     35.723988
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "上井草スポーツセンター",
+    "where": "フロントロビー、弓道場、プール受付、屋外本部棟、トレーニングルーム受付"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635923,
+     35.672086
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "下高井戸運動場",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642053,
+     35.685637
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "松ノ木運動場",
+    "where": "ロビー（受付）、事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643155,
+     35.669341
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "永福体育館",
+    "where": "1階体育館前ホール、2階トレーニングルーム前"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610518,
+     35.696784
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "大宮前体育館",
+    "where": "1階総合受付、地下1階プール監視室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626962,
+     35.7027
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "荻窪体育館",
+    "where": "地下1階、1階受付"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654233,
+     35.69977
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高円寺体育館",
+    "where": "体育館正面入り口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617696,
+     35.718435
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "妙正寺体育館",
+    "where": "1階事務室、地下1階小体育室横"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657443,
+     35.697
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並第十小学校温水プール",
+    "where": "地下1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61655,
+     35.683686
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸温水プール",
+    "where": "プール内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641437,
+     35.68193
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "和田堀公園プール",
+    "where": "プール内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631109,
+     35.688944
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並児童交通公園",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624583,
+     35.700817
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "大田黒公園",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656038,
+     35.697669
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "蚕糸の森公園",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624761,
+     35.674981
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "塚山公園",
+    "where": "管理棟展示室内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626323,
+     35.677536
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "柏の宮公園",
+    "where": "1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643058,
+     35.709593
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "馬橋公園",
+    "where": "管理事務所内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611062,
+     35.726903
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "井草森公園",
+    "where": "管理事務所内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607493,
+     35.71283
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "桃井原っぱ公園",
+    "where": "管理棟入口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623645,
+     35.691408
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "成田西ふれあい農業公園",
+    "where": "管理事務所内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636998,
+     35.67091
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "下高井戸おおぞら公園",
+    "where": "事務室内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616987,
+     35.727312
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並区農福連携農園",
+    "where": "管理棟事務所内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649201,
+     35.700675
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並福祉事務所 高円寺事務所",
+    "where": "2階事務室カウンター近く"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616252,
+     35.685732
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並福祉事務所 高井戸事務所",
+    "where": "1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617776,
+     35.689372
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "障害者福祉会館",
+    "where": "2階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.65786,
+     35.691073
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "和田区民集会所",
+    "where": "談話コーナー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649201,
+     35.700675
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高円寺障害者交流館",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610995,
+     35.703291
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並視覚障害者会館（アイプラザ）",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619791,
+     35.682591
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "こども発達センター",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613426,
+     35.692227
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "なのはな生活園",
+    "where": "1階玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648257,
+     35.687191
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "こすもす生活園",
+    "where": "1階玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.646516,
+     35.685868
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "こすもす生活園分室",
+    "where": "1階玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615703,
+     35.727469
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "すぎのき生活園（すぎのきグループ）",
+    "where": "すぎのき棟事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615792,
+     35.727122
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "すぎのき生活園（けやきグループ）",
+    "where": "けやき棟事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.592688,
+     35.698268
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ひまわり作業所",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660239,
+     35.674164
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "あすなろ作業所",
+    "where": "玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597032,
+     35.718065
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "あけぼの作業所",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649246,
+     35.686127
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "済美職業実習所",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629766,
+     35.707704
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "阿佐谷福祉工房",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609168,
+     35.717924
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "すだちの里すぎなみ",
+    "where": "すだちの里すぎなみ事務室内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61782,
+     35.689628
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並区障害者雇用支援事業団（ワークサポート杉並）",
+    "where": "杉並障害者福祉会館1階ロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618191,
+     35.708488
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "わかば",
+    "where": "事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613862,
+     35.697103
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "子どもの家エラン",
+    "where": "1階表玄関内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62022,
+     35.702227
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並保健所",
+    "where": "1階受付横、2階エレベーター前"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62022,
+     35.702227
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並保健所",
+    "where": "4階エレベーター前"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620235,
+     35.684712
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸保健センター",
+    "where": "1階風除室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645821,
+     35.701433
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高円寺保健センター",
+    "where": "1階エントランス"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601463,
+     35.718981
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "上井草保健センター",
+    "where": "風除室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655912,
+     35.682647
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "和泉保健センター",
+    "where": "1階エントランス"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626386,
+     35.701537
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "中央図書館",
+    "where": "1階給水器横"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633256,
+     35.711694
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "阿佐谷図書館",
+    "where": "1階"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638018,
+     35.678413
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "永福図書館",
+    "where": "1階入口横"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612098,
+     35.720282
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "柿木図書館",
+    "where": "正面玄関風除室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654146,
+     35.700408
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高円寺図書館",
+    "where": "3階図書館カウンター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623258,
+     35.720918
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "下井草図書館",
+    "where": "1階昇降階段前"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622206,
+     35.681175
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸図書館",
+    "where": "1階階段脇"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63751,
+     35.695068
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "成田図書館",
+    "where": "1階出入口横"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60594,
+     35.70779
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "西荻図書館",
+    "where": "1階入り口横"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660066,
+     35.678987
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "方南図書館",
+    "where": "1階玄関脇"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614529,
+     35.695024
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "南荻窪図書館",
+    "where": "1階CD視聴ブース横"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.598897,
+     35.693209
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "宮前図書館",
+    "where": "1階貸出カウンター奥"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.59981,
+     35.715533
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "今川図書館",
+    "where": "1階出入口脇"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632403,
+     35.668334
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "桜上水北図書サービスコーナー",
+    "where": "風除室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.628594,
+     35.702248
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並清掃事務所",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660239,
+     35.674164
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並清掃事務所方南支所",
+    "where": "2階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653998,
+     35.69668
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "社会教育センター（セシオン杉並）",
+    "where": "ホールロビー"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607852,
+     35.71039
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並会館",
+    "where": "1階クローク脇"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645467,
+     35.685988
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "郷土博物館",
+    "where": "本館風除室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621546,
+     35.708697
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "郷土博物館分館",
+    "where": "分館西棟受付横"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63529,
+     35.701762
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "産業商工会館",
+    "where": "正面玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620796,
+     35.710095
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ウェルファーム杉並 複合施設棟",
+    "where": "1階総合案内横、3階受付"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616392,
+     35.706591
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並公会堂",
+    "where": "2階"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653996,
+     35.705901
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並芸術会館（座・高円寺）",
+    "where": "2階事務室、地下1階廊下"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62483,
+     35.698679
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "角川庭園・幻戯山房「すぎなみ詩歌館」",
+    "where": "1階事務室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615953,
+     35.68349
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "環境活動推進センター",
+    "where": "1階"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653581,
+     35.70683
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "旧杉並第四小学校グラウンド（IMAGINUS併設）",
+    "where": "南棟グラウンド受付（管理事務所）"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641401,
+     35.688455
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "松ノ木町会まちかど救急隊",
+    "where": "ファミリーマート松ノ木一丁目店内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636709,
+     35.702655
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "阿佐谷パールセンター",
+    "where": "組合事務所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657316,
+     35.682852
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "方南レスキュー隊",
+    "where": "手芸用品くるみや店内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640759,
+     35.694264
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "成田東まちかど救急隊",
+    "where": "畳店内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648372,
+     35.697642
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ワイルドボイスまちかど救急隊",
+    "where": "事務所内"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6298,
+     35.692092
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "ディー工房まちかど救急隊",
+    "where": "玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636848,
+     35.706406
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並第一小学校",
+    "where": "西昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632115,
+     35.693045
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並第二小学校",
+    "where": "職員玄関突当"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656567,
+     35.699553
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並第三小学校",
+    "where": "緑校舎1階"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643295,
+     35.701533
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並第六小学校",
+    "where": "北側玄関脇"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630982,
+     35.70221
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並第七小学校",
+    "where": "事務室前"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633086,
+     35.71363
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並第九小学校",
+    "where": "正面玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657443,
+     35.697
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉並第十小学校",
+    "where": "昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62199,
+     35.694734
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "西田小学校",
+    "where": "職員用玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639316,
+     35.691158
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "東田小学校",
+    "where": "西昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643243,
+     35.708744
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "馬橋小学校",
+    "where": "正面玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609112,
+     35.712077
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "桃井第一小学校",
+    "where": "中央昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618042,
+     35.701157
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "桃井第二小学校",
+    "where": "中央昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602643,
+     35.704851
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "桃井第三小学校",
+    "where": "西昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.594583,
+     35.716997
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "桃井第四小学校",
+    "where": "西昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61974,
+     35.722136
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "桃井第五小学校",
+    "where": "来客用玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610056,
+     35.721615
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "四宮小学校",
+    "where": "東昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6118,
+     35.69502
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "荻窪小学校",
+    "where": "昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596807,
+     35.711328
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "井荻小学校",
+    "where": "昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620902,
+     35.716387
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "沓掛小学校",
+    "where": "第一昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614914,
+     35.683911
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸小学校",
+    "where": "職員玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599208,
+     35.691799
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸第二小学校",
+    "where": "１階玄関（北側）"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630831,
+     35.672033
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸第三小学校",
+    "where": "職員室前"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602384,
+     35.698257
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸第四小学校",
+    "where": "正面玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.593085,
+     35.700116
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "松庵小学校",
+    "where": "事務室前"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629373,
+     35.685633
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "浜田山小学校",
+    "where": "職員玄関近く"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649548,
+     35.683477
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "大宮小学校",
+    "where": "玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64716,
+     35.692816
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "堀之内小学校",
+    "where": "西昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656997,
+     35.690918
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "和田小学校",
+    "where": "西校舎1階"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657878,
+     35.679046
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "方南小学校",
+    "where": "玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649581,
+     35.685791
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "済美小学校",
+    "where": "第一校舎東昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619679,
+     35.728545
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "八成小学校",
+    "where": "東昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602349,
+     35.720398
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "三谷小学校",
+    "where": "西校舎入口踊り場"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642805,
+     35.687492
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "松ノ木小学校",
+    "where": "昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619549,
+     35.68024
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸東小学校",
+    "where": "西玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606275,
+     35.685961
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "久我山小学校",
+    "where": "職員玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623041,
+     35.710716
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "天沼小学校",
+    "where": "児童昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639703,
+     35.673466
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "永福小学校",
+    "where": "中央昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648622,
+     35.674488
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "新泉和泉小学校",
+    "where": "小学部昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655281,
+     35.706139
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高円寺小学校",
+    "where": "1階職員玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657887,
+     35.695762
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高南中学校",
+    "where": "職員用玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64127,
+     35.711871
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "杉森中学校",
+    "where": "保健室前"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636135,
+     35.700333
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "阿佐ヶ谷中学校",
+    "where": "昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635169,
+     35.694554
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "東田中学校",
+    "where": "昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622032,
+     35.695931
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "松溪中学校",
+    "where": "１階交流ホール東側"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620412,
+     35.711495
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "天沼中学校",
+    "where": "昇降口横オープンスペース"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630907,
+     35.717785
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "東原中学校",
+    "where": "玄関横"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619938,
+     35.719498
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "中瀬中学校",
+    "where": "玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610435,
+     35.718072
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "井荻中学校",
+    "where": "1階昇降口奥"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602554,
+     35.721994
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "井草中学校",
+    "where": "生徒昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596473,
+     35.710339
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "荻窪中学校",
+    "where": "昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609832,
+     35.700292
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "神明中学校",
+    "where": "正面玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610626,
+     35.693161
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "宮前中学校",
+    "where": "正面玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622206,
+     35.681175
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高井戸中学校",
+    "where": "昇降口 事務室窓口横"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634836,
+     35.672493
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "向陽中学校",
+    "where": "東昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640775,
+     35.686802
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "松ノ木中学校",
+    "where": "職員玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648329,
+     35.686753
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "大宮中学校",
+    "where": "中央昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655546,
+     35.684182
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "泉南中学校",
+    "where": "1階昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658364,
+     35.689753
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "和田中学校",
+    "where": "正面玄関"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601751,
+     35.692603
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "西宮中学校",
+    "where": "正面玄関前"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648622,
+     35.674488
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "和泉中学校",
+    "where": "中学部昇降口"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655281,
+     35.706139
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "高円寺中学校",
+    "where": "４階大アリーナ側"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650524,
+     35.685722
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "済美養護学校",
+    "where": "昇降口、体育館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.659554,
+     35.691599
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "さざんかステップアップ和田教室",
+    "where": "3階教室入口前"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.598897,
+     35.693209
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "さざんかステップアップ宮前教室",
+    "where": "1階教室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618191,
+     35.708488
+    ]
+   },
+   "properties": {
+    "kind": "aed",
+    "name": "さざんかステップアップ荻窪教室",
+    "where": "3階教室"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616898,
+     35.720581
+    ]
+   },
+   "properties": {
+    "kind": "community_centre",
+    "name": "井草地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.646072,
+     35.675861
+    ]
+   },
+   "properties": {
+    "kind": "community_centre",
+    "name": "永福和泉地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61882,
+     35.69883
+    ]
+   },
+   "properties": {
+    "kind": "community_centre",
+    "name": "荻窪地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602219,
+     35.712227
+    ]
+   },
+   "properties": {
+    "kind": "community_centre",
+    "name": "西荻地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640991,
+     35.705551
+    ]
+   },
+   "properties": {
+    "kind": "community_centre",
+    "name": "阿佐谷地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615952,
+     35.683449
+    ]
+   },
+   "properties": {
+    "kind": "community_centre",
+    "name": "高井戸地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654297,
+     35.696636
+    ]
+   },
+   "properties": {
+    "kind": "community_centre",
+    "name": "高円寺地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601654,
+     35.719067
+    ]
+   },
+   "properties": {
+    "kind": "health_centre",
+    "name": "上井草保健センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655685,
+     35.682674
+    ]
+   },
+   "properties": {
+    "kind": "health_centre",
+    "name": "和泉保健センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620255,
+     35.701988
+    ]
+   },
+   "properties": {
+    "kind": "health_centre",
+    "name": "杉並保健所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620255,
+     35.701988
+    ]
+   },
+   "properties": {
+    "kind": "health_centre",
+    "name": "荻窪保健センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620209,
+     35.684624
+    ]
+   },
+   "properties": {
+    "kind": "health_centre",
+    "name": "高井戸保健センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645584,
+     35.701416
+    ]
+   },
+   "properties": {
+    "kind": "health_centre",
+    "name": "高円寺保健センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623245,
+     35.720657
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "下井草図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62709,
+     35.701965
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "中央図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599548,
+     35.715763
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "今川図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6147,
+     35.694946
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "南荻窪図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599167,
+     35.693283
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "宮前図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637222,
+     35.695091
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "成田図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660492,
+     35.678551
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "方南図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612076,
+     35.720417
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "柿木図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638153,
+     35.678596
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "永福図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.605759,
+     35.707882
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "西荻図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633286,
+     35.711903
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "阿佐谷図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622894,
+     35.679974
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "高井戸図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654312,
+     35.700459
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "高円寺図書館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618942,
+     35.723267
+    ]
+   },
+   "properties": {
+    "kind": "office",
+    "name": "井草区民事務所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636505,
+     35.699203
+    ]
+   },
+   "properties": {
+    "kind": "office",
+    "name": "本庁舎"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.646072,
+     35.675861
+    ]
+   },
+   "properties": {
+    "kind": "office",
+    "name": "永福和泉区民事務所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622726,
+     35.70488
+    ]
+   },
+   "properties": {
+    "kind": "office",
+    "name": "荻窪区民事務所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601913,
+     35.70145
+    ]
+   },
+   "properties": {
+    "kind": "office",
+    "name": "西荻区民事務所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615463,
+     35.683319
+    ]
+   },
+   "properties": {
+    "kind": "office",
+    "name": "高井戸区民事務所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654297,
+     35.696636
+    ]
+   },
+   "properties": {
+    "kind": "office",
+    "name": "高円寺区民事務所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601929,
+     35.723862
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "上井草スポーツセンター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635666,
+     35.672733
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "下高井戸運動場"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611816,
+     35.726555
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "井草森公園運動場"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62442,
+     35.674896
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "塚山公園運動場"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61058,
+     35.696514
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "大宮前体育館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617676,
+     35.718761
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "妙正寺体育館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642014,
+     35.685886
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "松ノ木運動場"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641998,
+     35.669518
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "永福体育館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626907,
+     35.702415
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "荻窪体育館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657852,
+     35.697144
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "蚕糸の森公園運動場"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654495,
+     35.699745
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "高円寺体育館"
+   }
+  }
+ ],
+ "version": 0,
+ "revision": 1790311445,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "shelters": {
+   "name": {
+    "en": "Suginami City: evacuation places (CC BY 4.0)",
+    "ja": "杉並区 指定緊急避難場所一覧（CC BY 4.0）"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/s015/1499.html"
+  },
+  "aeds": {
+   "name": {
+    "en": "Suginami City: AED locations (CC BY 4.0)",
+    "ja": "杉並区 AED設置箇所一覧（CC BY 4.0）"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/s045/1474.html"
+  },
+  "facilities": {
+   "name": {
+    "en": "Suginami City: public facilities (CC BY 4.0)",
+    "ja": "杉並区 公共施設一覧（CC BY 4.0）"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/s002/1345.html"
+  },
+  "water": {
+   "name": {
+    "en": "Tokyo Waterworks: water supply points (CC BY 4.0)",
+    "ja": "東京都水道局 給水拠点一覧（CC BY 4.0）"
+   },
+   "url": "https://catalog.data.metro.tokyo.lg.jp/dataset/t000019d0000000001"
+  }
+ }
+}
