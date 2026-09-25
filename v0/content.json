@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790297191,
+ "revision": 1790309382,
  "languages": [
   "en",
   "ja"
@@ -13,6 +13,13 @@
     "ja": "杉並区「ごみ・資源の収集曜日」"
    },
    "url": "https://www.city.suginami.tokyo.jp/documents/12125/garbage.csv"
+  },
+  "sorting": {
+   "name": {
+    "en": "Suginami City: how to sort waste (CC BY 4.0); English names translated for this project",
+    "ja": "杉並区「ごみの分別方法一覧」（CC BY 4.0）"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/s104/713.html"
   }
  },
  "trash_break": [
@@ -20,6 +27,1136 @@
   "01-01",
   "01-02",
   "01-03"
+ ],
+ "sorting": [
+  {
+   "id": "131156S00001",
+   "name": {
+    "en": "Cooking oil (liquid)",
+    "ja": "油（液状のまま）"
+   },
+   "kind": "drop_off"
+  },
+  {
+   "id": "131156S00002",
+   "name": {
+    "en": "Cooking oil (solidified)",
+    "ja": "油（固めたもの）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00003",
+   "name": {
+    "en": "Photo albums",
+    "ja": "アルバム"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00004",
+   "name": {
+    "en": "Stones",
+    "ja": "石"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00005",
+   "name": {
+    "en": "Large square cans (sweets)",
+    "ja": "一斗缶（菓子類）"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00006",
+   "name": {
+    "en": "Large square cans (cooking oil, oil, paint; use up the contents)",
+    "ja": "一斗缶（食用油・オイル・塗料）（中身を使い切る）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00007",
+   "name": {
+    "en": "Clothes",
+    "ja": "衣類"
+   },
+   "kind": "burnable",
+   "also_drop_off": true
+  },
+  {
+   "id": "131156S00008",
+   "name": {
+    "en": "Ink cartridges (used)",
+    "ja": "インクカートリッジ（使用済み）"
+   },
+   "kind": "burnable",
+   "also_drop_off": true
+  },
+  {
+   "id": "131156S00009",
+   "name": {
+    "en": "Plant pots (plastic)",
+    "ja": "植木鉢（プラスチック製）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00010",
+   "name": {
+    "en": "Plant pots (terracotta, ceramic)",
+    "ja": "植木鉢（素焼き・陶器製）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00011",
+   "name": {
+    "en": "Garden stakes",
+    "ja": "園芸用支柱"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00012",
+   "name": {
+    "en": "Nappies (flush any waste down the toilet)",
+    "ja": "おむつ（汚物はトイレに流す）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00013",
+   "name": {
+    "en": "Thermometers (mercury)",
+    "ja": "温度計（水銀使用）"
+   },
+   "kind": "drop_off"
+  },
+  {
+   "id": "131156S00014",
+   "name": {
+    "en": "Curtains (cut up)",
+    "ja": "カーテン（裁断する）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00015",
+   "name": {
+    "en": "Cards",
+    "ja": "カード類"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00016",
+   "name": {
+    "en": "Carbon paper",
+    "ja": "カーボン紙"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00017",
+   "name": {
+    "en": "Shells",
+    "ja": "貝殻"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00018",
+   "name": {
+    "en": "Torches",
+    "ja": "懐中電灯"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00019",
+   "name": {
+    "en": "Disposable hand warmers",
+    "ja": "カイロ"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00020",
+   "name": {
+    "en": "Umbrellas",
+    "ja": "傘"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00021",
+   "name": {
+    "en": "Gas canisters (portable stoves)",
+    "ja": "カセットボンベ"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00022",
+   "name": {
+    "en": "Paper cups and plates",
+    "ja": "紙コップ・皿"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00023",
+   "name": {
+    "en": "Drink cartons (white inside)",
+    "ja": "紙パック飲料用（裏が白いもの）"
+   },
+   "kind": "paper_pet"
+  },
+  {
+   "id": "131156S00024",
+   "name": {
+    "en": "Drink cartons (foil inside)",
+    "ja": "紙パック飲料用（裏がアルミのもの）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00025",
+   "name": {
+    "en": "Packing tape (paper, cloth, vinyl)",
+    "ja": "ガムテープ（紙・布・ビニール製）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00026",
+   "name": {
+    "en": "Glassware (including heatproof)",
+    "ja": "ガラス製品（耐熱性を含む）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00027",
+   "name": {
+    "en": "Leather goods (bags, shoes, clothes)",
+    "ja": "革製品（かばん・靴・服など）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00028",
+   "name": {
+    "en": "Packing material (bubble wrap and similar)",
+    "ja": "緩衝材（気泡緩衝材など）"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00029",
+   "name": {
+    "en": "Desiccants and oxygen absorbers",
+    "ja": "乾燥剤（脱酸素剤を含む）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00030",
+   "name": {
+    "en": "Branches and logs (up to 10 cm across, 50 cm long)",
+    "ja": "木の枝・幹（直径10cm・長さ50cmまで）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00031",
+   "name": {
+    "en": "Blister packs for pills (empty)",
+    "ja": "薬の錠剤シート（中身を出す）"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00032",
+   "name": {
+    "en": "Shoes",
+    "ja": "靴"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00033",
+   "name": {
+    "en": "Fluorescent lamps and tubes",
+    "ja": "蛍光灯・管"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00034",
+   "name": {
+    "en": "Cosmetics bottles",
+    "ja": "化粧品のびん"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00035",
+   "name": {
+    "en": "Golf clubs and bags",
+    "ja": "ゴルフクラブ・バッグ"
+   },
+   "kind": "oversized",
+   "fee": true
+  },
+  {
+   "id": "131156S00036",
+   "name": {
+    "en": "Pieces of concrete",
+    "ja": "コンクリート片"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00037",
+   "name": {
+    "en": "Tabletop gas stoves",
+    "ja": "卓上コンロ"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00038",
+   "name": {
+    "en": "Sheets (cut up)",
+    "ja": "シーツ（裁断する）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00039",
+   "name": {
+    "en": "CDs and CD cases",
+    "ja": "CD・CDケース"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00040",
+   "name": {
+    "en": "Medicated patches",
+    "ja": "湿布薬"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00041",
+   "name": {
+    "en": "Photographs",
+    "ja": "写真"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00042",
+   "name": {
+    "en": "Gravel",
+    "ja": "砂利"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00043",
+   "name": {
+    "en": "Shredded paper",
+    "ja": "シュレッダーくず"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00044",
+   "name": {
+    "en": "Fire extinguishers",
+    "ja": "消火器"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00045",
+   "name": {
+    "en": "Food storage bags and containers",
+    "ja": "食品用保存袋・容器"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00046",
+   "name": {
+    "en": "Dehumidifier tubs (pour out the water; sheet types are burnable)",
+    "ja": "除湿剤容器（水を捨てる）（シートタイプは可燃）"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00047",
+   "name": {
+    "en": "Tableware (glass, ceramic)",
+    "ja": "食器類（ガラス製・陶磁器）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00048",
+   "name": {
+    "en": "Tableware (plastic)",
+    "ja": "食器類（プラスチック製）"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00049",
+   "name": {
+    "en": "Suitcases",
+    "ja": "スーツケース"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00050",
+   "name": {
+    "en": "Sand",
+    "ja": "砂"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00051",
+   "name": {
+    "en": "Spray cans",
+    "ja": "スプレー缶"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00052",
+   "name": {
+    "en": "Sponges",
+    "ja": "スポンジ"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00053",
+   "name": {
+    "en": "Charcoal (activated)",
+    "ja": "炭（活性炭）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00054",
+   "name": {
+    "en": "Clinical thermometers (mercury)",
+    "ja": "体温計（水銀使用）"
+   },
+   "kind": "drop_off"
+  },
+  {
+   "id": "131156S00055",
+   "name": {
+    "en": "Clinical thermometers (digital)",
+    "ja": "体温計（電子）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00056",
+   "name": {
+    "en": "Bathroom scales",
+    "ja": "体重計"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00057",
+   "name": {
+    "en": "Tyres (car, motorcycle)",
+    "ja": "タイヤ（自動車・オートバイ）"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00058",
+   "name": {
+    "en": "Tyres and inner tubes (bicycle)",
+    "ja": "タイヤ・チューブ（自転車）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00059",
+   "name": {
+    "en": "Snow chains (metal; oversized with a storage case)",
+    "ja": "タイヤチェーン（金属製）（収納ケースを含む場合は粗大）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00060",
+   "name": {
+    "en": "Snow chains (not metal; oversized with a storage case)",
+    "ja": "タイヤチェーン（金属製以外）（収納ケースを含む場合は粗大）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00061",
+   "name": {
+    "en": "Deodoriser tubs (empty them; burnable if the contents won't come out)",
+    "ja": "脱臭剤容器（中身を捨てる）（中身と分離できないものは可燃）"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00062",
+   "name": {
+    "en": "Soil",
+    "ja": "土"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00063",
+   "name": {
+    "en": "Tennis rackets",
+    "ja": "テニスラケット"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00064",
+   "name": {
+    "en": "Electric carpets",
+    "ja": "電気カーペット"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00065",
+   "name": {
+    "en": "Electric cables",
+    "ja": "電気コード"
+   },
+   "kind": "non_burnable",
+   "also_drop_off": true
+  },
+  {
+   "id": "131156S00066",
+   "name": {
+    "en": "Electric blankets",
+    "ja": "電気毛布"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00067",
+   "name": {
+    "en": "Light bulbs (wrap in their box or paper)",
+    "ja": "電球（購入時のケースか紙に包む）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00068",
+   "name": {
+    "en": "Batteries (dry cell, lithium, non-rechargeable)",
+    "ja": "電池（乾電池・リチウム一次電池）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00069",
+   "name": {
+    "en": "Batteries (rechargeable)",
+    "ja": "電池（充電式（二次）電池）"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00070",
+   "name": {
+    "en": "Batteries (button cells)",
+    "ja": "電池（ボタン電池）"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00071",
+   "name": {
+    "en": "Kerosene",
+    "ja": "灯油"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00072",
+   "name": {
+    "en": "Toasters",
+    "ja": "トースター"
+   },
+   "kind": "non_burnable",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   }
+  },
+  {
+   "id": "131156S00073",
+   "name": {
+    "en": "Paint",
+    "ja": "塗料"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00074",
+   "name": {
+    "en": "Spray paint cans",
+    "ja": "塗料のスプレー缶"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00075",
+   "name": {
+    "en": "Soft toys",
+    "ja": "ぬいぐるみ"
+   },
+   "kind": "burnable",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   }
+  },
+  {
+   "id": "131156S00076",
+   "name": {
+    "en": "Modelling clay (paper, oil-based)",
+    "ja": "粘土（紙製・油製）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00077",
+   "name": {
+    "en": "Binders (plastic)",
+    "ja": "バインダー（プラスチック製）"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00078",
+   "name": {
+    "en": "Buckets (metal)",
+    "ja": "バケツ（金属製）"
+   },
+   "kind": "non_burnable",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   }
+  },
+  {
+   "id": "131156S00079",
+   "name": {
+    "en": "Buckets (plastic)",
+    "ja": "バケツ（プラスチック製）"
+   },
+   "kind": "bottles_cans_plastic",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   }
+  },
+  {
+   "id": "131156S00080",
+   "name": {
+    "en": "Car batteries",
+    "ja": "バッテリー"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00081",
+   "name": {
+    "en": "Baseball bats",
+    "ja": "バット（野球用）"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00082",
+   "name": {
+    "en": "Polystyrene foam",
+    "ja": "発泡スチロール"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00083",
+   "name": {
+    "en": "Fireworks (soak in water)",
+    "ja": "花火（水に浸す）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00084",
+   "name": {
+    "en": "Knives and blades (wrap in thick paper)",
+    "ja": "刃物類（厚手の紙等に包む）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00085",
+   "name": {
+    "en": "Coat hangers (metal, wire)",
+    "ja": "ハンガー（金属製・針金）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00086",
+   "name": {
+    "en": "Coat hangers (plastic, wood)",
+    "ja": "ハンガー（プラスチック製・木製）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00087",
+   "name": {
+    "en": "Videotapes",
+    "ja": "ビデオテープ"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00088",
+   "name": {
+    "en": "Video recorders",
+    "ja": "ビデオデッキ"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00089",
+   "name": {
+    "en": "Futons",
+    "ja": "布団"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00090",
+   "name": {
+    "en": "Duvet covers (cut up)",
+    "ja": "布団カバー（裁断する）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00091",
+   "name": {
+    "en": "Concrete blocks",
+    "ja": "ブロック"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00092",
+   "name": {
+    "en": "Bath covers",
+    "ja": "風呂のふた"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00093",
+   "name": {
+    "en": "Pet toilet sheets",
+    "ja": "ペットのトイレシート"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00094",
+   "name": {
+    "en": "Helmets",
+    "ja": "ヘルメット"
+   },
+   "kind": "burnable",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   }
+  },
+  {
+   "id": "131156S00095",
+   "name": {
+    "en": "House paint",
+    "ja": "ペンキ"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00096",
+   "name": {
+    "en": "Toilet seats",
+    "ja": "便座"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00097",
+   "name": {
+    "en": "Hoses (cut up)",
+    "ja": "ホース（裁断する）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00098",
+   "name": {
+    "en": "Hose reels",
+    "ja": "ホースリール"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00099",
+   "name": {
+    "en": "Balls (all sports)",
+    "ja": "ボール（各種スポーツ用）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00100",
+   "name": {
+    "en": "Vacuum flasks",
+    "ja": "ポット（魔法瓶）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00101",
+   "name": {
+    "en": "Plastic tanks (longest side 30 cm or more)",
+    "ja": "ポリタンク（最大辺30cm以上）"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00102",
+   "name": {
+    "en": "Ice packs",
+    "ja": "保冷剤"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00103",
+   "name": {
+    "en": "Magnet sheets",
+    "ja": "マグネットシート"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00104",
+   "name": {
+    "en": "Matches (soak in water)",
+    "ja": "マッチ（水に浸す）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00105",
+   "name": {
+    "en": "Window envelopes (remove the window)",
+    "ja": "窓付き封筒（窓は外す）"
+   },
+   "kind": "paper_pet"
+  },
+  {
+   "id": "131156S00106",
+   "name": {
+    "en": "Sewing machines",
+    "ja": "ミシン"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00107",
+   "name": {
+    "en": "Airtight food containers (plastic)",
+    "ja": "密閉保存容器（プラスチック製）"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00108",
+   "name": {
+    "en": "Blankets",
+    "ja": "毛布"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00109",
+   "name": {
+    "en": "Laundry poles and stands",
+    "ja": "物干し竿・物干し台"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  },
+  {
+   "id": "131156S00110",
+   "name": {
+    "en": "Chemicals (pesticides, poisons)",
+    "ja": "薬品（農薬・劇薬）"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00111",
+   "name": {
+    "en": "Lighters",
+    "ja": "ライター"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00112",
+   "name": {
+    "en": "Cling film cores",
+    "ja": "ラップの芯"
+   },
+   "kind": "paper_pet"
+  },
+  {
+   "id": "131156S00113",
+   "name": {
+    "en": "Vinyl records",
+    "ja": "レコード盤"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00114",
+   "name": {
+    "en": "Receipts (thermal paper)",
+    "ja": "レシート（感熱紙）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00115",
+   "name": {
+    "en": "Bricks",
+    "ja": "レンガ"
+   },
+   "kind": "not_collected"
+  },
+  {
+   "id": "131156S00116",
+   "name": {
+    "en": "Rope and packing string (cut up; hemp, polyester)",
+    "ja": "ロープ・梱包紐（裁断する）（麻・ポリエステル製）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00117",
+   "name": {
+    "en": "Home medical bags (drips, urine, CAPD, nutrition)",
+    "ja": "在宅医療用バッグ類（輸液・蓄尿・CAPD・栄養剤など）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00118",
+   "name": {
+    "en": "Home medical tubes and catheters",
+    "ja": "在宅医療用チューブ・カテーテル類"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00119",
+   "name": {
+    "en": "Home medical cloth and rubber items (masks, bandages, gauze, cotton wool, disposable gloves, inhalers)",
+    "ja": "在宅医療用布、ゴム製品、吸入器など（マスク・包帯・ガーゼ・脱脂綿類・使い捨て手袋・吸入器など"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00120",
+   "name": {
+    "en": "Home medical syringes (plastic, needle removed)",
+    "ja": "在宅医療用注射筒（針を取り除いたプラスチック製のもの）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00121",
+   "name": {
+    "en": "Home medical stoma bags and adult nappies",
+    "ja": "在宅医療用ストーマ袋・紙おむつ"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00122",
+   "name": {
+    "en": "Home medical syringes (glass, needle removed)",
+    "ja": "在宅医療用注射筒（針を取り除いたガラス製のもの）"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00123",
+   "name": {
+    "en": "Blood glucose meters",
+    "ja": "在宅医療用血糖値測定器"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00124",
+   "name": {
+    "en": "Glass bottles and cans",
+    "ja": "びん・かん"
+   },
+   "kind": "bottles_cans_plastic"
+  },
+  {
+   "id": "131156S00125",
+   "name": {
+    "en": "Paper for recycling",
+    "ja": "古紙"
+   },
+   "kind": "paper_pet"
+  },
+  {
+   "id": "131156S00126",
+   "name": {
+    "en": "Aluminium foil",
+    "ja": "アルミホイル"
+   },
+   "kind": "non_burnable"
+  },
+  {
+   "id": "131156S00127",
+   "name": {
+    "en": "Bicycle covers (cut up)",
+    "ja": "自転車カバー（裁断する）"
+   },
+   "kind": "burnable"
+  },
+  {
+   "id": "131156S00128",
+   "name": {
+    "en": "Walking sticks",
+    "ja": "杖"
+   },
+   "kind": "oversized",
+   "note": {
+    "en": "Oversized if its longest side is over about 30 cm (up to 220 cm).",
+    "ja": "最大辺がおおむね30cmを超えるもの（220cm以内）は粗大ごみです"
+   },
+   "fee": true
+  }
  ],
  "areas": [
   {

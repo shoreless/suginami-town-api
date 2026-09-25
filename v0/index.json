@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790297191,
+ "revision": 1790309382,
  "languages": [
   "en",
   "ja"
@@ -13,6 +13,13 @@
     "ja": "杉並区「ごみ・資源の収集曜日」"
    },
    "url": "https://www.city.suginami.tokyo.jp/documents/12125/garbage.csv"
+  },
+  "sorting": {
+   "name": {
+    "en": "Suginami City: how to sort waste (CC BY 4.0); English names translated for this project",
+    "ja": "杉並区「ごみの分別方法一覧」（CC BY 4.0）"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/s104/713.html"
   }
  },
  "areas": [
