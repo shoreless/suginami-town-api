@@ -1,13 +1,26 @@
 {
  "version": 0,
- "revision": 1790150427,
+ "revision": 1790296209,
  "languages": [
   "en",
   "ja"
  ],
  "attribution": {
-  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/",
+  "trash": {
+   "name": {
+    "en": "Suginami City: collection days for waste and recyclables",
+    "ja": "杉並区「ごみ・資源の収集曜日」"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/documents/12125/garbage.csv"
+  }
  },
+ "trash_break": [
+  "12-31",
+  "01-01",
+  "01-02",
+  "01-03"
+ ],
  "areas": [
   {
    "id": "amanuma",
@@ -18,27 +31,189 @@
    "towns": [
     {
      "code": "13115015001",
-     "name": "天沼一丁目"
+     "name": "天沼一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115015002",
-     "name": "天沼二丁目"
+     "name": "天沼二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115015003",
-     "name": "天沼三丁目"
+     "name": "天沼三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115016001",
-     "name": "本天沼一丁目"
+     "name": "本天沼一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115016002",
-     "name": "本天沼二丁目"
+     "name": "本天沼二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115016003",
-     "name": "本天沼三丁目"
+     "name": "本天沼三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -201,39 +376,282 @@
    "towns": [
     {
      "code": "13115013001",
-     "name": "阿佐谷南一丁目"
+     "name": "阿佐谷南一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115013002",
-     "name": "阿佐谷南二丁目"
+     "name": "阿佐谷南二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115013003",
-     "name": "阿佐谷南三丁目"
+     "name": "阿佐谷南三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115014001",
-     "name": "阿佐谷北一丁目"
+     "name": "阿佐谷北一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115014002",
-     "name": "阿佐谷北二丁目"
+     "name": "阿佐谷北二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115014003",
-     "name": "阿佐谷北三丁目"
+     "name": "阿佐谷北三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115014004",
-     "name": "阿佐谷北四丁目"
+     "name": "阿佐谷北四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115014005",
-     "name": "阿佐谷北五丁目"
+     "name": "阿佐谷北五丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115014006",
-     "name": "阿佐谷北六丁目"
+     "name": "阿佐谷北六丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -399,19 +817,127 @@
    "towns": [
     {
      "code": "13115004001",
-     "name": "永福一丁目"
+     "name": "永福一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115004002",
-     "name": "永福二丁目"
+     "name": "永福二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115004003",
-     "name": "永福三丁目"
+     "name": "永福三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115004004",
-     "name": "永福四丁目"
+     "name": "永福四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -525,19 +1051,127 @@
    "towns": [
     {
      "code": "13115005001",
-     "name": "浜田山一丁目"
+     "name": "浜田山一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115005002",
-     "name": "浜田山二丁目"
+     "name": "浜田山二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115005003",
-     "name": "浜田山三丁目"
+     "name": "浜田山三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115005004",
-     "name": "浜田山四丁目"
+     "name": "浜田山四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -626,11 +1260,65 @@
    "towns": [
     {
      "code": "13115001001",
-     "name": "方南一丁目"
+     "name": "方南一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115001002",
-     "name": "方南二丁目"
+     "name": "方南二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -719,23 +1407,158 @@
    "towns": [
     {
      "code": "13115007001",
-     "name": "堀ノ内一丁目"
+     "name": "堀ノ内一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115007002",
-     "name": "堀ノ内二丁目"
+     "name": "堀ノ内二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115007003",
-     "name": "堀ノ内三丁目"
+     "name": "堀ノ内三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115010001",
-     "name": "梅里一丁目"
+     "name": "梅里一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115010002",
-     "name": "梅里二丁目"
+     "name": "梅里二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -851,43 +1674,313 @@
    "towns": [
     {
      "code": "13115027001",
-     "name": "井草一丁目"
+     "name": "井草一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115027002",
-     "name": "井草二丁目"
+     "name": "井草二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115027003",
-     "name": "井草三丁目"
+     "name": "井草三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115027004",
-     "name": "井草四丁目"
+     "name": "井草四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115027005",
-     "name": "井草五丁目"
+     "name": "井草五丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115028001",
-     "name": "下井草一丁目"
+     "name": "下井草一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115028002",
-     "name": "下井草二丁目"
+     "name": "下井草二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115028003",
-     "name": "下井草三丁目"
+     "name": "下井草三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115028004",
-     "name": "下井草四丁目"
+     "name": "下井草四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115028005",
-     "name": "下井草五丁目"
+     "name": "下井草五丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -1019,19 +2112,127 @@
    "towns": [
     {
      "code": "13115002001",
-     "name": "和泉一丁目"
+     "name": "和泉一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115002002",
-     "name": "和泉二丁目"
+     "name": "和泉二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115002003",
-     "name": "和泉三丁目"
+     "name": "和泉三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115002004",
-     "name": "和泉四丁目"
+     "name": "和泉四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -1171,19 +2372,127 @@
    "towns": [
     {
      "code": "13115029001",
-     "name": "上井草一丁目"
+     "name": "上井草一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115029002",
-     "name": "上井草二丁目"
+     "name": "上井草二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115029003",
-     "name": "上井草三丁目"
+     "name": "上井草三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115029004",
-     "name": "上井草四丁目"
+     "name": "上井草四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -1272,15 +2581,96 @@
    "towns": [
     {
      "code": "13115036001",
-     "name": "上高井戸一丁目"
+     "name": "上高井戸一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115036002",
-     "name": "上高井戸二丁目"
+     "name": "上高井戸二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115036003",
-     "name": "上高井戸三丁目"
+     "name": "上高井戸三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -1369,39 +2759,282 @@
    "towns": [
     {
      "code": "13115011001",
-     "name": "高円寺南一丁目"
+     "name": "高円寺南一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115011002",
-     "name": "高円寺南二丁目"
+     "name": "高円寺南二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115011003",
-     "name": "高円寺南三丁目"
+     "name": "高円寺南三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115011004",
-     "name": "高円寺南四丁目"
+     "name": "高円寺南四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115011005",
-     "name": "高円寺南五丁目"
+     "name": "高円寺南五丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115012001",
-     "name": "高円寺北一丁目"
+     "name": "高円寺北一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115012002",
-     "name": "高円寺北二丁目"
+     "name": "高円寺北二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115012003",
-     "name": "高円寺北三丁目"
+     "name": "高円寺北三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115012004",
-     "name": "高円寺北四丁目"
+     "name": "高円寺北四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -1587,23 +3220,158 @@
    "towns": [
     {
      "code": "13115033001",
-     "name": "久我山一丁目"
+     "name": "久我山一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115033002",
-     "name": "久我山二丁目"
+     "name": "久我山二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115033003",
-     "name": "久我山三丁目"
+     "name": "久我山三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115033004",
-     "name": "久我山四丁目"
+     "name": "久我山四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115033005",
-     "name": "久我山五丁目"
+     "name": "久我山五丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -1717,23 +3485,158 @@
    "towns": [
     {
      "code": "13115032001",
-     "name": "宮前一丁目"
+     "name": "宮前一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115032002",
-     "name": "宮前二丁目"
+     "name": "宮前二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115032003",
-     "name": "宮前三丁目"
+     "name": "宮前三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115032004",
-     "name": "宮前四丁目"
+     "name": "宮前四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115032005",
-     "name": "宮前五丁目"
+     "name": "宮前五丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -1850,35 +3753,251 @@
    "towns": [
     {
      "code": "13115024001",
-     "name": "今川一丁目"
+     "name": "今川一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115024002",
-     "name": "今川二丁目"
+     "name": "今川二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115024003",
-     "name": "今川三丁目"
+     "name": "今川三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115024004",
-     "name": "今川四丁目"
+     "name": "今川四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115026001",
-     "name": "桃井一丁目"
+     "name": "桃井一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115026002",
-     "name": "桃井二丁目"
+     "name": "桃井二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115026003",
-     "name": "桃井三丁目"
+     "name": "桃井三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115026004",
-     "name": "桃井四丁目"
+     "name": "桃井四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -1967,39 +4086,282 @@
    "towns": [
     {
      "code": "13115017001",
-     "name": "成田西一丁目"
+     "name": "成田西一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115017002",
-     "name": "成田西二丁目"
+     "name": "成田西二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115017003",
-     "name": "成田西三丁目"
+     "name": "成田西三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115017004",
-     "name": "成田西四丁目"
+     "name": "成田西四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115018001",
-     "name": "成田東一丁目"
+     "name": "成田東一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115018002",
-     "name": "成田東二丁目"
+     "name": "成田東二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115018003",
-     "name": "成田東三丁目"
+     "name": "成田東三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115018004",
-     "name": "成田東四丁目"
+     "name": "成田東四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115018005",
-     "name": "成田東五丁目"
+     "name": "成田東五丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -2163,51 +4525,375 @@
    "towns": [
     {
      "code": "13115022001",
-     "name": "西荻南一丁目"
+     "name": "西荻南一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115022002",
-     "name": "西荻南二丁目"
+     "name": "西荻南二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115022003",
-     "name": "西荻南三丁目"
+     "name": "西荻南三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115022004",
-     "name": "西荻南四丁目"
+     "name": "西荻南四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115023001",
-     "name": "西荻北一丁目"
+     "name": "西荻北一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115023002",
-     "name": "西荻北二丁目"
+     "name": "西荻北二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115023003",
-     "name": "西荻北三丁目"
+     "name": "西荻北三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115023004",
-     "name": "西荻北四丁目"
+     "name": "西荻北四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115023005",
-     "name": "西荻北五丁目"
+     "name": "西荻北五丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115031001",
-     "name": "松庵一丁目"
+     "name": "松庵一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115031002",
-     "name": "松庵二丁目"
+     "name": "松庵二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115031003",
-     "name": "松庵三丁目"
+     "name": "松庵三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -2342,55 +5028,406 @@
    "towns": [
     {
      "code": "13115019001",
-     "name": "荻窪一丁目"
+     "name": "荻窪一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115019002",
-     "name": "荻窪二丁目"
+     "name": "荻窪二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115019003",
-     "name": "荻窪三丁目"
+     "name": "荻窪三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115019004",
-     "name": "荻窪四丁目"
+     "name": "荻窪四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115019005",
-     "name": "荻窪五丁目"
+     "name": "荻窪五丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115020001",
-     "name": "南荻窪一丁目"
+     "name": "南荻窪一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115020002",
-     "name": "南荻窪二丁目"
+     "name": "南荻窪二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115020003",
-     "name": "南荻窪三丁目"
+     "name": "南荻窪三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115020004",
-     "name": "南荻窪四丁目"
+     "name": "南荻窪四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115021001",
-     "name": "上荻一丁目"
+     "name": "上荻一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "THU"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "TUE"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "THU"
+       ]
+      }
+     }
     },
     {
      "code": "13115021002",
-     "name": "上荻二丁目"
+     "name": "上荻二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115021003",
-     "name": "上荻三丁目"
+     "name": "上荻三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     },
     {
      "code": "13115021004",
-     "name": "上荻四丁目"
+     "name": "上荻四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "FRI"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "FRI"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -2577,23 +5614,158 @@
    "towns": [
     {
      "code": "13115008001",
-     "name": "松ノ木一丁目"
+     "name": "松ノ木一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115008002",
-     "name": "松ノ木二丁目"
+     "name": "松ノ木二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115008003",
-     "name": "松ノ木三丁目"
+     "name": "松ノ木三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115009001",
-     "name": "大宮一丁目"
+     "name": "大宮一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115009002",
-     "name": "大宮二丁目"
+     "name": "大宮二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "WED",
+        "SAT"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "FRI"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -2733,15 +5905,96 @@
    "towns": [
     {
      "code": "13115025001",
-     "name": "清水一丁目"
+     "name": "清水一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115025002",
-     "name": "清水二丁目"
+     "name": "清水二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115025003",
-     "name": "清水三丁目"
+     "name": "清水三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -2857,23 +6110,158 @@
    "towns": [
     {
      "code": "13115003001",
-     "name": "下高井戸一丁目"
+     "name": "下高井戸一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115003002",
-     "name": "下高井戸二丁目"
+     "name": "下高井戸二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115003003",
-     "name": "下高井戸三丁目"
+     "name": "下高井戸三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115003004",
-     "name": "下高井戸四丁目"
+     "name": "下高井戸四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "WED"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "WED"
+       ]
+      }
+     }
     },
     {
      "code": "13115003005",
-     "name": "下高井戸五丁目"
+     "name": "下高井戸五丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -2987,31 +6375,220 @@
    "towns": [
     {
      "code": "13115034001",
-     "name": "高井戸東一丁目"
+     "name": "高井戸東一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115034002",
-     "name": "高井戸東二丁目"
+     "name": "高井戸東二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115034003",
-     "name": "高井戸東三丁目"
+     "name": "高井戸東三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115034004",
-     "name": "高井戸東四丁目"
+     "name": "高井戸東四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "WED"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115035001",
-     "name": "高井戸西一丁目"
+     "name": "高井戸西一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115035002",
-     "name": "高井戸西二丁目"
+     "name": "高井戸西二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     },
     {
      "code": "13115035003",
-     "name": "高井戸西三丁目"
+     "name": "高井戸西三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "MON",
+        "THU"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "TUE"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "SAT"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "TUE"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -3151,15 +6728,96 @@
    "towns": [
     {
      "code": "13115006001",
-     "name": "和田一丁目"
+     "name": "和田一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115006002",
-     "name": "和田二丁目"
+     "name": "和田二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     },
     {
      "code": "13115006003",
-     "name": "和田三丁目"
+     "name": "和田三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "MON"
+       ],
+       "weeks": [
+        2,
+        4
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "THU"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "MON"
+       ]
+      }
+     }
     }
    ],
    "moments": [
@@ -3248,19 +6906,127 @@
    "towns": [
     {
      "code": "13115030001",
-     "name": "善福寺一丁目"
+     "name": "善福寺一丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115030002",
-     "name": "善福寺二丁目"
+     "name": "善福寺二丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115030003",
-     "name": "善福寺三丁目"
+     "name": "善福寺三丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     },
     {
      "code": "13115030004",
-     "name": "善福寺四丁目"
+     "name": "善福寺四丁目",
+     "trash": {
+      "burnable": {
+       "days": [
+        "TUE",
+        "FRI"
+       ]
+      },
+      "non_burnable": {
+       "days": [
+        "SAT"
+       ],
+       "weeks": [
+        1,
+        3
+       ]
+      },
+      "bottles_cans_plastic": {
+       "days": [
+        "MON"
+       ]
+      },
+      "paper_pet": {
+       "days": [
+        "SAT"
+       ]
+      }
+     }
     }
    ],
    "moments": [

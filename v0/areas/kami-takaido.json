@@ -1,12 +1,19 @@
 {
  "version": 0,
- "revision": 1790150427,
+ "revision": 1790296209,
  "languages": [
   "en",
   "ja"
  ],
  "attribution": {
-  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/",
+  "trash": {
+   "name": {
+    "en": "Suginami City: collection days for waste and recyclables",
+    "ja": "杉並区「ごみ・資源の収集曜日」"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/documents/12125/garbage.csv"
+  }
  },
  "area": {
   "id": "kami-takaido",
@@ -17,15 +24,96 @@
   "towns": [
    {
     "code": "13115036001",
-    "name": "上高井戸一丁目"
+    "name": "上高井戸一丁目",
+    "trash": {
+     "burnable": {
+      "days": [
+       "MON",
+       "THU"
+      ]
+     },
+     "non_burnable": {
+      "days": [
+       "TUE"
+      ],
+      "weeks": [
+       1,
+       3
+      ]
+     },
+     "bottles_cans_plastic": {
+      "days": [
+       "SAT"
+      ]
+     },
+     "paper_pet": {
+      "days": [
+       "TUE"
+      ]
+     }
+    }
    },
    {
     "code": "13115036002",
-    "name": "上高井戸二丁目"
+    "name": "上高井戸二丁目",
+    "trash": {
+     "burnable": {
+      "days": [
+       "MON",
+       "THU"
+      ]
+     },
+     "non_burnable": {
+      "days": [
+       "TUE"
+      ],
+      "weeks": [
+       1,
+       3
+      ]
+     },
+     "bottles_cans_plastic": {
+      "days": [
+       "SAT"
+      ]
+     },
+     "paper_pet": {
+      "days": [
+       "TUE"
+      ]
+     }
+    }
    },
    {
     "code": "13115036003",
-    "name": "上高井戸三丁目"
+    "name": "上高井戸三丁目",
+    "trash": {
+     "burnable": {
+      "days": [
+       "MON",
+       "THU"
+      ]
+     },
+     "non_burnable": {
+      "days": [
+       "TUE"
+      ],
+      "weeks": [
+       1,
+       3
+      ]
+     },
+     "bottles_cans_plastic": {
+      "days": [
+       "SAT"
+      ]
+     },
+     "paper_pet": {
+      "days": [
+       "TUE"
+      ]
+     }
+    }
    }
   ],
   "moments": [

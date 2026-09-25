@@ -1,9 +1,16 @@
 {
  "type": "FeatureCollection",
  "version": 0,
- "revision": 1790150427,
+ "revision": 1790296209,
  "attribution": {
-  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/"
+  "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/",
+  "trash": {
+   "name": {
+    "en": "Suginami City: collection days for waste and recyclables",
+    "ja": "杉並区「ごみ・資源の収集曜日」"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/documents/12125/garbage.csv"
+  }
  },
  "features": [
   {
