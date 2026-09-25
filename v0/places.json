@@ -1,0 +1,8781 @@
+{
+ "version": 0,
+ "revision": 1790314606,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "parks": [
+  {
+   "id": "荻窪公園",
+   "name": "荻窪公園",
+   "address": "杉並区荻窪2丁目27番8号",
+   "location": [
+    35.697614,
+    139.619787
+   ],
+   "area_m2": 1382,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "関根文化公園",
+   "name": "関根文化公園",
+   "address": "杉並区上荻4丁目2番10号",
+   "location": [
+    35.708835,
+    139.604982
+   ],
+   "area_m2": 2480,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "西永福公園",
+   "name": "西永福公園",
+   "address": "杉並区永福3丁目40番6号",
+   "location": [
+    35.677681,
+    139.636725
+   ],
+   "area_m2": 2518,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "和田堀公園",
+   "name": "和田堀公園",
+   "address": "杉並区松ノ木1丁目3番24号",
+   "location": [
+    35.685218,
+    139.641211
+   ],
+   "area_m2": 27574,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "方南公園",
+   "name": "方南公園",
+   "address": "杉並区方南2丁目28番24号",
+   "location": [
+    35.686167,
+    139.658773
+   ],
+   "area_m2": 2670,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "和田公園",
+   "name": "和田公園",
+   "address": "杉並区和田2丁目1番11号",
+   "location": [
+    35.687369,
+    139.661382
+   ],
+   "area_m2": 2737
+  },
+  {
+   "id": "妙正寺公園",
+   "name": "妙正寺公園",
+   "address": "杉並区清水3丁目21番21号",
+   "location": [
+    35.717259,
+    139.618227
+   ],
+   "area_m2": 12444,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高円寺北公園",
+   "name": "高円寺北公園",
+   "address": "杉並区高円寺北3丁目20番15号",
+   "location": [
+    35.707231,
+    139.648921
+   ],
+   "area_m2": 1809
+  },
+  {
+   "id": "大宮児童公園",
+   "name": "大宮児童公園",
+   "address": "杉並区大宮2丁目4番10号",
+   "location": [
+    35.681741,
+    139.639711
+   ],
+   "area_m2": 1587,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高円寺中央公園",
+   "name": "高円寺中央公園",
+   "address": "杉並区高円寺南4丁目31番7号",
+   "location": [
+    35.70383,
+    139.651598
+   ],
+   "area_m2": 1501
+  },
+  {
+   "id": "梅里公園",
+   "name": "梅里公園",
+   "address": "杉並区梅里1丁目1番55号",
+   "location": [
+    35.695477,
+    139.653813
+   ],
+   "area_m2": 5621,
+   "toilet": {
+    "accessible": true,
+    "baby": false
+   }
+  },
+  {
+   "id": "三谷公園",
+   "name": "三谷公園",
+   "address": "杉並区上井草3丁目12番10号",
+   "location": [
+    35.719458,
+    139.600043
+   ],
+   "area_m2": 2811,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高円寺東公園",
+   "name": "高円寺東公園",
+   "address": "杉並区高円寺南5丁目11番7号",
+   "location": [
+    35.702025,
+    139.65839
+   ],
+   "area_m2": 2719,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "済美公園",
+   "name": "済美公園",
+   "address": "杉並区堀ノ内1丁目27番40号",
+   "location": [
+    35.687726,
+    139.649228
+   ],
+   "area_m2": 6521,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "玉川上水公園",
+   "name": "玉川上水公園",
+   "address": "杉並区和泉2丁目7番19号",
+   "location": [
+    35.671099,
+    139.650713
+   ],
+   "area_m2": 4253,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "玉川上水第二公園",
+   "name": "玉川上水第二公園",
+   "address": "杉並区下高井戸3丁目1番14号",
+   "location": [
+    35.670917,
+    139.629813
+   ],
+   "area_m2": 13194
+  },
+  {
+   "id": "桃園川緑道",
+   "name": "桃園川緑道",
+   "address": "杉並区高円寺南1丁目34番10号",
+   "location": [
+    35.702645,
+    139.650501
+   ],
+   "area_m2": 8949,
+   "toilet": {
+    "accessible": true,
+    "baby": false
+   }
+  },
+  {
+   "id": "大宮前公園",
+   "name": "大宮前公園",
+   "address": "杉並区宮前3丁目15番10号",
+   "location": [
+    35.696535,
+    139.606043
+   ],
+   "area_m2": 3827,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "桃井公園",
+   "name": "桃井公園",
+   "address": "杉並区桃井1丁目19番6号",
+   "location": [
+    35.711446,
+    139.612279
+   ],
+   "area_m2": 1316
+  },
+  {
+   "id": "高円寺南公園",
+   "name": "高円寺南公園",
+   "address": "杉並区高円寺南3丁目30番26号",
+   "location": [
+    35.702045,
+    139.645053
+   ],
+   "area_m2": 768,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "宮下公園",
+   "name": "宮下公園",
+   "address": "杉並区宮前2丁目27番30号",
+   "location": [
+    35.692217,
+    139.615072
+   ],
+   "area_m2": 1298,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "井荻公園",
+   "name": "井荻公園",
+   "address": "杉並区西荻北4丁目38番17号",
+   "location": [
+    35.708963,
+    139.597353
+   ],
+   "area_m2": 3939,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "矢頭公園",
+   "name": "矢頭公園",
+   "address": "杉並区井草4丁目3番5号",
+   "location": [
+    35.725362,
+    139.610292
+   ],
+   "area_m2": 1169
+  },
+  {
+   "id": "東原公園",
+   "name": "東原公園",
+   "address": "杉並区下井草1丁目29番1号",
+   "location": [
+    35.717007,
+    139.630269
+   ],
+   "area_m2": 662,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "八成公園",
+   "name": "八成公園",
+   "address": "杉並区井草2丁目27番8号",
+   "location": [
+    35.728411,
+    139.62039
+   ],
+   "area_m2": 595,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "松ノ木公園",
+   "name": "松ノ木公園",
+   "address": "杉並区松ノ木2丁目20番5号",
+   "location": [
+    35.69111,
+    139.641592
+   ],
+   "area_m2": 663,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "阿佐谷中央公園",
+   "name": "阿佐谷中央公園",
+   "address": "杉並区阿佐谷北1丁目39番24号",
+   "location": [
+    35.709253,
+    139.638073
+   ],
+   "area_m2": 2257,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "阿佐谷南公園",
+   "name": "阿佐谷南公園",
+   "address": "杉並区阿佐谷南3丁目16番18号",
+   "location": [
+    35.703419,
+    139.629646
+   ],
+   "area_m2": 1178,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "浜田山東公園",
+   "name": "浜田山東公園",
+   "address": "杉並区浜田山3丁目11番17号",
+   "location": [
+    35.680989,
+    139.631902
+   ],
+   "area_m2": 661,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "玉川上水第三公園",
+   "name": "玉川上水第三公園",
+   "address": "杉並区下高井戸2丁目1番1号",
+   "location": [
+    35.668501,
+    139.638526
+   ],
+   "area_m2": 12251,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "和田北公園",
+   "name": "和田北公園",
+   "address": "杉並区和田3丁目41番20号",
+   "location": [
+    35.696257,
+    139.658735
+   ],
+   "area_m2": 1018,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "堀ノ内東公園",
+   "name": "堀ノ内東公園",
+   "address": "杉並区堀ノ内3丁目49番11号",
+   "location": [
+    35.692147,
+    139.653741
+   ],
+   "area_m2": 1233,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "永福南公園",
+   "name": "永福南公園",
+   "address": "杉並区永福2丁目6番23号",
+   "location": [
+    35.670939,
+    139.639064
+   ],
+   "area_m2": 1647,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "杉並児童交通公園",
+   "name": "杉並児童交通公園",
+   "address": "杉並区成田西1丁目22番13号",
+   "location": [
+    35.688556,
+    139.631642
+   ],
+   "area_m2": 9187,
+   "toilet": {
+    "accessible": false,
+    "baby": true
+   }
+  },
+  {
+   "id": "べんてんばし公園",
+   "name": "べんてんばし公園",
+   "address": "杉並区和泉4丁目17番29号",
+   "location": [
+    35.680852,
+    139.652698
+   ],
+   "area_m2": 1419,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "久我山公園",
+   "name": "久我山公園",
+   "address": "杉並区久我山3丁目37番3号",
+   "location": [
+    35.688806,
+    139.59769
+   ],
+   "area_m2": 1816,
+   "toilet": {
+    "accessible": true,
+    "baby": false
+   }
+  },
+  {
+   "id": "永福北公園",
+   "name": "永福北公園",
+   "address": "杉並区永福4丁目26番4号",
+   "location": [
+    35.680553,
+    139.641942
+   ],
+   "area_m2": 602,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "天沼東公園",
+   "name": "天沼東公園",
+   "address": "杉並区天沼1丁目32番11号",
+   "location": [
+    35.708016,
+    139.627621
+   ],
+   "area_m2": 587
+  },
+  {
+   "id": "道灌公園",
+   "name": "道灌公園",
+   "address": "杉並区今川4丁目27番7号",
+   "location": [
+    35.717679,
+    139.601367
+   ],
+   "area_m2": 661,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高井戸東公園",
+   "name": "高井戸東公園",
+   "address": "杉並区高井戸東4丁目19番10号",
+   "location": [
+    35.688961,
+    139.621405
+   ],
+   "area_m2": 882,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "浅間橋公園",
+   "name": "浅間橋公園",
+   "address": "杉並区上高井戸2丁目16番10号",
+   "location": [
+    35.678925,
+    139.606758
+   ],
+   "area_m2": 1340,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "富士見丘北公園",
+   "name": "富士見丘北公園",
+   "address": "杉並区久我山5丁目24番23号",
+   "location": [
+    35.687808,
+    139.607753
+   ],
+   "area_m2": 2188,
+   "toilet": {
+    "accessible": true,
+    "baby": false
+   }
+  },
+  {
+   "id": "下高井戸西公園",
+   "name": "下高井戸西公園",
+   "address": "杉並区下高井戸5丁目9番24号",
+   "location": [
+    35.674001,
+    139.622849
+   ],
+   "area_m2": 2502,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "浜田山公園",
+   "name": "浜田山公園",
+   "address": "杉並区浜田山2丁目17番1号",
+   "location": [
+    35.681267,
+    139.626597
+   ],
+   "area_m2": 4595,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "西宮公園",
+   "name": "西宮公園",
+   "address": "杉並区宮前5丁目14番7号",
+   "location": [
+    35.693657,
+    139.60081
+   ],
+   "area_m2": 499,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "方南中央公園",
+   "name": "方南中央公園",
+   "address": "杉並区方南1丁目51番20号",
+   "location": [
+    35.679302,
+    139.659927
+   ],
+   "area_m2": 1428,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "井草北公園",
+   "name": "井草北公園",
+   "address": "杉並区井草3丁目20番10号",
+   "location": [
+    35.728262,
+    139.616321
+   ],
+   "area_m2": 995,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "本天沼南公園",
+   "name": "本天沼南公園",
+   "address": "杉並区本天沼2丁目3番10号",
+   "location": [
+    35.712156,
+    139.62777
+   ],
+   "area_m2": 1190,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "つくだ公園",
+   "name": "つくだ公園",
+   "address": "杉並区高井戸東2丁目13番16号",
+   "location": [
+    35.68059,
+    139.614986
+   ],
+   "area_m2": 1135,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "井草公園",
+   "name": "井草公園",
+   "address": "杉並区井草2丁目21番1号",
+   "location": [
+    35.727256,
+    139.619038
+   ],
+   "area_m2": 2844,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "小鳩公園",
+   "name": "小鳩公園",
+   "address": "杉並区宮前3丁目29番2号",
+   "location": [
+    35.696456,
+    139.60816
+   ],
+   "area_m2": 595,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "松庵公園",
+   "name": "松庵公園",
+   "address": "杉並区松庵1丁目14番22号",
+   "location": [
+    35.696819,
+    139.592076
+   ],
+   "area_m2": 1360,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "谷中公園",
+   "name": "谷中公園",
+   "address": "杉並区堀ノ内2丁目38番11号",
+   "location": [
+    35.689153,
+    139.648821
+   ],
+   "area_m2": 640
+  },
+  {
+   "id": "浜田山南公園",
+   "name": "浜田山南公園",
+   "address": "杉並区浜田山1丁目17番10号",
+   "location": [
+    35.677167,
+    139.632465
+   ],
+   "area_m2": 818,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "阿佐谷東公園",
+   "name": "阿佐谷東公園",
+   "address": "杉並区阿佐谷南1丁目42番6号",
+   "location": [
+    35.701827,
+    139.640092
+   ],
+   "area_m2": 1845,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高井戸西公園",
+   "name": "高井戸西公園",
+   "address": "杉並区高井戸西3丁目6番18号",
+   "location": [
+    35.689185,
+    139.613387
+   ],
+   "area_m2": 3000,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "三泉淵緑地",
+   "name": "三泉淵緑地",
+   "address": "杉並区高井戸東1丁目15番12号",
+   "location": [
+    35.679723,
+    139.620799
+   ],
+   "area_m2": 1663
+  },
+  {
+   "id": "三泉淵第二公園",
+   "name": "三泉淵第二公園",
+   "address": "杉並区高井戸東1丁目15番8号",
+   "location": [
+    35.680026,
+    139.620342
+   ],
+   "area_m2": 390,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "上井草西公園",
+   "name": "上井草西公園",
+   "address": "杉並区上井草4丁目8番9号",
+   "location": [
+    35.7202,
+    139.595508
+   ],
+   "area_m2": 913
+  },
+  {
+   "id": "四宮公園",
+   "name": "四宮公園",
+   "address": "杉並区上井草2丁目27番12号",
+   "location": [
+    35.722864,
+    139.606974
+   ],
+   "area_m2": 392,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "南荻窪公園",
+   "name": "南荻窪公園",
+   "address": "杉並区南荻窪1丁目28番11号",
+   "location": [
+    35.696438,
+    139.613177
+   ],
+   "area_m2": 710,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "かえる公園",
+   "name": "かえる公園",
+   "address": "杉並区高円寺南1丁目16番12号",
+   "location": [
+    35.700389,
+    139.657173
+   ],
+   "area_m2": 288
+  },
+  {
+   "id": "天沼西公園",
+   "name": "天沼西公園",
+   "address": "杉並区天沼3丁目17番27号",
+   "location": [
+    35.709033,
+    139.619699
+   ],
+   "area_m2": 1061,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "東二公園",
+   "name": "東二公園",
+   "address": "杉並区成田東1丁目39番1号",
+   "location": [
+    35.693022,
+    139.640351
+   ],
+   "area_m2": 1032,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "西田公園",
+   "name": "西田公園",
+   "address": "杉並区荻窪2丁目15番11号",
+   "location": [
+    35.695575,
+    139.620772
+   ],
+   "area_m2": 783,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "住吉公園",
+   "name": "住吉公園",
+   "address": "杉並区井草3丁目15番5号",
+   "location": [
+    35.726981,
+    139.61485
+   ],
+   "area_m2": 754,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "だいしょうじ公園",
+   "name": "だいしょうじ公園",
+   "address": "杉並区堀ノ内1丁目9番26号",
+   "location": [
+    35.683709,
+    139.650827
+   ],
+   "area_m2": 683,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "たかはら公園",
+   "name": "たかはら公園",
+   "address": "杉並区高円寺北1丁目10番1号",
+   "location": [
+    35.706086,
+    139.658003
+   ],
+   "area_m2": 2308,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "松ノ木北公園",
+   "name": "松ノ木北公園",
+   "address": "杉並区松ノ木3丁目17番16号",
+   "location": [
+    35.694226,
+    139.645103
+   ],
+   "area_m2": 374,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高南小公園",
+   "name": "高南小公園",
+   "address": "杉並区高円寺南2丁目47番7号",
+   "location": [
+    35.701951,
+    139.648382
+   ],
+   "area_m2": 254,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "上井草向山公園",
+   "name": "上井草向山公園",
+   "address": "杉並区上井草2丁目39番19号",
+   "location": [
+    35.724005,
+    139.606109
+   ],
+   "area_m2": 591,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "松渓公園",
+   "name": "松渓公園",
+   "address": "杉並区荻窪1丁目39番1号",
+   "location": [
+    35.695076,
+    139.621689
+   ],
+   "area_m2": 3552,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "善福寺西の山公園",
+   "name": "善福寺西の山公園",
+   "address": "杉並区善福寺4丁目8番2号",
+   "location": [
+    35.716304,
+    139.585881
+   ],
+   "area_m2": 390,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "すぎのこ公園",
+   "name": "すぎのこ公園",
+   "address": "杉並区下井草1丁目25番39号",
+   "location": [
+    35.716457,
+    139.631106
+   ],
+   "area_m2": 336,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "阿佐谷西公園",
+   "name": "阿佐谷西公園",
+   "address": "杉並区阿佐谷北2丁目32番21号",
+   "location": [
+    35.707181,
+    139.633225
+   ],
+   "area_m2": 1109,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "昭栄公園",
+   "name": "昭栄公園",
+   "address": "杉並区高井戸西1丁目12番2号",
+   "location": [
+    35.680315,
+    139.607979
+   ],
+   "area_m2": 4950,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "本天沼北公園",
+   "name": "本天沼北公園",
+   "address": "杉並区本天沼2丁目38番9号",
+   "location": [
+    35.715523,
+    139.626461
+   ],
+   "area_m2": 368
+  },
+  {
+   "id": "善福寺中山公園",
+   "name": "善福寺中山公園",
+   "address": "杉並区善福寺3丁目33番12号",
+   "location": [
+    35.715729,
+    139.586638
+   ],
+   "area_m2": 389
+  },
+  {
+   "id": "久我山つくし公園",
+   "name": "久我山つくし公園",
+   "address": "杉並区久我山4丁目13番24号",
+   "location": [
+    35.690613,
+    139.596458
+   ],
+   "area_m2": 397,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "堀ノ内南公園",
+   "name": "堀ノ内南公園",
+   "address": "杉並区堀ノ内2丁目17番32号",
+   "location": [
+    35.688077,
+    139.653383
+   ],
+   "area_m2": 660,
+   "toilet": {
+    "accessible": true,
+    "baby": false
+   }
+  },
+  {
+   "id": "中通公園",
+   "name": "中通公園",
+   "address": "杉並区桃井1丁目33番9号",
+   "location": [
+    35.714155,
+    139.611335
+   ],
+   "area_m2": 660,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "おしかわ公園",
+   "name": "おしかわ公園",
+   "address": "杉並区荻窪5丁目2番13号",
+   "location": [
+    35.700781,
+    139.61776
+   ],
+   "area_m2": 345,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "松庵東公園",
+   "name": "松庵東公園",
+   "address": "杉並区松庵2丁目10番9号",
+   "location": [
+    35.697015,
+    139.595838
+   ],
+   "area_m2": 761,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "やなぎ公園",
+   "name": "やなぎ公園",
+   "address": "杉並区高円寺南1丁目12番14号",
+   "location": [
+    35.698796,
+    139.655752
+   ],
+   "area_m2": 440
+  },
+  {
+   "id": "上高井戸南公園",
+   "name": "上高井戸南公園",
+   "address": "杉並区上高井戸1丁目15番3号",
+   "location": [
+    35.670944,
+    139.612681
+   ],
+   "area_m2": 1058,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "浜田山かなめ公園",
+   "name": "浜田山かなめ公園",
+   "address": "杉並区浜田山3丁目35番7号",
+   "location": [
+    35.683721,
+    139.626241
+   ],
+   "area_m2": 771,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "阿佐谷にしはら公園",
+   "name": "阿佐谷にしはら公園",
+   "address": "杉並区阿佐谷南1丁目21番28号",
+   "location": [
+    35.699846,
+    139.641771
+   ],
+   "area_m2": 1657,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "下井草二丁目公園",
+   "name": "下井草二丁目公園",
+   "address": "杉並区下井草2丁目16番18号",
+   "location": [
+    35.719483,
+    139.627939
+   ],
+   "area_m2": 504
+  },
+  {
+   "id": "松ノ木中央公園",
+   "name": "松ノ木中央公園",
+   "address": "杉並区松ノ木2丁目24番13号",
+   "location": [
+    35.690995,
+    139.643441
+   ],
+   "area_m2": 539
+  },
+  {
+   "id": "大善公園",
+   "name": "大善公園",
+   "address": "杉並区宮前2丁目15番3号",
+   "location": [
+    35.692769,
+    139.611001
+   ],
+   "area_m2": 854,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "善福寺一丁目公園",
+   "name": "善福寺一丁目公園",
+   "address": "杉並区善福寺1丁目18番7号",
+   "location": [
+    35.712885,
+    139.59778
+   ],
+   "area_m2": 661,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高円寺北二公園",
+   "name": "高円寺北二公園",
+   "address": "杉並区高円寺北2丁目16番15号",
+   "location": [
+    35.706947,
+    139.652704
+   ],
+   "area_m2": 1114,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "和泉がけ公園",
+   "name": "和泉がけ公園",
+   "address": "杉並区和泉4丁目18番5号",
+   "location": [
+    35.679918,
+    139.652628
+   ],
+   "area_m2": 883,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "一本橋公園",
+   "name": "一本橋公園",
+   "address": "杉並区和泉4丁目18番28号",
+   "location": [
+    35.679564,
+    139.651003
+   ],
+   "area_m2": 716
+  },
+  {
+   "id": "成宗公園",
+   "name": "成宗公園",
+   "address": "杉並区成田東5丁目15番12号",
+   "location": [
+    35.70194,
+    139.628358
+   ],
+   "area_m2": 1206,
+   "toilet": {
+    "accessible": true,
+    "baby": false
+   }
+  },
+  {
+   "id": "ひまわり公園",
+   "name": "ひまわり公園",
+   "address": "杉並区永福1丁目7番6号",
+   "location": [
+    35.669342,
+    139.642291
+   ],
+   "area_m2": 1626,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "どんぐり緑地",
+   "name": "どんぐり緑地",
+   "address": "杉並区永福1丁目7番28号",
+   "location": [
+    35.670944,
+    139.645325
+   ],
+   "area_m2": 686
+  },
+  {
+   "id": "馬橋北公園",
+   "name": "馬橋北公園",
+   "address": "杉並区高円寺北3丁目11番12号",
+   "location": [
+    35.707193,
+    139.646433
+   ],
+   "area_m2": 314
+  },
+  {
+   "id": "玉川上水永泉寺緑地",
+   "name": "玉川上水永泉寺緑地",
+   "address": "杉並区永福1丁目4番1号",
+   "location": [
+    35.668025,
+    139.642931
+   ],
+   "area_m2": 4813,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "和田西公園",
+   "name": "和田西公園",
+   "address": "杉並区和田3丁目15番18号",
+   "location": [
+    35.69229,
+    139.655205
+   ],
+   "area_m2": 372,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "なかよし公園",
+   "name": "なかよし公園",
+   "address": "杉並区宮前5丁目19番2号",
+   "location": [
+    35.694421,
+    139.601384
+   ],
+   "area_m2": 550,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "堂の上公園",
+   "name": "堂の上公園",
+   "address": "杉並区高井戸東1丁目1番16号",
+   "location": [
+    35.677461,
+    139.619939
+   ],
+   "area_m2": 275
+  },
+  {
+   "id": "堀ノ内二丁目公園",
+   "name": "堀ノ内二丁目公園",
+   "address": "杉並区堀ノ内2丁目6番1号",
+   "location": [
+    35.686409,
+    139.652796
+   ],
+   "area_m2": 137
+  },
+  {
+   "id": "まてば緑地",
+   "name": "まてば緑地",
+   "address": "杉並区宮前2丁目29番18号",
+   "location": [
+    35.692743,
+    139.616308
+   ],
+   "area_m2": 399
+  },
+  {
+   "id": "方南二丁目公園",
+   "name": "方南二丁目公園",
+   "address": "杉並区方南2丁目6番11号",
+   "location": [
+    35.680978,
+    139.658836
+   ],
+   "area_m2": 1485,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "四宮森公園",
+   "name": "四宮森公園",
+   "address": "杉並区上井草2丁目41番25号",
+   "location": [
+    35.724284,
+    139.608684
+   ],
+   "area_m2": 1853,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "四宮南公園",
+   "name": "四宮南公園",
+   "address": "杉並区上井草2丁目3番11号",
+   "location": [
+    35.719444,
+    139.609674
+   ],
+   "area_m2": 236
+  },
+  {
+   "id": "今川三丁目公園",
+   "name": "今川三丁目公園",
+   "address": "杉並区今川3丁目3番7号",
+   "location": [
+    35.71508,
+    139.606226
+   ],
+   "area_m2": 389,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "馬橋北第二公園",
+   "name": "馬橋北第二公園",
+   "address": "杉並区高円寺北3丁目26番9号",
+   "location": [
+    35.708006,
+    139.647105
+   ],
+   "area_m2": 434
+  },
+  {
+   "id": "高井戸正用公園",
+   "name": "高井戸正用公園",
+   "address": "杉並区高井戸東3丁目14番23号",
+   "location": [
+    35.684484,
+    139.624386
+   ],
+   "area_m2": 1029,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "和泉二丁目公園",
+   "name": "和泉二丁目公園",
+   "address": "杉並区和泉2丁目45番10号",
+   "location": [
+    35.677229,
+    139.649793
+   ],
+   "area_m2": 2666,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "柳窪公園",
+   "name": "柳窪公園",
+   "address": "杉並区高井戸東4丁目12番26号",
+   "location": [
+    35.691532,
+    139.618636
+   ],
+   "area_m2": 1317,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "瀬戸原緑地",
+   "name": "瀬戸原緑地",
+   "address": "杉並区上井草2丁目17番14号",
+   "location": [
+    35.721484,
+    139.605563
+   ],
+   "area_m2": 183
+  },
+  {
+   "id": "天神橋公園",
+   "name": "天神橋公園",
+   "address": "杉並区荻窪1丁目50番33号",
+   "location": [
+    35.694717,
+    139.625418
+   ],
+   "area_m2": 1517
+  },
+  {
+   "id": "正保公園",
+   "name": "正保公園",
+   "address": "杉並区井草1丁目32番2号",
+   "location": [
+    35.727024,
+    139.622985
+   ],
+   "area_m2": 684,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "大田黒公園",
+   "name": "大田黒公園",
+   "address": "杉並区荻窪3丁目33番12号",
+   "location": [
+    35.70078,
+    139.624728
+   ],
+   "area_m2": 8972,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "松宮公園",
+   "name": "松宮公園",
+   "address": "杉並区宮前2丁目2番30号",
+   "location": [
+    35.690911,
+    139.615941
+   ],
+   "area_m2": 286
+  },
+  {
+   "id": "成田東公園",
+   "name": "成田東公園",
+   "address": "杉並区成田東4丁目11番11号",
+   "location": [
+    35.697609,
+    139.634335
+   ],
+   "area_m2": 208
+  },
+  {
+   "id": "与謝野公園",
+   "name": "与謝野公園",
+   "address": "杉並区南荻窪4丁目3番22号",
+   "location": [
+    35.698961,
+    139.615622
+   ],
+   "area_m2": 1396,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "松庵三丁目公園",
+   "name": "松庵三丁目公園",
+   "address": "杉並区松庵3丁目5番21号",
+   "location": [
+    35.699088,
+    139.597062
+   ],
+   "area_m2": 229,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高南幼児公園",
+   "name": "高南幼児公園",
+   "address": "杉並区高円寺南4丁目37番15号",
+   "location": [
+    35.704918,
+    139.6536
+   ],
+   "area_m2": 230,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高井戸わんぱく公園",
+   "name": "高井戸わんぱく公園",
+   "address": "杉並区高井戸西2丁目5番10号",
+   "location": [
+    35.684269,
+    139.611949
+   ],
+   "area_m2": 700,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "柿木公園",
+   "name": "柿木公園",
+   "address": "杉並区上井草1丁目26番18号",
+   "location": [
+    35.723788,
+    139.612316
+   ],
+   "area_m2": 300,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "梅里中央公園",
+   "name": "梅里中央公園",
+   "address": "杉並区梅里2丁目34番20号",
+   "location": [
+    35.696063,
+    139.641216
+   ],
+   "area_m2": 6286,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "山中公園",
+   "name": "山中公園",
+   "address": "杉並区高井戸西1丁目5番33号",
+   "location": [
+    35.681504,
+    139.614561
+   ],
+   "area_m2": 409,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "今川一丁目公園",
+   "name": "今川一丁目公園",
+   "address": "杉並区今川1丁目19番8号",
+   "location": [
+    35.718552,
+    139.61354
+   ],
+   "area_m2": 1746,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "井草さくら公園",
+   "name": "井草さくら公園",
+   "address": "杉並区井草1丁目17番16号",
+   "location": [
+    35.725718,
+    139.622784
+   ],
+   "area_m2": 1157,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高円寺北三丁目公園",
+   "name": "高円寺北三丁目公園",
+   "address": "杉並区高円寺北3丁目35番7号",
+   "location": [
+    35.708837,
+    139.648217
+   ],
+   "area_m2": 241
+  },
+  {
+   "id": "高井戸いずみ公園",
+   "name": "高井戸いずみ公園",
+   "address": "杉並区高井戸東3丁目31番7号",
+   "location": [
+    35.68739,
+    139.617958
+   ],
+   "area_m2": 180
+  },
+  {
+   "id": "切通し公園",
+   "name": "切通し公園",
+   "address": "杉並区上井草4丁目3番10号",
+   "location": [
+    35.717816,
+    139.597361
+   ],
+   "area_m2": 2201,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "清水一丁目公園",
+   "name": "清水一丁目公園",
+   "address": "杉並区清水1丁目28番11号",
+   "location": [
+    35.711537,
+    139.616542
+   ],
+   "area_m2": 502,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "天沼三丁目公園",
+   "name": "天沼三丁目公園",
+   "address": "杉並区天沼3丁目36番3号",
+   "location": [
+    35.709881,
+    139.622184
+   ],
+   "area_m2": 354
+  },
+  {
+   "id": "上瀬戸公園",
+   "name": "上瀬戸公園",
+   "address": "杉並区上井草3丁目16番23号",
+   "location": [
+    35.720826,
+    139.604236
+   ],
+   "area_m2": 867,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "馬橋公園",
+   "name": "馬橋公園",
+   "address": "杉並区高円寺北4丁目35番5号",
+   "location": [
+    35.709562,
+    139.643987
+   ],
+   "area_m2": 25698,
+   "toilet": {
+    "accessible": true,
+    "baby": false
+   }
+  },
+  {
+   "id": "上高井戸宿公園",
+   "name": "上高井戸宿公園",
+   "address": "杉並区上高井戸1丁目24番5号",
+   "location": [
+    35.672404,
+    139.612388
+   ],
+   "area_m2": 438,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "まつぼっくり緑地",
+   "name": "まつぼっくり緑地",
+   "address": "杉並区松庵1丁目16番1号",
+   "location": [
+    35.695635,
+    139.593244
+   ],
+   "area_m2": 251
+  },
+  {
+   "id": "高井戸みどり公園",
+   "name": "高井戸みどり公園",
+   "address": "杉並区高井戸西1丁目9番4号",
+   "location": [
+    35.679444,
+    139.610728
+   ],
+   "area_m2": 1234,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "青葉公園",
+   "name": "青葉公園",
+   "address": "杉並区松庵2丁目20番3号",
+   "location": [
+    35.698562,
+    139.593367
+   ],
+   "area_m2": 581,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "清水森公園",
+   "name": "清水森公園",
+   "address": "杉並区清水2丁目9番17号",
+   "location": [
+    35.713521,
+    139.618066
+   ],
+   "area_m2": 2492,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高円寺南二丁目公園",
+   "name": "高円寺南二丁目公園",
+   "address": "杉並区高円寺南2丁目2番12号",
+   "location": [
+    35.698857,
+    139.653337
+   ],
+   "area_m2": 328
+  },
+  {
+   "id": "ひかり公園",
+   "name": "ひかり公園",
+   "address": "杉並区高井戸東2丁目2番8号",
+   "location": [
+    35.677043,
+    139.61655
+   ],
+   "area_m2": 571,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "蚕糸の森公園",
+   "name": "蚕糸の森公園",
+   "address": "杉並区和田3丁目55番30号",
+   "location": [
+    35.697084,
+    139.656383
+   ],
+   "area_m2": 27147
+  },
+  {
+   "id": "阿佐谷ことり公園",
+   "name": "阿佐谷ことり公園",
+   "address": "杉並区阿佐谷南3丁目4番16号",
+   "location": [
+    35.701382,
+    139.633983
+   ],
+   "area_m2": 450,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "かっぱ公園",
+   "name": "かっぱ公園",
+   "address": "杉並区梅里2丁目12番2号",
+   "location": [
+    35.696192,
+    139.645118
+   ],
+   "area_m2": 507
+  },
+  {
+   "id": "阿佐谷かりん公園",
+   "name": "阿佐谷かりん公園",
+   "address": "杉並区阿佐谷北4丁目20番13号",
+   "location": [
+    35.712701,
+    139.635389
+   ],
+   "area_m2": 369,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "和田中央公園",
+   "name": "和田中央公園",
+   "address": "杉並区和田1丁目38番19号",
+   "location": [
+    35.69235,
+    139.66157
+   ],
+   "area_m2": 2128,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "成田かっぱ公園",
+   "name": "成田かっぱ公園",
+   "address": "杉並区成田西1丁目2番30号",
+   "location": [
+    35.684513,
+    139.637466
+   ],
+   "area_m2": 2356,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "一本松公園",
+   "name": "一本松公園",
+   "address": "杉並区下井草1丁目3番12号",
+   "location": [
+    35.715335,
+    139.634548
+   ],
+   "area_m2": 485,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "上高井戸東公園",
+   "name": "上高井戸東公園",
+   "address": "杉並区上高井戸3丁目4番20号",
+   "location": [
+    35.674913,
+    139.617996
+   ],
+   "area_m2": 280
+  },
+  {
+   "id": "新栄緑地",
+   "name": "新栄緑地",
+   "address": "杉並区高井戸東2丁目1番14号",
+   "location": [
+    35.67734,
+    139.617406
+   ],
+   "area_m2": 197
+  },
+  {
+   "id": "東二第三公園",
+   "name": "東二第三公園",
+   "address": "杉並区成田東3丁目27番24号",
+   "location": [
+    35.693983,
+    139.637949
+   ],
+   "area_m2": 756,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "善福寺美樹園公園",
+   "name": "善福寺美樹園公園",
+   "address": "杉並区善福寺4丁目3番29号",
+   "location": [
+    35.718002,
+    139.592324
+   ],
+   "area_m2": 500
+  },
+  {
+   "id": "はるたけ公園",
+   "name": "はるたけ公園",
+   "address": "杉並区宮前2丁目2番17号",
+   "location": [
+    35.691588,
+    139.615672
+   ],
+   "area_m2": 304
+  },
+  {
+   "id": "高南みどり公園",
+   "name": "高南みどり公園",
+   "address": "杉並区高円寺南4丁目1番8号",
+   "location": [
+    35.701915,
+    139.654484
+   ],
+   "area_m2": 211,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "井草ひまわり公園",
+   "name": "井草ひまわり公園",
+   "address": "杉並区井草4丁目8番21号",
+   "location": [
+    35.725903,
+    139.611754
+   ],
+   "area_m2": 342
+  },
+  {
+   "id": "松ノ木坂下公園",
+   "name": "松ノ木坂下公園",
+   "address": "杉並区松ノ木2丁目3番15号",
+   "location": [
+    35.690122,
+    139.645623
+   ],
+   "area_m2": 292
+  },
+  {
+   "id": "下高井戸仲町緑地",
+   "name": "下高井戸仲町緑地",
+   "address": "杉並区下高井戸4丁目2番29号",
+   "location": [
+    35.669996,
+    139.630254
+   ],
+   "area_m2": 307
+  },
+  {
+   "id": "堀ノ内三丁目公園",
+   "name": "堀ノ内三丁目公園",
+   "address": "杉並区堀ノ内3丁目44番10号",
+   "location": [
+    35.693708,
+    139.651047
+   ],
+   "area_m2": 509,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "塚山公園",
+   "name": "塚山公園",
+   "address": "杉並区下高井戸5丁目23番12号",
+   "location": [
+    35.675418,
+    139.625013
+   ],
+   "area_m2": 28701
+  },
+  {
+   "id": "尾崎公園",
+   "name": "尾崎公園",
+   "address": "杉並区成田西1丁目21番21号",
+   "location": [
+    35.688239,
+    139.631249
+   ],
+   "area_m2": 408
+  },
+  {
+   "id": "兵庫橋公園",
+   "name": "兵庫橋公園",
+   "address": "杉並区久我山3丁目5番37号",
+   "location": [
+    35.685531,
+    139.594111
+   ],
+   "area_m2": 1133,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "喜花公園",
+   "name": "喜花公園",
+   "address": "杉並区下高井戸4丁目6番15号",
+   "location": [
+    35.671207,
+    139.627727
+   ],
+   "area_m2": 278
+  },
+  {
+   "id": "上水橋緑地",
+   "name": "上水橋緑地",
+   "address": "杉並区方南1丁目52番24号",
+   "location": [
+    35.68014,
+    139.657982
+   ],
+   "area_m2": 756
+  },
+  {
+   "id": "新高円寺公園",
+   "name": "新高円寺公園",
+   "address": "杉並区高円寺南3丁目16番5号",
+   "location": [
+    35.699117,
+    139.645559
+   ],
+   "area_m2": 555,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "緑橋緑地",
+   "name": "緑橋緑地",
+   "address": "杉並区久我山3丁目30番2号",
+   "location": [
+    35.688576,
+    139.594241
+   ],
+   "area_m2": 671
+  },
+  {
+   "id": "宮下橋公園",
+   "name": "宮下橋公園",
+   "address": "杉並区久我山3丁目27番15号",
+   "location": [
+    35.687409,
+    139.5964
+   ],
+   "area_m2": 2776,
+   "toilet": {
+    "accessible": true,
+    "baby": false
+   }
+  },
+  {
+   "id": "上高井戸西原緑地",
+   "name": "上高井戸西原緑地",
+   "address": "杉並区上高井戸2丁目17番32号",
+   "location": [
+    35.678458,
+    139.606362
+   ],
+   "area_m2": 245
+  },
+  {
+   "id": "西荻南児童公園",
+   "name": "西荻南児童公園",
+   "address": "杉並区西荻南3丁目4番5号",
+   "location": [
+    35.701346,
+    139.60205
+   ],
+   "area_m2": 342,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "浜田山一丁目公園",
+   "name": "浜田山一丁目公園",
+   "address": "杉並区浜田山1丁目25番24号",
+   "location": [
+    35.679534,
+    139.630326
+   ],
+   "area_m2": 1246,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "はら公園",
+   "name": "はら公園",
+   "address": "杉並区成田西1丁目16番4号",
+   "location": [
+    35.685731,
+    139.632699
+   ],
+   "area_m2": 1150,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "久我山中央緑地",
+   "name": "久我山中央緑地",
+   "address": "杉並区久我山3丁目25番21号",
+   "location": [
+    35.687675,
+    139.598261
+   ],
+   "area_m2": 2544,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "さざんか公園",
+   "name": "さざんか公園",
+   "address": "杉並区久我山4丁目30番19号",
+   "location": [
+    35.694167,
+    139.591002
+   ],
+   "area_m2": 596,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "今川二丁目公園",
+   "name": "今川二丁目公園",
+   "address": "杉並区今川2丁目12番7号",
+   "location": [
+    35.716237,
+    139.610368
+   ],
+   "area_m2": 657,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "帝釈天北広場緑地",
+   "name": "帝釈天北広場緑地",
+   "address": "杉並区和田3丁目9番7号",
+   "location": [
+    35.693458,
+    139.656451
+   ],
+   "area_m2": 115
+  },
+  {
+   "id": "西田仲よし広場緑地",
+   "name": "西田仲よし広場緑地",
+   "address": "杉並区荻窪1丁目17番1号",
+   "location": [
+    35.693646,
+    139.621472
+   ],
+   "area_m2": 200
+  },
+  {
+   "id": "乙女橋緑地",
+   "name": "乙女橋緑地",
+   "address": "杉並区高井戸東1丁目29番16号",
+   "location": [
+    35.679484,
+    139.621782
+   ],
+   "area_m2": 1581
+  },
+  {
+   "id": "西荻北中央公園",
+   "name": "西荻北中央公園",
+   "address": "杉並区西荻北3丁目25番3号",
+   "location": [
+    35.705625,
+    139.597152
+   ],
+   "area_m2": 679,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "道灌橋公園",
+   "name": "道灌橋公園",
+   "address": "杉並区上井草3丁目14番23号",
+   "location": [
+    35.72051,
+    139.601757
+   ],
+   "area_m2": 821,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高円寺いこい公園",
+   "name": "高円寺いこい公園",
+   "address": "杉並区高円寺南5丁目13番23号",
+   "location": [
+    35.702511,
+    139.660118
+   ],
+   "area_m2": 326,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "宮前けやき緑地",
+   "name": "宮前けやき緑地",
+   "address": "杉並区宮前2丁目9番11号",
+   "location": [
+    35.692775,
+    139.612576
+   ],
+   "area_m2": 462
+  },
+  {
+   "id": "富士見丘東緑地",
+   "name": "富士見丘東緑地",
+   "address": "杉並区高井戸西2丁目7番36号",
+   "location": [
+    35.684688,
+    139.610632
+   ],
+   "area_m2": 223
+  },
+  {
+   "id": "永福中央公園",
+   "name": "永福中央公園",
+   "address": "杉並区永福2丁目1番12号",
+   "location": [
+    35.670797,
+    139.641379
+   ],
+   "area_m2": 4166,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "うめの木緑地",
+   "name": "うめの木緑地",
+   "address": "杉並区高井戸東1丁目1番12号",
+   "location": [
+    35.677055,
+    139.619059
+   ],
+   "area_m2": 233
+  },
+  {
+   "id": "神戸町あけぼの公園",
+   "name": "神戸町あけぼの公園",
+   "address": "杉並区下井草5丁目8番24号",
+   "location": [
+    35.720613,
+    139.616189
+   ],
+   "area_m2": 1300,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "藤和緑地",
+   "name": "藤和緑地",
+   "address": "杉並区下高井戸4丁目39番22号",
+   "location": [
+    35.675706,
+    139.629773
+   ],
+   "area_m2": 2414
+  },
+  {
+   "id": "こりす公園",
+   "name": "こりす公園",
+   "address": "杉並区高円寺南1丁目4番16号",
+   "location": [
+    35.699268,
+    139.660371
+   ],
+   "area_m2": 238,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "西荻北公園",
+   "name": "西荻北公園",
+   "address": "杉並区西荻北4丁目5番14号",
+   "location": [
+    35.707166,
+    139.594559
+   ],
+   "area_m2": 449,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "柳窪南公園",
+   "name": "柳窪南公園",
+   "address": "杉並区高井戸東4丁目15番1号",
+   "location": [
+    35.689053,
+    139.619515
+   ],
+   "area_m2": 331,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "三谷南公園",
+   "name": "三谷南公園",
+   "address": "杉並区今川3丁目6番14号",
+   "location": [
+    35.715283,
+    139.603732
+   ],
+   "area_m2": 470,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "宮前公園",
+   "name": "宮前公園",
+   "address": "杉並区宮前2丁目12番18号",
+   "location": [
+    35.694047,
+    139.611162
+   ],
+   "area_m2": 3727,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "成田西公園",
+   "name": "成田西公園",
+   "address": "杉並区成田西2丁目12番4号",
+   "location": [
+    35.68953,
+    139.624343
+   ],
+   "area_m2": 2053,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "桐の木公園",
+   "name": "桐の木公園",
+   "address": "杉並区高井戸西2丁目7番36号",
+   "location": [
+    35.68455,
+    139.6113
+   ],
+   "area_m2": 424,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "本天沼東公園",
+   "name": "本天沼東公園",
+   "address": "杉並区本天沼1丁目9番8号",
+   "location": [
+    35.71302,
+    139.63034
+   ],
+   "area_m2": 419,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "西荻わかば公園",
+   "name": "西荻わかば公園",
+   "address": "杉並区西荻北2丁目9番17号",
+   "location": [
+    35.705054,
+    139.604021
+   ],
+   "area_m2": 726,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "小七山公園",
+   "name": "小七山公園",
+   "address": "杉並区阿佐谷北6丁目30番14号",
+   "location": [
+    35.716312,
+    139.63638
+   ],
+   "area_m2": 474,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "成三公園",
+   "name": "成三公園",
+   "address": "杉並区成田東2丁目19番8号",
+   "location": [
+    35.68983,
+    139.635393
+   ],
+   "area_m2": 405,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "天沼地蔵前公園",
+   "name": "天沼地蔵前公園",
+   "address": "杉並区天沼1丁目1番4号",
+   "location": [
+    35.704836,
+    139.627349
+   ],
+   "area_m2": 1055,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "久我山東原公園",
+   "name": "久我山東原公園",
+   "address": "杉並区久我山5丁目12番27号",
+   "location": [
+    35.687423,
+    139.605296
+   ],
+   "area_m2": 1331,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "柿木北公園",
+   "name": "柿木北公園",
+   "address": "杉並区上井草1丁目33番3号",
+   "location": [
+    35.724687,
+    139.611865
+   ],
+   "area_m2": 498,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "わかたけ公園",
+   "name": "わかたけ公園",
+   "address": "杉並区本天沼3丁目39番7号",
+   "location": [
+    35.717005,
+    139.622624
+   ],
+   "area_m2": 929,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "ひとみ公園",
+   "name": "ひとみ公園",
+   "address": "杉並区高円寺南5丁目35番3号",
+   "location": [
+    35.70471,
+    139.657382
+   ],
+   "area_m2": 285,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "弁天橋東緑地",
+   "name": "弁天橋東緑地",
+   "address": "杉並区和泉4丁目44番1号",
+   "location": [
+    35.680766,
+    139.654178
+   ],
+   "area_m2": 964
+  },
+  {
+   "id": "つばき緑地",
+   "name": "つばき緑地",
+   "address": "杉並区上高井戸1丁目32番29号",
+   "location": [
+    35.676422,
+    139.607653
+   ],
+   "area_m2": 455
+  },
+  {
+   "id": "こぶし公園",
+   "name": "こぶし公園",
+   "address": "杉並区宮前4丁目13番6号",
+   "location": [
+    35.692213,
+    139.603142
+   ],
+   "area_m2": 383,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "宮前あおぞら緑地",
+   "name": "宮前あおぞら緑地",
+   "address": "杉並区宮前4丁目25番6号",
+   "location": [
+    35.690594,
+    139.608296
+   ],
+   "area_m2": 305
+  },
+  {
+   "id": "くつかけ公園",
+   "name": "くつかけ公園",
+   "address": "杉並区清水3丁目7番18号",
+   "location": [
+    35.715903,
+    139.616063
+   ],
+   "area_m2": 851,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "和泉西公園",
+   "name": "和泉西公園",
+   "address": "杉並区和泉3丁目47番17号",
+   "location": [
+    35.679894,
+    139.647537
+   ],
+   "area_m2": 499,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "善福寺北緑地",
+   "name": "善福寺北緑地",
+   "address": "杉並区善福寺4丁目5番19号",
+   "location": [
+    35.71803,
+    139.589298
+   ],
+   "area_m2": 274
+  },
+  {
+   "id": "たんぽぽ公園",
+   "name": "たんぽぽ公園",
+   "address": "杉並区南荻窪3丁目28番7号",
+   "location": [
+    35.703344,
+    139.610819
+   ],
+   "area_m2": 396,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "井草森公園",
+   "name": "井草森公園",
+   "address": "杉並区井草4丁目12番1号",
+   "location": [
+    35.727138,
+    139.612063
+   ],
+   "area_m2": 39504
+  },
+  {
+   "id": "富士見丘西公園",
+   "name": "富士見丘西公園",
+   "address": "杉並区久我山5丁目19番1号",
+   "location": [
+    35.685536,
+    139.6068
+   ],
+   "area_m2": 346,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "柳窪西緑地",
+   "name": "柳窪西緑地",
+   "address": "杉並区高井戸東4丁目11番42号",
+   "location": [
+    35.690948,
+    139.617658
+   ],
+   "area_m2": 103
+  },
+  {
+   "id": "向井公園",
+   "name": "向井公園",
+   "address": "杉並区下井草3丁目13番7号",
+   "location": [
+    35.719066,
+    139.624423
+   ],
+   "area_m2": 206,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "井草三丁目緑地",
+   "name": "井草三丁目緑地",
+   "address": "杉並区井草3丁目4番13号",
+   "location": [
+    35.726309,
+    139.613878
+   ],
+   "area_m2": 443
+  },
+  {
+   "id": "和田東公園",
+   "name": "和田東公園",
+   "address": "杉並区和田1丁目48番16号",
+   "location": [
+    35.692926,
+    139.663593
+   ],
+   "area_m2": 640
+  },
+  {
+   "id": "浜田山さくら緑地",
+   "name": "浜田山さくら緑地",
+   "address": "杉並区浜田山4丁目10番22号",
+   "location": [
+    35.683638,
+    139.631006
+   ],
+   "area_m2": 205
+  },
+  {
+   "id": "宮元公園",
+   "name": "宮元公園",
+   "address": "杉並区大宮2丁目13番13号",
+   "location": [
+    35.681025,
+    139.636568
+   ],
+   "area_m2": 371,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "向井東公園",
+   "name": "向井東公園",
+   "address": "杉並区下井草2丁目17番2号",
+   "location": [
+    35.719557,
+    139.628735
+   ],
+   "area_m2": 310,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "井草東公園",
+   "name": "井草東公園",
+   "address": "杉並区井草1丁目10番18号",
+   "location": [
+    35.724361,
+    139.626903
+   ],
+   "area_m2": 346,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "阿佐谷こぶし緑地",
+   "name": "阿佐谷こぶし緑地",
+   "address": "杉並区阿佐谷北3丁目36番2号",
+   "location": [
+    35.711354,
+    139.633556
+   ],
+   "area_m2": 169
+  },
+  {
+   "id": "高井戸藤が丘公園",
+   "name": "高井戸藤が丘公園",
+   "address": "杉並区高井戸東3丁目9番34号",
+   "location": [
+    35.685375,
+    139.617356
+   ],
+   "area_m2": 1313
+  },
+  {
+   "id": "はるかぜ緑地",
+   "name": "はるかぜ緑地",
+   "address": "杉並区上高井戸1丁目30番38号",
+   "location": [
+    35.673549,
+    139.609949
+   ],
+   "area_m2": 191
+  },
+  {
+   "id": "天沼もえぎ公園",
+   "name": "天沼もえぎ公園",
+   "address": "杉並区天沼3丁目31番5号",
+   "location": [
+    35.70733,
+    139.622152
+   ],
+   "area_m2": 861
+  },
+  {
+   "id": "おぎ緑地",
+   "name": "おぎ緑地",
+   "address": "杉並区西荻北1丁目12番11号",
+   "location": [
+    35.705632,
+    139.608666
+   ],
+   "area_m2": 130
+  },
+  {
+   "id": "松庵わかくさ公園",
+   "name": "松庵わかくさ公園",
+   "address": "杉並区松庵3丁目24番8号",
+   "location": [
+    35.70316,
+    139.596208
+   ],
+   "area_m2": 622,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "泉南緑地",
+   "name": "泉南緑地",
+   "address": "杉並区和泉4丁目41番1号",
+   "location": [
+    35.680283,
+    139.655864
+   ],
+   "area_m2": 739
+  },
+  {
+   "id": "すずかけ公園",
+   "name": "すずかけ公園",
+   "address": "杉並区浜田山4丁目3番16号",
+   "location": [
+    35.682867,
+    139.633468
+   ],
+   "area_m2": 339,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "下井草いど公園",
+   "name": "下井草いど公園",
+   "address": "杉並区下井草2丁目9番1号",
+   "location": [
+    35.718705,
+    139.631044
+   ],
+   "area_m2": 435
+  },
+  {
+   "id": "はなみずき緑地",
+   "name": "はなみずき緑地",
+   "address": "杉並区上高井戸3丁目3番20号",
+   "location": [
+    35.674242,
+    139.618359
+   ],
+   "area_m2": 103
+  },
+  {
+   "id": "そよかぜ緑地",
+   "name": "そよかぜ緑地",
+   "address": "杉並区上高井戸3丁目8番38号",
+   "location": [
+    35.67507,
+    139.616434
+   ],
+   "area_m2": 110
+  },
+  {
+   "id": "南阿佐谷すずらん緑地",
+   "name": "南阿佐谷すずらん緑地",
+   "address": "杉並区阿佐谷南1丁目11番5号",
+   "location": [
+    35.699012,
+    139.637906
+   ],
+   "area_m2": 135
+  },
+  {
+   "id": "善福寺さくら公園（はだしのオアシス）",
+   "name": "善福寺さくら公園（はだしのオアシス）",
+   "address": "杉並区善福寺2丁目18番12号",
+   "location": [
+    35.712316,
+    139.594029
+   ],
+   "area_m2": 349
+  },
+  {
+   "id": "三谷西緑地",
+   "name": "三谷西緑地",
+   "address": "杉並区今川4丁目18番10号",
+   "location": [
+    35.716486,
+    139.599448
+   ],
+   "area_m2": 187
+  },
+  {
+   "id": "和田十貫坂緑地",
+   "name": "和田十貫坂緑地",
+   "address": "杉並区和田1丁目58番6号",
+   "location": [
+    35.693609,
+    139.666581
+   ],
+   "area_m2": 216
+  },
+  {
+   "id": "高円寺谷中緑地",
+   "name": "高円寺谷中緑地",
+   "address": "杉並区高円寺南5丁目19番3号",
+   "location": [
+    35.702583,
+    139.655932
+   ],
+   "area_m2": 198
+  },
+  {
+   "id": "柏の宮公園",
+   "name": "柏の宮公園",
+   "address": "杉並区浜田山2丁目5番1号",
+   "location": [
+    35.678167,
+    139.625769
+   ],
+   "area_m2": 49332
+  },
+  {
+   "id": "東一坂下緑地",
+   "name": "東一坂下緑地",
+   "address": "杉並区成田東4丁目14番9号",
+   "location": [
+    35.696609,
+    139.635351
+   ],
+   "area_m2": 105
+  },
+  {
+   "id": "桃井三丁目緑地",
+   "name": "桃井三丁目緑地",
+   "address": "杉並区桃井3丁目4番6号",
+   "location": [
+    35.711895,
+    139.60548
+   ],
+   "area_m2": 1517
+  },
+  {
+   "id": "読書の森公園",
+   "name": "読書の森公園",
+   "address": "杉並区荻窪3丁目39番16号",
+   "location": [
+    35.702346,
+    139.626468
+   ],
+   "area_m2": 1841
+  },
+  {
+   "id": "銀杏稲荷公園",
+   "name": "銀杏稲荷公園",
+   "address": "杉並区下井草2丁目15番13号",
+   "location": [
+    35.71915,
+    139.62664
+   ],
+   "area_m2": 1550,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "和泉緑地",
+   "name": "和泉緑地",
+   "address": "杉並区和泉4丁目17番1号",
+   "location": [
+    35.680048,
+    139.650935
+   ],
+   "area_m2": 599
+  },
+  {
+   "id": "天沼弁天池公園",
+   "name": "天沼弁天池公園",
+   "address": "杉並区天沼3丁目23番1号",
+   "location": [
+    35.708546,
+    139.621476
+   ],
+   "area_m2": 5296
+  },
+  {
+   "id": "定塚橋公園",
+   "name": "定塚橋公園",
+   "address": "杉並区堀ノ内2丁目1番28号",
+   "location": [
+    35.685543,
+    139.653868
+   ],
+   "area_m2": 2254,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "新町鳥居先公園",
+   "name": "新町鳥居先公園",
+   "address": "杉並区今川4丁目11番7号",
+   "location": [
+    35.715717,
+    139.599334
+   ],
+   "area_m2": 1317,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "成田西いこい緑地",
+   "name": "成田西いこい緑地",
+   "address": "杉並区成田西3丁目16番20号",
+   "location": [
+    35.691307,
+    139.62841
+   ],
+   "area_m2": 1513
+  },
+  {
+   "id": "成田西切通し緑地",
+   "name": "成田西切通し緑地",
+   "address": "杉並区成田西3丁目17番2号",
+   "location": [
+    35.690855,
+    139.627389
+   ],
+   "area_m2": 928
+  },
+  {
+   "id": "宮前新田緑地",
+   "name": "宮前新田緑地",
+   "address": "杉並区宮前5丁目15番18号",
+   "location": [
+    35.693563,
+    139.601242
+   ],
+   "area_m2": 480
+  },
+  {
+   "id": "角川庭園",
+   "name": "角川庭園",
+   "address": "杉並区荻窪3丁目14番22号",
+   "location": [
+    35.698745,
+    139.624489
+   ],
+   "area_m2": 1371
+  },
+  {
+   "id": "松渓橋公園",
+   "name": "松渓橋公園",
+   "address": "杉並区荻窪2丁目40番1号",
+   "location": [
+    35.697086,
+    139.62315
+   ],
+   "area_m2": 1159,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "坂の上のけやき公園",
+   "name": "坂の上のけやき公園",
+   "address": "杉並区西荻北4丁目38番6号",
+   "location": [
+    35.707901,
+    139.597958
+   ],
+   "area_m2": 855
+  },
+  {
+   "id": "三井の森公園",
+   "name": "三井の森公園",
+   "address": "杉並区高井戸東1丁目28番2号",
+   "location": [
+    35.679666,
+    139.623005
+   ],
+   "area_m2": 17350
+  },
+  {
+   "id": "高井戸丸太緑地",
+   "name": "高井戸丸太緑地",
+   "address": "杉並区高井戸西2丁目17番2号",
+   "location": [
+    35.685494,
+    139.613909
+   ],
+   "area_m2": 209
+  },
+  {
+   "id": "Aさんの庭",
+   "name": "Aさんの庭",
+   "address": "杉並区阿佐谷北5丁目45番13号",
+   "location": [
+    35.711334,
+    139.640602
+   ],
+   "area_m2": 830,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "やなぎ橋公園",
+   "name": "やなぎ橋公園",
+   "address": "杉並区高井戸西1丁目31番5号",
+   "location": [
+    35.682532,
+    139.61365
+   ],
+   "area_m2": 827,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "あかね橋公園",
+   "name": "あかね橋公園",
+   "address": "杉並区高井戸西1丁目31番21号",
+   "location": [
+    35.682884,
+    139.609979
+   ],
+   "area_m2": 2199
+  },
+  {
+   "id": "桃井原っぱ公園",
+   "name": "桃井原っぱ公園",
+   "address": "杉並区桃井3丁目8番1号",
+   "location": [
+    35.713706,
+    139.607079
+   ],
+   "area_m2": 40000
+  },
+  {
+   "id": "高円寺北一みどり公園",
+   "name": "高円寺北一みどり公園",
+   "address": "杉並区高円寺北1丁目28番2号",
+   "location": [
+    35.708161,
+    139.657753
+   ],
+   "area_m2": 3609,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "和田さくらの坂公園",
+   "name": "和田さくらの坂公園",
+   "address": "杉並区和田1丁目54番28号",
+   "location": [
+    35.693908,
+    139.665206
+   ],
+   "area_m2": 2131,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "久我山遊友緑地",
+   "name": "久我山遊友緑地",
+   "address": "杉並区久我山5丁目18番29号",
+   "location": [
+    35.686616,
+    139.605861
+   ],
+   "area_m2": 133
+  },
+  {
+   "id": "和泉四丁目緑地",
+   "name": "和泉四丁目緑地",
+   "address": "杉並区和泉4丁目17番26号",
+   "location": [
+    35.68084,
+    139.651149
+   ],
+   "area_m2": 144
+  },
+  {
+   "id": "和泉二丁目緑地",
+   "name": "和泉二丁目緑地",
+   "address": "杉並区和泉2丁目17番38号",
+   "location": [
+    35.674589,
+    139.650116
+   ],
+   "area_m2": 98
+  },
+  {
+   "id": "善福寺二丁目緑地",
+   "name": "善福寺二丁目緑地",
+   "address": "杉並区善福寺2丁目24番13号",
+   "location": [
+    35.712254,
+    139.587159
+   ],
+   "area_m2": 123
+  },
+  {
+   "id": "成田西四丁目緑地",
+   "name": "成田西四丁目緑地",
+   "address": "杉並区成田西4丁目5番2号",
+   "location": [
+    35.693286,
+    139.627327
+   ],
+   "area_m2": 147
+  },
+  {
+   "id": "浜田山四丁目緑地",
+   "name": "浜田山四丁目緑地",
+   "address": "杉並区浜田山4丁目5番31号",
+   "location": [
+    35.681784,
+    139.634466
+   ],
+   "area_m2": 103
+  },
+  {
+   "id": "大谷戸さくら緑地",
+   "name": "大谷戸さくら緑地",
+   "address": "杉並区荻窪3丁目7番26号",
+   "location": [
+    35.697774,
+    139.624621
+   ],
+   "area_m2": 2320
+  },
+  {
+   "id": "大谷戸けやき緑地",
+   "name": "大谷戸けやき緑地",
+   "address": "杉並区荻窪3丁目7番51号",
+   "location": [
+    35.696862,
+    139.626861
+   ],
+   "area_m2": 1000,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "大谷戸かえで緑地",
+   "name": "大谷戸かえで緑地",
+   "address": "杉並区荻窪3丁目7番39号",
+   "location": [
+    35.697942,
+    139.626177
+   ],
+   "area_m2": 271
+  },
+  {
+   "id": "上荻ひかり緑地",
+   "name": "上荻ひかり緑地",
+   "address": "杉並区上荻4丁目14番54号",
+   "location": [
+    35.710254,
+    139.604842
+   ],
+   "area_m2": 125
+  },
+  {
+   "id": "むつみ橋緑地",
+   "name": "むつみ橋緑地",
+   "address": "杉並区高井戸西1丁目23番29号",
+   "location": [
+    35.682469,
+    139.609935
+   ],
+   "area_m2": 1598
+  },
+  {
+   "id": "大宮の杜緑地",
+   "name": "大宮の杜緑地",
+   "address": "杉並区大宮2丁目2番14号",
+   "location": [
+    35.682216,
+    139.642555
+   ],
+   "area_m2": 2553
+  },
+  {
+   "id": "成田西ふれあい農業公園",
+   "name": "成田西ふれあい農業公園",
+   "address": "杉並区成田西3丁目18番9号",
+   "location": [
+    35.691413,
+    139.624009
+   ],
+   "area_m2": 4437,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "成宗さくら公園",
+   "name": "成宗さくら公園",
+   "address": "杉並区成田東4丁目3番6号",
+   "location": [
+    35.696236,
+    139.634847
+   ],
+   "area_m2": 2950
+  },
+  {
+   "id": "下高井戸おおぞら公園",
+   "name": "下高井戸おおぞら公園",
+   "address": "杉並区下高井戸2丁目28番23号",
+   "location": [
+    35.671244,
+    139.63692
+   ],
+   "area_m2": 30757
+  },
+  {
+   "id": "荻窪つどい公園",
+   "name": "荻窪つどい公園",
+   "address": "杉並区荻窪4丁目15番27号",
+   "location": [
+    35.700146,
+    139.622083
+   ],
+   "area_m2": 1093,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "高井戸東ひだまり緑地",
+   "name": "高井戸東ひだまり緑地",
+   "address": "杉並区高井戸東4丁目27番4号",
+   "location": [
+    35.687013,
+    139.623609
+   ],
+   "area_m2": 165
+  },
+  {
+   "id": "馬橋ほんむら公園",
+   "name": "馬橋ほんむら公園",
+   "address": "杉並区高円寺南3丁目16番12号",
+   "location": [
+    35.699535,
+    139.645458
+   ],
+   "area_m2": 616
+  },
+  {
+   "id": "下高井戸なごみ公園",
+   "name": "下高井戸なごみ公園",
+   "address": "杉並区下高井戸4丁目19番26号",
+   "location": [
+    35.674059,
+    139.630732
+   ],
+   "area_m2": 1137
+  },
+  {
+   "id": "荻窪だんだん公園",
+   "name": "荻窪だんだん公園",
+   "address": "杉並区荻窪5丁目15番13号",
+   "location": [
+    35.703841,
+    139.61647
+   ],
+   "area_m2": 754
+  },
+  {
+   "id": "方南緑地",
+   "name": "方南緑地",
+   "address": "杉並区方南1丁目52番33号",
+   "location": [
+    35.679307,
+    139.658897
+   ],
+   "area_m2": 142
+  },
+  {
+   "id": "下井草どかん公園",
+   "name": "下井草どかん公園",
+   "address": "杉並区下井草3丁目13番21号",
+   "location": [
+    35.719449,
+    139.625075
+   ],
+   "area_m2": 1060,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "上ノ台公園",
+   "name": "上ノ台公園",
+   "address": "杉並区下井草2丁目31番1号",
+   "location": [
+    35.721006,
+    139.626325
+   ],
+   "area_m2": 645,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "清水いづみ公園",
+   "name": "清水いづみ公園",
+   "address": "杉並区清水2丁目17番12号",
+   "location": [
+    35.714147,
+    139.615885
+   ],
+   "area_m2": 626
+  },
+  {
+   "id": "久我山丘のある公園",
+   "name": "久我山丘のある公園",
+   "address": "杉並区久我山1丁目8番30号",
+   "location": [
+    35.684154,
+    139.595635
+   ],
+   "area_m2": 2999,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "阿佐谷けやき公園",
+   "name": "阿佐谷けやき公園",
+   "address": "杉並区阿佐谷北1丁目1番1号",
+   "location": [
+    35.705401,
+    139.641097
+   ],
+   "area_m2": 2892,
+   "toilet": {
+    "accessible": true,
+    "baby": false
+   }
+  },
+  {
+   "id": "松庵梅林公園",
+   "name": "松庵梅林公園",
+   "address": "杉並区松庵2丁目23番1号",
+   "location": [
+    35.699013,
+    139.593022
+   ],
+   "area_m2": 3183,
+   "toilet": {
+    "accessible": true,
+    "baby": false
+   }
+  },
+  {
+   "id": "馬橋えんがわ公園",
+   "name": "馬橋えんがわ公園",
+   "address": "杉並区阿佐谷南1丁目27番20号",
+   "location": [
+    35.701368,
+    139.640479
+   ],
+   "area_m2": 362
+  },
+  {
+   "id": "荻外荘公園",
+   "name": "荻外荘公園",
+   "address": "杉並区荻窪2丁目43番36号",
+   "location": [
+    35.698869,
+    139.622375
+   ],
+   "area_m2": 7051,
+   "toilet": {
+    "accessible": true,
+    "baby": true
+   }
+  },
+  {
+   "id": "西田第二公園",
+   "name": "西田第二公園",
+   "address": "杉並区荻窪1丁目57番33号",
+   "location": [
+    35.695176,
+    139.626616
+   ],
+   "area_m2": 465,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "天沼いこい公園",
+   "name": "天沼いこい公園",
+   "address": "杉並区天沼1丁目42番13号",
+   "location": [
+    35.709309,
+    139.628055
+   ],
+   "area_m2": 165
+  },
+  {
+   "id": "下高井戸みんなの公園",
+   "name": "下高井戸みんなの公園",
+   "address": "杉並区下高井戸4丁目17番3号",
+   "location": [
+    35.672637,
+    139.63097
+   ],
+   "area_m2": 654
+  },
+  {
+   "id": "すぎはち公園",
+   "name": "すぎはち公園",
+   "address": "杉並区高円寺南2丁目40番8号",
+   "location": [
+    35.700692,
+    139.651253
+   ],
+   "area_m2": 4672
+  },
+  {
+   "id": "阿佐ヶ谷児童遊園",
+   "name": "阿佐ヶ谷児童遊園",
+   "address": "杉並区阿佐谷南1丁目18番9号",
+   "location": [
+    35.700334,
+    139.637675
+   ],
+   "area_m2": 464
+  },
+  {
+   "id": "松山児童遊園",
+   "name": "松山児童遊園",
+   "address": "杉並区阿佐谷北3丁目35番2号",
+   "location": [
+    35.711374,
+    139.632558
+   ],
+   "area_m2": 568,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "中瀬児童遊園",
+   "name": "中瀬児童遊園",
+   "address": "杉並区下井草4丁目7番15号",
+   "location": [
+    35.720161,
+    139.618842
+   ],
+   "area_m2": 830,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "久我山児童遊園",
+   "name": "久我山児童遊園",
+   "address": "杉並区久我山4丁目36番1号",
+   "location": [
+    35.692407,
+    139.592948
+   ],
+   "area_m2": 849,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "天沼児童遊園",
+   "name": "天沼児童遊園",
+   "address": "杉並区本天沼2丁目38番32号",
+   "location": [
+    35.714599,
+    139.627158
+   ],
+   "area_m2": 771,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "観泉寺児童遊園",
+   "name": "観泉寺児童遊園",
+   "address": "杉並区今川2丁目6番12号",
+   "location": [
+    35.716254,
+    139.60745
+   ],
+   "area_m2": 502,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "堀ノ内山谷児童遊園",
+   "name": "堀ノ内山谷児童遊園",
+   "address": "杉並区堀ノ内3丁目20番23号",
+   "location": [
+    35.691465,
+    139.64827
+   ],
+   "area_m2": 397,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "上荻窪児童遊園",
+   "name": "上荻窪児童遊園",
+   "address": "杉並区上荻2丁目21番6号",
+   "location": [
+    35.706271,
+    139.613337
+   ],
+   "area_m2": 533,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "さくら児童遊園",
+   "name": "さくら児童遊園",
+   "address": "杉並区善福寺2丁目12番12号",
+   "location": [
+    35.711002,
+    139.594384
+   ],
+   "area_m2": 117
+  },
+  {
+   "id": "あづま児童遊園",
+   "name": "あづま児童遊園",
+   "address": "杉並区方南1丁目38番13号",
+   "location": [
+    35.67834,
+    139.662036
+   ],
+   "area_m2": 136
+  },
+  {
+   "id": "白幡児童遊園",
+   "name": "白幡児童遊園",
+   "address": "杉並区成田東3丁目17番29号",
+   "location": [
+    35.692517,
+    139.634521
+   ],
+   "area_m2": 641,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "なりむね児童遊園",
+   "name": "なりむね児童遊園",
+   "address": "杉並区成田東5丁目5番5号",
+   "location": [
+    35.69834,
+    139.629299
+   ],
+   "area_m2": 605,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "神戸町児童遊園",
+   "name": "神戸町児童遊園",
+   "address": "杉並区下井草5丁目19番8号",
+   "location": [
+    35.723878,
+    139.615397
+   ],
+   "area_m2": 487,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "上荻窪第二児童遊園",
+   "name": "上荻窪第二児童遊園",
+   "address": "杉並区上荻3丁目16番6号",
+   "location": [
+    35.708596,
+    139.608018
+   ],
+   "area_m2": 76
+  },
+  {
+   "id": "済美児童遊園",
+   "name": "済美児童遊園",
+   "address": "杉並区堀ノ内2丁目6番7号",
+   "location": [
+    35.685946,
+    139.651964
+   ],
+   "area_m2": 288,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "上荻窪第三児童遊園",
+   "name": "上荻窪第三児童遊園",
+   "address": "杉並区上荻2丁目36番6号",
+   "location": [
+    35.708917,
+    139.611252
+   ],
+   "area_m2": 187,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "馬橋児童遊園",
+   "name": "馬橋児童遊園",
+   "address": "杉並区阿佐谷南1丁目13番33号",
+   "location": [
+    35.700294,
+    139.642085
+   ],
+   "area_m2": 1711
+  },
+  {
+   "id": "大宮前児童遊園",
+   "name": "大宮前児童遊園",
+   "address": "杉並区西荻南1丁目6番19号",
+   "location": [
+    35.697373,
+    139.600964
+   ],
+   "area_m2": 673,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "梅里児童遊園",
+   "name": "梅里児童遊園",
+   "address": "杉並区梅里1丁目14番2号",
+   "location": [
+    35.696239,
+    139.651388
+   ],
+   "area_m2": 1068,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "阿佐谷北児童遊園",
+   "name": "阿佐谷北児童遊園",
+   "address": "杉並区阿佐谷北1丁目11番3号",
+   "location": [
+    35.705999,
+    139.640974
+   ],
+   "area_m2": 381,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "富士見丘児童遊園",
+   "name": "富士見丘児童遊園",
+   "address": "杉並区久我山2丁目22番63号",
+   "location": [
+    35.68353,
+    139.606779
+   ],
+   "area_m2": 1142
+  },
+  {
+   "id": "下高井戸児童遊園",
+   "name": "下高井戸児童遊園",
+   "address": "杉並区下高井戸3丁目25番5号",
+   "location": [
+    35.67194,
+    139.635899
+   ],
+   "area_m2": 334,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "西高井戸児童遊園",
+   "name": "西高井戸児童遊園",
+   "address": "杉並区松庵3丁目28番1号",
+   "location": [
+    35.701088,
+    139.596986
+   ],
+   "area_m2": 418
+  },
+  {
+   "id": "荻窪第一児童遊園",
+   "name": "荻窪第一児童遊園",
+   "address": "杉並区南荻窪2丁目25番16号",
+   "location": [
+    35.698903,
+    139.61253
+   ],
+   "area_m2": 361,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "東田児童遊園",
+   "name": "東田児童遊園",
+   "address": "杉並区成田東4丁目15番18号",
+   "location": [
+    35.69579,
+    139.635757
+   ],
+   "area_m2": 631,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "なりむね第二児童遊園",
+   "name": "なりむね第二児童遊園",
+   "address": "杉並区成田西1丁目22番16号",
+   "location": [
+    35.689145,
+    139.631113
+   ],
+   "area_m2": 330,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "上高井戸第二児童遊園",
+   "name": "上高井戸第二児童遊園",
+   "address": "杉並区上高井戸3丁目11番17号",
+   "location": [
+    35.676596,
+    139.614871
+   ],
+   "area_m2": 457,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "松ノ木児童遊園",
+   "name": "松ノ木児童遊園",
+   "address": "杉並区松ノ木3丁目30番8号",
+   "location": [
+    35.694905,
+    139.646659
+   ],
+   "area_m2": 195
+  },
+  {
+   "id": "和泉児童遊園",
+   "name": "和泉児童遊園",
+   "address": "杉並区和泉4丁目16番23号",
+   "location": [
+    35.67922,
+    139.650286
+   ],
+   "area_m2": 525,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "永泉寺坂児童遊園",
+   "name": "永泉寺坂児童遊園",
+   "address": "杉並区下高井戸2丁目21番29号",
+   "location": [
+    35.66915,
+    139.641266
+   ],
+   "area_m2": 312
+  },
+  {
+   "id": "荻窪第二児童遊園",
+   "name": "荻窪第二児童遊園",
+   "address": "杉並区荻窪2丁目38番9号",
+   "location": [
+    35.698725,
+    139.62083
+   ],
+   "area_m2": 288
+  },
+  {
+   "id": "今川児童遊園",
+   "name": "今川児童遊園",
+   "address": "杉並区今川4丁目6番1号",
+   "location": [
+    35.714654,
+    139.599552
+   ],
+   "area_m2": 306,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "久我山東児童遊園",
+   "name": "久我山東児童遊園",
+   "address": "杉並区久我山5丁目30番25号",
+   "location": [
+    35.688796,
+    139.604854
+   ],
+   "area_m2": 661,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "阿佐谷北第二児童遊園",
+   "name": "阿佐谷北第二児童遊園",
+   "address": "杉並区阿佐谷北6丁目7番8号",
+   "location": [
+    35.713879,
+    139.639682
+   ],
+   "area_m2": 674,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "高円寺北一児童遊園",
+   "name": "高円寺北一児童遊園",
+   "address": "杉並区高円寺北1丁目15番22号",
+   "location": [
+    35.708237,
+    139.656062
+   ],
+   "area_m2": 383,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "熊野橋児童遊園",
+   "name": "熊野橋児童遊園",
+   "address": "杉並区堀ノ内2丁目19番6号",
+   "location": [
+    35.68702,
+    139.650551
+   ],
+   "area_m2": 346
+  },
+  {
+   "id": "乙女橋児童遊園",
+   "name": "乙女橋児童遊園",
+   "address": "杉並区高井戸東1丁目1番38号",
+   "location": [
+    35.677855,
+    139.62125
+   ],
+   "area_m2": 631,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "西荻窪平和児童遊園",
+   "name": "西荻窪平和児童遊園",
+   "address": "杉並区西荻南3丁目18番9号",
+   "location": [
+    35.703385,
+    139.602235
+   ],
+   "area_m2": 575,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "お伊勢の森児童遊園",
+   "name": "お伊勢の森児童遊園",
+   "address": "杉並区阿佐谷北5丁目35番5号",
+   "location": [
+    35.710879,
+    139.639874
+   ],
+   "area_m2": 348
+  },
+  {
+   "id": "みどりヶ丘児童遊園",
+   "name": "みどりヶ丘児童遊園",
+   "address": "杉並区高円寺南3丁目60番13号",
+   "location": [
+    35.70496,
+    139.647415
+   ],
+   "area_m2": 217
+  },
+  {
+   "id": "どんぐり山児童遊園",
+   "name": "どんぐり山児童遊園",
+   "address": "杉並区上井草3丁目4番17号",
+   "location": [
+    35.719704,
+    139.603722
+   ],
+   "area_m2": 2225,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "東二児童遊園",
+   "name": "東二児童遊園",
+   "address": "杉並区成田東3丁目7番17号",
+   "location": [
+    35.692542,
+    139.637609
+   ],
+   "area_m2": 204,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "日性寺児童遊園",
+   "name": "日性寺児童遊園",
+   "address": "杉並区成田西2丁目16番15号",
+   "location": [
+    35.689286,
+    139.626108
+   ],
+   "area_m2": 199
+  },
+  {
+   "id": "大塚児童遊園",
+   "name": "大塚児童遊園",
+   "address": "杉並区成田西2丁目12番24号",
+   "location": [
+    35.690402,
+    139.623166
+   ],
+   "area_m2": 188
+  },
+  {
+   "id": "堂ノ下児童遊園",
+   "name": "堂ノ下児童遊園",
+   "address": "杉並区浜田山2丁目2番1号",
+   "location": [
+    35.677431,
+    139.623829
+   ],
+   "area_m2": 295
+  },
+  {
+   "id": "浜田山西児童遊園",
+   "name": "浜田山西児童遊園",
+   "address": "杉並区浜田山4丁目18番8号",
+   "location": [
+    35.686814,
+    139.625122
+   ],
+   "area_m2": 180
+  },
+  {
+   "id": "高井戸東三丁目児童遊園",
+   "name": "高井戸東三丁目児童遊園",
+   "address": "杉並区高井戸東3丁目7番8号",
+   "location": [
+    35.683286,
+    139.619192
+   ],
+   "area_m2": 800,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  },
+  {
+   "id": "天沼一丁目児童遊園",
+   "name": "天沼一丁目児童遊園",
+   "address": "杉並区天沼1丁目2番11号",
+   "location": [
+    35.705522,
+    139.62924
+   ],
+   "area_m2": 148,
+   "toilet": {
+    "accessible": false,
+    "baby": false
+   }
+  }
+ ],
+ "libraries": [
+  {
+   "id": "中央図書館",
+   "name": {
+    "en": "Central Library",
+    "ja": "中央図書館"
+   },
+   "address": "杉並区荻窪3-40-23",
+   "location": [
+    35.701965,
+    139.62709
+   ],
+   "phone": "03-3391-5754",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st and 3rd Thursdays and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1・3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "audiovisual",
+    "cafe",
+    "sofa"
+   ]
+  },
+  {
+   "id": "永福図書館",
+   "name": {
+    "en": "Eifuku Library",
+    "ja": "永福図書館"
+   },
+   "address": "杉並区永福3-51-7",
+   "location": [
+    35.678596,
+    139.638153
+   ],
+   "phone": "03-3322-7141",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st and 3rd Thursdays and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1・3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "sofa"
+   ]
+  },
+  {
+   "id": "柿木図書館",
+   "name": {
+    "en": "Kakinoki Library",
+    "ja": "柿木図書館"
+   },
+   "address": "杉並区上井草1-6-13",
+   "location": [
+    35.720417,
+    139.612076
+   ],
+   "phone": "03-3394-3802",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st Monday, 3rd Thursday and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1月曜・第3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "sofa"
+   ]
+  },
+  {
+   "id": "高円寺図書館",
+   "name": {
+    "en": "Kōenji Library",
+    "ja": "高円寺図書館"
+   },
+   "address": "杉並区高円寺南2-36-25",
+   "location": [
+    35.700459,
+    139.654312
+   ],
+   "phone": "03-3316-2421",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st Monday, 3rd Thursday and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1月曜・第3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "sofa"
+   ]
+  },
+  {
+   "id": "宮前図書館",
+   "name": {
+    "en": "Miyamae Library",
+    "ja": "宮前図書館"
+   },
+   "address": "杉並区宮前5-5-27",
+   "location": [
+    35.693283,
+    139.599167
+   ],
+   "phone": "03-3333-5166",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st and 3rd Thursdays and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1・3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "sofa"
+   ]
+  },
+  {
+   "id": "成田図書館",
+   "name": {
+    "en": "Narita Library",
+    "ja": "成田図書館"
+   },
+   "address": "杉並区成田東3-28-5",
+   "location": [
+    35.695091,
+    139.637222
+   ],
+   "phone": "03-3317-0341",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st and 3rd Thursdays and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1・3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "sofa"
+   ]
+  },
+  {
+   "id": "西荻図書館",
+   "name": {
+    "en": "Nishiogi Library",
+    "ja": "西荻図書館"
+   },
+   "address": "杉並区西荻北2-33-9",
+   "location": [
+    35.707882,
+    139.605759
+   ],
+   "phone": "03-3301-1670",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st and 3rd Thursdays and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1・3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "audiovisual",
+    "sofa"
+   ]
+  },
+  {
+   "id": "阿佐谷図書館",
+   "name": {
+    "en": "Asagaya Library",
+    "ja": "阿佐谷図書館"
+   },
+   "address": "杉並区阿佐谷北3-36-14",
+   "location": [
+    35.711903,
+    139.633286
+   ],
+   "phone": "03-5373-1811",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st Monday, 3rd Thursday and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1月曜・第3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "audiovisual",
+    "sofa"
+   ]
+  },
+  {
+   "id": "南荻窪図書館",
+   "name": {
+    "en": "Minami-Ogikubo Library",
+    "ja": "南荻窪図書館"
+   },
+   "address": "杉並区南荻窪1-10-2",
+   "location": [
+    35.694946,
+    139.6147
+   ],
+   "phone": "03-3335-7377",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st Monday, 3rd Thursday and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1月曜・第3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "audiovisual",
+    "sofa"
+   ]
+  },
+  {
+   "id": "下井草図書館",
+   "name": {
+    "en": "Shimo-Igusa Library",
+    "ja": "下井草図書館"
+   },
+   "address": "杉並区下井草3-26-5",
+   "location": [
+    35.720657,
+    139.623245
+   ],
+   "phone": "03-3396-7999",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st Monday, 3rd Thursday and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1月曜・第3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "audiovisual",
+    "sofa"
+   ]
+  },
+  {
+   "id": "高井戸図書館",
+   "name": {
+    "en": "Takaido Library",
+    "ja": "高井戸図書館"
+   },
+   "address": "杉並区高井戸東1-28-1",
+   "location": [
+    35.679974,
+    139.622894
+   ],
+   "phone": "03-3290-3456",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st and 3rd Thursdays and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1・3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "audiovisual",
+    "sofa"
+   ]
+  },
+  {
+   "id": "方南図書館",
+   "name": {
+    "en": "Hōnan Library",
+    "ja": "方南図書館"
+   },
+   "address": "杉並区方南1-51-2",
+   "location": [
+    35.678551,
+    139.660492
+   ],
+   "phone": "03-5355-7100",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st Monday, 3rd Thursday and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1月曜・第3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "sofa"
+   ]
+  },
+  {
+   "id": "今川図書館",
+   "name": {
+    "en": "Imagawa Library",
+    "ja": "今川図書館"
+   },
+   "address": "杉並区今川4-12-10",
+   "location": [
+    35.715763,
+    139.599548
+   ],
+   "phone": "03-3394-0431",
+   "open": "09:00",
+   "close": "20:00",
+   "note": {
+    "en": "Closed 1st Monday, 3rd Thursday and over New Year; Sundays and holidays until 5 pm.",
+    "ja": "第1月曜・第3木曜、年末年始は休館;日曜・祝日は17:00まで"
+   },
+   "url": "https://www.library.city.suginami.tokyo.jp/",
+   "features": [
+    "wifi",
+    "kids",
+    "internet",
+    "sofa"
+   ]
+  }
+ ],
+ "sports": [
+  {
+   "id": "杉並区大宮前体育館",
+   "name": {
+    "en": "Ōmiyamae Gymnasium",
+    "ja": "杉並区大宮前体育館"
+   },
+   "address": "杉並区南荻窪2-1-1",
+   "location": [
+    35.696514,
+    139.61058
+   ],
+   "open": "09:00",
+   "close": "21:00",
+   "note": {
+    "en": "Closed 3rd Tuesday of each month, and 28 December to 6 January.",
+    "ja": "毎月第３火曜日休館。また、12月28日~1月6日は休館。"
+   },
+   "url": "https://information.konamisportsclub.jp/trust/oomiyamae/",
+   "sports": [
+    "swimming",
+    "training",
+    "table_tennis",
+    "badminton",
+    "basketball",
+    "volleyball"
+   ],
+   "pool_25m": true,
+   "kids_pool": true,
+   "showers": true
+  },
+  {
+   "id": "杉並区馬橋公園運動広場",
+   "name": {
+    "en": "Mabashi Park sports field",
+    "ja": "杉並区馬橋公園運動広場"
+   },
+   "address": "杉並区高円寺北4-35-5",
+   "location": [
+    35.709549,
+    139.642975
+   ],
+   "open": "08:00",
+   "close": "18:30",
+   "note": {
+    "en": "Hours change with the season. Closed 28 December to 4 January.",
+    "ja": "利用時間は季節により変動します。12月28日から1月4日まで休場。"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/undojo/1007034.html",
+   "sports": [
+    "soccer"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": false
+  },
+  {
+   "id": "杉並区上井草体育館",
+   "name": {
+    "en": "Kami-Igusa Gymnasium",
+    "ja": "杉並区上井草体育館"
+   },
+   "address": "杉並区上井草3-34-1",
+   "location": [
+    35.723862,
+    139.601929
+   ],
+   "open": "09:00",
+   "close": "21:00",
+   "note": {
+    "en": "Closed 3rd Thursday of each month, and 29 December to 3 January. Training room 9 am to 10:20 pm, except Sundays and holidays.",
+    "ja": "毎月第３木曜日休館。また、12月29日~1月3日は休館。トレーニングルームは日・祝日を除き9時から22時20分まで"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/taiikukan/1007042.html",
+   "sports": [
+    "training",
+    "table_tennis",
+    "badminton",
+    "basketball",
+    "volleyball"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": true
+  },
+  {
+   "id": "杉並区上井草運動場",
+   "name": {
+    "en": "Kami-Igusa sports ground",
+    "ja": "杉並区上井草運動場"
+   },
+   "address": "杉並区上井草3-34-1",
+   "location": [
+    35.723862,
+    139.601929
+   ],
+   "open": "09:00",
+   "close": "21:00",
+   "note": {
+    "en": "Closed 3rd Thursday of each month, and 29 December to 3 January. Ground 9 am to 5 pm (to 7 pm April to August); from March to November, the ground and tennis courts also open 6 to 8 am (ground not on Mondays).",
+    "ja": "毎月第３木曜日休館。また、12月29日~1月3日は休館。グラウンドの利用は9時から17時まで。４～８月は19時まで。３～11月はグラウンド、テニスコートの早朝利用で6時から8時まで使用可能。ただしグラウンドは月曜除く。"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/undojo/1007029.html",
+   "sports": [
+    "tennis",
+    "soccer",
+    "archery"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": true
+  },
+  {
+   "id": "杉並区上井草温水プール",
+   "name": {
+    "en": "Kami-Igusa indoor pool",
+    "ja": "杉並区上井草温水プール"
+   },
+   "address": "杉並区上井草3-34-1",
+   "location": [
+    35.723862,
+    139.601929
+   ],
+   "open": "09:00",
+   "close": "22:20",
+   "note": {
+    "en": "Closed 3rd Thursday of each month, and 29 December to 3 January. From Marine Day in July to 31 August, the pool also opens 7 to 9 am.",
+    "ja": "毎月第３木曜日休館。また、12月29日~1月3日は休館。温水プールは7月の海の日から8月31日までは7時から9時まで早朝利用可。"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/pool/1007048.html",
+   "sports": [
+    "swimming"
+   ],
+   "pool_25m": true,
+   "kids_pool": true,
+   "showers": true
+  },
+  {
+   "id": "杉並区妙正寺体育館",
+   "name": {
+    "en": "Myōshōji Gymnasium",
+    "ja": "杉並区妙正寺体育館"
+   },
+   "address": "杉並区清水3-20-12",
+   "location": [
+    35.718761,
+    139.617676
+   ],
+   "open": "09:00",
+   "close": "21:00",
+   "note": {
+    "en": "Closed 2nd Thursday of each month, and 28 December to 3 January. Tennis courts 9 am to 5 pm.",
+    "ja": "毎月第２木曜日休館。また、12月28日~1月3日は休館。テニスコートは9時から17時まで"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/taiikukan/1007044.html",
+   "sports": [
+    "tennis",
+    "table_tennis",
+    "badminton",
+    "basketball",
+    "volleyball"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": true
+  },
+  {
+   "id": "杉並区荻窪体育館",
+   "name": {
+    "en": "Ogikubo Gymnasium",
+    "ja": "杉並区荻窪体育館"
+   },
+   "address": "杉並区荻窪3-47-2",
+   "location": [
+    35.702415,
+    139.626907
+   ],
+   "open": "09:00",
+   "close": "21:00",
+   "note": {
+    "en": "Closed 3rd Wednesday of each month, and 29 December to 3 January.",
+    "ja": "毎月第３水曜日休館。また、12月29日~1月3日は休館。"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/taiikukan/1007041.html",
+   "sports": [
+    "table_tennis",
+    "badminton",
+    "basketball",
+    "volleyball"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": true
+  },
+  {
+   "id": "杉並区高円寺体育館",
+   "name": {
+    "en": "Kōenji Gymnasium",
+    "ja": "杉並区高円寺体育館"
+   },
+   "address": "杉並区高円寺南2-36-31",
+   "location": [
+    35.699745,
+    139.654495
+   ],
+   "open": "09:00",
+   "close": "21:00",
+   "note": {
+    "en": "Closed 29 December to 3 January.",
+    "ja": "12月29日~1月3日は休館。"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/taiikukan/1007043.html",
+   "sports": [
+    "table_tennis",
+    "badminton",
+    "basketball",
+    "volleyball"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": true
+  },
+  {
+   "id": "杉並区高井戸温水プール",
+   "name": {
+    "en": "Takaido indoor pool",
+    "ja": "杉並区高井戸温水プール"
+   },
+   "address": "杉並区高井戸東3-7-5",
+   "location": [
+    35.683449,
+    139.615952
+   ],
+   "open": "09:00",
+   "close": "21:00",
+   "note": {
+    "en": "Closed 3rd Monday of each month, and 28 December to 4 January.",
+    "ja": "毎月第３月曜日休館。また、12月28日~1月4日は休館。"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/pool/1007046.html",
+   "sports": [
+    "swimming"
+   ],
+   "pool_25m": true,
+   "kids_pool": true,
+   "showers": true
+  },
+  {
+   "id": "杉並区柏の宮公園庭球場",
+   "name": {
+    "en": "Kashiwanomiya Park tennis courts",
+    "ja": "杉並区柏の宮公園庭球場"
+   },
+   "address": "杉並区浜田山2-5-1 ",
+   "location": [
+    35.67672,
+    139.626053
+   ],
+   "open": "09:00",
+   "close": "17:00",
+   "note": {
+    "en": "Closed 29 December to 3 January.",
+    "ja": "12月29日から1月3日まで休場"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/undojo/1007028.html",
+   "sports": [
+    "tennis"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": true
+  },
+  {
+   "id": "杉並区塚山公園運動場",
+   "name": {
+    "en": "Tsukayama Park sports ground",
+    "ja": "杉並区塚山公園運動場"
+   },
+   "address": "杉並区下高井戸5-23-12",
+   "location": [
+    35.674896,
+    139.62442
+   ],
+   "open": "09:00",
+   "close": "17:00",
+   "note": {
+    "en": "April to October 9 am to 5 pm; November to March 9 am to 4 pm. Closed 29 December to 4 January.",
+    "ja": "4月から10月は午前9時から午後5時　11月から3月は午前9時から午後4時　12月29日から1月4日は休場"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/undojo/1007032.html",
+   "sports": [],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": false
+  },
+  {
+   "id": "杉並区井草森公園運動場",
+   "name": {
+    "en": "Igusa-no-mori Park sports ground",
+    "ja": "杉並区井草森公園運動場"
+   },
+   "address": "杉並区井草4-12-1",
+   "location": [
+    35.726555,
+    139.611816
+   ],
+   "open": "09:00",
+   "close": "17:00",
+   "note": {
+    "en": "Also open Wednesdays 9 am to 1 pm and Thursdays 9 am to 5 pm. Closed 29 December to 3 January.",
+    "ja": "水曜日9時から午後1時木曜日9時から午後5時まで臨時開場　12月29日から1月3日まで休場"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/undojo/1007027.html",
+   "sports": [
+    "soccer"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": true
+  },
+  {
+   "id": "杉並第十小学校温水プール",
+   "name": {
+    "en": "Suginami No. 10 Elementary School indoor pool",
+    "ja": "杉並第十小学校温水プール"
+   },
+   "address": "杉並区和田3-55-49",
+   "location": [
+    35.697144,
+    139.657852
+   ],
+   "open": "09:00",
+   "close": "21:00",
+   "note": {
+    "en": "Closed 1st Tuesday of each month, and 28 December to 4 January.",
+    "ja": "毎月第1火曜日休場　12月28日から1月4日まで休場"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/pool/1007045.html",
+   "sports": [
+    "swimming"
+   ],
+   "pool_25m": true,
+   "kids_pool": true,
+   "showers": true
+  },
+  {
+   "id": "杉並区蚕糸の森公園運動場",
+   "name": {
+    "en": "Sanshi-no-mori Park sports ground",
+    "ja": "杉並区蚕糸の森公園運動場"
+   },
+   "address": "杉並区和田3-55-49",
+   "location": [
+    35.697144,
+    139.657852
+   ],
+   "open": "09:00",
+   "close": "17:00",
+   "note": {
+    "en": "April to October 9 am to 5 pm; November to March 10 am to 4 pm. Closed 28 December to 4 January.",
+    "ja": "4月から10月は午前9時から午後5時　11月から3月は午前10時から午後4時　12月28日から1月4日は休場"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/undojo/1007030.html",
+   "sports": [
+    "soccer"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": false
+  },
+  {
+   "id": "杉並区和田堀公園プール",
+   "name": {
+    "en": "Wadabori Park outdoor pool",
+    "ja": "杉並区和田堀公園プール"
+   },
+   "address": "杉並区大宮2-2-10",
+   "location": [
+    35.681847,
+    139.641663
+   ],
+   "open": "09:00",
+   "close": "18:00",
+   "note": {
+    "en": "Open 1 July to 10 September.",
+    "ja": "7月1日～9月10日まで開場。"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/pool/1007049.html",
+   "sports": [
+    "swimming"
+   ],
+   "pool_25m": true,
+   "kids_pool": true,
+   "showers": true
+  },
+  {
+   "id": "杉並区和田堀調節池壁打ち庭球練習場",
+   "name": {
+    "en": "Wadabori tennis practice wall",
+    "ja": "杉並区和田堀調節池壁打ち庭球練習場"
+   },
+   "address": "杉並区大宮1-20",
+   "location": [
+    35.685535,
+    139.644974
+   ],
+   "open": "09:00",
+   "close": "17:00",
+   "note": {
+    "en": "Closed Mondays, and 28 December to 4 January.",
+    "ja": "毎週月曜日休場。また、12月28日～1月4日まで休場。"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/undojo/1007036.html",
+   "sports": [
+    "tennis"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": false
+  },
+  {
+   "id": "杉並区松ノ木運動場",
+   "name": {
+    "en": "Matsunoki sports ground",
+    "ja": "杉並区松ノ木運動場"
+   },
+   "address": "杉並区松ノ木1-3-22",
+   "location": [
+    35.685886,
+    139.642014
+   ],
+   "open": "09:00",
+   "close": "21:00",
+   "note": {
+    "en": "Closed 28 December to 4 January.",
+    "ja": "12月28日～1月4日まで休場。"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/undojo/1007033.html",
+   "sports": [
+    "tennis",
+    "baseball"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": true
+  },
+  {
+   "id": "杉並区下高井戸運動場",
+   "name": {
+    "en": "Shimo-Takaido sports ground",
+    "ja": "杉並区下高井戸運動場"
+   },
+   "address": "杉並区下高井戸3-26-1",
+   "location": [
+    35.672733,
+    139.635666
+   ],
+   "open": "09:00",
+   "close": "21:00",
+   "note": {
+    "en": "Closed 28 December to 4 January.",
+    "ja": "12月28日～1月4日まで休場。"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/undojo/1007031.html",
+   "sports": [
+    "soccer"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": true
+  },
+  {
+   "id": "杉並区永福体育館",
+   "name": {
+    "en": "Eifuku Gymnasium",
+    "ja": "杉並区永福体育館"
+   },
+   "address": "杉並区永福1-7-6",
+   "location": [
+    35.669518,
+    139.641998
+   ],
+   "open": "09:00",
+   "close": "21:00",
+   "note": {
+    "en": "Closed 28 December to 4 January.",
+    "ja": "12月28日～1月4日まで休場。"
+   },
+   "url": "https://www.eifuku-sports.com/",
+   "sports": [
+    "training",
+    "table_tennis",
+    "badminton",
+    "basketball",
+    "volleyball"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": true
+  },
+  {
+   "id": "杉並区和田堀公園野球場",
+   "name": {
+    "en": "Wadabori Park baseball ground",
+    "ja": "杉並区和田堀公園野球場"
+   },
+   "address": "杉並区大宮1-6",
+   "location": [
+    35.684143,
+    139.643234
+   ],
+   "open": "09:00",
+   "close": "17:00",
+   "note": {
+    "en": "Closed 28 December to 4 January.",
+    "ja": "12月28日～1月4日まで休場。"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/shisetsu/sports/undojo/1007035.html",
+   "sports": [
+    "baseball"
+   ],
+   "pool_25m": false,
+   "kids_pool": false,
+   "showers": false
+  }
+ ],
+ "halls": [
+  {
+   "name": "ゆう杉並",
+   "address": "杉並区荻窪1-56-3",
+   "location": [
+    35.694511,
+    139.628098
+   ],
+   "phone": "03-3393-4760",
+   "closed": "【休館日】第2,4月曜日、12/28～1/4、学校休業期間",
+   "rooms": [
+    {
+     "name": "ホール",
+     "capacity": 114
+    },
+    {
+     "name": "集会室１・２(一体使用)",
+     "capacity": 40
+    },
+    {
+     "name": "体育室(1/3面A)",
+     "capacity": 60
+    }
+   ]
+  },
+  {
+   "name": "ウェルファーム杉並",
+   "address": "杉並区天沼3-19-16　3階",
+   "location": [
+    35.710388,
+    139.620667
+   ],
+   "phone": "03-5335-7311",
+   "closed": "【休館日】成人の日・山の日、12/29～1/3",
+   "rooms": [
+    {
+     "name": "第１・２教室(一体使用)",
+     "capacity": 60
+    },
+    {
+     "name": "第３教室・学習室(一体使用)",
+     "capacity": 37
+    }
+   ]
+  },
+  {
+   "name": "コミュニティふらっと成田",
+   "address": "杉並区成田西1-28-18",
+   "location": [
+    35.690483,
+    139.631592
+   ],
+   "phone": "03-3318-2061",
+   "closed": "【休館日】第2,4火曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 32
+    },
+    {
+     "name": "多目的室",
+     "capacity": 40
+    }
+   ]
+  },
+  {
+   "name": "コミュニティふらっと方南",
+   "address": "杉並区方南1-27-8",
+   "location": [
+    35.676582,
+    139.658707
+   ],
+   "phone": "03-3322-4225",
+   "closed": "【休館日】第1,３水曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 45
+    }
+   ]
+  },
+  {
+   "name": "コミュニティふらっと本天沼",
+   "address": "杉並区本天沼2-12-10",
+   "location": [
+    35.712727,
+    139.624313
+   ],
+   "phone": "03-5310-4633",
+   "closed": "【休館日】第1,3月曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第２・３集会室(一体使用)",
+     "capacity": 42
+    },
+    {
+     "name": "多目的室",
+     "capacity": 40
+    }
+   ]
+  },
+  {
+   "name": "コミュニティふらっと東原",
+   "address": "杉並区下井草1-23-23",
+   "location": [
+    35.716091,
+    139.632065
+   ],
+   "phone": "03-3397-7225",
+   "closed": "【休館日】第1,3火曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第２・３集会室(一体使用)",
+     "capacity": 42
+    },
+    {
+     "name": "多目的室",
+     "capacity": 40
+    }
+   ]
+  },
+  {
+   "name": "コミュニティふらっと永福",
+   "address": "杉並区永福3-51-17",
+   "location": [
+    35.678596,
+    139.638153
+   ],
+   "phone": "03-3322-7141",
+   "closed": "【休館日】第1,３木曜日(祝日にあたるときは翌日。ただし、土日祝と重なると時は順次繰り延べる)12/31～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 30
+    },
+    {
+     "name": "第２・３集会室(一体使用)",
+     "capacity": 45
+    },
+    {
+     "name": "第１・２・３集会室(一体使用)",
+     "capacity": 60
+    },
+    {
+     "name": "多目的室",
+     "capacity": 40
+    }
+   ]
+  },
+  {
+   "name": "コミュニティふらっと阿佐谷",
+   "address": "杉並区阿佐谷北2-18-17",
+   "location": [
+    35.705921,
+    139.633972
+   ],
+   "phone": "03-5364-9360",
+   "closed": "【休館日】第1,3木曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 32
+    },
+    {
+     "name": "第３・４集会室(一体使用)",
+     "capacity": 36
+    }
+   ]
+  },
+  {
+   "name": "コミュニティふらっと馬橋",
+   "address": "杉並区高円寺南3-29-5",
+   "location": [
+    35.702034,
+    139.643799
+   ],
+   "phone": "03-3315-1249",
+   "closed": "【休館日】第1,3月曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 31
+    },
+    {
+     "name": "多目的室",
+     "capacity": 52
+    }
+   ]
+  },
+  {
+   "name": "コミュニティふらっと高円寺南",
+   "address": "杉並区高円寺南2-40-24",
+   "location": [
+    35.70129,
+    139.650513
+   ],
+   "phone": "03-3316-2421",
+   "closed": "【休館日】第1月曜日、第３木曜日(祝日にあたるときは翌日。ただし、土日祝と重なると時は順次繰り延べる)12/31～1/4",
+   "rooms": [
+    {
+     "name": "第２・３集会室(一体使用)",
+     "capacity": 64
+    },
+    {
+     "name": "第２多目的室",
+     "capacity": 110
+    }
+   ]
+  },
+  {
+   "name": "セシオン杉並",
+   "address": "杉並区梅里1-22-32",
+   "location": [
+    35.696636,
+    139.654297
+   ],
+   "phone": "03-3317-6611",
+   "closed": "【休館日】第2木曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第６・７集会室(一体使用)",
+     "capacity": 56
+    },
+    {
+     "name": "第８・９集会室(一体使用)",
+     "capacity": 76
+    },
+    {
+     "name": "第９・１０集会室(一体使用)",
+     "capacity": 76
+    },
+    {
+     "name": "第８・９・１０集会室(一体使用)",
+     "capacity": 146
+    },
+    {
+     "name": "第１・２・３和室(一体使用)",
+     "capacity": 42
+    },
+    {
+     "name": "講座室",
+     "capacity": 80
+    },
+    {
+     "name": "第１音楽室",
+     "capacity": 48
+    },
+    {
+     "name": "体育室"
+    },
+    {
+     "name": "展示室(集会室・全面)",
+     "capacity": 130
+    },
+    {
+     "name": "ホール",
+     "capacity": 503
+    }
+   ]
+  },
+  {
+   "name": "上高井戸区民集会所",
+   "address": "杉並区上高井戸東1-15-5",
+   "location": [
+    35.671116,
+    139.612366
+   ],
+   "phone": "03-3329-0605",
+   "closed": "【休館日】第2,4月曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "集会室・第１・２和室(一体使用)",
+     "capacity": 44
+    }
+   ]
+  },
+  {
+   "name": "下高井戸区民集会所",
+   "address": "杉並区下高井戸3-26-1",
+   "location": [
+    35.672733,
+    139.635666
+   ],
+   "phone": "03-5374-6192",
+   "closed": "【休館日】第3水曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 54
+    },
+    {
+     "name": "第１・２和室(一体使用)",
+     "capacity": 36
+    },
+    {
+     "name": "体育室(全面使用)"
+    }
+   ]
+  },
+  {
+   "name": "久我山会館",
+   "address": "杉並区久我山3-23-20",
+   "location": [
+    35.686588,
+    139.599594
+   ],
+   "phone": "03-3333-3436",
+   "closed": "【休館日】毎月25日(25日が土・日・祝と重なるときは、順次繰り延べる)、12/28～1/4",
+   "rooms": [
+    {
+     "name": "ホール",
+     "capacity": 180
+    },
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 63
+    }
+   ]
+  },
+  {
+   "name": "井草地域区民センター",
+   "address": "杉並区下井草5-7-22",
+   "location": [
+    35.720581,
+    139.616898
+   ],
+   "phone": "03-3301-7720",
+   "closed": "【休館日】第1,3木曜日、第３木曜日の前日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 84
+    },
+    {
+     "name": "第６・７集会室(一体使用)",
+     "capacity": 50
+    },
+    {
+     "name": "第３・４和室(一体使用)",
+     "capacity": 50
+    }
+   ]
+  },
+  {
+   "name": "八成区民集会所",
+   "address": "杉並区井草1-3-2",
+   "location": [
+    35.724499,
+    139.621689
+   ],
+   "phone": "03-3394-0989",
+   "closed": "【休館日】第2水曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第２・３集会室(一体使用)",
+     "capacity": 42
+    },
+    {
+     "name": "第３・４集会室(一体使用)",
+     "capacity": 39
+    },
+    {
+     "name": "第２・３・４集会室(一体使用)",
+     "capacity": 66
+    }
+   ]
+  },
+  {
+   "name": "和田区民集会所",
+   "address": "杉並区和田2-31-21",
+   "location": [
+    35.691204,
+    139.657761
+   ],
+   "phone": "03-5340-6272",
+   "closed": "【休館日】第1,3月曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第２・３集会室(一体使用)",
+     "capacity": 50
+    },
+    {
+     "name": "第１・２和室(一体使用)",
+     "capacity": 30
+    }
+   ]
+  },
+  {
+   "name": "座・高円寺",
+   "address": "杉並区高円寺北2-1-2",
+   "location": [
+    35.705627,
+    139.654068
+   ],
+   "phone": "03-3223-7500",
+   "closed": "【休館日】12/29～1/3　臨時休館日あり",
+   "rooms": [
+    {
+     "name": "座・高円寺２",
+     "capacity": 256
+    },
+    {
+     "name": "阿波おどりホール",
+     "capacity": 130
+    }
+   ]
+  },
+  {
+   "name": "方南会館",
+   "address": "杉並区和泉4-42-5",
+   "location": [
+    35.680832,
+    139.656189
+   ],
+   "phone": "03-3311-4201",
+   "closed": "【休館日】毎月25日(25日が土・日・祝と重なるときは、順次繰り延べる)、12/28～1/4",
+   "rooms": [
+    {
+     "name": "ホール",
+     "capacity": 160
+    },
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 72
+    }
+   ]
+  },
+  {
+   "name": "杉並会館",
+   "address": "杉並区上荻3-29-5",
+   "location": [
+    35.710491,
+    139.607574
+   ],
+   "phone": "03-3399-9436",
+   "closed": "【休館日】毎週月曜日(月曜が祝日の場合は、その翌日)、12/28～1/4",
+   "rooms": [
+    {
+     "name": "宴会室「芙蓉」(洋室)",
+     "capacity": 36
+    },
+    {
+     "name": "宴会室「末広」(洋室)",
+     "capacity": 69
+    },
+    {
+     "name": "宴会室「孔雀」(洋室)",
+     "capacity": 96
+    }
+   ]
+  },
+  {
+   "name": "梅里区民集会所",
+   "address": "杉並区梅里2-34-20",
+   "location": [
+    35.696419,
+    139.641327
+   ],
+   "phone": "03-3317-3310",
+   "closed": "【休館日】第3火曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 45
+    }
+   ]
+  },
+  {
+   "name": "永福和泉地域区民センター",
+   "address": "杉並区和泉3-8-18",
+   "location": [
+    35.675861,
+    139.646072
+   ],
+   "phone": "03-5300-9411",
+   "closed": "【休館日】第2,4水曜日、毎月15日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 60
+    },
+    {
+     "name": "第２・３集会室(一体使用)",
+     "capacity": 60
+    },
+    {
+     "name": "第１・２・３集会室(一体使用)",
+     "capacity": 111
+    },
+    {
+     "name": "第１・２和室(一体使用)",
+     "capacity": 30
+    }
+   ]
+  },
+  {
+   "name": "浜田山会館",
+   "address": "杉並区浜田山1-36-3",
+   "location": [
+    35.680233,
+    139.629898
+   ],
+   "phone": "03-3302-4555",
+   "closed": "【休館日】毎月20日(20日が土・日・祝と重なるときは、順次繰り延べる)、12/28～1/4",
+   "rooms": [
+    {
+     "name": "ホール",
+     "capacity": 195
+    },
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 60
+    }
+   ]
+  },
+  {
+   "name": "産業商工会館",
+   "address": "杉並区阿佐谷南3-2-19",
+   "location": [
+    35.701904,
+    139.635208
+   ],
+   "phone": "03-3393-1501",
+   "closed": "【休館日】第3日曜日、12/28～1/3",
+   "rooms": [
+    {
+     "name": "展示場",
+     "capacity": 84
+    },
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 72
+    }
+   ]
+  },
+  {
+   "name": "西荻地域区民センター",
+   "address": "杉並区桃井4-3-2",
+   "location": [
+    35.712227,
+    139.602219
+   ],
+   "phone": "03-3301-0811",
+   "closed": "【休館日】第2水曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 72
+    },
+    {
+     "name": "第３・４集会室(一体使用)",
+     "capacity": 90
+    },
+    {
+     "name": "第１・２和室(一体使用)",
+     "capacity": 40
+    },
+    {
+     "name": "ホール",
+     "capacity": 303
+    },
+    {
+     "name": "体育室(全面)"
+    }
+   ]
+  },
+  {
+   "name": "阿佐谷地域区民センター",
+   "address": "杉並区阿佐谷北1-1-1",
+   "location": [
+    35.705551,
+    139.640991
+   ],
+   "phone": "03-5356-9501",
+   "closed": "【休館日】第2火曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 88
+    },
+    {
+     "name": "第２・３集会室(一体使用)",
+     "capacity": 88
+    },
+    {
+     "name": "第１・２・３集会室(一体使用)",
+     "capacity": 130
+    },
+    {
+     "name": "第４・５集会室(一体使用)",
+     "capacity": 66
+    },
+    {
+     "name": "体育室",
+     "capacity": 48
+    }
+   ]
+  },
+  {
+   "name": "高井戸地域区民センター",
+   "address": "杉並区高井戸東3-7-5",
+   "location": [
+    35.683449,
+    139.615952
+   ],
+   "phone": "03-3331-7841",
+   "closed": "【休館日】第3月曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 90
+    },
+    {
+     "name": "第３・４集会室(一体使用)",
+     "capacity": 50
+    },
+    {
+     "name": "第７・８集会室(一体使用)",
+     "capacity": 70
+    },
+    {
+     "name": "体育室(全面使用)"
+    }
+   ]
+  },
+  {
+   "name": "高円寺北区民集会所",
+   "address": "杉並区高円寺北3-25-9",
+   "location": [
+    35.707558,
+    139.64827
+   ],
+   "phone": "03-3330-7255",
+   "closed": "【休館日】第2,4月曜日、12/28～1/4",
+   "rooms": [
+    {
+     "name": "第１・２集会室(一体使用)",
+     "capacity": 40
+    },
+    {
+     "name": "第４・５集会室(一体使用)",
+     "capacity": 40
+    }
+   ]
+  }
+ ],
+ "toilets": [
+  {
+   "id": "131156C00001",
+   "name": "関根文化公園",
+   "location": [
+    35.708722,
+    139.605319
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00002",
+   "name": "西永福公園",
+   "location": [
+    35.677579,
+    139.63706
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00003",
+   "name": "和田堀公園",
+   "location": [
+    35.685452,
+    139.642377
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00004",
+   "name": "方南公園",
+   "location": [
+    35.686204,
+    139.658244
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00005",
+   "name": "和田公衆便所",
+   "location": [
+    35.687235,
+    139.661392
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00006",
+   "name": "妙正寺公衆便所",
+   "location": [
+    35.717583,
+    139.61851
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00007",
+   "name": "妙正寺公園",
+   "location": [
+    35.717583,
+    139.61851
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00008",
+   "name": "高円寺北公衆便所",
+   "location": [
+    35.707362,
+    139.648993
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00009",
+   "name": "大宮児童公園",
+   "location": [
+    35.6818,
+    139.639378
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00010",
+   "name": "高円寺中央公衆便所",
+   "location": [
+    35.703719,
+    139.651715
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00011",
+   "name": "梅里公園",
+   "location": [
+    35.694854,
+    139.654067
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00012",
+   "name": "堀ノ内公衆便所",
+   "location": [
+    35.694854,
+    139.654067
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00013",
+   "name": "三谷公園",
+   "location": [
+    35.719388,
+    139.599849
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00014",
+   "name": "高円寺東公園",
+   "location": [
+    35.702224,
+    139.658484
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00015",
+   "name": "済美公園",
+   "location": [
+    35.687598,
+    139.648547
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00016",
+   "name": "玉川上水公園",
+   "location": [
+    35.670879,
+    139.652022
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00017",
+   "name": "桃園川緑道",
+   "location": [
+    35.701409,
+    139.655649
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00018",
+   "name": "大宮前公園",
+   "location": [
+    35.696804,
+    139.606004
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00019",
+   "name": "桃井公衆便所",
+   "location": [
+    35.711295,
+    139.612466
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00020",
+   "name": "高円寺南公園",
+   "location": [
+    35.70227,
+    139.644565
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00021",
+   "name": "宮下公園",
+   "location": [
+    35.692168,
+    139.615294
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00022",
+   "name": "井荻公園",
+   "location": [
+    35.708786,
+    139.597593
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00023",
+   "name": "矢頭公衆便所",
+   "location": [
+    35.72521,
+    139.610466
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00024",
+   "name": "東原公園",
+   "location": [
+    35.716897,
+    139.630261
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00025",
+   "name": "八成公園",
+   "location": [
+    35.72836,
+    139.620275
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00026",
+   "name": "松ノ木公園",
+   "location": [
+    35.691009,
+    139.641536
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00027",
+   "name": "阿佐谷中央公園",
+   "location": [
+    35.709564,
+    139.637899
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00028",
+   "name": "阿佐谷南公園",
+   "location": [
+    35.703344,
+    139.629783
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00029",
+   "name": "浜田山東公園",
+   "location": [
+    35.680941,
+    139.632018
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00030",
+   "name": "玉川上水第三公園",
+   "location": [
+    35.667924,
+    139.64022
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00031",
+   "name": "和田北公園",
+   "location": [
+    35.696209,
+    139.658739
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00032",
+   "name": "堀ノ内東公園",
+   "location": [
+    35.692139,
+    139.653591
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00033",
+   "name": "永福南公園",
+   "location": [
+    35.670766,
+    139.639256
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00034",
+   "name": "杉並児童交通公園",
+   "location": [
+    35.688944,
+    139.631109
+   ],
+   "accessible": false,
+   "baby": true,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00035",
+   "name": "べんてんばし公園",
+   "location": [
+    35.680907,
+    139.652759
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00036",
+   "name": "久我山公園",
+   "location": [
+    35.688853,
+    139.597545
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00037",
+   "name": "永福北公園",
+   "location": [
+    35.680455,
+    139.641993
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00039",
+   "name": "道灌公園",
+   "location": [
+    35.717631,
+    139.601231
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00040",
+   "name": "高井戸東公園",
+   "location": [
+    35.688963,
+    139.621274
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00041",
+   "name": "浅間橋公園",
+   "location": [
+    35.679093,
+    139.607089
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00042",
+   "name": "富士見丘北公園",
+   "location": [
+    35.687779,
+    139.608034
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00043",
+   "name": "下高井戸西公園",
+   "location": [
+    35.673747,
+    139.622965
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00044",
+   "name": "浜田山公園",
+   "location": [
+    35.68099,
+    139.626673
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00045",
+   "name": "西宮公園",
+   "location": [
+    35.693744,
+    139.600733
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00046",
+   "name": "方南中央公園",
+   "location": [
+    35.67921,
+    139.660067
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00047",
+   "name": "井草北公園",
+   "location": [
+    35.72805,
+    139.616258
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00048",
+   "name": "本天沼南公園",
+   "location": [
+    35.712282,
+    139.627619
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00049",
+   "name": "つくだ公園",
+   "location": [
+    35.680548,
+    139.614915
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00050",
+   "name": "井草公園",
+   "location": [
+    35.72696,
+    139.619111
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00051",
+   "name": "小鳩公園",
+   "location": [
+    35.696381,
+    139.608313
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00052",
+   "name": "松庵公園",
+   "location": [
+    35.69682,
+    139.592118
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00054",
+   "name": "浜田山南公園",
+   "location": [
+    35.677295,
+    139.632546
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00055",
+   "name": "阿佐谷東公園",
+   "location": [
+    35.701935,
+    139.640228
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00056",
+   "name": "高井戸西公園",
+   "location": [
+    35.689519,
+    139.613355
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00057",
+   "name": "三泉淵第二公園",
+   "location": [
+    35.680127,
+    139.620332
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00058",
+   "name": "四宮公園",
+   "location": [
+    35.722716,
+    139.607476
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00059",
+   "name": "南荻窪公園",
+   "location": [
+    35.696449,
+    139.613029
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00060",
+   "name": "天沼西公園",
+   "location": [
+    35.709112,
+    139.61986
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00061",
+   "name": "東二公園",
+   "location": [
+    35.692967,
+    139.64034
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00062",
+   "name": "西田公園",
+   "location": [
+    35.695492,
+    139.620681
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00063",
+   "name": "住吉公園",
+   "location": [
+    35.726946,
+    139.614692
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00064",
+   "name": "だいしょうじ公園",
+   "location": [
+    35.683591,
+    139.651181
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00065",
+   "name": "たかはら公園",
+   "location": [
+    35.705962,
+    139.658039
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00066",
+   "name": "松ノ木北公園",
+   "location": [
+    35.694183,
+    139.645028
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00067",
+   "name": "高南小公園",
+   "location": [
+    35.702002,
+    139.648439
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00068",
+   "name": "上井草向山公園",
+   "location": [
+    35.724022,
+    139.606217
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00069",
+   "name": "松渓公園",
+   "location": [
+    35.695036,
+    139.622046
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00070",
+   "name": "善福寺西の山公園",
+   "location": [
+    35.716251,
+    139.585957
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00071",
+   "name": "すぎのこ公園",
+   "location": [
+    35.716347,
+    139.630836
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00072",
+   "name": "阿佐谷西公園",
+   "location": [
+    35.707136,
+    139.633281
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00073",
+   "name": "昭栄公園",
+   "location": [
+    35.680145,
+    139.607926
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00074",
+   "name": "堀ノ内南公園",
+   "location": [
+    35.688127,
+    139.653447
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00075",
+   "name": "中通公園",
+   "location": [
+    35.714069,
+    139.611318
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00076",
+   "name": "おしかわ公園",
+   "location": [
+    35.700833,
+    139.617839
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00077",
+   "name": "松庵東公園",
+   "location": [
+    35.697133,
+    139.595789
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00078",
+   "name": "上高井戸南公園",
+   "location": [
+    35.670771,
+    139.612717
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00079",
+   "name": "浜田山かなめ公園",
+   "location": [
+    35.683652,
+    139.626292
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00080",
+   "name": "阿佐谷にしはら公園",
+   "location": [
+    35.699798,
+    139.641932
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00081",
+   "name": "大善公園",
+   "location": [
+    35.692917,
+    139.611259
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00082",
+   "name": "善福寺一丁目公園",
+   "location": [
+    35.712911,
+    139.597672
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00083",
+   "name": "高円寺北二公園",
+   "location": [
+    35.706977,
+    139.652856
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00084",
+   "name": "和泉がけ公園",
+   "location": [
+    35.679773,
+    139.652908
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00085",
+   "name": "成宗公園",
+   "location": [
+    35.702082,
+    139.628315
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00086",
+   "name": "ひまわり公園",
+   "location": [
+    35.669341,
+    139.643155
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00087",
+   "name": "玉川上水永泉寺緑地",
+   "location": [
+    35.667905,
+    139.643179
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00088",
+   "name": "和田西公園",
+   "location": [
+    35.692344,
+    139.655248
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00089",
+   "name": "なかよし公園",
+   "location": [
+    35.694341,
+    139.601364
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00090",
+   "name": "方南二丁目公園",
+   "location": [
+    35.680967,
+    139.65858
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00091",
+   "name": "四宮森公園",
+   "location": [
+    35.724302,
+    139.60865
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00092",
+   "name": "今川三丁目公園",
+   "location": [
+    35.714795,
+    139.605734
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00093",
+   "name": "高井戸正用公園",
+   "location": [
+    35.684663,
+    139.624526
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00094",
+   "name": "和泉二丁目公園",
+   "location": [
+    35.67712,
+    139.649594
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00095",
+   "name": "柳窪公園",
+   "location": [
+    35.691551,
+    139.618853
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00096",
+   "name": "阿佐谷けやき公園",
+   "location": [
+    35.705796,
+    139.64166
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00097",
+   "name": "正保公園",
+   "location": [
+    35.727076,
+    139.623123
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00098",
+   "name": "大田黒公園",
+   "location": [
+    35.700817,
+    139.624583
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00099",
+   "name": "与謝野公園",
+   "location": [
+    35.698682,
+    139.615736
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00100",
+   "name": "松庵三丁目公園",
+   "location": [
+    35.698981,
+    139.597049
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00101",
+   "name": "高南幼児公園",
+   "location": [
+    35.704992,
+    139.65357
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00102",
+   "name": "高井戸わんぱく公園",
+   "location": [
+    35.683981,
+    139.611772
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00103",
+   "name": "柿木公園",
+   "location": [
+    35.723679,
+    139.612355
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00104",
+   "name": "梅里中央公園",
+   "location": [
+    35.696312,
+    139.641475
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00105",
+   "name": "山中公園",
+   "location": [
+    35.681588,
+    139.614567
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00106",
+   "name": "今川一丁目公園",
+   "location": [
+    35.718451,
+    139.613699
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00107",
+   "name": "井草さくら公園",
+   "location": [
+    35.725797,
+    139.622983
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00108",
+   "name": "切通し公園",
+   "location": [
+    35.717585,
+    139.59714
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00109",
+   "name": "清水一丁目公園",
+   "location": [
+    35.711608,
+    139.61657
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00110",
+   "name": "上瀬戸公園",
+   "location": [
+    35.720851,
+    139.604424
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00111",
+   "name": "馬橋公園",
+   "location": [
+    35.709593,
+    139.643058
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00112",
+   "name": "上高井戸宿公園",
+   "location": [
+    35.672301,
+    139.612441
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00113",
+   "name": "高井戸みどり公園",
+   "location": [
+    35.679159,
+    139.610651
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00114",
+   "name": "青葉公園",
+   "location": [
+    35.698465,
+    139.593389
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00115",
+   "name": "清水森公園",
+   "location": [
+    35.71373,
+    139.618016
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00116",
+   "name": "ひかり公園",
+   "location": [
+    35.67705,
+    139.616379
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00117",
+   "name": "蚕糸の森公園（北）",
+   "location": [
+    35.697669,
+    139.656038
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00118",
+   "name": "蚕糸の森公園（南）",
+   "location": [
+    35.697669,
+    139.656038
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00119",
+   "name": "阿佐谷ことり公園",
+   "location": [
+    35.701459,
+    139.633913
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00120",
+   "name": "阿佐谷かりん公園",
+   "location": [
+    35.712802,
+    139.635342
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00121",
+   "name": "和田中央公園",
+   "location": [
+    35.692192,
+    139.661501
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00122",
+   "name": "成田かっぱ公園",
+   "location": [
+    35.684579,
+    139.637598
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00123",
+   "name": "一本松公園",
+   "location": [
+    35.715307,
+    139.634624
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00124",
+   "name": "東二第三公園",
+   "location": [
+    35.693967,
+    139.638085
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00125",
+   "name": "高南みどり公園",
+   "location": [
+    35.701918,
+    139.654528
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00126",
+   "name": "堀ノ内三丁目公園",
+   "location": [
+    35.693698,
+    139.651219
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00127",
+   "name": "塚山公園（西）",
+   "location": [
+    35.674981,
+    139.624761
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00128",
+   "name": "塚山公園（東）",
+   "location": [
+    35.674981,
+    139.624761
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00129",
+   "name": "塚山公園（管理棟）",
+   "location": [
+    35.674981,
+    139.624761
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00130",
+   "name": "兵庫橋公園",
+   "location": [
+    35.685301,
+    139.594628
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00131",
+   "name": "新高円寺公園",
+   "location": [
+    35.698838,
+    139.645442
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00132",
+   "name": "宮下橋公園",
+   "location": [
+    35.687163,
+    139.596001
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00133",
+   "name": "西荻南児童公園",
+   "location": [
+    35.701377,
+    139.601978
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00134",
+   "name": "浜田山一丁目公園",
+   "location": [
+    35.679464,
+    139.630428
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00135",
+   "name": "はら公園",
+   "location": [
+    35.685685,
+    139.632571
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00136",
+   "name": "久我山中央緑地",
+   "location": [
+    35.687815,
+    139.598612
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00137",
+   "name": "さざんか公園",
+   "location": [
+    35.694099,
+    139.591101
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00138",
+   "name": "今川二丁目公園",
+   "location": [
+    35.716304,
+    139.610215
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00139",
+   "name": "西荻北中央公園",
+   "location": [
+    35.705581,
+    139.597039
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00140",
+   "name": "道灌橋公園",
+   "location": [
+    35.72049,
+    139.60187
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00141",
+   "name": "高円寺いこい公園",
+   "location": [
+    35.702594,
+    139.660129
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00142",
+   "name": "永福中央公園",
+   "location": [
+    35.671143,
+    139.641274
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00143",
+   "name": "神戸町あけぼの公園",
+   "location": [
+    35.720471,
+    139.61631
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00144",
+   "name": "こりす公園",
+   "location": [
+    35.699207,
+    139.66032
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00145",
+   "name": "西荻北公園",
+   "location": [
+    35.706962,
+    139.594643
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00146",
+   "name": "柳窪南公園",
+   "location": [
+    35.689125,
+    139.619581
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00147",
+   "name": "三谷南公園",
+   "location": [
+    35.715377,
+    139.603654
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00148",
+   "name": "宮前公園",
+   "location": [
+    35.694288,
+    139.610891
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00149",
+   "name": "成田西公園",
+   "location": [
+    35.689571,
+    139.624411
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00150",
+   "name": "桐の木公園",
+   "location": [
+    35.684676,
+    139.61115
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00151",
+   "name": "本天沼東公園",
+   "location": [
+    35.713114,
+    139.630333
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00152",
+   "name": "西荻わかば公園",
+   "location": [
+    35.705173,
+    139.603979
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00153",
+   "name": "小七山公園",
+   "location": [
+    35.716227,
+    139.636447
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00154",
+   "name": "成三公園",
+   "location": [
+    35.689793,
+    139.635284
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00155",
+   "name": "天沼地蔵前公園",
+   "location": [
+    35.704898,
+    139.627247
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00156",
+   "name": "久我山東原公園",
+   "location": [
+    35.687556,
+    139.605372
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00157",
+   "name": "柿木北公園",
+   "location": [
+    35.724629,
+    139.611919
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00158",
+   "name": "ひとみ公園",
+   "location": [
+    35.704675,
+    139.657323
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00159",
+   "name": "わかたけ公園",
+   "location": [
+    35.716921,
+    139.622738
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00160",
+   "name": "こぶし公園",
+   "location": [
+    35.692231,
+    139.603181
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00161",
+   "name": "くつかけ公園",
+   "location": [
+    35.715734,
+    139.616079
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00162",
+   "name": "和泉西公園",
+   "location": [
+    35.67972,
+    139.647424
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00163",
+   "name": "たんぽぽ公園",
+   "location": [
+    35.703258,
+    139.610865
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00164",
+   "name": "井草森公園（管理棟）",
+   "location": [
+    35.726903,
+    139.611062
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00165",
+   "name": "井草森公園A",
+   "location": [
+    35.726903,
+    139.611062
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00166",
+   "name": "井草森公園B",
+   "location": [
+    35.726903,
+    139.611062
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00167",
+   "name": "富士見丘西公園",
+   "location": [
+    35.685605,
+    139.606758
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00168",
+   "name": "向井公園",
+   "location": [
+    35.719156,
+    139.624449
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00169",
+   "name": "宮元公園",
+   "location": [
+    35.681001,
+    139.636649
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00170",
+   "name": "向井東公園",
+   "location": [
+    35.71958,
+    139.62881
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00171",
+   "name": "井草東公園",
+   "location": [
+    35.724343,
+    139.626841
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00172",
+   "name": "松庵わかくさ公園",
+   "location": [
+    35.703244,
+    139.596203
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00173",
+   "name": "すずかけ公園",
+   "location": [
+    35.682845,
+    139.633479
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00174",
+   "name": "柏の宮公園（南）",
+   "location": [
+    35.677536,
+    139.626323
+   ],
+   "accessible": false,
+   "baby": true,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00175",
+   "name": "柏の宮公園（管理棟）",
+   "location": [
+    35.677536,
+    139.626323
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00176",
+   "name": "柏の宮公園（北）",
+   "location": [
+    35.677536,
+    139.626323
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00177",
+   "name": "銀杏稲荷公園",
+   "location": [
+    35.719278,
+    139.626471
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00178",
+   "name": "松庵梅林公園",
+   "location": [
+    35.699013,
+    139.593022
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00179",
+   "name": "天沼弁天池公園（管理棟）",
+   "location": [
+    35.708697,
+    139.621546
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00180",
+   "name": "定塚橋公園",
+   "location": [
+    35.686028,
+    139.653927
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00181",
+   "name": "新町鳥居先公園",
+   "location": [
+    35.715774,
+    139.599428
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00182",
+   "name": "角川庭園（西）",
+   "location": [
+    35.698679,
+    139.62483
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00183",
+   "name": "角川庭園（東）",
+   "location": [
+    35.698679,
+    139.62483
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00184",
+   "name": "松渓橋公園",
+   "location": [
+    35.697589,
+    139.622836
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00185",
+   "name": "三井の森公園（西）",
+   "location": [
+    35.679914,
+    139.62307
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00186",
+   "name": "三井の森公園（東）",
+   "location": [
+    35.679914,
+    139.62307
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00187",
+   "name": "Aさんの庭",
+   "location": [
+    35.711298,
+    139.640578
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00188",
+   "name": "やなぎ橋公園",
+   "location": [
+    35.682544,
+    139.613656
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00189",
+   "name": "桃井原っぱ公園（東）",
+   "location": [
+    35.71283,
+    139.607493
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00190",
+   "name": "桃井原っぱ公園（管理棟）",
+   "location": [
+    35.71283,
+    139.607493
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00191",
+   "name": "高円寺北一みどり公園",
+   "location": [
+    35.708436,
+    139.6577
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00192",
+   "name": "和田さくらの坂公園",
+   "location": [
+    35.694197,
+    139.664847
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00193",
+   "name": "大谷戸けやき緑地",
+   "location": [
+    35.696828,
+    139.626556
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00194",
+   "name": "成田西ふれあい農業公園",
+   "location": [
+    35.691408,
+    139.623645
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00195",
+   "name": "下高井戸おおぞら公園（北）",
+   "location": [
+    35.67091,
+    139.636998
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00196",
+   "name": "下高井戸おおぞら公園（管理棟１F）",
+   "location": [
+    35.67091,
+    139.636998
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00197",
+   "name": "下高井戸おおぞら公園（管理棟２F）",
+   "location": [
+    35.67091,
+    139.636998
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00198",
+   "name": "阿佐谷児童遊園",
+   "location": [
+    35.70044,
+    139.637758
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00199",
+   "name": "松山児童遊園",
+   "location": [
+    35.711284,
+    139.632461
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00200",
+   "name": "中瀬児童遊園",
+   "location": [
+    35.720251,
+    139.618991
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00201",
+   "name": "久我山児童遊園",
+   "location": [
+    35.692349,
+    139.59298
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00202",
+   "name": "天沼児童遊園",
+   "location": [
+    35.714544,
+    139.626986
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00203",
+   "name": "観泉寺児童遊園",
+   "location": [
+    35.71634,
+    139.607334
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00204",
+   "name": "堀ノ内山谷児童遊園",
+   "location": [
+    35.691602,
+    139.64825
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00205",
+   "name": "上荻窪児童遊園",
+   "location": [
+    35.706194,
+    139.61326
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00206",
+   "name": "上ノ台公園",
+   "location": [
+    35.721022,
+    139.626121
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00207",
+   "name": "白幡児童遊園",
+   "location": [
+    35.692572,
+    139.634661
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00208",
+   "name": "なりむね児童遊園",
+   "location": [
+    35.698293,
+    139.62918
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00209",
+   "name": "神戸町児童遊園",
+   "location": [
+    35.723644,
+    139.615216
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00210",
+   "name": "済美児童遊園",
+   "location": [
+    35.685862,
+    139.652007
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00211",
+   "name": "上荻窪第三児童遊園",
+   "location": [
+    35.708878,
+    139.611296
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00212",
+   "name": "大宮前児童遊園",
+   "location": [
+    35.697306,
+    139.601097
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00213",
+   "name": "梅里児童遊園",
+   "location": [
+    35.696201,
+    139.651483
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00214",
+   "name": "阿佐谷北児童遊園",
+   "location": [
+    35.706113,
+    139.640992
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00215",
+   "name": "西田第二公園",
+   "location": [
+    35.695082,
+    139.62663
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00216",
+   "name": "富士見丘公衆便所",
+   "location": [
+    35.683564,
+    139.606799
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00217",
+   "name": "下高井戸児童遊園",
+   "location": [
+    35.671829,
+    139.635815
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00218",
+   "name": "西高井戸公衆便所",
+   "location": [
+    35.701016,
+    139.596905
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00219",
+   "name": "荻窪第一児童遊園",
+   "location": [
+    35.698823,
+    139.612414
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00220",
+   "name": "東田児童遊園",
+   "location": [
+    35.695766,
+    139.635699
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00221",
+   "name": "なりむね第二児童遊園",
+   "location": [
+    35.689192,
+    139.631183
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00222",
+   "name": "上高井戸第二児童遊園",
+   "location": [
+    35.676616,
+    139.614972
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00223",
+   "name": "和泉児童遊園",
+   "location": [
+    35.679276,
+    139.650242
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00224",
+   "name": "永泉寺坂公衆便所",
+   "location": [
+    35.669137,
+    139.641209
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00225",
+   "name": "今川児童遊園",
+   "location": [
+    35.714547,
+    139.599523
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00226",
+   "name": "久我山東児童遊園",
+   "location": [
+    35.688879,
+    139.60494
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00227",
+   "name": "阿佐谷北第二児童遊園",
+   "location": [
+    35.71405,
+    139.639652
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00228",
+   "name": "高円寺北一児童遊園",
+   "location": [
+    35.708282,
+    139.656143
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00230",
+   "name": "乙女橋児童遊園",
+   "location": [
+    35.677924,
+    139.621301
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00231",
+   "name": "西荻窪平和児童遊園",
+   "location": [
+    35.703364,
+    139.602067
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00232",
+   "name": "どんぐり山児童遊園",
+   "location": [
+    35.719733,
+    139.603937
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00233",
+   "name": "東二児童遊園",
+   "location": [
+    35.692508,
+    139.637549
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00234",
+   "name": "高井戸東三丁目児童遊園",
+   "location": [
+    35.683356,
+    139.619142
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00235",
+   "name": "天沼一丁目児童遊園",
+   "location": [
+    35.70549,
+    139.629273
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00236",
+   "name": "遊び場35番",
+   "location": [
+    35.721845,
+    139.626262
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00238",
+   "name": "遊び場90番",
+   "location": [
+    35.674666,
+    139.649193
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00239",
+   "name": "遊び場96番",
+   "location": [
+    35.672547,
+    139.656931
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00241",
+   "name": "山葉名いこいの森",
+   "location": [
+    35.718276,
+    139.594704
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00242",
+   "name": "東高円寺公衆便所",
+   "location": [
+    35.699197,
+    139.655124
+   ],
+   "accessible": true,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00243",
+   "name": "阿佐谷駅南口公衆便所",
+   "location": [
+    35.704649,
+    139.63612
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00244",
+   "name": "妙法寺境内公衆便所",
+   "location": [
+    35.691798,
+    139.651696
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00245",
+   "name": "高井戸西公衆便所",
+   "location": [
+    35.678748,
+    139.611814
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": false
+  },
+  {
+   "id": "131156C00246",
+   "name": "高円寺駅北口公衆便所",
+   "location": [
+    35.705526,
+    139.650361
+   ],
+   "accessible": false,
+   "baby": false,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00247",
+   "name": "西永福公衆便所",
+   "location": [
+    35.678536,
+    139.635817
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00248",
+   "name": "荻窪つどい公園",
+   "location": [
+    35.699878,
+    139.621947
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00249",
+   "name": "荻窪公園",
+   "location": [
+    35.69763,
+    139.61975
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00250",
+   "name": "下井草どかん公園",
+   "location": [
+    35.719479,
+    139.625214
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00251",
+   "name": "久我山丘のある公園",
+   "location": [
+    35.684299,
+    139.595367
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00252",
+   "name": "久我山つくし公園",
+   "location": [
+    35.690624,
+    139.596832
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00253",
+   "name": "馬橋公園（新管理棟）",
+   "location": [
+    35.709274,
+    139.644989
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  },
+  {
+   "id": "131156C00254",
+   "name": "荻外荘公園",
+   "location": [
+    35.698868,
+    139.622379
+   ],
+   "accessible": true,
+   "baby": true,
+   "ostomate": true
+  }
+ ],
+ "wifi": [
+  {
+   "name": "杉並区役所",
+   "location": [
+    35.699595,
+    139.636363
+   ],
+   "ssid": "suginami-wifi",
+   "where": "本庁舎１階・２階ロビー"
+  },
+  {
+   "name": "東京工芸大学 杉並アニメーションミュージアム",
+   "location": [
+    35.71039,
+    139.607852
+   ],
+   "ssid": "suginami-wifi",
+   "where": "アニメーションミュージアム3階"
+  },
+  {
+   "name": "荻窪地域区民センター",
+   "location": [
+    35.698638,
+    139.618996
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階談話コーナー"
+  },
+  {
+   "name": "高井戸地域区民センター",
+   "location": [
+    35.683633,
+    139.616331
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階くつろぎスペース"
+  },
+  {
+   "name": "西荻地域区民センター",
+   "location": [
+    35.712616,
+    139.60207
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階カウンター周辺"
+  },
+  {
+   "name": "阿佐谷地域区民センター",
+   "location": [
+    35.70545,
+    139.641003
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階事務所周辺"
+  },
+  {
+   "name": "高円寺地域区民センター",
+   "location": [
+    35.683644,
+    139.616303
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階ロビー周辺"
+  },
+  {
+   "name": "永福和泉地域区民センター",
+   "location": [
+    35.675722,
+    139.64589
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階ホール周辺"
+  },
+  {
+   "name": "井草地域区民センター",
+   "location": [
+    35.720608,
+    139.616443
+   ],
+   "ssid": "suginami-wifi",
+   "where": "談話コーナー"
+  },
+  {
+   "name": "久我山会館",
+   "location": [
+    35.686582,
+    139.599273
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階ロビー周辺"
+  },
+  {
+   "name": "杉並会館",
+   "location": [
+    35.710433,
+    139.607833
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階ロビー周辺"
+  },
+  {
+   "name": "コミュニティふらっと阿佐谷",
+   "location": [
+    35.706116,
+    139.633669
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階事務所周辺"
+  },
+  {
+   "name": "コミュニティふらっと馬橋",
+   "location": [
+    35.702001,
+    139.643861
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階窓際周辺"
+  },
+  {
+   "name": "コミュニティふらっと東原",
+   "location": [
+    35.715743,
+    139.631444
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階ラウンジ2周辺"
+  },
+  {
+   "name": "コミュニティふらっと永福",
+   "location": [
+    35.678413,
+    139.638018
+   ],
+   "ssid": "suginami-wifi",
+   "where": "3階カウンター周辺"
+  },
+  {
+   "name": "コミュニティふらっと成田",
+   "location": [
+    35.690727,
+    139.631454
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階ロビー周辺"
+  },
+  {
+   "name": "中央図書館",
+   "location": [
+    35.701897,
+    139.626747
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階カウンター周辺"
+  },
+  {
+   "name": "永福図書館",
+   "location": [
+    35.678506,
+    139.637991
+   ],
+   "ssid": "suginami-wifi",
+   "where": "2階カウンター周辺"
+  },
+  {
+   "name": "柿木図書館",
+   "location": [
+    35.720278,
+    139.612113
+   ],
+   "ssid": "suginami-wifi",
+   "where": "2階窓際周辺"
+  },
+  {
+   "name": "高円寺図書館",
+   "location": [
+    35.700403,
+    139.654102
+   ],
+   "ssid": "suginami-wifi",
+   "where": "3階フロア"
+  },
+  {
+   "name": "宮前図書館",
+   "location": [
+    35.693108,
+    139.598935
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階受付周辺"
+  },
+  {
+   "name": "成田図書館",
+   "location": [
+    35.695091,
+    139.637467
+   ],
+   "ssid": "suginami-wifi",
+   "where": "2階録音室"
+  },
+  {
+   "name": "西荻図書館",
+   "location": [
+    35.707837,
+    139.605921
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階窓際周辺"
+  },
+  {
+   "name": "阿佐谷図書館",
+   "location": [
+    35.711692,
+    139.633234
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階奥窓際"
+  },
+  {
+   "name": "南荻窪図書館",
+   "location": [
+    35.695049,
+    139.614458
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階入口入って右窓際周辺"
+  },
+  {
+   "name": "下井草図書館",
+   "location": [
+    35.720907,
+    139.623265
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階奥座席スペース周辺"
+  },
+  {
+   "name": "高井戸図書館",
+   "location": [
+    35.681597,
+    139.622938
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階北窓際周辺"
+  },
+  {
+   "name": "方南図書館",
+   "location": [
+    35.67908,
+    139.659913
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階中央周辺"
+  },
+  {
+   "name": "今川図書館",
+   "location": [
+    35.715598,
+    139.599856
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階受付周辺"
+  },
+  {
+   "name": "就労支援センター",
+   "location": [
+    35.710095,
+    139.620796
+   ],
+   "ssid": "suginami-wifi",
+   "where": "受付周辺"
+  },
+  {
+   "name": "太田黒公園",
+   "location": [
+    35.700751,
+    139.624424
+   ],
+   "ssid": "suginami-wifi",
+   "where": "全域"
+  },
+  {
+   "name": "角川庭園",
+   "location": [
+    35.698688,
+    139.624437
+   ],
+   "ssid": "suginami-wifi",
+   "where": "1階展示室・2階和室"
+  }
+ ],
+ "sources": {
+  "name": {
+   "en": "Suginami City open data: parks, libraries, sports facilities, public toilets, public Wi-Fi, rooms to rent (CC BY 4.0)",
+   "ja": "杉並区オープンデータ：都市公園、公立図書館、スポーツ施設、公衆トイレ、公衆無線LAN、地域のイベント会場（CC BY 4.0）"
+  },
+  "url": "https://catalog.data.metro.tokyo.lg.jp/organization/suginami-ku"
+ }
+}

@@ -1,0 +1,10289 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619787,
+     35.697614
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "荻窪公園",
+    "area_m2": 1382
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.604982,
+     35.708835
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "関根文化公園",
+    "area_m2": 2480
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636725,
+     35.677681
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "西永福公園",
+    "area_m2": 2518
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641211,
+     35.685218
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和田堀公園",
+    "area_m2": 27574
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658773,
+     35.686167
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "方南公園",
+    "area_m2": 2670
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.661382,
+     35.687369
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和田公園",
+    "area_m2": 2737
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618227,
+     35.717259
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "妙正寺公園",
+    "area_m2": 12444
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648921,
+     35.707231
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高円寺北公園",
+    "area_m2": 1809
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639711,
+     35.681741
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "大宮児童公園",
+    "area_m2": 1587
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651598,
+     35.70383
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高円寺中央公園",
+    "area_m2": 1501
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653813,
+     35.695477
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "梅里公園",
+    "area_m2": 5621
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.600043,
+     35.719458
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "三谷公園",
+    "area_m2": 2811
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.65839,
+     35.702025
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高円寺東公園",
+    "area_m2": 2719
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649228,
+     35.687726
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "済美公園",
+    "area_m2": 6521
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650713,
+     35.671099
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "玉川上水公園",
+    "area_m2": 4253
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629813,
+     35.670917
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "玉川上水第二公園",
+    "area_m2": 13194
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650501,
+     35.702645
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "桃園川緑道",
+    "area_m2": 8949
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606043,
+     35.696535
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "大宮前公園",
+    "area_m2": 3827
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612279,
+     35.711446
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "桃井公園",
+    "area_m2": 1316
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645053,
+     35.702045
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高円寺南公園",
+    "area_m2": 768
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615072,
+     35.692217
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "宮下公園",
+    "area_m2": 1298
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597353,
+     35.708963
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "井荻公園",
+    "area_m2": 3939
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610292,
+     35.725362
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "矢頭公園",
+    "area_m2": 1169
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630269,
+     35.717007
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "東原公園",
+    "area_m2": 662
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62039,
+     35.728411
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "八成公園",
+    "area_m2": 595
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641592,
+     35.69111
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松ノ木公園",
+    "area_m2": 663
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638073,
+     35.709253
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐谷中央公園",
+    "area_m2": 2257
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629646,
+     35.703419
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐谷南公園",
+    "area_m2": 1178
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631902,
+     35.680989
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "浜田山東公園",
+    "area_m2": 661
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638526,
+     35.668501
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "玉川上水第三公園",
+    "area_m2": 12251
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658735,
+     35.696257
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和田北公園",
+    "area_m2": 1018
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653741,
+     35.692147
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "堀ノ内東公園",
+    "area_m2": 1233
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639064,
+     35.670939
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "永福南公園",
+    "area_m2": 1647
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631642,
+     35.688556
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "杉並児童交通公園",
+    "area_m2": 9187
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652698,
+     35.680852
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "べんてんばし公園",
+    "area_m2": 1419
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.59769,
+     35.688806
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "久我山公園",
+    "area_m2": 1816
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641942,
+     35.680553
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "永福北公園",
+    "area_m2": 602
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627621,
+     35.708016
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "天沼東公園",
+    "area_m2": 587
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601367,
+     35.717679
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "道灌公園",
+    "area_m2": 661
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621405,
+     35.688961
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高井戸東公園",
+    "area_m2": 882
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606758,
+     35.678925
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "浅間橋公園",
+    "area_m2": 1340
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607753,
+     35.687808
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "富士見丘北公園",
+    "area_m2": 2188
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622849,
+     35.674001
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "下高井戸西公園",
+    "area_m2": 2502
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626597,
+     35.681267
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "浜田山公園",
+    "area_m2": 4595
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60081,
+     35.693657
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "西宮公園",
+    "area_m2": 499
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.659927,
+     35.679302
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "方南中央公園",
+    "area_m2": 1428
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616321,
+     35.728262
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "井草北公園",
+    "area_m2": 995
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62777,
+     35.712156
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "本天沼南公園",
+    "area_m2": 1190
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614986,
+     35.68059
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "つくだ公園",
+    "area_m2": 1135
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619038,
+     35.727256
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "井草公園",
+    "area_m2": 2844
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60816,
+     35.696456
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "小鳩公園",
+    "area_m2": 595
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.592076,
+     35.696819
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松庵公園",
+    "area_m2": 1360
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648821,
+     35.689153
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "谷中公園",
+    "area_m2": 640
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632465,
+     35.677167
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "浜田山南公園",
+    "area_m2": 818
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640092,
+     35.701827
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐谷東公園",
+    "area_m2": 1845
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613387,
+     35.689185
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高井戸西公園",
+    "area_m2": 3000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620799,
+     35.679723
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "三泉淵緑地",
+    "area_m2": 1663
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620342,
+     35.680026
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "三泉淵第二公園",
+    "area_m2": 390
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.595508,
+     35.7202
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上井草西公園",
+    "area_m2": 913
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606974,
+     35.722864
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "四宮公園",
+    "area_m2": 392
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613177,
+     35.696438
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "南荻窪公園",
+    "area_m2": 710
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657173,
+     35.700389
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "かえる公園",
+    "area_m2": 288
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619699,
+     35.709033
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "天沼西公園",
+    "area_m2": 1061
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640351,
+     35.693022
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "東二公園",
+    "area_m2": 1032
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620772,
+     35.695575
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "西田公園",
+    "area_m2": 783
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61485,
+     35.726981
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "住吉公園",
+    "area_m2": 754
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650827,
+     35.683709
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "だいしょうじ公園",
+    "area_m2": 683
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658003,
+     35.706086
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "たかはら公園",
+    "area_m2": 2308
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645103,
+     35.694226
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松ノ木北公園",
+    "area_m2": 374
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648382,
+     35.701951
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高南小公園",
+    "area_m2": 254
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606109,
+     35.724005
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上井草向山公園",
+    "area_m2": 591
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621689,
+     35.695076
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松渓公園",
+    "area_m2": 3552
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.585881,
+     35.716304
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "善福寺西の山公園",
+    "area_m2": 390
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631106,
+     35.716457
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "すぎのこ公園",
+    "area_m2": 336
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633225,
+     35.707181
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐谷西公園",
+    "area_m2": 1109
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607979,
+     35.680315
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "昭栄公園",
+    "area_m2": 4950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626461,
+     35.715523
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "本天沼北公園",
+    "area_m2": 368
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.586638,
+     35.715729
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "善福寺中山公園",
+    "area_m2": 389
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596458,
+     35.690613
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "久我山つくし公園",
+    "area_m2": 397
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653383,
+     35.688077
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "堀ノ内南公園",
+    "area_m2": 660
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611335,
+     35.714155
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "中通公園",
+    "area_m2": 660
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61776,
+     35.700781
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "おしかわ公園",
+    "area_m2": 345
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.595838,
+     35.697015
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松庵東公園",
+    "area_m2": 761
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655752,
+     35.698796
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "やなぎ公園",
+    "area_m2": 440
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612681,
+     35.670944
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上高井戸南公園",
+    "area_m2": 1058
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626241,
+     35.683721
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "浜田山かなめ公園",
+    "area_m2": 771
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641771,
+     35.699846
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐谷にしはら公園",
+    "area_m2": 1657
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627939,
+     35.719483
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "下井草二丁目公園",
+    "area_m2": 504
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643441,
+     35.690995
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松ノ木中央公園",
+    "area_m2": 539
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611001,
+     35.692769
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "大善公園",
+    "area_m2": 854
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.59778,
+     35.712885
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "善福寺一丁目公園",
+    "area_m2": 661
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652704,
+     35.706947
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高円寺北二公園",
+    "area_m2": 1114
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652628,
+     35.679918
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和泉がけ公園",
+    "area_m2": 883
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651003,
+     35.679564
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "一本橋公園",
+    "area_m2": 716
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.628358,
+     35.70194
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "成宗公園",
+    "area_m2": 1206
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642291,
+     35.669342
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "ひまわり公園",
+    "area_m2": 1626
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645325,
+     35.670944
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "どんぐり緑地",
+    "area_m2": 686
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.646433,
+     35.707193
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "馬橋北公園",
+    "area_m2": 314
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642931,
+     35.668025
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "玉川上水永泉寺緑地",
+    "area_m2": 4813
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655205,
+     35.69229
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和田西公園",
+    "area_m2": 372
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601384,
+     35.694421
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "なかよし公園",
+    "area_m2": 550
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619939,
+     35.677461
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "堂の上公園",
+    "area_m2": 275
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652796,
+     35.686409
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "堀ノ内二丁目公園",
+    "area_m2": 137
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616308,
+     35.692743
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "まてば緑地",
+    "area_m2": 399
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658836,
+     35.680978
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "方南二丁目公園",
+    "area_m2": 1485
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608684,
+     35.724284
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "四宮森公園",
+    "area_m2": 1853
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609674,
+     35.719444
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "四宮南公園",
+    "area_m2": 236
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606226,
+     35.71508
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "今川三丁目公園",
+    "area_m2": 389
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.647105,
+     35.708006
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "馬橋北第二公園",
+    "area_m2": 434
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624386,
+     35.684484
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高井戸正用公園",
+    "area_m2": 1029
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649793,
+     35.677229
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和泉二丁目公園",
+    "area_m2": 2666
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618636,
+     35.691532
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "柳窪公園",
+    "area_m2": 1317
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.605563,
+     35.721484
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "瀬戸原緑地",
+    "area_m2": 183
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625418,
+     35.694717
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "天神橋公園",
+    "area_m2": 1517
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622985,
+     35.727024
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "正保公園",
+    "area_m2": 684
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624728,
+     35.70078
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "大田黒公園",
+    "area_m2": 8972
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615941,
+     35.690911
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松宮公園",
+    "area_m2": 286
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634335,
+     35.697609
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "成田東公園",
+    "area_m2": 208
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615622,
+     35.698961
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "与謝野公園",
+    "area_m2": 1396
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597062,
+     35.699088
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松庵三丁目公園",
+    "area_m2": 229
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6536,
+     35.704918
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高南幼児公園",
+    "area_m2": 230
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611949,
+     35.684269
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高井戸わんぱく公園",
+    "area_m2": 700
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612316,
+     35.723788
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "柿木公園",
+    "area_m2": 300
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641216,
+     35.696063
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "梅里中央公園",
+    "area_m2": 6286
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614561,
+     35.681504
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "山中公園",
+    "area_m2": 409
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61354,
+     35.718552
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "今川一丁目公園",
+    "area_m2": 1746
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622784,
+     35.725718
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "井草さくら公園",
+    "area_m2": 1157
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648217,
+     35.708837
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高円寺北三丁目公園",
+    "area_m2": 241
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617958,
+     35.68739
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高井戸いずみ公園",
+    "area_m2": 180
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597361,
+     35.717816
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "切通し公園",
+    "area_m2": 2201
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616542,
+     35.711537
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "清水一丁目公園",
+    "area_m2": 502
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622184,
+     35.709881
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "天沼三丁目公園",
+    "area_m2": 354
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.604236,
+     35.720826
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上瀬戸公園",
+    "area_m2": 867
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643987,
+     35.709562
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "馬橋公園",
+    "area_m2": 25698
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612388,
+     35.672404
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上高井戸宿公園",
+    "area_m2": 438
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.593244,
+     35.695635
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "まつぼっくり緑地",
+    "area_m2": 251
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610728,
+     35.679444
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高井戸みどり公園",
+    "area_m2": 1234
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.593367,
+     35.698562
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "青葉公園",
+    "area_m2": 581
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618066,
+     35.713521
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "清水森公園",
+    "area_m2": 2492
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653337,
+     35.698857
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高円寺南二丁目公園",
+    "area_m2": 328
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61655,
+     35.677043
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "ひかり公園",
+    "area_m2": 571
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656383,
+     35.697084
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "蚕糸の森公園",
+    "area_m2": 27147
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633983,
+     35.701382
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐谷ことり公園",
+    "area_m2": 450
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645118,
+     35.696192
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "かっぱ公園",
+    "area_m2": 507
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635389,
+     35.712701
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐谷かりん公園",
+    "area_m2": 369
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.66157,
+     35.69235
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和田中央公園",
+    "area_m2": 2128
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637466,
+     35.684513
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "成田かっぱ公園",
+    "area_m2": 2356
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634548,
+     35.715335
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "一本松公園",
+    "area_m2": 485
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617996,
+     35.674913
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上高井戸東公園",
+    "area_m2": 280
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617406,
+     35.67734
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "新栄緑地",
+    "area_m2": 197
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637949,
+     35.693983
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "東二第三公園",
+    "area_m2": 756
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.592324,
+     35.718002
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "善福寺美樹園公園",
+    "area_m2": 500
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615672,
+     35.691588
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "はるたけ公園",
+    "area_m2": 304
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654484,
+     35.701915
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高南みどり公園",
+    "area_m2": 211
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611754,
+     35.725903
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "井草ひまわり公園",
+    "area_m2": 342
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645623,
+     35.690122
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松ノ木坂下公園",
+    "area_m2": 292
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630254,
+     35.669996
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "下高井戸仲町緑地",
+    "area_m2": 307
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651047,
+     35.693708
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "堀ノ内三丁目公園",
+    "area_m2": 509
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625013,
+     35.675418
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "塚山公園",
+    "area_m2": 28701
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631249,
+     35.688239
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "尾崎公園",
+    "area_m2": 408
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.594111,
+     35.685531
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "兵庫橋公園",
+    "area_m2": 1133
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627727,
+     35.671207
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "喜花公園",
+    "area_m2": 278
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657982,
+     35.68014
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上水橋緑地",
+    "area_m2": 756
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645559,
+     35.699117
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "新高円寺公園",
+    "area_m2": 555
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.594241,
+     35.688576
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "緑橋緑地",
+    "area_m2": 671
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.5964,
+     35.687409
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "宮下橋公園",
+    "area_m2": 2776
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606362,
+     35.678458
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上高井戸西原緑地",
+    "area_m2": 245
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60205,
+     35.701346
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "西荻南児童公園",
+    "area_m2": 342
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630326,
+     35.679534
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "浜田山一丁目公園",
+    "area_m2": 1246
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632699,
+     35.685731
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "はら公園",
+    "area_m2": 1150
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.598261,
+     35.687675
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "久我山中央緑地",
+    "area_m2": 2544
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.591002,
+     35.694167
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "さざんか公園",
+    "area_m2": 596
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610368,
+     35.716237
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "今川二丁目公園",
+    "area_m2": 657
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656451,
+     35.693458
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "帝釈天北広場緑地",
+    "area_m2": 115
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621472,
+     35.693646
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "西田仲よし広場緑地",
+    "area_m2": 200
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621782,
+     35.679484
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "乙女橋緑地",
+    "area_m2": 1581
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597152,
+     35.705625
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "西荻北中央公園",
+    "area_m2": 679
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601757,
+     35.72051
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "道灌橋公園",
+    "area_m2": 821
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660118,
+     35.702511
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高円寺いこい公園",
+    "area_m2": 326
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612576,
+     35.692775
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "宮前けやき緑地",
+    "area_m2": 462
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610632,
+     35.684688
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "富士見丘東緑地",
+    "area_m2": 223
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641379,
+     35.670797
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "永福中央公園",
+    "area_m2": 4166
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619059,
+     35.677055
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "うめの木緑地",
+    "area_m2": 233
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616189,
+     35.720613
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "神戸町あけぼの公園",
+    "area_m2": 1300
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629773,
+     35.675706
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "藤和緑地",
+    "area_m2": 2414
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660371,
+     35.699268
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "こりす公園",
+    "area_m2": 238
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.594559,
+     35.707166
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "西荻北公園",
+    "area_m2": 449
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619515,
+     35.689053
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "柳窪南公園",
+    "area_m2": 331
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.603732,
+     35.715283
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "三谷南公園",
+    "area_m2": 470
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611162,
+     35.694047
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "宮前公園",
+    "area_m2": 3727
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624343,
+     35.68953
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "成田西公園",
+    "area_m2": 2053
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6113,
+     35.68455
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "桐の木公園",
+    "area_m2": 424
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63034,
+     35.71302
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "本天沼東公園",
+    "area_m2": 419
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.604021,
+     35.705054
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "西荻わかば公園",
+    "area_m2": 726
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63638,
+     35.716312
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "小七山公園",
+    "area_m2": 474
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635393,
+     35.68983
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "成三公園",
+    "area_m2": 405
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627349,
+     35.704836
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "天沼地蔵前公園",
+    "area_m2": 1055
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.605296,
+     35.687423
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "久我山東原公園",
+    "area_m2": 1331
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611865,
+     35.724687
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "柿木北公園",
+    "area_m2": 498
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622624,
+     35.717005
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "わかたけ公園",
+    "area_m2": 929
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657382,
+     35.70471
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "ひとみ公園",
+    "area_m2": 285
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654178,
+     35.680766
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "弁天橋東緑地",
+    "area_m2": 964
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607653,
+     35.676422
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "つばき緑地",
+    "area_m2": 455
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.603142,
+     35.692213
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "こぶし公園",
+    "area_m2": 383
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608296,
+     35.690594
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "宮前あおぞら緑地",
+    "area_m2": 305
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616063,
+     35.715903
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "くつかけ公園",
+    "area_m2": 851
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.647537,
+     35.679894
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和泉西公園",
+    "area_m2": 499
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.589298,
+     35.71803
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "善福寺北緑地",
+    "area_m2": 274
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610819,
+     35.703344
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "たんぽぽ公園",
+    "area_m2": 396
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612063,
+     35.727138
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "井草森公園",
+    "area_m2": 39504
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6068,
+     35.685536
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "富士見丘西公園",
+    "area_m2": 346
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617658,
+     35.690948
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "柳窪西緑地",
+    "area_m2": 103
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624423,
+     35.719066
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "向井公園",
+    "area_m2": 206
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613878,
+     35.726309
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "井草三丁目緑地",
+    "area_m2": 443
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.663593,
+     35.692926
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和田東公園",
+    "area_m2": 640
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631006,
+     35.683638
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "浜田山さくら緑地",
+    "area_m2": 205
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636568,
+     35.681025
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "宮元公園",
+    "area_m2": 371
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.628735,
+     35.719557
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "向井東公園",
+    "area_m2": 310
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626903,
+     35.724361
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "井草東公園",
+    "area_m2": 346
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633556,
+     35.711354
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐谷こぶし緑地",
+    "area_m2": 169
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617356,
+     35.685375
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高井戸藤が丘公園",
+    "area_m2": 1313
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609949,
+     35.673549
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "はるかぜ緑地",
+    "area_m2": 191
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622152,
+     35.70733
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "天沼もえぎ公園",
+    "area_m2": 861
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608666,
+     35.705632
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "おぎ緑地",
+    "area_m2": 130
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596208,
+     35.70316
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松庵わかくさ公園",
+    "area_m2": 622
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655864,
+     35.680283
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "泉南緑地",
+    "area_m2": 739
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633468,
+     35.682867
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "すずかけ公園",
+    "area_m2": 339
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631044,
+     35.718705
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "下井草いど公園",
+    "area_m2": 435
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618359,
+     35.674242
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "はなみずき緑地",
+    "area_m2": 103
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616434,
+     35.67507
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "そよかぜ緑地",
+    "area_m2": 110
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637906,
+     35.699012
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "南阿佐谷すずらん緑地",
+    "area_m2": 135
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.594029,
+     35.712316
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "善福寺さくら公園（はだしのオアシス）",
+    "area_m2": 349
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599448,
+     35.716486
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "三谷西緑地",
+    "area_m2": 187
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.666581,
+     35.693609
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和田十貫坂緑地",
+    "area_m2": 216
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655932,
+     35.702583
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高円寺谷中緑地",
+    "area_m2": 198
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625769,
+     35.678167
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "柏の宮公園",
+    "area_m2": 49332
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635351,
+     35.696609
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "東一坂下緑地",
+    "area_m2": 105
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60548,
+     35.711895
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "桃井三丁目緑地",
+    "area_m2": 1517
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626468,
+     35.702346
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "読書の森公園",
+    "area_m2": 1841
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62664,
+     35.71915
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "銀杏稲荷公園",
+    "area_m2": 1550
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650935,
+     35.680048
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和泉緑地",
+    "area_m2": 599
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621476,
+     35.708546
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "天沼弁天池公園",
+    "area_m2": 5296
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653868,
+     35.685543
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "定塚橋公園",
+    "area_m2": 2254
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599334,
+     35.715717
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "新町鳥居先公園",
+    "area_m2": 1317
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62841,
+     35.691307
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "成田西いこい緑地",
+    "area_m2": 1513
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627389,
+     35.690855
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "成田西切通し緑地",
+    "area_m2": 928
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601242,
+     35.693563
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "宮前新田緑地",
+    "area_m2": 480
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624489,
+     35.698745
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "角川庭園",
+    "area_m2": 1371
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62315,
+     35.697086
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松渓橋公園",
+    "area_m2": 1159
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597958,
+     35.707901
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "坂の上のけやき公園",
+    "area_m2": 855
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623005,
+     35.679666
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "三井の森公園",
+    "area_m2": 17350
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613909,
+     35.685494
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高井戸丸太緑地",
+    "area_m2": 209
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640602,
+     35.711334
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "Aさんの庭",
+    "area_m2": 830
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61365,
+     35.682532
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "やなぎ橋公園",
+    "area_m2": 827
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609979,
+     35.682884
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "あかね橋公園",
+    "area_m2": 2199
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607079,
+     35.713706
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "桃井原っぱ公園",
+    "area_m2": 40000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657753,
+     35.708161
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高円寺北一みどり公園",
+    "area_m2": 3609
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.665206,
+     35.693908
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和田さくらの坂公園",
+    "area_m2": 2131
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.605861,
+     35.686616
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "久我山遊友緑地",
+    "area_m2": 133
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651149,
+     35.68084
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和泉四丁目緑地",
+    "area_m2": 144
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650116,
+     35.674589
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和泉二丁目緑地",
+    "area_m2": 98
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.587159,
+     35.712254
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "善福寺二丁目緑地",
+    "area_m2": 123
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627327,
+     35.693286
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "成田西四丁目緑地",
+    "area_m2": 147
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634466,
+     35.681784
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "浜田山四丁目緑地",
+    "area_m2": 103
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624621,
+     35.697774
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "大谷戸さくら緑地",
+    "area_m2": 2320
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626861,
+     35.696862
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "大谷戸けやき緑地",
+    "area_m2": 1000
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626177,
+     35.697942
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "大谷戸かえで緑地",
+    "area_m2": 271
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.604842,
+     35.710254
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上荻ひかり緑地",
+    "area_m2": 125
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609935,
+     35.682469
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "むつみ橋緑地",
+    "area_m2": 1598
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642555,
+     35.682216
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "大宮の杜緑地",
+    "area_m2": 2553
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624009,
+     35.691413
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "成田西ふれあい農業公園",
+    "area_m2": 4437
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634847,
+     35.696236
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "成宗さくら公園",
+    "area_m2": 2950
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63692,
+     35.671244
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "下高井戸おおぞら公園",
+    "area_m2": 30757
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622083,
+     35.700146
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "荻窪つどい公園",
+    "area_m2": 1093
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623609,
+     35.687013
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高井戸東ひだまり緑地",
+    "area_m2": 165
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645458,
+     35.699535
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "馬橋ほんむら公園",
+    "area_m2": 616
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630732,
+     35.674059
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "下高井戸なごみ公園",
+    "area_m2": 1137
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61647,
+     35.703841
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "荻窪だんだん公園",
+    "area_m2": 754
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658897,
+     35.679307
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "方南緑地",
+    "area_m2": 142
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625075,
+     35.719449
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "下井草どかん公園",
+    "area_m2": 1060
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626325,
+     35.721006
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上ノ台公園",
+    "area_m2": 645
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615885,
+     35.714147
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "清水いづみ公園",
+    "area_m2": 626
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.595635,
+     35.684154
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "久我山丘のある公園",
+    "area_m2": 2999
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641097,
+     35.705401
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐谷けやき公園",
+    "area_m2": 2892
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.593022,
+     35.699013
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松庵梅林公園",
+    "area_m2": 3183
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640479,
+     35.701368
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "馬橋えんがわ公園",
+    "area_m2": 362
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622375,
+     35.698869
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "荻外荘公園",
+    "area_m2": 7051
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626616,
+     35.695176
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "西田第二公園",
+    "area_m2": 465
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.628055,
+     35.709309
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "天沼いこい公園",
+    "area_m2": 165
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63097,
+     35.672637
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "下高井戸みんなの公園",
+    "area_m2": 654
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651253,
+     35.700692
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "すぎはち公園",
+    "area_m2": 4672
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637675,
+     35.700334
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐ヶ谷児童遊園",
+    "area_m2": 464
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632558,
+     35.711374
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松山児童遊園",
+    "area_m2": 568
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618842,
+     35.720161
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "中瀬児童遊園",
+    "area_m2": 830
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.592948,
+     35.692407
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "久我山児童遊園",
+    "area_m2": 849
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627158,
+     35.714599
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "天沼児童遊園",
+    "area_m2": 771
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60745,
+     35.716254
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "観泉寺児童遊園",
+    "area_m2": 502
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64827,
+     35.691465
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "堀ノ内山谷児童遊園",
+    "area_m2": 397
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613337,
+     35.706271
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上荻窪児童遊園",
+    "area_m2": 533
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.594384,
+     35.711002
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "さくら児童遊園",
+    "area_m2": 117
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.662036,
+     35.67834
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "あづま児童遊園",
+    "area_m2": 136
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634521,
+     35.692517
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "白幡児童遊園",
+    "area_m2": 641
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629299,
+     35.69834
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "なりむね児童遊園",
+    "area_m2": 605
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615397,
+     35.723878
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "神戸町児童遊園",
+    "area_m2": 487
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608018,
+     35.708596
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上荻窪第二児童遊園",
+    "area_m2": 76
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651964,
+     35.685946
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "済美児童遊園",
+    "area_m2": 288
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611252,
+     35.708917
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上荻窪第三児童遊園",
+    "area_m2": 187
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642085,
+     35.700294
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "馬橋児童遊園",
+    "area_m2": 1711
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.600964,
+     35.697373
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "大宮前児童遊園",
+    "area_m2": 673
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651388,
+     35.696239
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "梅里児童遊園",
+    "area_m2": 1068
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640974,
+     35.705999
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐谷北児童遊園",
+    "area_m2": 381
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606779,
+     35.68353
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "富士見丘児童遊園",
+    "area_m2": 1142
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635899,
+     35.67194
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "下高井戸児童遊園",
+    "area_m2": 334
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596986,
+     35.701088
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "西高井戸児童遊園",
+    "area_m2": 418
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61253,
+     35.698903
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "荻窪第一児童遊園",
+    "area_m2": 361
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635757,
+     35.69579
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "東田児童遊園",
+    "area_m2": 631
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631113,
+     35.689145
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "なりむね第二児童遊園",
+    "area_m2": 330
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614871,
+     35.676596
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "上高井戸第二児童遊園",
+    "area_m2": 457
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.646659,
+     35.694905
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "松ノ木児童遊園",
+    "area_m2": 195
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650286,
+     35.67922
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "和泉児童遊園",
+    "area_m2": 525
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641266,
+     35.66915
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "永泉寺坂児童遊園",
+    "area_m2": 312
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62083,
+     35.698725
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "荻窪第二児童遊園",
+    "area_m2": 288
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599552,
+     35.714654
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "今川児童遊園",
+    "area_m2": 306
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.604854,
+     35.688796
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "久我山東児童遊園",
+    "area_m2": 661
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639682,
+     35.713879
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "阿佐谷北第二児童遊園",
+    "area_m2": 674
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656062,
+     35.708237
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高円寺北一児童遊園",
+    "area_m2": 383
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650551,
+     35.68702
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "熊野橋児童遊園",
+    "area_m2": 346
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62125,
+     35.677855
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "乙女橋児童遊園",
+    "area_m2": 631
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602235,
+     35.703385
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "西荻窪平和児童遊園",
+    "area_m2": 575
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639874,
+     35.710879
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "お伊勢の森児童遊園",
+    "area_m2": 348
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.647415,
+     35.70496
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "みどりヶ丘児童遊園",
+    "area_m2": 217
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.603722,
+     35.719704
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "どんぐり山児童遊園",
+    "area_m2": 2225
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637609,
+     35.692542
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "東二児童遊園",
+    "area_m2": 204
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626108,
+     35.689286
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "日性寺児童遊園",
+    "area_m2": 199
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623166,
+     35.690402
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "大塚児童遊園",
+    "area_m2": 188
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623829,
+     35.677431
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "堂ノ下児童遊園",
+    "area_m2": 295
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625122,
+     35.686814
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "浜田山西児童遊園",
+    "area_m2": 180
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619192,
+     35.683286
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "高井戸東三丁目児童遊園",
+    "area_m2": 800
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62924,
+     35.705522
+    ]
+   },
+   "properties": {
+    "kind": "park",
+    "name": "天沼一丁目児童遊園",
+    "area_m2": 148
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62709,
+     35.701965
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "中央図書館",
+    "name_en": "Central Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638153,
+     35.678596
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "永福図書館",
+    "name_en": "Eifuku Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612076,
+     35.720417
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "柿木図書館",
+    "name_en": "Kakinoki Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654312,
+     35.700459
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "高円寺図書館",
+    "name_en": "Kōenji Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599167,
+     35.693283
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "宮前図書館",
+    "name_en": "Miyamae Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637222,
+     35.695091
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "成田図書館",
+    "name_en": "Narita Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.605759,
+     35.707882
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "西荻図書館",
+    "name_en": "Nishiogi Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633286,
+     35.711903
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "阿佐谷図書館",
+    "name_en": "Asagaya Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6147,
+     35.694946
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "南荻窪図書館",
+    "name_en": "Minami-Ogikubo Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623245,
+     35.720657
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "下井草図書館",
+    "name_en": "Shimo-Igusa Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622894,
+     35.679974
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "高井戸図書館",
+    "name_en": "Takaido Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660492,
+     35.678551
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "方南図書館",
+    "name_en": "Hōnan Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599548,
+     35.715763
+    ]
+   },
+   "properties": {
+    "kind": "library",
+    "name": "今川図書館",
+    "name_en": "Imagawa Library"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61058,
+     35.696514
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区大宮前体育館",
+    "name_en": "Ōmiyamae Gymnasium",
+    "sports": [
+     "swimming",
+     "training",
+     "table_tennis",
+     "badminton",
+     "basketball",
+     "volleyball"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642975,
+     35.709549
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区馬橋公園運動広場",
+    "name_en": "Mabashi Park sports field",
+    "sports": [
+     "soccer"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601929,
+     35.723862
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区上井草体育館",
+    "name_en": "Kami-Igusa Gymnasium",
+    "sports": [
+     "training",
+     "table_tennis",
+     "badminton",
+     "basketball",
+     "volleyball"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601929,
+     35.723862
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区上井草運動場",
+    "name_en": "Kami-Igusa sports ground",
+    "sports": [
+     "tennis",
+     "soccer",
+     "archery"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601929,
+     35.723862
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区上井草温水プール",
+    "name_en": "Kami-Igusa indoor pool",
+    "sports": [
+     "swimming"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617676,
+     35.718761
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区妙正寺体育館",
+    "name_en": "Myōshōji Gymnasium",
+    "sports": [
+     "tennis",
+     "table_tennis",
+     "badminton",
+     "basketball",
+     "volleyball"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626907,
+     35.702415
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区荻窪体育館",
+    "name_en": "Ogikubo Gymnasium",
+    "sports": [
+     "table_tennis",
+     "badminton",
+     "basketball",
+     "volleyball"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654495,
+     35.699745
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区高円寺体育館",
+    "name_en": "Kōenji Gymnasium",
+    "sports": [
+     "table_tennis",
+     "badminton",
+     "basketball",
+     "volleyball"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615952,
+     35.683449
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区高井戸温水プール",
+    "name_en": "Takaido indoor pool",
+    "sports": [
+     "swimming"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626053,
+     35.67672
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区柏の宮公園庭球場",
+    "name_en": "Kashiwanomiya Park tennis courts",
+    "sports": [
+     "tennis"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62442,
+     35.674896
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区塚山公園運動場",
+    "name_en": "Tsukayama Park sports ground",
+    "sports": []
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611816,
+     35.726555
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区井草森公園運動場",
+    "name_en": "Igusa-no-mori Park sports ground",
+    "sports": [
+     "soccer"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657852,
+     35.697144
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並第十小学校温水プール",
+    "name_en": "Suginami No. 10 Elementary School indoor pool",
+    "sports": [
+     "swimming"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657852,
+     35.697144
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区蚕糸の森公園運動場",
+    "name_en": "Sanshi-no-mori Park sports ground",
+    "sports": [
+     "soccer"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641663,
+     35.681847
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区和田堀公園プール",
+    "name_en": "Wadabori Park outdoor pool",
+    "sports": [
+     "swimming"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.644974,
+     35.685535
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区和田堀調節池壁打ち庭球練習場",
+    "name_en": "Wadabori tennis practice wall",
+    "sports": [
+     "tennis"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642014,
+     35.685886
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区松ノ木運動場",
+    "name_en": "Matsunoki sports ground",
+    "sports": [
+     "tennis",
+     "baseball"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635666,
+     35.672733
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区下高井戸運動場",
+    "name_en": "Shimo-Takaido sports ground",
+    "sports": [
+     "soccer"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641998,
+     35.669518
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区永福体育館",
+    "name_en": "Eifuku Gymnasium",
+    "sports": [
+     "training",
+     "table_tennis",
+     "badminton",
+     "basketball",
+     "volleyball"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643234,
+     35.684143
+    ]
+   },
+   "properties": {
+    "kind": "sports",
+    "name": "杉並区和田堀公園野球場",
+    "name_en": "Wadabori Park baseball ground",
+    "sports": [
+     "baseball"
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.628098,
+     35.694511
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "ゆう杉並"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620667,
+     35.710388
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "ウェルファーム杉並"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631592,
+     35.690483
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "コミュニティふらっと成田"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658707,
+     35.676582
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "コミュニティふらっと方南"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624313,
+     35.712727
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "コミュニティふらっと本天沼"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632065,
+     35.716091
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "コミュニティふらっと東原"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638153,
+     35.678596
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "コミュニティふらっと永福"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633972,
+     35.705921
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "コミュニティふらっと阿佐谷"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643799,
+     35.702034
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "コミュニティふらっと馬橋"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650513,
+     35.70129
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "コミュニティふらっと高円寺南"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654297,
+     35.696636
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "セシオン杉並"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612366,
+     35.671116
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "上高井戸区民集会所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635666,
+     35.672733
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "下高井戸区民集会所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599594,
+     35.686588
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "久我山会館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616898,
+     35.720581
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "井草地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621689,
+     35.724499
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "八成区民集会所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657761,
+     35.691204
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "和田区民集会所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654068,
+     35.705627
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "座・高円寺"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656189,
+     35.680832
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "方南会館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607574,
+     35.710491
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "杉並会館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641327,
+     35.696419
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "梅里区民集会所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.646072,
+     35.675861
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "永福和泉地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629898,
+     35.680233
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "浜田山会館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635208,
+     35.701904
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "産業商工会館"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602219,
+     35.712227
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "西荻地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640991,
+     35.705551
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "阿佐谷地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615952,
+     35.683449
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "高井戸地域区民センター"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64827,
+     35.707558
+    ]
+   },
+   "properties": {
+    "kind": "hall",
+    "name": "高円寺北区民集会所"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.605319,
+     35.708722
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "関根文化公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63706,
+     35.677579
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "西永福公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.642377,
+     35.685452
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "和田堀公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658244,
+     35.686204
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "方南公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.661392,
+     35.687235
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "和田公衆便所",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61851,
+     35.717583
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "妙正寺公衆便所",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61851,
+     35.717583
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "妙正寺公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648993,
+     35.707362
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高円寺北公衆便所",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639378,
+     35.6818
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "大宮児童公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651715,
+     35.703719
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高円寺中央公衆便所",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654067,
+     35.694854
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "梅里公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654067,
+     35.694854
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "堀ノ内公衆便所",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599849,
+     35.719388
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "三谷公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658484,
+     35.702224
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高円寺東公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648547,
+     35.687598
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "済美公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652022,
+     35.670879
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "玉川上水公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655649,
+     35.701409
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "桃園川緑道",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606004,
+     35.696804
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "大宮前公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612466,
+     35.711295
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "桃井公衆便所",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.644565,
+     35.70227
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高円寺南公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615294,
+     35.692168
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "宮下公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597593,
+     35.708786
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "井荻公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610466,
+     35.72521
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "矢頭公衆便所",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630261,
+     35.716897
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "東原公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620275,
+     35.72836
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "八成公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641536,
+     35.691009
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "松ノ木公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637899,
+     35.709564
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷中央公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629783,
+     35.703344
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷南公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632018,
+     35.680941
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "浜田山東公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64022,
+     35.667924
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "玉川上水第三公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658739,
+     35.696209
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "和田北公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653591,
+     35.692139
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "堀ノ内東公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639256,
+     35.670766
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "永福南公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631109,
+     35.688944
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "杉並児童交通公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652759,
+     35.680907
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "べんてんばし公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597545,
+     35.688853
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "久我山公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641993,
+     35.680455
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "永福北公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601231,
+     35.717631
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "道灌公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621274,
+     35.688963
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高井戸東公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607089,
+     35.679093
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "浅間橋公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608034,
+     35.687779
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "富士見丘北公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622965,
+     35.673747
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "下高井戸西公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626673,
+     35.68099
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "浜田山公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.600733,
+     35.693744
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "西宮公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660067,
+     35.67921
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "方南中央公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616258,
+     35.72805
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "井草北公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627619,
+     35.712282
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "本天沼南公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614915,
+     35.680548
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "つくだ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619111,
+     35.72696
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "井草公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.608313,
+     35.696381
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "小鳩公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.592118,
+     35.69682
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "松庵公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632546,
+     35.677295
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "浜田山南公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640228,
+     35.701935
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷東公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613355,
+     35.689519
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高井戸西公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620332,
+     35.680127
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "三泉淵第二公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607476,
+     35.722716
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "四宮公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613029,
+     35.696449
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "南荻窪公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61986,
+     35.709112
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "天沼西公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64034,
+     35.692967
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "東二公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620681,
+     35.695492
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "西田公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614692,
+     35.726946
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "住吉公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651181,
+     35.683591
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "だいしょうじ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658039,
+     35.705962
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "たかはら公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645028,
+     35.694183
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "松ノ木北公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648439,
+     35.702002
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高南小公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606217,
+     35.724022
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "上井草向山公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622046,
+     35.695036
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "松渓公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.585957,
+     35.716251
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "善福寺西の山公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630836,
+     35.716347
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "すぎのこ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633281,
+     35.707136
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷西公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607926,
+     35.680145
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "昭栄公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653447,
+     35.688127
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "堀ノ内南公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611318,
+     35.714069
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "中通公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.617839,
+     35.700833
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "おしかわ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.595789,
+     35.697133
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "松庵東公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612717,
+     35.670771
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "上高井戸南公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626292,
+     35.683652
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "浜田山かなめ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641932,
+     35.699798
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷にしはら公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611259,
+     35.692917
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "大善公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597672,
+     35.712911
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "善福寺一丁目公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652856,
+     35.706977
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高円寺北二公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652908,
+     35.679773
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "和泉がけ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.628315,
+     35.702082
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "成宗公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643155,
+     35.669341
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "ひまわり公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643179,
+     35.667905
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "玉川上水永泉寺緑地",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655248,
+     35.692344
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "和田西公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601364,
+     35.694341
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "なかよし公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.65858,
+     35.680967
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "方南二丁目公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60865,
+     35.724302
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "四宮森公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.605734,
+     35.714795
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "今川三丁目公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624526,
+     35.684663
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高井戸正用公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649594,
+     35.67712
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "和泉二丁目公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618853,
+     35.691551
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "柳窪公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64166,
+     35.705796
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷けやき公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623123,
+     35.727076
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "正保公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624583,
+     35.700817
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "大田黒公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615736,
+     35.698682
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "与謝野公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597049,
+     35.698981
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "松庵三丁目公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.65357,
+     35.704992
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高南幼児公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611772,
+     35.683981
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高井戸わんぱく公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612355,
+     35.723679
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "柿木公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641475,
+     35.696312
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "梅里中央公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614567,
+     35.681588
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "山中公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613699,
+     35.718451
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "今川一丁目公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622983,
+     35.725797
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "井草さくら公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.59714,
+     35.717585
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "切通し公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61657,
+     35.711608
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "清水一丁目公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.604424,
+     35.720851
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "上瀬戸公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643058,
+     35.709593
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "馬橋公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612441,
+     35.672301
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "上高井戸宿公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610651,
+     35.679159
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高井戸みどり公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.593389,
+     35.698465
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "青葉公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618016,
+     35.71373
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "清水森公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616379,
+     35.67705
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "ひかり公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656038,
+     35.697669
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "蚕糸の森公園（北）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656038,
+     35.697669
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "蚕糸の森公園（南）",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633913,
+     35.701459
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷ことり公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635342,
+     35.712802
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷かりん公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.661501,
+     35.692192
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "和田中央公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637598,
+     35.684579
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "成田かっぱ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634624,
+     35.715307
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "一本松公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638085,
+     35.693967
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "東二第三公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654528,
+     35.701918
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高南みどり公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651219,
+     35.693698
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "堀ノ内三丁目公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624761,
+     35.674981
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "塚山公園（西）",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624761,
+     35.674981
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "塚山公園（東）",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624761,
+     35.674981
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "塚山公園（管理棟）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.594628,
+     35.685301
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "兵庫橋公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645442,
+     35.698838
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "新高円寺公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596001,
+     35.687163
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "宮下橋公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601978,
+     35.701377
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "西荻南児童公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630428,
+     35.679464
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "浜田山一丁目公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632571,
+     35.685685
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "はら公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.598612,
+     35.687815
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "久我山中央緑地",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.591101,
+     35.694099
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "さざんか公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610215,
+     35.716304
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "今川二丁目公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.597039,
+     35.705581
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "西荻北中央公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60187,
+     35.72049
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "道灌橋公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.660129,
+     35.702594
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高円寺いこい公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641274,
+     35.671143
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "永福中央公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61631,
+     35.720471
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "神戸町あけぼの公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.66032,
+     35.699207
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "こりす公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.594643,
+     35.706962
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "西荻北公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619581,
+     35.689125
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "柳窪南公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.603654,
+     35.715377
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "三谷南公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610891,
+     35.694288
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "宮前公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624411,
+     35.689571
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "成田西公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61115,
+     35.684676
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "桐の木公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.630333,
+     35.713114
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "本天沼東公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.603979,
+     35.705173
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "西荻わかば公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636447,
+     35.716227
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "小七山公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635284,
+     35.689793
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "成三公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627247,
+     35.704898
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "天沼地蔵前公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.605372,
+     35.687556
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "久我山東原公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611919,
+     35.724629
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "柿木北公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657323,
+     35.704675
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "ひとみ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622738,
+     35.716921
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "わかたけ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.603181,
+     35.692231
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "こぶし公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616079,
+     35.715734
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "くつかけ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.647424,
+     35.67972
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "和泉西公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.610865,
+     35.703258
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "たんぽぽ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611062,
+     35.726903
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "井草森公園（管理棟）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611062,
+     35.726903
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "井草森公園A",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611062,
+     35.726903
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "井草森公園B",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606758,
+     35.685605
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "富士見丘西公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624449,
+     35.719156
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "向井公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636649,
+     35.681001
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "宮元公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62881,
+     35.71958
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "向井東公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626841,
+     35.724343
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "井草東公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596203,
+     35.703244
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "松庵わかくさ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633479,
+     35.682845
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "すずかけ公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626323,
+     35.677536
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "柏の宮公園（南）",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626323,
+     35.677536
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "柏の宮公園（管理棟）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626323,
+     35.677536
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "柏の宮公園（北）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626471,
+     35.719278
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "銀杏稲荷公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.593022,
+     35.699013
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "松庵梅林公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621546,
+     35.708697
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "天沼弁天池公園（管理棟）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.653927,
+     35.686028
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "定塚橋公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599428,
+     35.715774
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "新町鳥居先公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62483,
+     35.698679
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "角川庭園（西）",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62483,
+     35.698679
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "角川庭園（東）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622836,
+     35.697589
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "松渓橋公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62307,
+     35.679914
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "三井の森公園（西）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62307,
+     35.679914
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "三井の森公園（東）",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640578,
+     35.711298
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "Aさんの庭",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.613656,
+     35.682544
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "やなぎ橋公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607493,
+     35.71283
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "桃井原っぱ公園（東）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607493,
+     35.71283
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "桃井原っぱ公園（管理棟）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.6577,
+     35.708436
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高円寺北一みどり公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.664847,
+     35.694197
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "和田さくらの坂公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626556,
+     35.696828
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "大谷戸けやき緑地",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623645,
+     35.691408
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "成田西ふれあい農業公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636998,
+     35.67091
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "下高井戸おおぞら公園（北）",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636998,
+     35.67091
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "下高井戸おおぞら公園（管理棟１F）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636998,
+     35.67091
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "下高井戸おおぞら公園（管理棟２F）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637758,
+     35.70044
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632461,
+     35.711284
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "松山児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618991,
+     35.720251
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "中瀬児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.59298,
+     35.692349
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "久我山児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626986,
+     35.714544
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "天沼児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607334,
+     35.71634
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "観泉寺児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64825,
+     35.691602
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "堀ノ内山谷児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61326,
+     35.706194
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "上荻窪児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626121,
+     35.721022
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "上ノ台公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634661,
+     35.692572
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "白幡児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62918,
+     35.698293
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "なりむね児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615216,
+     35.723644
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "神戸町児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652007,
+     35.685862
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "済美児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611296,
+     35.708878
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "上荻窪第三児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.601097,
+     35.697306
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "大宮前児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651483,
+     35.696201
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "梅里児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.640992,
+     35.706113
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷北児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62663,
+     35.695082
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "西田第二公園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.606799,
+     35.683564
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "富士見丘公衆便所",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635815,
+     35.671829
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "下高井戸児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596905,
+     35.701016
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "西高井戸公衆便所",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612414,
+     35.698823
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "荻窪第一児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635699,
+     35.695766
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "東田児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631183,
+     35.689192
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "なりむね第二児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614972,
+     35.676616
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "上高井戸第二児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650242,
+     35.679276
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "和泉児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641209,
+     35.669137
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "永泉寺坂公衆便所",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599523,
+     35.714547
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "今川児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60494,
+     35.688879
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "久我山東児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639652,
+     35.71405
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷北第二児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656143,
+     35.708282
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高円寺北一児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621301,
+     35.677924
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "乙女橋児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602067,
+     35.703364
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "西荻窪平和児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.603937,
+     35.719733
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "どんぐり山児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637549,
+     35.692508
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "東二児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.619142,
+     35.683356
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高井戸東三丁目児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.629273,
+     35.70549
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "天沼一丁目児童遊園",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626262,
+     35.721845
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "遊び場35番",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649193,
+     35.674666
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "遊び場90番",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.656931,
+     35.672547
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "遊び場96番",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.594704,
+     35.718276
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "山葉名いこいの森",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.655124,
+     35.699197
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "東高円寺公衆便所",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.63612,
+     35.704649
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "阿佐谷駅南口公衆便所",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.651696,
+     35.691798
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "妙法寺境内公衆便所",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611814,
+     35.678748
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高井戸西公衆便所",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.650361,
+     35.705526
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "高円寺駅北口公衆便所",
+    "accessible": false
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635817,
+     35.678536
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "西永福公衆便所",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621947,
+     35.699878
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "荻窪つどい公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61975,
+     35.69763
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "荻窪公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625214,
+     35.719479
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "下井草どかん公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.595367,
+     35.684299
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "久我山丘のある公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596832,
+     35.690624
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "久我山つくし公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.644989,
+     35.709274
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "馬橋公園（新管理棟）",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622379,
+     35.698868
+    ]
+   },
+   "properties": {
+    "kind": "toilet",
+    "name": "荻外荘公園",
+    "accessible": true
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636363,
+     35.699595
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "杉並区役所",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607852,
+     35.71039
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "東京工芸大学 杉並アニメーションミュージアム",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.618996,
+     35.698638
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "荻窪地域区民センター",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616331,
+     35.683633
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "高井戸地域区民センター",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60207,
+     35.712616
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "西荻地域区民センター",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.641003,
+     35.70545
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "阿佐谷地域区民センター",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616303,
+     35.683644
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "高円寺地域区民センター",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64589,
+     35.675722
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "永福和泉地域区民センター",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616443,
+     35.720608
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "井草地域区民センター",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599273,
+     35.686582
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "久我山会館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607833,
+     35.710433
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "杉並会館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633669,
+     35.706116
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "コミュニティふらっと阿佐谷",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643861,
+     35.702001
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "コミュニティふらっと馬橋",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631444,
+     35.715743
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "コミュニティふらっと東原",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638018,
+     35.678413
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "コミュニティふらっと永福",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.631454,
+     35.690727
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "コミュニティふらっと成田",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.626747,
+     35.701897
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "中央図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637991,
+     35.678506
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "永福図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.612113,
+     35.720278
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "柿木図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654102,
+     35.700403
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "高円寺図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.598935,
+     35.693108
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "宮前図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637467,
+     35.695091
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "成田図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.605921,
+     35.707837
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "西荻図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.633234,
+     35.711692
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "阿佐谷図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614458,
+     35.695049
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "南荻窪図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.623265,
+     35.720907
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "下井草図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622938,
+     35.681597
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "高井戸図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.659913,
+     35.67908
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "方南図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599856,
+     35.715598
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "今川図書館",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620796,
+     35.710095
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "就労支援センター",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624424,
+     35.700751
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "太田黒公園",
+    "ssid": "suginami-wifi"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624437,
+     35.698688
+    ]
+   },
+   "properties": {
+    "kind": "wifi",
+    "name": "角川庭園",
+    "ssid": "suginami-wifi"
+   }
+  }
+ ],
+ "version": 0,
+ "revision": 1790314606,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "attribution": {
+  "name": {
+   "en": "Suginami City open data: parks, libraries, sports facilities, public toilets, public Wi-Fi, rooms to rent (CC BY 4.0)",
+   "ja": "杉並区オープンデータ：都市公園、公立図書館、スポーツ施設、公衆トイレ、公衆無線LAN、地域のイベント会場（CC BY 4.0）"
+  },
+  "url": "https://catalog.data.metro.tokyo.lg.jp/organization/suginami-ku"
+ }
+}
