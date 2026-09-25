@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790296209,
+ "revision": 1790297191,
  "languages": [
   "en",
   "ja"
@@ -512,7 +512,25 @@
     }
    }
   ],
-  "happenings": [],
+  "happenings": [
+   {
+    "id": "nishiogi-tea-walk-2026",
+    "name": {
+     "en": "Nishiogi Tea Walk 2026",
+     "ja": "西荻茶散歩2026"
+    },
+    "about": {
+     "en": "Wander Nishi-Ogikubo and stop for free tea at more than 40 shops marked with a teapot.",
+     "ja": "急須マークの40以上のお店でお茶をいただきながら、西荻窪をのんびり散歩。"
+    },
+    "starts": "2026-11-14",
+    "ends": "2026-11-15",
+    "source": {
+     "name": "中央線あるあるPROJECT",
+     "url": "https://www.chuosen-rr.com/event/nishiogi-chasanpo/"
+    }
+   }
+  ],
   "intro": {
    "en": "Independent and curious: books, antiques and ceramics.",
    "ja": "個性的で、好奇心をくすぐる街。古本、骨董、器。"

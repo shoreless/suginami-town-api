@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790296209,
+ "revision": 1790297191,
  "languages": [
   "en",
   "ja"
@@ -450,7 +450,25 @@
     ]
    }
   ],
-  "happenings": [],
+  "happenings": [
+   {
+    "id": "asagaya-jazz-street-2026",
+    "name": {
+     "en": "Asagaya Jazz Street 2026",
+     "ja": "阿佐谷ジャズストリート2026"
+    },
+    "about": {
+     "en": "Two days of jazz all over Asagaya, on street corners and in halls, run by local volunteers since 1995.",
+     "ja": "街のあちこちでジャズが鳴る2日間。1995年から地域のボランティアが続けています。"
+    },
+    "starts": "2026-10-30",
+    "ends": "2026-10-31",
+    "source": {
+     "name": "中央線あるあるPROJECT",
+     "url": "https://www.chuosen-rr.com/event/asagaya-jazzstreet/"
+    }
+   }
+  ],
   "intro": {
    "en": "Leafy and literary: cafés, zelkova trees and jazz.",
    "ja": "緑と文学の街。カフェ、ケヤキ並木、ジャズ。"

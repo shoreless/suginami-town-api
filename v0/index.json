@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790296209,
+ "revision": 1790297191,
  "languages": [
   "en",
   "ja"
@@ -38,7 +38,7 @@
    "towns": 9,
    "moments": 4,
    "spots": 3,
-   "happenings": 0
+   "happenings": 1
   },
   {
    "id": "eifuku",
@@ -146,7 +146,7 @@
    "towns": 9,
    "moments": 4,
    "spots": 4,
-   "happenings": 0
+   "happenings": 1
   },
   {
    "id": "kugayama",
@@ -182,7 +182,7 @@
    "towns": 8,
    "moments": 4,
    "spots": 0,
-   "happenings": 0
+   "happenings": 1
   },
   {
    "id": "narita",
@@ -206,7 +206,7 @@
    "towns": 12,
    "moments": 4,
    "spots": 2,
-   "happenings": 0
+   "happenings": 1
   },
   {
    "id": "ogikubo",
@@ -218,7 +218,7 @@
    "towns": 13,
    "moments": 4,
    "spots": 4,
-   "happenings": 0
+   "happenings": 1
   },
   {
    "id": "omiya-matsunoki",
@@ -290,7 +290,7 @@
    "towns": 4,
    "moments": 4,
    "spots": 2,
-   "happenings": 0
+   "happenings": 1
   }
  ]
 }

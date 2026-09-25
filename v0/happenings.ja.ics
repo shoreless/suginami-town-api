@@ -1,0 +1,84 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//suginamisuki.com//happenings//JA
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:杉並のイベント
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+UID:koenji-koenji-fes-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:第20回 高円寺フェス2026
+DESCRIPTION:高円寺じゅうが会場になる秋の文化祭。路上ラ
+ イブ、屋台、子ども向けワークショップ、北口駅前広
+ 場にはプロレスのリングも。\n\nhttps://www.chuosen-rr.com/even
+ t/koenji-fes/
+LOCATION:高円寺\, 東京都杉並区
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:asagaya-asagaya-jazz-street-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:阿佐谷ジャズストリート2026
+DESCRIPTION:街のあちこちでジャズが鳴る2日間。1995年から
+ 地域のボランティアが続けています。\n\nhttps://www.chuosen
+ -rr.com/event/asagaya-jazzstreet/
+LOCATION:阿佐ヶ谷\, 東京都杉並区
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zenpukuji-trolls-in-the-park-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261124
+SUMMARY:トロールの森2026
+DESCRIPTION:善福寺公園を舞台にした野外アート展。60組以
+ 上のアーティストの作品が、深まる秋とともに表情を
+ 変えます。\n\nhttps://www.chuosen-rr.com/event/trollsinthepark/
+LOCATION:善福寺\, 東京都杉並区
+TRANSP:TRANSPARENT
+GEO:35.7174;139.5914
+END:VEVENT
+BEGIN:VEVENT
+UID:ogikubo-ogikubo-music-festival-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY:荻窪音楽祭2026
+DESCRIPTION:杉並公会堂から公園、銀行、カフェまで、荻窪
+ 駅周辺の約30会場でクラシック音楽。\n\nhttps://www.chuosen-
+ rr.com/event/ogikubo-ongakusai/
+LOCATION:荻窪\, 東京都杉並区
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:momoi-imagawa-suginami-festa-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:すぎなみフェスタ2026
+DESCRIPTION:区内最大級のイベント。桃井原っぱ公園を中心
+ に約150の出店、ステージ、パン・スイーツ・農業の祭
+ りも。荻窪駅北口からバスで。\n\nhttps://www.chuosen-rr.com/e
+ vent/suginami-festa/
+LOCATION:桃井\, 東京都杉並区
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nishi-ogikubo-nishiogi-tea-walk-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:西荻茶散歩2026
+DESCRIPTION:急須マークの40以上のお店でお茶をいただきな
+ がら、西荻窪をのんびり散歩。\n\nhttps://www.chuosen-rr.com/e
+ vent/nishiogi-chasanpo/
+LOCATION:西荻窪\, 東京都杉並区
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

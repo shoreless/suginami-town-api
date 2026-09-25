@@ -1,9 +1,122 @@
 {
  "version": 0,
- "revision": 1790296209,
+ "revision": 1790297191,
  "languages": [
   "en",
   "ja"
  ],
- "happenings": []
+ "happenings": [
+  {
+   "area": "koenji",
+   "id": "koenji-fes-2026",
+   "name": {
+    "en": "Kōenji Fes 2026",
+    "ja": "第20回 高円寺フェス2026"
+   },
+   "about": {
+    "en": "The whole of Kōenji turns out for its autumn festival: street music, food stalls, workshops for children, and a wrestling ring outside the north exit.",
+    "ja": "高円寺じゅうが会場になる秋の文化祭。路上ライブ、屋台、子ども向けワークショップ、北口駅前広場にはプロレスのリングも。"
+   },
+   "starts": "2026-10-24",
+   "ends": "2026-10-25",
+   "source": {
+    "name": "中央線あるあるPROJECT",
+    "url": "https://www.chuosen-rr.com/event/koenji-fes/"
+   }
+  },
+  {
+   "area": "asagaya",
+   "id": "asagaya-jazz-street-2026",
+   "name": {
+    "en": "Asagaya Jazz Street 2026",
+    "ja": "阿佐谷ジャズストリート2026"
+   },
+   "about": {
+    "en": "Two days of jazz all over Asagaya, on street corners and in halls, run by local volunteers since 1995.",
+    "ja": "街のあちこちでジャズが鳴る2日間。1995年から地域のボランティアが続けています。"
+   },
+   "starts": "2026-10-30",
+   "ends": "2026-10-31",
+   "source": {
+    "name": "中央線あるあるPROJECT",
+    "url": "https://www.chuosen-rr.com/event/asagaya-jazzstreet/"
+   }
+  },
+  {
+   "area": "zenpukuji",
+   "id": "trolls-in-the-park-2026",
+   "name": {
+    "en": "Trolls in the Park 2026",
+    "ja": "トロールの森2026"
+   },
+   "about": {
+    "en": "An outdoor art show in Zenpukuji Park, with works by more than 60 artists that change as the autumn goes on.",
+    "ja": "善福寺公園を舞台にした野外アート展。60組以上のアーティストの作品が、深まる秋とともに表情を変えます。"
+   },
+   "starts": "2026-11-03",
+   "ends": "2026-11-23",
+   "source": {
+    "name": "中央線あるあるPROJECT",
+    "url": "https://www.chuosen-rr.com/event/trollsinthepark/"
+   },
+   "location": [
+    35.7174,
+    139.5914
+   ]
+  },
+  {
+   "area": "ogikubo",
+   "id": "ogikubo-music-festival-2026",
+   "name": {
+    "en": "Ogikubo Music Festival 2026",
+    "ja": "荻窪音楽祭2026"
+   },
+   "about": {
+    "en": "Classical music in about 30 places around Ogikubo station, from Suginami Kōkaidō to parks, banks and cafés.",
+    "ja": "杉並公会堂から公園、銀行、カフェまで、荻窪駅周辺の約30会場でクラシック音楽。"
+   },
+   "starts": "2026-11-05",
+   "ends": "2026-11-08",
+   "source": {
+    "name": "中央線あるあるPROJECT",
+    "url": "https://www.chuosen-rr.com/event/ogikubo-ongakusai/"
+   }
+  },
+  {
+   "area": "momoi-imagawa",
+   "id": "suginami-festa-2026",
+   "name": {
+    "en": "Suginami Festa 2026",
+    "ja": "すぎなみフェスタ2026"
+   },
+   "about": {
+    "en": "The ward's biggest festival, around Momoi Harappa Park: about 150 stalls, stage shows, and bread, sweets and farm fairs. Buses run from Ogikubo's north exit.",
+    "ja": "区内最大級のイベント。桃井原っぱ公園を中心に約150の出店、ステージ、パン・スイーツ・農業の祭りも。荻窪駅北口からバスで。"
+   },
+   "starts": "2026-11-07",
+   "ends": "2026-11-08",
+   "source": {
+    "name": "中央線あるあるPROJECT",
+    "url": "https://www.chuosen-rr.com/event/suginami-festa/"
+   }
+  },
+  {
+   "area": "nishi-ogikubo",
+   "id": "nishiogi-tea-walk-2026",
+   "name": {
+    "en": "Nishiogi Tea Walk 2026",
+    "ja": "西荻茶散歩2026"
+   },
+   "about": {
+    "en": "Wander Nishi-Ogikubo and stop for free tea at more than 40 shops marked with a teapot.",
+    "ja": "急須マークの40以上のお店でお茶をいただきながら、西荻窪をのんびり散歩。"
+   },
+   "starts": "2026-11-14",
+   "ends": "2026-11-15",
+   "source": {
+    "name": "中央線あるあるPROJECT",
+    "url": "https://www.chuosen-rr.com/event/nishiogi-chasanpo/"
+   }
+  }
+ ]
 }

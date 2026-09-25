@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790296209,
+ "revision": 1790297191,
  "languages": [
   "en",
   "ja"
@@ -470,7 +470,25 @@
     ]
    }
   ],
-  "happenings": [],
+  "happenings": [
+   {
+    "id": "koenji-fes-2026",
+    "name": {
+     "en": "Kōenji Fes 2026",
+     "ja": "第20回 高円寺フェス2026"
+    },
+    "about": {
+     "en": "The whole of Kōenji turns out for its autumn festival: street music, food stalls, workshops for children, and a wrestling ring outside the north exit.",
+     "ja": "高円寺じゅうが会場になる秋の文化祭。路上ライブ、屋台、子ども向けワークショップ、北口駅前広場にはプロレスのリングも。"
+    },
+    "starts": "2026-10-24",
+    "ends": "2026-10-25",
+    "source": {
+     "name": "中央線あるあるPROJECT",
+     "url": "https://www.chuosen-rr.com/event/koenji-fes/"
+    }
+   }
+  ],
   "intro": {
    "en": "Expressive: records, vintage clothes and small music venues.",
    "ja": "表現する街。レコード、古着、小さなライブハウス。"

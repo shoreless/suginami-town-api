@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790296209,
+ "revision": 1790297191,
  "languages": [
   "en",
   "ja"
@@ -267,7 +267,29 @@
     ]
    }
   ],
-  "happenings": [],
+  "happenings": [
+   {
+    "id": "trolls-in-the-park-2026",
+    "name": {
+     "en": "Trolls in the Park 2026",
+     "ja": "トロールの森2026"
+    },
+    "about": {
+     "en": "An outdoor art show in Zenpukuji Park, with works by more than 60 artists that change as the autumn goes on.",
+     "ja": "善福寺公園を舞台にした野外アート展。60組以上のアーティストの作品が、深まる秋とともに表情を変えます。"
+    },
+    "starts": "2026-11-03",
+    "ends": "2026-11-23",
+    "source": {
+     "name": "中央線あるあるPROJECT",
+     "url": "https://www.chuosen-rr.com/event/trollsinthepark/"
+    },
+    "location": [
+     35.7174,
+     139.5914
+    ]
+   }
+  ],
   "intro": {
    "en": "Reflective: a pond, waterbirds and overhanging branches.",
    "ja": "静かに思いにふける場所。池と水鳥、水面にかかる枝。"

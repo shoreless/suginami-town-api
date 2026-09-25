@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//suginamisuki.com//happenings//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Suginami: what's on
+X-WR-TIMEZONE:Asia/Tokyo
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+BEGIN:VEVENT
+UID:koenji-koenji-fes-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:Kōenji Fes 2026
+DESCRIPTION:The whole of Kōenji turns out for its autumn festival: street 
+ music\, food stalls\, workshops for children\, and a wrestling ring outsid
+ e the north exit.\n\nhttps://www.chuosen-rr.com/event/koenji-fes/
+LOCATION:Kōenji\, Suginami\, Tokyo
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:asagaya-asagaya-jazz-street-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261101
+SUMMARY:Asagaya Jazz Street 2026
+DESCRIPTION:Two days of jazz all over Asagaya\, on street corners and in ha
+ lls\, run by local volunteers since 1995.\n\nhttps://www.chuosen-rr.com/ev
+ ent/asagaya-jazzstreet/
+LOCATION:Asagaya\, Suginami\, Tokyo
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:zenpukuji-trolls-in-the-park-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261124
+SUMMARY:Trolls in the Park 2026
+DESCRIPTION:An outdoor art show in Zenpukuji Park\, with works by more than
+  60 artists that change as the autumn goes on.\n\nhttps://www.chuosen-rr.c
+ om/event/trollsinthepark/
+LOCATION:Zenpukuji\, Suginami\, Tokyo
+TRANSP:TRANSPARENT
+GEO:35.7174;139.5914
+END:VEVENT
+BEGIN:VEVENT
+UID:ogikubo-ogikubo-music-festival-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261109
+SUMMARY:Ogikubo Music Festival 2026
+DESCRIPTION:Classical music in about 30 places around Ogikubo station\, fro
+ m Suginami Kōkaidō to parks\, banks and cafés.\n\nhttps://www.chuosen-r
+ r.com/event/ogikubo-ongakusai/
+LOCATION:Ogikubo\, Suginami\, Tokyo
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:momoi-imagawa-suginami-festa-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261109
+SUMMARY:Suginami Festa 2026
+DESCRIPTION:The ward's biggest festival\, around Momoi Harappa Park: about 
+ 150 stalls\, stage shows\, and bread\, sweets and farm fairs. Buses run fr
+ om Ogikubo's north exit.\n\nhttps://www.chuosen-rr.com/event/suginami-fest
+ a/
+LOCATION:Momoi / Imagawa\, Suginami\, Tokyo
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nishi-ogikubo-nishiogi-tea-walk-2026@suginamisuki.com
+DTSTAMP:20260925T004631Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Nishiogi Tea Walk 2026
+DESCRIPTION:Wander Nishi-Ogikubo and stop for free tea at more than 40 shop
+ s marked with a teapot.\n\nhttps://www.chuosen-rr.com/event/nishiogi-chasa
+ npo/
+LOCATION:Nishi-Ogikubo\, Suginami\, Tokyo
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
