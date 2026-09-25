@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -205,7 +205,50 @@
     }
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "toshi-yoroizuka",
+    "category": "shop",
+    "name": {
+     "en": "Toshi Yoroizuka Atelier",
+     "ja": "トシ・ヨロイヅカ アトリエ"
+    },
+    "about": {
+     "en": "The workshop of pâtissier Yoroizuka Toshihiko, the first Japanese head pastry chef at a three-star restaurant in Belgium. Most of the cakes for his shops are made here, and you can buy them fresh at the counter.",
+     "ja": "ベルギーの三つ星レストランで日本人初のシェフパティシエを務めた鎧塚俊彦の工房。各店の菓子の多くをここで作り、店頭ではできたてを買える。"
+    },
+    "location": [
+     35.670132,
+     139.615967
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2025/01/toshiyoroizuka.html"
+    }
+   },
+   {
+    "id": "pansuki",
+    "category": "shop",
+    "name": {
+     "en": "PANSUKI",
+     "ja": "PANSUKI"
+    },
+    "about": {
+     "en": "A bakery for bread lovers, opened in 2023 north of Hachimanyama station: a pink building with the kitchen behind glass and more than fifty kinds of bread by 7:30 in the morning.",
+     "ja": "2023年、八幡山駅の北に開いたベーカリー。ピンクの外壁で、ガラス越しに厨房が見え、朝7時半には50種類以上のパンが並ぶ。"
+    },
+    "location": [
+     35.671745,
+     139.615997
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2026/09/pansuki.html"
+    }
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Unexpected green: tucked-away produce stands.",

@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -383,6 +383,111 @@
     "kami": [
      "ukemochi"
     ]
+   },
+   {
+    "id": "museum-annex",
+    "category": "culture",
+    "name": {
+     "en": "Suginami Local History Museum Annex",
+     "ja": "杉並区立郷土博物館分館"
+    },
+    "about": {
+     "en": "The free annex of the ward's history museum, opened in 2007 in Amanuma Benten-ike Park, in buildings a golf company once used.",
+     "ja": "2007年開館、区立天沼弁天池公園の中にある郷土博物館の分館で、入館無料。建物はかつてゴルフ会社が使っていたものを改修した。"
+    },
+    "location": [
+     35.70821,
+     139.621887
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2018/07/kyoudo-hakubutukan.html"
+    }
+   },
+   {
+    "id": "harukiya-honten",
+    "category": "eat",
+    "name": {
+     "en": "Harukiya Honten",
+     "ja": "春木家本店"
+    },
+    "about": {
+     "en": "A soba house open since 1931, the root of Harukiya on Ōme Kaidō. Soba is the main business, but its chūka soba is counted among Tokyo's best too.",
+     "ja": "1931年開業のそば店で、青梅街道の春木屋のルーツ。本業は日本そばだが、中華そばも東京屈指と評される。"
+    },
+    "location": [
+     35.706722,
+     139.624451
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/harukiya-honten.html"
+    }
+   },
+   {
+    "id": "satou-korokke",
+    "category": "shop",
+    "name": {
+     "en": "Satō Korokke",
+     "ja": "さとうコロッケ店"
+    },
+    "about": {
+     "en": "Frying croquettes since 1948, when it sold them in the black market by the station. Regulars kept it going when the market closed. It's down a lane off Kyōkai-dōri, with a queue at lunchtime.",
+     "ja": "1948年創業。闇市時代から駅前でコロッケを揚げていた店で、闇市がなくなっても常連の声で続いた。教会通りの路地の奥にあり、昼は行列ができる。"
+    },
+    "location": [
+     35.706264,
+     139.62027
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/satou-korokke.html"
+    }
+   },
+   {
+    "id": "harunaya",
+    "category": "shop",
+    "name": {
+     "en": "Harunaya",
+     "ja": "和菓子 榛名屋"
+    },
+    "about": {
+     "en": "A family wagashi shop on Kyōkai-dōri since 1977, named after Mount Haruna in the founder's Gunma. The mame daifuku is made from nothing but rice, beans, sugar and salt.",
+     "ja": "1977年から教会通りで営む家族の和菓子店。店名は創業者の故郷・群馬の榛名山から。豆大福は米、小豆、砂糖、塩だけで作る。"
+    },
+    "location": [
+     35.707432,
+     139.61972
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/02/harunaya.html"
+    }
+   },
+   {
+    "id": "labeille",
+    "category": "shop",
+    "name": {
+     "en": "L'Abeille",
+     "ja": "はちみつ専門店ラベイユ"
+    },
+    "about": {
+     "en": "A honey shop that began on Kyōkai-dōri in 1969, with honeys from around the world to taste before you choose.",
+     "ja": "1969年に教会通りで始まったはちみつ専門店。世界各地のはちみつを試食して選べる。"
+    },
+    "location": [
+     35.706799,
+     139.620102
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/honey-raveille.html"
+    }
    }
   ],
   "happenings": [],

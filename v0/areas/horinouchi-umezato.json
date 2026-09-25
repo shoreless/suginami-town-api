@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -301,6 +301,27 @@
      "isotakeru",
      "tsumatsuhime"
     ]
+   },
+   {
+    "id": "shimizuya",
+    "category": "eat",
+    "name": {
+     "en": "Shimizuya",
+     "ja": "清水屋"
+    },
+    "about": {
+     "en": "Founded in 1940 and known for the fried manjū sold to people visiting Myōhōji. Since 2015 it has also been a soba shop, where the third-generation owner makes the noodles by hand.",
+     "ja": "1940年創業、妙法寺名物「揚げまんじゅう」で知られる店。2015年からは三代目が手打ちする蕎麦屋になり、揚げまんじゅうも今も売っている。"
+    },
+    "location": [
+     35.691807,
+     139.652985
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/07/shimizuya.html"
+    }
    }
   ],
   "happenings": [],

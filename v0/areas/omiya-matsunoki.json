@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -325,6 +325,48 @@
     "kami": [
      "sugawara-no-michizane"
     ]
+   },
+   {
+    "id": "history-museum",
+    "category": "culture",
+    "name": {
+     "en": "Suginami Local History Museum",
+     "ja": "杉並区立郷土博物館"
+    },
+    "about": {
+     "en": "The ward's history museum, opened in 1989 near the Zenpukuji River; you go in through a thatched gatehouse. The land belonged to the Saga family, and in 1937 their daughter Hiro left from here to marry Pujie, brother of the last emperor of China.",
+     "ja": "1989年開館の区立郷土博物館で、茅葺きの長屋門が入口。敷地はかつて嵯峨侯爵家のもので、1937年、嵯峨浩はここから愛新覚羅溥傑との結婚式へ向かった。"
+    },
+    "location": [
+     35.685661,
+     139.644547
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2018/02/suginami-historical-museum.html"
+    }
+   },
+   {
+    "id": "takachiho-budojo",
+    "category": "culture",
+    "name": {
+     "en": "Takachiho Budōjō",
+     "ja": "高千穂学園武道場"
+    },
+    "about": {
+     "en": "Built in 1913 as the judo and kendo hall of Takachiho College, it's the oldest wooden school building in the ward and a ward cultural property. The original 36 springs and 10 large jars are still under the floor.",
+     "ja": "1913年、高千穂高等商業学校の柔剣道場として建てられた区内最古の木造学校建築で、区指定有形文化財。床下には創建当時の36本のバネと10個の大甕が残る。"
+    },
+    "location": [
+     35.682804,
+     139.638245
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/07/takachiho-budojo.html"
+    }
    }
   ],
   "happenings": [],

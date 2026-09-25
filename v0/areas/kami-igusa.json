@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -240,7 +240,50 @@
     }
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "gundam-statue",
+    "category": "culture",
+    "name": {
+     "en": "Gundam statue",
+     "ja": "ガンダム像"
+    },
+    "about": {
+     "en": "A bronze Gundam reaching for the sky, put up outside Kami-Igusa station in 2008 because Sunrise, the studio behind Mobile Suit Gundam, is nearby. The trains leave to the Gundam theme.",
+     "ja": "2008年、上井草駅南口に設置された、空へ手を伸ばすガンダムのブロンズ像。『機動戦士ガンダム』のサンライズが近くにあることから実現した。発車メロディもガンダムの主題歌。"
+    },
+    "location": [
+     35.725014,
+     139.603745
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "上井草商店街",
+     "url": "http://www.kami-igusa.com/area/animation"
+    }
+   },
+   {
+    "id": "gran-montagne",
+    "category": "shop",
+    "name": {
+     "en": "Gran Montagne",
+     "ja": "グランモンターニュ"
+    },
+    "about": {
+     "en": "A bakery and cake shop by Iogi station, opened in 2008 by a teacher of 21 years at a pastry school. Try the Iogi anpan, packed with Hokkaido red beans.",
+     "ja": "井荻駅南口で2008年から営むパンと焼き菓子の店。製菓学校で21年間教えた店主の店で、北海道産の粒あんがぎっしりの「井荻あんぱん」が名物。"
+    },
+    "location": [
+     35.722286,
+     139.614075
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/gran-montagne.html"
+    }
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Playful creativity and animation studios.",

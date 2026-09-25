@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -288,6 +288,27 @@
     "kami": [
      "ichikishimahime"
     ]
+   },
+   {
+    "id": "ten-no-michi",
+    "category": "eat",
+    "name": {
+     "en": "Ramen Ten no Michi",
+     "ja": "らーめん 天の道"
+    },
+    "about": {
+     "en": "A ramen shop facing the great torii of Igusa Hachimangū, opened in 2005 by a Suginami local who trained at ten ramen shops. The name comes from Kamen Rider Kabuto.",
+     "ja": "井草八幡宮の大鳥居の正面にあるラーメン店。10店で修業した杉並育ちの店主が2005年に開業した。店名は『仮面ライダーカブト』の主人公から。"
+    },
+    "location": [
+     35.715111,
+     139.598358
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2023/12/tennomichi.html"
+    }
    }
   ],
   "happenings": [

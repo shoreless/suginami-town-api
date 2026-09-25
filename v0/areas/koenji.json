@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -511,6 +511,153 @@
     "kami": [
      "ukemochi"
     ]
+   },
+   {
+    "id": "za-koenji",
+    "category": "culture",
+    "name": {
+     "en": "Za-Kōenji",
+     "ja": "座・高円寺"
+    },
+    "about": {
+     "en": "The ward's theatre, a tent-like building by Itō Toyō opened in 2009, with three halls, an archive of plays and a café with picture books.",
+     "ja": "伊東豊雄の設計で2009年に開館した、テントのような形の区立劇場。3つのホールと戯曲のアーカイブ、絵本とおいしいもののカフェがある。"
+    },
+    "location": [
+     35.705627,
+     139.654068
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/03/za-koenji.html"
+    }
+   },
+   {
+    "id": "nanatsumori",
+    "category": "drink",
+    "name": {
+     "en": "Nanatsumori",
+     "ja": "七つ森"
+    },
+    "about": {
+     "en": "A coffee house since 1978, made from the last unit of an old row of shops, keeping its beams and pillars and filled with antiques.",
+     "ja": "1978年開業の喫茶店。長屋の商店の一棟を、梁や柱を生かして改装し、アンティークの調度で飾った。"
+    },
+    "location": [
+     35.700119,
+     139.647415
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/nanatsumori.html"
+    }
+   },
+   {
+    "id": "trianon",
+    "category": "shop",
+    "name": {
+     "en": "Trianon",
+     "ja": "トリアノン洋菓子店 高円寺本店"
+    },
+    "about": {
+     "en": "A cake shop on the south-exit square since 1960, still making butter-cream cakes such as the mocha roll it has sold since it opened.",
+     "ja": "1960年創業、高円寺駅南口ロータリーに面した洋菓子店。創業時から売る「モカロール」など、バタークリームのケーキを今も作る。"
+    },
+    "location": [
+     35.705074,
+     139.649521
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2017/04/trianon.html"
+    }
+   },
+   {
+    "id": "oishi-shoten",
+    "category": "shop",
+    "name": {
+     "en": "Ōishi Shoten",
+     "ja": "大石書店"
+    },
+    "about": {
+     "en": "A secondhand bookshop opened in 1931, when Kōenji was still a village road with a few shops, and run by the same family ever since.",
+     "ja": "1931年、まだ店がまばらだった高円寺に開いた古書店。以来、家族で営業を続けている。"
+    },
+    "location": [
+     35.702873,
+     139.648239
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2017/05/oishi-shoten.html"
+    }
+   },
+   {
+    "id": "kiyoka",
+    "category": "eat",
+    "name": {
+     "en": "Kiyoka",
+     "ja": "沖縄料理本店 きよ香"
+    },
+    "about": {
+     "en": "Opened in 1961 by a woman from Ishigaki, when Tokyo had only a handful of Okinawan restaurants: the root of Kōenji's Okinawan food. Her son still cooks her home recipes.",
+     "ja": "1961年、石垣島出身の女性が開いた沖縄料理店。都内にまだ数店しかなかった頃で、高円寺の沖縄料理のルーツ。今は息子が母の味を守る。"
+    },
+    "location": [
+     35.705482,
+     139.649078
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2023/07/kiyoka.html"
+    }
+   },
+   {
+    "id": "kanekoen",
+    "category": "shop",
+    "name": {
+     "en": "Kanekoen",
+     "ja": "金子園"
+    },
+    "about": {
+     "en": "The head shop of a tea merchant, at the entrance to Kōenji Junjō shopping street. They will pour you a taste from the kettle.",
+     "ja": "高円寺純情商店街の入口にある日本茶の老舗の本店。茶釜から湯を入れて試飲させてくれる。"
+    },
+    "location": [
+     35.706108,
+     139.649643
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/12/kanekoen.html"
+    }
+   },
+   {
+    "id": "r-za",
+    "category": "drink",
+    "name": {
+     "en": "R-za Reading Room",
+     "ja": "アール座読書館"
+    },
+    "about": {
+     "en": "A café for reading, opened in 2008, where conversation is politely declined. Water trickles into aquariums, a wall clock chimes, and every seat is different.",
+     "ja": "2008年開業、会話をお断りしている読書のための喫茶店。水槽に落ちる水の音と柱時計の音が響き、席はどれも作りが違う。"
+    },
+    "location": [
+     35.704025,
+     139.648422
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/10/r-za-dokusho-kan.html"
+    }
    }
   ],
   "happenings": [

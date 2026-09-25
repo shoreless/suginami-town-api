@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -380,7 +380,50 @@
     }
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "kuppel",
+    "category": "shop",
+    "name": {
+     "en": "Kuppel",
+     "ja": "パン工房 クッペル"
+    },
+    "about": {
+     "en": "A bakery on Ōme Kaidō since 1977, where a self-taught baker and his wife sell cheap, hearty bread over the counter.",
+     "ja": "1977年創業、青梅街道沿いのパン屋。独学でパンを学んだ店主が夫婦で、手頃な値段のパンを対面で売る。"
+    },
+    "location": [
+     35.710751,
+     139.609924
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/kuppel.html"
+    }
+   },
+   {
+    "id": "gensouen",
+    "category": "drink",
+    "name": {
+     "en": "Gensōen",
+     "ja": "焼きたてパンと喫茶 源宗園"
+    },
+    "about": {
+     "en": "A tea shop run by a Shizuoka tea company near Momoi Harappa Park, now a bakery café with matcha soft-serve and a terrace where dogs are welcome.",
+     "ja": "静岡の製茶会社が営む、桃井原っぱ公園近くの日本茶の店。今はパンと抹茶ソフトクリームのベーカリーカフェで、犬と座れるテラス席もある。"
+    },
+    "location": [
+     35.715725,
+     139.607208
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2024/07/gensouen.html"
+    }
+   }
+  ],
   "happenings": [
    {
     "id": "suginami-festa-2026",

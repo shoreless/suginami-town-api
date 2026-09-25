@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -299,6 +299,48 @@
     "kami": [
      "ukemochi"
     ]
+   },
+   {
+    "id": "st-margaret-chapel",
+    "category": "culture",
+    "name": {
+     "en": "St Margaret's Chapel",
+     "ja": "立教女学院 聖マーガレット礼拝堂"
+    },
+    "about": {
+     "en": "A Romanesque chapel from 1932 by J. V. W. Bergamini, architect of St Luke's Hospital, at Rikkyo Jogakuin. It's concrete but warm with North American oak inside. It stands on school grounds, so check when visitors can come.",
+     "ja": "聖路加国際病院を手がけたJ.V.W.バーガミニの設計で、1932年に建てられたロマネスク様式の礼拝堂。鉄筋コンクリート造りだが、内部は北米産のオーク材で温かい。学校の敷地内なので、見学できる日を確かめて。"
+    },
+    "location": [
+     35.694756,
+     139.590164
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/04/st-margarets-college-schools.html"
+    }
+   },
+   {
+    "id": "hirataya-tofu",
+    "category": "shop",
+    "name": {
+     "en": "Hirataya Tofu",
+     "ja": "平田屋豆腐店"
+    },
+    "about": {
+     "en": "A tofu maker in its third generation, up at four each morning to make nigari tofu from Fukuyutaka soybeans, with side dishes and okara doughnuts.",
+     "ja": "三代続く豆腐店。毎朝4時から国産大豆フクユタカでにがり豆腐を作り、惣菜やおからドーナツも並ぶ。"
+    },
+    "location": [
+     35.688366,
+     139.599869
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/hirataya-tofu.html"
+    }
    }
   ],
   "happenings": [],

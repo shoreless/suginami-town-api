@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -395,6 +395,48 @@
      "ukanomitama",
      "ukemochi"
     ]
+   },
+   {
+    "id": "misawa-bauhaus",
+    "category": "culture",
+    "name": {
+     "en": "Misawa Bauhaus Collection",
+     "ja": "ミサワバウハウスコレクション"
+    },
+    "about": {
+     "en": "Japan's only museum of the Bauhaus, opened by Misawa Homes in 1996 at its research institute. It holds about 1,500 works and puts on free exhibitions, so check the dates before you go.",
+     "ja": "ミサワホームが1996年に総合研究所内に開いた、日本唯一のバウハウス専門美術館。約1,500点の作品を所蔵し、無料の企画展を開く。公開日を確かめて出かけたい。"
+    },
+    "location": [
+     35.679562,
+     139.614365
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/12/misawa-bauhaus.html"
+    }
+   },
+   {
+    "id": "koganedo",
+    "category": "shop",
+    "name": {
+     "en": "Koganedō",
+     "ja": "こがね堂"
+    },
+    "about": {
+     "en": "Rice crackers made by hand, from pounding the mochi onwards, in front of Takaido station since 1947. The hina-arare for the Dolls' Festival sell out every year.",
+     "ja": "1947年に西荻窪から高井戸駅前に移ったせんべい店。もち米を搗くところから店の奥で手作りする。ひな祭りの「ひなあられ」は毎年売り切れる。"
+    },
+    "location": [
+     35.682919,
+     139.615311
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/koganedo.html"
+    }
    }
   ],
   "happenings": [],

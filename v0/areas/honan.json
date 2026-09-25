@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -170,7 +170,29 @@
     }
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "kamadera",
+    "category": "temple",
+    "name": {
+     "en": "Kamadera (Tōunji)",
+     "ja": "釜寺（東運寺）"
+    },
+    "about": {
+     "en": "A Jōdo temple said to date from 1573, with an iron rice cauldron on its roof. The story comes from the legend of Anju and Zushiō: when Zushiō was about to be boiled in a cauldron, the Jizō he carried took his place.",
+     "ja": "天正元年（1573年）の創建と伝わる浄土宗の寺。本堂の屋根に羽釜がのり、「釜寺」と呼ばれる。釜ゆでにされかけた厨子王の身代わりに、守り本尊の地蔵がなったという安寿と厨子王の伝説に由来する。"
+    },
+    "location": [
+     35.680794,
+     139.657776
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/post-188.html"
+    }
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Community-minded: a shopping street, greengrocers and festival bunting.",

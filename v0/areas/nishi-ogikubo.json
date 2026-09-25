@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -564,6 +564,174 @@
     "source": {
      "name": "西荻伏見通り商店会",
      "url": "https://nishiogi-fushimidori.com/history"
+    }
+   },
+   {
+    "id": "monozuki",
+    "category": "drink",
+    "name": {
+     "en": "Monozuki",
+     "ja": "物豆奇"
+    },
+    "about": {
+     "en": "A coffee house opened around 1975 and filled with antiques the first owner gathered from all over Japan: wall clocks, oil lamps, pillars from old farmhouses. The second owner has kept it just as it was.",
+     "ja": "1975年ごろ開店の喫茶店。初代が全国から集めた古時計や石油ランプ、古民家の柱が店を飾り、二代目はそのままの姿を守っている。"
+    },
+    "location": [
+     35.705437,
+     139.596985
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/monozuki.html"
+    }
+   },
+   {
+    "id": "kokeshiya",
+    "category": "eat",
+    "name": {
+     "en": "Kokeshiya",
+     "ja": "こけし屋"
+    },
+    "about": {
+     "en": "Opened by the station in 1949 as a coffee shop, then added Western cakes and French cooking; the painter Suzuki Shintarō designed its wrapping paper. It closed in 2022 to rebuild and reopened in May 2026.",
+     "ja": "1949年に駅前で喫茶店として開店し、洋菓子、そしてフランス料理へと広げてきた。包装紙は画家・鈴木信太郎のデザイン。建て替えのため2022年に休業し、2026年5月に再開した。"
+    },
+    "location": [
+     35.703484,
+     139.600494
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/kokeshiya.html"
+    }
+   },
+   {
+    "id": "miharado",
+    "category": "shop",
+    "name": {
+     "en": "Miharadō",
+     "ja": "三原堂"
+    },
+    "about": {
+     "en": "A wagashi shop opened in 1935 under a name shared by Miharadō of Yotsuya. Known for thin, crisp shio senbei with the rice grains left in.",
+     "ja": "1935年、四谷三原堂からのれん分けで開店した和菓子店。米粒を残して薄く焼いたパリパリの「塩せんべい」が名物。"
+    },
+    "location": [
+     35.704487,
+     139.600586
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/miharado.html"
+    }
+   },
+   {
+    "id": "kidaya",
+    "category": "shop",
+    "name": {
+     "en": "Kidaya",
+     "ja": "喜田屋"
+    },
+    "about": {
+     "en": "A wagashi shop opened in 1948, famous for mame daifuku packed with red peas under a thin skin. In winter they can sell out before noon.",
+     "ja": "1948年創業の和菓子店。薄い皮に豆がぎっしりの豆大福が有名で、冬は昼前に売り切れることも。"
+    },
+    "location": [
+     35.705513,
+     139.60083
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/kidaya.html"
+    }
+   },
+   {
+    "id": "amaikko",
+    "category": "eat",
+    "name": {
+     "en": "Amaikko",
+     "ja": "甘味処 甘いっ子"
+    },
+    "about": {
+     "en": "A sweets parlor open since 1965, known for kakigōri with homemade strawberry and apricot syrups. A regular of more than twenty years took it over in 2000.",
+     "ja": "1965年開店の甘味処。自家製のいちごや杏のシロップをかけるかき氷が名物。20年以上通った常連が2000年に店を継いだ。"
+    },
+    "location": [
+     35.701035,
+     139.598969
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2015/05/amaikko.html"
+    }
+   },
+   {
+    "id": "seirindo",
+    "category": "shop",
+    "name": {
+     "en": "Seirindō Shobō",
+     "ja": "盛林堂書房"
+    },
+    "about": {
+     "en": "A secondhand bookshop founded in 1949 and on this spot since the year after, strong in mysteries and literary fiction. Ibuse Masuji and Matsumoto Seichō were customers.",
+     "ja": "1949年創業、翌年からこの場所で営業する古書店。ミステリーと純文学が充実し、井伏鱒二や松本清張も訪れた。"
+    },
+    "location": [
+     35.702263,
+     139.599808
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2019/03/seirindou-syobou.html"
+    }
+   },
+   {
+    "id": "niwatori-bunko",
+    "category": "shop",
+    "name": {
+     "en": "Niwatori Bunko",
+     "ja": "にわとり文庫"
+    },
+    "about": {
+     "en": "A secondhand bookshop opened in 2005, a Year of the Rooster, hence the name 'Chicken Library'. Kokeshi dolls line the front, and old toys sit among the books.",
+     "ja": "酉年の2005年に開いた古書店で、店名は干支にちなむ。店頭にこけしが並び、店内には古書に交じって昔のおもちゃも。"
+    },
+    "location": [
+     35.703732,
+     139.602173
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2022/10/niwatoribunko.html"
+    }
+   },
+   {
+    "id": "shoan-bunko",
+    "category": "drink",
+    "name": {
+     "en": "Shōan Bunko",
+     "ja": "松庵文庫"
+    },
+    "about": {
+     "en": "A book café in a house more than 90 years old, once home to a musician couple. Its windows look onto a garden and an azalea over a century old.",
+     "ja": "音楽家夫妻が暮らした築90年を超える一軒家をいかしたブックカフェ。庭の樹齢100年を超えるツツジを眺めながら過ごせる。"
+    },
+    "location": [
+     35.701466,
+     139.595505
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/tutuji-cafe.html"
     }
    }
   ],

@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -290,6 +290,48 @@
     "kami": [
      "takaokami"
     ]
+   },
+   {
+    "id": "eifukucho-taishoken",
+    "category": "eat",
+    "name": {
+     "en": "Eifukuchō Taishōken",
+     "ja": "永福町大勝軒"
+    },
+    "about": {
+     "en": "Open since 1955 and famous for big bowls of soy ramen rich with niboshi (dried sardines), with two portions of homemade noodles.",
+     "ja": "1955年開業。煮干しの効いた醤油ラーメンを、自家製麺2玉の大きな丼で出す名店。"
+    },
+    "location": [
+     35.67622,
+     139.643951
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "永福町大勝軒",
+     "url": "https://eifuku-taishouken.com/"
+    }
+   },
+   {
+    "id": "grill-marino",
+    "category": "eat",
+    "name": {
+     "en": "Grill Marino",
+     "ja": "まちの洋食屋さん グリルマリノ"
+    },
+    "about": {
+     "en": "A family yōshoku restaurant since 1967: hamburg steak, Napolitan spaghetti, gratin and omurice.",
+     "ja": "1967年創業の町の洋食屋。ハンバーグ、ナポリタン、グラタン、オムライス。"
+    },
+    "location": [
+     35.67926,
+     139.645706
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/g-marino.html"
+    }
    }
   ],
   "happenings": [],

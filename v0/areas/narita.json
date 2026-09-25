@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -489,6 +489,27 @@
     "kami": [
      "izanami"
     ]
+   },
+   {
+    "id": "koumiya",
+    "category": "shop",
+    "name": {
+     "en": "Kōmiya",
+     "ja": "好味屋"
+    },
+    "about": {
+     "en": "A cake shop on Itsukaichi Kaidō that began about 70 years ago as a dried-goods store. The favorite is the Indian pudding, a steamed, liqueur-scented pudding topped with melon and cream.",
+     "ja": "五日市街道沿いの洋菓子店。約70年前の乾物屋から始まり、戦後に洋菓子店へ転じた。一番人気は洋酒が香る「インディアンプリン」。"
+    },
+    "location": [
+     35.693363,
+     139.639893
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/koumiya.html"
+    }
    }
   ],
   "happenings": [],

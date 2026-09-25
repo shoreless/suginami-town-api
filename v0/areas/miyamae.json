@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -302,6 +302,27 @@
      "amenokoyane",
      "himegami-kasuga"
     ]
+   },
+   {
+    "id": "mabo-table",
+    "category": "eat",
+    "name": {
+     "en": "Takaido Mābo Table",
+     "ja": "高井戸 麻婆TABLE"
+    },
+    "about": {
+     "en": "A neighborhood Chinese restaurant opened in 2017 by a chef with more than twenty years' experience. Its mapo tofu balances the numbing heat of Sichuan pepper against chilli.",
+     "ja": "中華の料理人として20年以上の経験を持つ店主が2017年に開いた町の中華。花椒のしびれと唐辛子の辛さの釣り合いを追求した麻婆豆腐が看板。"
+    },
+    "location": [
+     35.6894,
+     139.616089
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2019/12/maabo-table.html"
+    }
    }
   ],
   "happenings": [],

@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -205,7 +205,92 @@
     }
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "rissho-kosei-kai",
+    "category": "culture",
+    "name": {
+     "en": "Risshō Kōsei-kai Great Sacred Hall",
+     "ja": "立正佼成会 大聖堂"
+    },
+    "about": {
+     "en": "The great dome you see from Kan-nana, completed in 1964. It's open to everyone every day, and inside the dome stands a Buddha 6.8 metres tall.",
+     "ja": "環七から見える巨大なドーム。1964年に落成し、年中無休で誰でも見学できる。ドームの中には高さ6.8メートルの本尊が立つ。"
+    },
+    "location": [
+     35.687988,
+     139.658859
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/11/rissho-kosei-kai-cathedral.html"
+    }
+   },
+   {
+    "id": "galleria-nike",
+    "category": "culture",
+    "name": {
+     "en": "Joshibi Galleria Nike",
+     "ja": "女子美ガレリアニケ"
+    },
+    "about": {
+     "en": "The only art-university gallery in the ward, at Joshibi's Suginami campus, with about eight free exhibitions a year.",
+     "ja": "女子美術大学杉並キャンパスにある、区内唯一の美大付属ギャラリー。年に約8回、無料の展覧会を開く。"
+    },
+    "location": [
+     35.693089,
+     139.662079
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2022/12/galleria-nike.html"
+    }
+   },
+   {
+    "id": "suginami-mangetsu",
+    "category": "eat",
+    "name": {
+     "en": "Suginami Mangetsu",
+     "ja": "手打そば・地酒 杉並まん月"
+    },
+    "about": {
+     "en": "Started around 1955 as a soba shop attached to a noodle works. Since 2000 it has served sake and small dishes, ending with soba made several times a day.",
+     "ja": "1955年ごろ、製麺所併設のそば店「きそば満月」として創業。2000年から日本酒とつまみ、締めのそばを楽しむ店になった。"
+    },
+    "location": [
+     35.692963,
+     139.657227
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2026/06/sobamangetsu.html"
+    }
+   },
+   {
+    "id": "tenshin-hanten",
+    "category": "eat",
+    "name": {
+     "en": "Tenshin Hanten",
+     "ja": "天津飯店"
+    },
+    "about": {
+     "en": "A Chinese restaurant by Nakano-Fujimichō station since 1978, with homemade chilli oil, tantanmen and set meals that change every week.",
+     "ja": "1978年開業、中野富士見町駅前の中華料理店。自家製ラー油の坦々麺や、毎週替わる定食が人気。"
+    },
+    "location": [
+     35.691109,
+     139.666275
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/11/tenshinhanten.html"
+    }
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Neighborly creativity: art supplies and park greenery.",

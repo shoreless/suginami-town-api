@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -652,6 +652,258 @@
      "sugawara-no-michizane",
      "okuninushi"
     ]
+   },
+   {
+    "id": "harukiya",
+    "category": "eat",
+    "name": {
+     "en": "Harukiya",
+     "ja": "中華そば 春木屋"
+    },
+    "about": {
+     "en": "Open since 1949 and one of the places that made 'Ogikubo ramen' famous: clear soy-sauce chūka soba topped with a triangle of nori. Its motto is to keep changing so that the taste can stay the same.",
+     "ja": "1949年創業。「荻窪ラーメン」の名を広めた一軒で、澄んだ醤油の中華そばに三角の海苔がのる。「変わらぬ美味しさの為に変わり続ける」がモットー。"
+    },
+    "location": [
+     35.705109,
+     139.622437
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/harukiya.html"
+    }
+   },
+   {
+    "id": "juhachiban",
+    "category": "eat",
+    "name": {
+     "en": "Juhachiban",
+     "ja": "手もみラーメン 十八番"
+    },
+    "about": {
+     "en": "A hand-kneaded ramen counter since 1966 that opens in the evening and stays open past midnight. The garlicky tokusei juhachiban comes in soy or miso.",
+     "ja": "1966年創業、夕方に開いて深夜まで営業する手もみラーメンの店。ニンニクの効いた「特製十八番」は醤油と味噌から選べる。"
+    },
+    "location": [
+     35.704838,
+     139.622406
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/juhachiban.html"
+    }
+   },
+   {
+    "id": "honmura-an",
+    "category": "eat",
+    "name": {
+     "en": "Honmura-an",
+     "ja": "本むら庵"
+    },
+    "about": {
+     "en": "A soba house founded in 1924. Each day's buckwheat is ground in a stone mill, and the noodles are bound with well water.",
+     "ja": "1924年創業のそば店。その日に打つ分だけ玄そばを石臼で挽き、井戸水でつなぐ江戸前の二八そば。"
+    },
+    "location": [
+     35.704506,
+     139.611786
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/honmuraan.html"
+    }
+   },
+   {
+    "id": "kameya-ogikubo",
+    "category": "shop",
+    "name": {
+     "en": "Kameya",
+     "ja": "御菓子司 亀屋"
+    },
+    "about": {
+     "en": "A wagashi shop that moved here from Yotsuya in 1930, after the Great Kantō Earthquake. Its best-known sweet is the café-au-lait daifuku: coffee-flavored bean paste and cream, sold frozen.",
+     "ja": "関東大震災の後、1930年に四谷から荻窪へ移った和菓子の老舗。名物はコーヒー風味のこしあんと生クリームを包んだ冷凍の「カフェオレ大福」。"
+    },
+    "location": [
+     35.707138,
+     139.616364
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/kameya.html"
+    }
+   },
+   {
+    "id": "mignon",
+    "category": "drink",
+    "name": {
+     "en": "Meikyoku Kissa Mignon",
+     "ja": "名曲喫茶ミニヨン"
+    },
+    "about": {
+     "en": "A classical music café opened in 1961, south of the station since 1971. LPs play on a fine sound system, with concerts and exhibitions in the room behind.",
+     "ja": "1961年に開店し、1971年から駅南口のこの場所で営業する名曲喫茶。LPレコードをよい音で聴かせ、奥の部屋ではコンサートや展示も開く。"
+    },
+    "location": [
+     35.703632,
+     139.622543
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2015/09/mignon.html"
+    }
+   },
+   {
+    "id": "seiko-lodging",
+    "category": "culture",
+    "name": {
+     "en": "Seikō Lodging",
+     "ja": "西郊ロッヂング"
+    },
+    "about": {
+     "en": "A boarding house that moved here from Hongō in 1931, with Western-style rooms that locked, rare at the time. The 1931 main building and 1938 annex are registered tangible cultural properties. It is now an inn and apartments, so admire it from the street.",
+     "ja": "1931年に本郷から移ってきた下宿で、当時珍しい鍵付きの洋室を備えていた。本館（1931年）と新館（1938年）は国の登録有形文化財。今は旅館と賃貸住宅なので、外から眺めたい。"
+    },
+    "location": [
+     35.702972,
+     139.625565
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/11/seiko-lodging.html"
+    }
+   },
+   {
+    "id": "gengi-sanbo",
+    "category": "culture",
+    "name": {
+     "en": "Gengi Sanbō (Suginami Poetry House)",
+     "ja": "幻戯山房（すぎなみ詩歌館）"
+    },
+    "about": {
+     "en": "The 1955 house of Kadokawa Gen'yoshi, poet and founder of the Kadokawa publishing house. It was given to the ward and has been open to the public since 2009. His study shows things from his life, and every room looks onto the garden.",
+     "ja": "角川書店創業者で俳人の角川源義の旧邸（1955年竣工）。区に寄贈され、2009年から一般公開。書斎兼応接間にゆかりの品を展示し、どの部屋からも庭が眺められる。"
+    },
+    "location": [
+     35.698811,
+     139.624741
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/03/gengisanbo.html"
+    }
+   },
+   {
+    "id": "katsura-bunko",
+    "category": "culture",
+    "name": {
+     "en": "Katsura Bunko",
+     "ja": "かつら文庫"
+    },
+    "about": {
+     "en": "In 1958 the children's author Ishii Momoko opened part of her home as a small library for the neighborhood's children. It still runs as a branch of the Tokyo Children's Library, and adults are welcome too.",
+     "ja": "児童文学者の石井桃子が1958年、自宅の一部を開いて近所の子どもたちのための小さな図書室にした。今も東京子ども図書館の分室として続き、大人も利用できる。"
+    },
+    "location": [
+     35.702042,
+     139.625153
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/09/katsura-bunko.html"
+    }
+   },
+   {
+    "id": "otaguro-kinenkan",
+    "category": "culture",
+    "name": {
+     "en": "Ōtaguro Park Memorial Hall",
+     "ja": "大田黒公園記念館"
+    },
+    "about": {
+     "en": "The brick-colored studio that the music critic Ōtaguro Motoo built in 1933, now in the Japanese garden of Ōtaguro Park. His German piano and gramophone are still there.",
+     "ja": "音楽評論家・大田黒元雄が1933年に仕事部屋として建てた洋館で、今は大田黒公園の日本庭園の中にある。愛用のドイツ製ピアノや蓄音機が残る。"
+    },
+    "location": [
+     35.701576,
+     139.624161
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/03/otaguropark-kinenkan.html"
+    }
+   },
+   {
+    "id": "tekigaiso",
+    "category": "culture",
+    "name": {
+     "en": "Tekigaisō",
+     "ja": "荻外荘"
+    },
+    "about": {
+     "en": "The house of Konoe Fumimaro, three times prime minister, designed by Itō Chūta in 1927. It is a national historic site. The ward restored it over ten years and opened it as Tekigaisō Park in December 2024.",
+     "ja": "3度首相を務めた近衞文麿の旧宅で、1927年に伊東忠太が設計した。国の史跡。区が約10年かけて復原し、2024年12月に荻外荘公園として公開した。"
+    },
+    "location": [
+     35.699215,
+     139.622894
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2025/03/tekigaiso.html"
+    }
+   },
+   {
+    "id": "tekigaiso-tenjito",
+    "category": "culture",
+    "name": {
+     "en": "Tekigaisō Exhibition Building",
+     "ja": "荻外荘展示棟"
+    },
+    "about": {
+     "en": "Kuma Kengo's exhibition building across the lane from Tekigaisō, opened in July 2025, with a café and shop downstairs and exhibitions upstairs.",
+     "ja": "隈研吾の設計で2025年7月、荻外荘の向かいに開館。1階はカフェとショップ、2階は展示室。"
+    },
+    "location": [
+     35.698929,
+     139.622803
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2025/09/tekigaiso-tenjito.html"
+    }
+   },
+   {
+    "id": "animation-museum",
+    "category": "culture",
+    "name": {
+     "en": "Suginami Animation Museum",
+     "ja": "杉並アニメーションミュージアム"
+    },
+    "about": {
+     "en": "A free museum of Japanese animation on the third floor of Suginami Kaikan: its history, and how anime is made. Closed on Mondays.",
+     "ja": "杉並会館3階にある入館無料のアニメの博物館。日本のアニメの歴史と、作られ方を紹介する。月曜休館。"
+    },
+    "location": [
+     35.710491,
+     139.607574
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "杉並アニメーションミュージアム",
+     "url": "https://sam.or.jp/"
+    }
    }
   ],
   "happenings": [

@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -299,6 +299,27 @@
     "kami": [
      "hachiman"
     ]
+   },
+   {
+    "id": "eiryu",
+    "category": "eat",
+    "name": {
+     "en": "Eiryū",
+     "ja": "栄龍"
+    },
+    "about": {
+     "en": "A neighborhood Chinese restaurant since 1969, serving old-style Tokyo ramen. The curry ramen is a favorite.",
+     "ja": "1969年開業の町の中華。昔ながらの東京ラーメンに加え、カレーラーメンも人気。"
+    },
+    "location": [
+     35.667854,
+     139.636536
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/12/eiryu.html"
+    }
    }
   ],
   "happenings": [],

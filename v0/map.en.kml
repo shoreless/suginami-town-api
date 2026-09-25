@@ -688,5 +688,632 @@ Source: 杉並区公式ホームページ https://www.city.suginami.tokyo.jp/s11
     </Point>
    </Placemark>
   </Folder>
+  <Folder>
+   <name>Temples</name>
+   <Placemark>
+    <name>Kamadera (Tōunji) · 釜寺（東運寺）</name>
+    <description>A Jōdo temple said to date from 1573, with an iron rice cauldron on its roof. The story comes from the legend of Anju and Zushiō: when Zushiō was about to be boiled in a cauldron, the Jizō he carried took his place.
+Hōnan · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/post-188.html</description>
+    <Point>
+     <coordinates>139.657776,35.680794</coordinates>
+    </Point>
+   </Placemark>
+  </Folder>
+  <Folder>
+   <name>Culture</name>
+   <Placemark>
+    <name>Suginami Local History Museum Annex · 杉並区立郷土博物館分館</name>
+    <description>The free annex of the ward's history museum, opened in 2007 in Amanuma Benten-ike Park, in buildings a golf company once used.
+Amanuma · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2018/07/kyoudo-hakubutukan.html</description>
+    <Point>
+     <coordinates>139.621887,35.70821</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Laputa Asagaya · ラピュタ阿佐ヶ谷</name>
+    <description>A small cinema for Japanese films, mostly from the 1950s and 60s, shown in month-long seasons, many never released on DVD. It opened in 1998 for animation and is named after the flying island in Gulliver's Travels.
+Asagaya · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2015/09/laputa.html</description>
+    <Point>
+     <coordinates>139.635361,35.705544</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Gundam statue · ガンダム像</name>
+    <description>A bronze Gundam reaching for the sky, put up outside Kami-Igusa station in 2008 because Sunrise, the studio behind Mobile Suit Gundam, is nearby. The trains leave to the Gundam theme.
+Kami-Igusa · As of 2026-09-25
+Source: 上井草商店街 http://www.kami-igusa.com/area/animation</description>
+    <Point>
+     <coordinates>139.603745,35.725014</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Za-Kōenji · 座・高円寺</name>
+    <description>The ward's theatre, a tent-like building by Itō Toyō opened in 2009, with three halls, an archive of plays and a café with picture books.
+Kōenji · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2016/03/za-koenji.html</description>
+    <Point>
+     <coordinates>139.654068,35.705627</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>St Margaret's Chapel · 立教女学院 聖マーガレット礼拝堂</name>
+    <description>A Romanesque chapel from 1932 by J. V. W. Bergamini, architect of St Luke's Hospital, at Rikkyo Jogakuin. It's concrete but warm with North American oak inside. It stands on school grounds, so check when visitors can come.
+Kugayama · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2016/04/st-margarets-college-schools.html</description>
+    <Point>
+     <coordinates>139.590164,35.694756</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Seikō Lodging · 西郊ロッヂング</name>
+    <description>A boarding house that moved here from Hongō in 1931, with Western-style rooms that locked, rare at the time. The 1931 main building and 1938 annex are registered tangible cultural properties. It is now an inn and apartments, so admire it from the street.
+Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2016/11/seiko-lodging.html</description>
+    <Point>
+     <coordinates>139.625565,35.702972</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Gengi Sanbō (Suginami Poetry House) · 幻戯山房（すぎなみ詩歌館）</name>
+    <description>The 1955 house of Kadokawa Gen'yoshi, poet and founder of the Kadokawa publishing house. It was given to the ward and has been open to the public since 2009. His study shows things from his life, and every room looks onto the garden.
+Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2016/03/gengisanbo.html</description>
+    <Point>
+     <coordinates>139.624741,35.698811</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Katsura Bunko · かつら文庫</name>
+    <description>In 1958 the children's author Ishii Momoko opened part of her home as a small library for the neighborhood's children. It still runs as a branch of the Tokyo Children's Library, and adults are welcome too.
+Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2016/09/katsura-bunko.html</description>
+    <Point>
+     <coordinates>139.625153,35.702042</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Ōtaguro Park Memorial Hall · 大田黒公園記念館</name>
+    <description>The brick-colored studio that the music critic Ōtaguro Motoo built in 1933, now in the Japanese garden of Ōtaguro Park. His German piano and gramophone are still there.
+Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2016/03/otaguropark-kinenkan.html</description>
+    <Point>
+     <coordinates>139.624161,35.701576</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Tekigaisō · 荻外荘</name>
+    <description>The house of Konoe Fumimaro, three times prime minister, designed by Itō Chūta in 1927. It is a national historic site. The ward restored it over ten years and opened it as Tekigaisō Park in December 2024.
+Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2025/03/tekigaiso.html</description>
+    <Point>
+     <coordinates>139.622894,35.699215</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Tekigaisō Exhibition Building · 荻外荘展示棟</name>
+    <description>Kuma Kengo's exhibition building across the lane from Tekigaisō, opened in July 2025, with a café and shop downstairs and exhibitions upstairs.
+Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2025/09/tekigaiso-tenjito.html</description>
+    <Point>
+     <coordinates>139.622803,35.698929</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Suginami Animation Museum · 杉並アニメーションミュージアム</name>
+    <description>A free museum of Japanese animation on the third floor of Suginami Kaikan: its history, and how anime is made. Closed on Mondays.
+Ogikubo · As of 2026-09-25
+Source: 杉並アニメーションミュージアム https://sam.or.jp/</description>
+    <Point>
+     <coordinates>139.607574,35.710491</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Suginami Local History Museum · 杉並区立郷土博物館</name>
+    <description>The ward's history museum, opened in 1989 near the Zenpukuji River; you go in through a thatched gatehouse. The land belonged to the Saga family, and in 1937 their daughter Hiro left from here to marry Pujie, brother of the last emperor of China.
+Ōmiya / Matsunoki · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2018/02/suginami-historical-museum.html</description>
+    <Point>
+     <coordinates>139.644547,35.685661</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Takachiho Budōjō · 高千穂学園武道場</name>
+    <description>Built in 1913 as the judo and kendo hall of Takachiho College, it's the oldest wooden school building in the ward and a ward cultural property. The original 36 springs and 10 large jars are still under the floor.
+Ōmiya / Matsunoki · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2016/07/takachiho-budojo.html</description>
+    <Point>
+     <coordinates>139.638245,35.682804</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Misawa Bauhaus Collection · ミサワバウハウスコレクション</name>
+    <description>Japan's only museum of the Bauhaus, opened by Misawa Homes in 1996 at its research institute. It holds about 1,500 works and puts on free exhibitions, so check the dates before you go.
+Takaido / Fujimigaoka · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/12/misawa-bauhaus.html</description>
+    <Point>
+     <coordinates>139.614365,35.679562</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Risshō Kōsei-kai Great Sacred Hall · 立正佼成会 大聖堂</name>
+    <description>The great dome you see from Kan-nana, completed in 1964. It's open to everyone every day, and inside the dome stands a Buddha 6.8 metres tall.
+Wada · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/11/rissho-kosei-kai-cathedral.html</description>
+    <Point>
+     <coordinates>139.658859,35.687988</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Joshibi Galleria Nike · 女子美ガレリアニケ</name>
+    <description>The only art-university gallery in the ward, at Joshibi's Suginami campus, with about eight free exhibitions a year.
+Wada · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2022/12/galleria-nike.html</description>
+    <Point>
+     <coordinates>139.662079,35.693089</coordinates>
+    </Point>
+   </Placemark>
+  </Folder>
+  <Folder>
+   <name>Eat</name>
+   <Placemark>
+    <name>Harukiya Honten · 春木家本店</name>
+    <description>A soba house open since 1931, the root of Harukiya on Ōme Kaidō. Soba is the main business, but its chūka soba is counted among Tokyo's best too.
+Amanuma · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/harukiya-honten.html</description>
+    <Point>
+     <coordinates>139.624451,35.706722</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Chimoto Sōhonten Asagaya · ちもと総本店 阿佐谷</name>
+    <description>A sweets house founded in the Edo period in what is now Ginza and based in Karuizawa since the war. This shop, opened in 2016, is its only other one: kakigōri made from natural ice, and the light Chimoto mochi.
+Asagaya · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2019/07/timoto-souhonten.html</description>
+    <Point>
+     <coordinates>139.637344,35.700043</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Menya Yoichi · 麺や与一</name>
+    <description>A ramen shop by Hamadayama station since 2004, with light shio and miso ramen.
+Hamadayama · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/11/menya-yoichi.html</description>
+    <Point>
+     <coordinates>139.627151,35.683167</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Shimizuya · 清水屋</name>
+    <description>Founded in 1940 and known for the fried manjū sold to people visiting Myōhōji. Since 2015 it has also been a soba shop, where the third-generation owner makes the noodles by hand.
+Horinouchi / Umezato · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2016/07/shimizuya.html</description>
+    <Point>
+     <coordinates>139.652985,35.691807</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Eifukuchō Taishōken · 永福町大勝軒</name>
+    <description>Open since 1955 and famous for big bowls of soy ramen rich with niboshi (dried sardines), with two portions of homemade noodles.
+Izumi / Daitabashi side · As of 2026-09-25
+Source: 永福町大勝軒 https://eifuku-taishouken.com/</description>
+    <Point>
+     <coordinates>139.643951,35.67622</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Grill Marino · まちの洋食屋さん グリルマリノ</name>
+    <description>A family yōshoku restaurant since 1967: hamburg steak, Napolitan spaghetti, gratin and omurice.
+Izumi / Daitabashi side · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/g-marino.html</description>
+    <Point>
+     <coordinates>139.645706,35.67926</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Kiyoka · 沖縄料理本店 きよ香</name>
+    <description>Opened in 1961 by a woman from Ishigaki, when Tokyo had only a handful of Okinawan restaurants: the root of Kōenji's Okinawan food. Her son still cooks her home recipes.
+Kōenji · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2023/07/kiyoka.html</description>
+    <Point>
+     <coordinates>139.649078,35.705482</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Takaido Mābo Table · 高井戸 麻婆TABLE</name>
+    <description>A neighborhood Chinese restaurant opened in 2017 by a chef with more than twenty years' experience. Its mapo tofu balances the numbing heat of Sichuan pepper against chilli.
+Miyamae · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2019/12/maabo-table.html</description>
+    <Point>
+     <coordinates>139.616089,35.6894</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Kokeshiya · こけし屋</name>
+    <description>Opened by the station in 1949 as a coffee shop, then added Western cakes and French cooking; the painter Suzuki Shintarō designed its wrapping paper. It closed in 2022 to rebuild and reopened in May 2026.
+Nishi-Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/kokeshiya.html</description>
+    <Point>
+     <coordinates>139.600494,35.703484</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Amaikko · 甘味処 甘いっ子</name>
+    <description>A sweets parlor open since 1965, known for kakigōri with homemade strawberry and apricot syrups. A regular of more than twenty years took it over in 2000.
+Nishi-Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2015/05/amaikko.html</description>
+    <Point>
+     <coordinates>139.598969,35.701035</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Harukiya · 中華そば 春木屋</name>
+    <description>Open since 1949 and one of the places that made 'Ogikubo ramen' famous: clear soy-sauce chūka soba topped with a triangle of nori. Its motto is to keep changing so that the taste can stay the same.
+Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/harukiya.html</description>
+    <Point>
+     <coordinates>139.622437,35.705109</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Juhachiban · 手もみラーメン 十八番</name>
+    <description>A hand-kneaded ramen counter since 1966 that opens in the evening and stays open past midnight. The garlicky tokusei juhachiban comes in soy or miso.
+Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/juhachiban.html</description>
+    <Point>
+     <coordinates>139.622406,35.704838</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Honmura-an · 本むら庵</name>
+    <description>A soba house founded in 1924. Each day's buckwheat is ground in a stone mill, and the noodles are bound with well water.
+Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/honmuraan.html</description>
+    <Point>
+     <coordinates>139.611786,35.704506</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Eiryū · 栄龍</name>
+    <description>A neighborhood Chinese restaurant since 1969, serving old-style Tokyo ramen. The curry ramen is a favorite.
+Shimo-Takaido / Sakurajōsui side · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/12/eiryu.html</description>
+    <Point>
+     <coordinates>139.636536,35.667854</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Suginami Mangetsu · 手打そば・地酒 杉並まん月</name>
+    <description>Started around 1955 as a soba shop attached to a noodle works. Since 2000 it has served sake and small dishes, ending with soba made several times a day.
+Wada · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2026/06/sobamangetsu.html</description>
+    <Point>
+     <coordinates>139.657227,35.692963</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Tenshin Hanten · 天津飯店</name>
+    <description>A Chinese restaurant by Nakano-Fujimichō station since 1978, with homemade chilli oil, tantanmen and set meals that change every week.
+Wada · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/11/tenshinhanten.html</description>
+    <Point>
+     <coordinates>139.666275,35.691109</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Ramen Ten no Michi · らーめん 天の道</name>
+    <description>A ramen shop facing the great torii of Igusa Hachimangū, opened in 2005 by a Suginami local who trained at ten ramen shops. The name comes from Kamen Rider Kabuto.
+Zenpukuji · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2023/12/tennomichi.html</description>
+    <Point>
+     <coordinates>139.598358,35.715111</coordinates>
+    </Point>
+   </Placemark>
+  </Folder>
+  <Folder>
+   <name>Drink</name>
+   <Placemark>
+    <name>Violon · ヴィオロン</name>
+    <description>A classical music café opened in 1980, with one of the world's largest hand-cranked gramophones and handmade speakers.
+Asagaya · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/violon.html</description>
+    <Point>
+     <coordinates>139.632553,35.705189</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Berry's Tea Room · ベリーズティールーム</name>
+    <description>A British tea room open Friday to Sunday afternoons, up the stairs behind a pink door, known for crumpets, still rare in Japan.
+Hamadayama · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2023/06/berrystearoom.html</description>
+    <Point>
+     <coordinates>139.627213,35.682365</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Nanatsumori · 七つ森</name>
+    <description>A coffee house since 1978, made from the last unit of an old row of shops, keeping its beams and pillars and filled with antiques.
+Kōenji · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/nanatsumori.html</description>
+    <Point>
+     <coordinates>139.647415,35.700119</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>R-za Reading Room · アール座読書館</name>
+    <description>A café for reading, opened in 2008, where conversation is politely declined. Water trickles into aquariums, a wall clock chimes, and every seat is different.
+Kōenji · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2016/10/r-za-dokusho-kan.html</description>
+    <Point>
+     <coordinates>139.648422,35.704025</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Gensōen · 焼きたてパンと喫茶 源宗園</name>
+    <description>A tea shop run by a Shizuoka tea company near Momoi Harappa Park, now a bakery café with matcha soft-serve and a terrace where dogs are welcome.
+Momoi / Imagawa · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2024/07/gensouen.html</description>
+    <Point>
+     <coordinates>139.607208,35.715725</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Monozuki · 物豆奇</name>
+    <description>A coffee house opened around 1975 and filled with antiques the first owner gathered from all over Japan: wall clocks, oil lamps, pillars from old farmhouses. The second owner has kept it just as it was.
+Nishi-Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/monozuki.html</description>
+    <Point>
+     <coordinates>139.596985,35.705437</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Shōan Bunko · 松庵文庫</name>
+    <description>A book café in a house more than 90 years old, once home to a musician couple. Its windows look onto a garden and an azalea over a century old.
+Nishi-Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/tutuji-cafe.html</description>
+    <Point>
+     <coordinates>139.595505,35.701466</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Meikyoku Kissa Mignon · 名曲喫茶ミニヨン</name>
+    <description>A classical music café opened in 1961, south of the station since 1971. LPs play on a fine sound system, with concerts and exhibitions in the room behind.
+Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2015/09/mignon.html</description>
+    <Point>
+     <coordinates>139.622543,35.703632</coordinates>
+    </Point>
+   </Placemark>
+  </Folder>
+  <Folder>
+   <name>Shop</name>
+   <Placemark>
+    <name>Satō Korokke · さとうコロッケ店</name>
+    <description>Frying croquettes since 1948, when it sold them in the black market by the station. Regulars kept it going when the market closed. It's down a lane off Kyōkai-dōri, with a queue at lunchtime.
+Amanuma · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/satou-korokke.html</description>
+    <Point>
+     <coordinates>139.62027,35.706264</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Harunaya · 和菓子 榛名屋</name>
+    <description>A family wagashi shop on Kyōkai-dōri since 1977, named after Mount Haruna in the founder's Gunma. The mame daifuku is made from nothing but rice, beans, sugar and salt.
+Amanuma · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2016/02/harunaya.html</description>
+    <Point>
+     <coordinates>139.61972,35.707432</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>L'Abeille · はちみつ専門店ラベイユ</name>
+    <description>A honey shop that began on Kyōkai-dōri in 1969, with honeys from around the world to taste before you choose.
+Amanuma · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/honey-raveille.html</description>
+    <Point>
+     <coordinates>139.620102,35.706799</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Toraya Chinzan · とらや椿山</name>
+    <description>A wagashi shop on the Pearl Center arcade since 1925. Its big chestnut manjū, a whole candied chestnut in white bean paste, came out of a craftsmen's contest in the early 1960s.
+Asagaya · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/toraya-chinzan.html</description>
+    <Point>
+     <coordinates>139.637009,35.701286</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Kamajū · 蒲重蒲鉾店</name>
+    <description>A fish-cake maker since 1936. The family fries about thirty kinds of satsuma-age from five in the morning, and sells oden all year.
+Asagaya · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/kamaju-asagaya.html</description>
+    <Point>
+     <coordinates>139.636993,35.70369</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Eitarō · 御菓子司 栄太楼</name>
+    <description>A wagashi shop on the Pearl Center arcade since 1958, now in its third generation, known for kuri-shigure, steamed bean paste with chestnut.
+Asagaya · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2016/03/onkashitsukasa-eitaro.html</description>
+    <Point>
+     <coordinates>139.637131,35.699051</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Koshō Konkodō · 古書コンコ堂</name>
+    <description>A secondhand bookshop opened in 2011 by a former librarian, with wooden shelves and a counter he built with friends.
+Asagaya · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2019/06/konkodo.html</description>
+    <Point>
+     <coordinates>139.634796,35.707752</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Eifuku Aoyagi · 永福 青柳</name>
+    <description>A wagashi shop by Eifukuchō station since 1934, making fresh daifuku and dango from five each morning. Its baked sweet 'Eifuku' once won a Prime Minister's award.
+Eifuku / Nishi-Eifuku · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2017/09/eifukuaoyagi.html</description>
+    <Point>
+     <coordinates>139.64296,35.676727</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Bourbon · フランス菓子 ブルボン</name>
+    <description>A white-tiled neighborhood cake shop beside the tracks at Nishi-Eifuku since 1969, known for its orange cake.
+Eifuku / Nishi-Eifuku · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/bulebon.html</description>
+    <Point>
+     <coordinates>139.634659,35.678936</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Pâtisserie Voisin · パティスリー ヴォワザン</name>
+    <description>A French pâtisserie by a chef who worked at Jean-Paul Hévin and Joël Robuchon, opened in Ogikubo in 2009 and here since 2016. Its name means 'neighbor'.
+Hamadayama · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2023/04/voisin.html</description>
+    <Point>
+     <coordinates>139.627151,35.682484</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Gran Montagne · グランモンターニュ</name>
+    <description>A bakery and cake shop by Iogi station, opened in 2008 by a teacher of 21 years at a pastry school. Try the Iogi anpan, packed with Hokkaido red beans.
+Kami-Igusa · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/gran-montagne.html</description>
+    <Point>
+     <coordinates>139.614075,35.722286</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Toshi Yoroizuka Atelier · トシ・ヨロイヅカ アトリエ</name>
+    <description>The workshop of pâtissier Yoroizuka Toshihiko, the first Japanese head pastry chef at a three-star restaurant in Belgium. Most of the cakes for his shops are made here, and you can buy them fresh at the counter.
+Kami-Takaido / Hachimanyama side · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2025/01/toshiyoroizuka.html</description>
+    <Point>
+     <coordinates>139.615967,35.670132</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>PANSUKI · PANSUKI</name>
+    <description>A bakery for bread lovers, opened in 2023 north of Hachimanyama station: a pink building with the kitchen behind glass and more than fifty kinds of bread by 7:30 in the morning.
+Kami-Takaido / Hachimanyama side · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2026/09/pansuki.html</description>
+    <Point>
+     <coordinates>139.615997,35.671745</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Trianon · トリアノン洋菓子店 高円寺本店</name>
+    <description>A cake shop on the south-exit square since 1960, still making butter-cream cakes such as the mocha roll it has sold since it opened.
+Kōenji · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2017/04/trianon.html</description>
+    <Point>
+     <coordinates>139.649521,35.705074</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Ōishi Shoten · 大石書店</name>
+    <description>A secondhand bookshop opened in 1931, when Kōenji was still a village road with a few shops, and run by the same family ever since.
+Kōenji · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2017/05/oishi-shoten.html</description>
+    <Point>
+     <coordinates>139.648239,35.702873</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Kanekoen · 金子園</name>
+    <description>The head shop of a tea merchant, at the entrance to Kōenji Junjō shopping street. They will pour you a taste from the kettle.
+Kōenji · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/12/kanekoen.html</description>
+    <Point>
+     <coordinates>139.649643,35.706108</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Hirataya Tofu · 平田屋豆腐店</name>
+    <description>A tofu maker in its third generation, up at four each morning to make nigari tofu from Fukuyutaka soybeans, with side dishes and okara doughnuts.
+Kugayama · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/hirataya-tofu.html</description>
+    <Point>
+     <coordinates>139.599869,35.688366</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Kuppel · パン工房 クッペル</name>
+    <description>A bakery on Ōme Kaidō since 1977, where a self-taught baker and his wife sell cheap, hearty bread over the counter.
+Momoi / Imagawa · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/kuppel.html</description>
+    <Point>
+     <coordinates>139.609924,35.710751</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Kōmiya · 好味屋</name>
+    <description>A cake shop on Itsukaichi Kaidō that began about 70 years ago as a dried-goods store. The favorite is the Indian pudding, a steamed, liqueur-scented pudding topped with melon and cream.
+Narita · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/koumiya.html</description>
+    <Point>
+     <coordinates>139.639893,35.693363</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Miharadō · 三原堂</name>
+    <description>A wagashi shop opened in 1935 under a name shared by Miharadō of Yotsuya. Known for thin, crisp shio senbei with the rice grains left in.
+Nishi-Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/miharado.html</description>
+    <Point>
+     <coordinates>139.600586,35.704487</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Kidaya · 喜田屋</name>
+    <description>A wagashi shop opened in 1948, famous for mame daifuku packed with red peas under a thin skin. In winter they can sell out before noon.
+Nishi-Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/kidaya.html</description>
+    <Point>
+     <coordinates>139.60083,35.705513</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Seirindō Shobō · 盛林堂書房</name>
+    <description>A secondhand bookshop founded in 1949 and on this spot since the year after, strong in mysteries and literary fiction. Ibuse Masuji and Matsumoto Seichō were customers.
+Nishi-Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2019/03/seirindou-syobou.html</description>
+    <Point>
+     <coordinates>139.599808,35.702263</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Niwatori Bunko · にわとり文庫</name>
+    <description>A secondhand bookshop opened in 2005, a Year of the Rooster, hence the name 'Chicken Library'. Kokeshi dolls line the front, and old toys sit among the books.
+Nishi-Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2022/10/niwatoribunko.html</description>
+    <Point>
+     <coordinates>139.602173,35.703732</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Kameya · 御菓子司 亀屋</name>
+    <description>A wagashi shop that moved here from Yotsuya in 1930, after the Great Kantō Earthquake. Its best-known sweet is the café-au-lait daifuku: coffee-flavored bean paste and cream, sold frozen.
+Ogikubo · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/kameya.html</description>
+    <Point>
+     <coordinates>139.616364,35.707138</coordinates>
+    </Point>
+   </Placemark>
+   <Placemark>
+    <name>Koganedō · こがね堂</name>
+    <description>Rice crackers made by hand, from pounding the mochi onwards, in front of Takaido station since 1947. The hina-arare for the Dolls' Festival sell out every year.
+Takaido / Fujimigaoka · As of 2026-09-25
+Source: すぎなみ学倶楽部 https://www.suginamigaku.org/2014/10/koganedo.html</description>
+    <Point>
+     <coordinates>139.615311,35.682919</coordinates>
+    </Point>
+   </Placemark>
+  </Folder>
  </Document>
 </kml>

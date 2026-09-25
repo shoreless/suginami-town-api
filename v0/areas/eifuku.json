@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -264,6 +264,48 @@
     "kami": [
      "ukanomitama"
     ]
+   },
+   {
+    "id": "eifuku-aoyagi",
+    "category": "shop",
+    "name": {
+     "en": "Eifuku Aoyagi",
+     "ja": "永福 青柳"
+    },
+    "about": {
+     "en": "A wagashi shop by Eifukuchō station since 1934, making fresh daifuku and dango from five each morning. Its baked sweet 'Eifuku' once won a Prime Minister's award.",
+     "ja": "1934年創業、永福町駅前の和菓子店。毎朝5時過ぎから大福やだんごを作る。焼き菓子「永福」は内閣総理大臣賞を受けたことがある。"
+    },
+    "location": [
+     35.676727,
+     139.64296
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2017/09/eifukuaoyagi.html"
+    }
+   },
+   {
+    "id": "bourbon",
+    "category": "shop",
+    "name": {
+     "en": "Bourbon",
+     "ja": "フランス菓子 ブルボン"
+    },
+    "about": {
+     "en": "A white-tiled neighborhood cake shop beside the tracks at Nishi-Eifuku since 1969, known for its orange cake.",
+     "ja": "1969年開店、西永福駅の線路脇に建つ白いタイルの洋菓子店。オレンジケーキが名物。"
+    },
+    "location": [
+     35.678936,
+     139.634659
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/bulebon.html"
+    }
    }
   ],
   "happenings": [],

@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -240,7 +240,71 @@
     }
    }
   ],
-  "spots": [],
+  "spots": [
+   {
+    "id": "berrys-tea-room",
+    "category": "drink",
+    "name": {
+     "en": "Berry's Tea Room",
+     "ja": "ベリーズティールーム"
+    },
+    "about": {
+     "en": "A British tea room open Friday to Sunday afternoons, up the stairs behind a pink door, known for crumpets, still rare in Japan.",
+     "ja": "金・土・日の午後だけ開く英国式の紅茶と菓子の店。ピンクの扉の2階にあり、日本ではまだ珍しいクランペットが看板。"
+    },
+    "location": [
+     35.682365,
+     139.627213
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2023/06/berrystearoom.html"
+    }
+   },
+   {
+    "id": "voisin",
+    "category": "shop",
+    "name": {
+     "en": "Pâtisserie Voisin",
+     "ja": "パティスリー ヴォワザン"
+    },
+    "about": {
+     "en": "A French pâtisserie by a chef who worked at Jean-Paul Hévin and Joël Robuchon, opened in Ogikubo in 2009 and here since 2016. Its name means 'neighbor'.",
+     "ja": "ジャン＝ポール・エヴァンやジョエル・ロブションで経験を積んだ店主のフランス菓子店。2009年に荻窪で開き、2016年に浜田山へ移った。店名は「お隣さん」の意味。"
+    },
+    "location": [
+     35.682484,
+     139.627151
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2023/04/voisin.html"
+    }
+   },
+   {
+    "id": "menya-yoichi",
+    "category": "eat",
+    "name": {
+     "en": "Menya Yoichi",
+     "ja": "麺や与一"
+    },
+    "about": {
+     "en": "A ramen shop by Hamadayama station since 2004, with light shio and miso ramen.",
+     "ja": "2004年開業、浜田山駅近くのラーメン店。あっさりした塩や味噌のラーメン。"
+    },
+    "location": [
+     35.683167,
+     139.627151
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/11/menya-yoichi.html"
+    }
+   }
+  ],
   "happenings": [],
   "intro": {
    "en": "Green and leisurely: the meadow and pond of Kashinomiya Park.",

@@ -1,7 +1,7 @@
 {
  "type": "FeatureCollection",
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "attribution": {
   "towns": "「令和2年国勢調査町丁・字等別境界データ」（総務省統計局）を加工して作成 / 出典：政府統計の総合窓口(e-Stat) https://www.e-stat.go.jp/",
   "trash": {
@@ -135,6 +135,146 @@
     "coordinates": [
      139.62485,
      35.712604
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "amanuma",
+    "id": "museum-annex",
+    "category": "culture",
+    "name": {
+     "en": "Suginami Local History Museum Annex",
+     "ja": "杉並区立郷土博物館分館"
+    },
+    "about": {
+     "en": "The free annex of the ward's history museum, opened in 2007 in Amanuma Benten-ike Park, in buildings a golf company once used.",
+     "ja": "2007年開館、区立天沼弁天池公園の中にある郷土博物館の分館で、入館無料。建物はかつてゴルフ会社が使っていたものを改修した。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2018/07/kyoudo-hakubutukan.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.621887,
+     35.70821
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "amanuma",
+    "id": "harukiya-honten",
+    "category": "eat",
+    "name": {
+     "en": "Harukiya Honten",
+     "ja": "春木家本店"
+    },
+    "about": {
+     "en": "A soba house open since 1931, the root of Harukiya on Ōme Kaidō. Soba is the main business, but its chūka soba is counted among Tokyo's best too.",
+     "ja": "1931年開業のそば店で、青梅街道の春木屋のルーツ。本業は日本そばだが、中華そばも東京屈指と評される。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/harukiya-honten.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624451,
+     35.706722
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "amanuma",
+    "id": "satou-korokke",
+    "category": "shop",
+    "name": {
+     "en": "Satō Korokke",
+     "ja": "さとうコロッケ店"
+    },
+    "about": {
+     "en": "Frying croquettes since 1948, when it sold them in the black market by the station. Regulars kept it going when the market closed. It's down a lane off Kyōkai-dōri, with a queue at lunchtime.",
+     "ja": "1948年創業。闇市時代から駅前でコロッケを揚げていた店で、闇市がなくなっても常連の声で続いた。教会通りの路地の奥にあり、昼は行列ができる。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/satou-korokke.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.62027,
+     35.706264
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "amanuma",
+    "id": "harunaya",
+    "category": "shop",
+    "name": {
+     "en": "Harunaya",
+     "ja": "和菓子 榛名屋"
+    },
+    "about": {
+     "en": "A family wagashi shop on Kyōkai-dōri since 1977, named after Mount Haruna in the founder's Gunma. The mame daifuku is made from nothing but rice, beans, sugar and salt.",
+     "ja": "1977年から教会通りで営む家族の和菓子店。店名は創業者の故郷・群馬の榛名山から。豆大福は米、小豆、砂糖、塩だけで作る。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/02/harunaya.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.61972,
+     35.707432
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "amanuma",
+    "id": "labeille",
+    "category": "shop",
+    "name": {
+     "en": "L'Abeille",
+     "ja": "はちみつ専門店ラベイユ"
+    },
+    "about": {
+     "en": "A honey shop that began on Kyōkai-dōri in 1969, with honeys from around the world to taste before you choose.",
+     "ja": "1969年に教会通りで始まったはちみつ専門店。世界各地のはちみつを試食して選べる。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/honey-raveille.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.620102,
+     35.706799
     ]
    }
   },
@@ -280,6 +420,202 @@
   {
    "type": "Feature",
    "properties": {
+    "area": "asagaya",
+    "id": "laputa",
+    "category": "culture",
+    "name": {
+     "en": "Laputa Asagaya",
+     "ja": "ラピュタ阿佐ヶ谷"
+    },
+    "about": {
+     "en": "A small cinema for Japanese films, mostly from the 1950s and 60s, shown in month-long seasons, many never released on DVD. It opened in 1998 for animation and is named after the flying island in Gulliver's Travels.",
+     "ja": "1950〜60年代を中心とした日本映画のミニシアター。テーマごとに約1か月の特集を組み、DVD化されていない作品も多い。1998年にアニメ専門館として開館し、館名は『ガリバー旅行記』の飛ぶ島から。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2015/09/laputa.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.635361,
+     35.705544
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "asagaya",
+    "id": "violon",
+    "category": "drink",
+    "name": {
+     "en": "Violon",
+     "ja": "ヴィオロン"
+    },
+    "about": {
+     "en": "A classical music café opened in 1980, with one of the world's largest hand-cranked gramophones and handmade speakers.",
+     "ja": "1980年開業の名曲喫茶。世界最大級の手回し蓄音器と手作りのスピーカーで、レコードを聴かせる。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/violon.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.632553,
+     35.705189
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "asagaya",
+    "id": "toraya-chinzan",
+    "category": "shop",
+    "name": {
+     "en": "Toraya Chinzan",
+     "ja": "とらや椿山"
+    },
+    "about": {
+     "en": "A wagashi shop on the Pearl Center arcade since 1925. Its big chestnut manjū, a whole candied chestnut in white bean paste, came out of a craftsmen's contest in the early 1960s.",
+     "ja": "1925年創業、パールセンターの和菓子店。蜜漬けの大粒栗を丸ごと白餡で包んだ名物「大栗まん」は、昭和30年代後半に職人のコンクールから生まれた。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/toraya-chinzan.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637009,
+     35.701286
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "asagaya",
+    "id": "kamaju",
+    "category": "shop",
+    "name": {
+     "en": "Kamajū",
+     "ja": "蒲重蒲鉾店"
+    },
+    "about": {
+     "en": "A fish-cake maker since 1936. The family fries about thirty kinds of satsuma-age from five in the morning, and sells oden all year.",
+     "ja": "1936年創業のかまぼこ店。朝5時から約30種類のさつま揚げを揚げたてで並べ、おでんは一年中。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/kamaju-asagaya.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636993,
+     35.70369
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "asagaya",
+    "id": "eitaro-asagaya",
+    "category": "shop",
+    "name": {
+     "en": "Eitarō",
+     "ja": "御菓子司 栄太楼"
+    },
+    "about": {
+     "en": "A wagashi shop on the Pearl Center arcade since 1958, now in its third generation, known for kuri-shigure, steamed bean paste with chestnut.",
+     "ja": "1958年、阿佐谷パールセンターに開いた和菓子店で、現在は三代目。餡を蒸かしてふっくら仕上げた栗しぐれで知られる。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/03/onkashitsukasa-eitaro.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637131,
+     35.699051
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "asagaya",
+    "id": "chimoto-asagaya",
+    "category": "eat",
+    "name": {
+     "en": "Chimoto Sōhonten Asagaya",
+     "ja": "ちもと総本店 阿佐谷"
+    },
+    "about": {
+     "en": "A sweets house founded in the Edo period in what is now Ginza and based in Karuizawa since the war. This shop, opened in 2016, is its only other one: kakigōri made from natural ice, and the light Chimoto mochi.",
+     "ja": "江戸時代に今の銀座界隈で創業し、戦後軽井沢に移った和菓子の老舗。2016年に開いた阿佐谷店は直営の二店目。天然氷のかき氷と、江戸時代から続く「ちもと餅」。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2019/07/timoto-souhonten.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.637344,
+     35.700043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "asagaya",
+    "id": "konkodo",
+    "category": "shop",
+    "name": {
+     "en": "Koshō Konkodō",
+     "ja": "古書コンコ堂"
+    },
+    "about": {
+     "en": "A secondhand bookshop opened in 2011 by a former librarian, with wooden shelves and a counter he built with friends.",
+     "ja": "元図書館司書の店主が2011年に開いた古書店。木の本棚やカウンターは友人と手作りした。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2019/06/konkodo.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634796,
+     35.707752
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "area": "eifuku",
     "id": "eifuku-inari",
     "category": "shrine",
@@ -311,6 +647,174 @@
     "coordinates": [
      139.64325,
      35.672444
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "eifuku",
+    "id": "eifuku-aoyagi",
+    "category": "shop",
+    "name": {
+     "en": "Eifuku Aoyagi",
+     "ja": "永福 青柳"
+    },
+    "about": {
+     "en": "A wagashi shop by Eifukuchō station since 1934, making fresh daifuku and dango from five each morning. Its baked sweet 'Eifuku' once won a Prime Minister's award.",
+     "ja": "1934年創業、永福町駅前の和菓子店。毎朝5時過ぎから大福やだんごを作る。焼き菓子「永福」は内閣総理大臣賞を受けたことがある。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2017/09/eifukuaoyagi.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.64296,
+     35.676727
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "eifuku",
+    "id": "bourbon",
+    "category": "shop",
+    "name": {
+     "en": "Bourbon",
+     "ja": "フランス菓子 ブルボン"
+    },
+    "about": {
+     "en": "A white-tiled neighborhood cake shop beside the tracks at Nishi-Eifuku since 1969, known for its orange cake.",
+     "ja": "1969年開店、西永福駅の線路脇に建つ白いタイルの洋菓子店。オレンジケーキが名物。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/bulebon.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.634659,
+     35.678936
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "hamadayama",
+    "id": "berrys-tea-room",
+    "category": "drink",
+    "name": {
+     "en": "Berry's Tea Room",
+     "ja": "ベリーズティールーム"
+    },
+    "about": {
+     "en": "A British tea room open Friday to Sunday afternoons, up the stairs behind a pink door, known for crumpets, still rare in Japan.",
+     "ja": "金・土・日の午後だけ開く英国式の紅茶と菓子の店。ピンクの扉の2階にあり、日本ではまだ珍しいクランペットが看板。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2023/06/berrystearoom.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627213,
+     35.682365
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "hamadayama",
+    "id": "voisin",
+    "category": "shop",
+    "name": {
+     "en": "Pâtisserie Voisin",
+     "ja": "パティスリー ヴォワザン"
+    },
+    "about": {
+     "en": "A French pâtisserie by a chef who worked at Jean-Paul Hévin and Joël Robuchon, opened in Ogikubo in 2009 and here since 2016. Its name means 'neighbor'.",
+     "ja": "ジャン＝ポール・エヴァンやジョエル・ロブションで経験を積んだ店主のフランス菓子店。2009年に荻窪で開き、2016年に浜田山へ移った。店名は「お隣さん」の意味。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2023/04/voisin.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627151,
+     35.682484
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "hamadayama",
+    "id": "menya-yoichi",
+    "category": "eat",
+    "name": {
+     "en": "Menya Yoichi",
+     "ja": "麺や与一"
+    },
+    "about": {
+     "en": "A ramen shop by Hamadayama station since 2004, with light shio and miso ramen.",
+     "ja": "2004年開業、浜田山駅近くのラーメン店。あっさりした塩や味噌のラーメン。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/11/menya-yoichi.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.627151,
+     35.683167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "honan",
+    "id": "kamadera",
+    "category": "temple",
+    "name": {
+     "en": "Kamadera (Tōunji)",
+     "ja": "釜寺（東運寺）"
+    },
+    "about": {
+     "en": "A Jōdo temple said to date from 1573, with an iron rice cauldron on its roof. The story comes from the legend of Anju and Zushiō: when Zushiō was about to be boiled in a cauldron, the Jizō he carried took his place.",
+     "ja": "天正元年（1573年）の創建と伝わる浄土宗の寺。本堂の屋根に羽釜がのり、「釜寺」と呼ばれる。釜ゆでにされかけた厨子王の身代わりに、守り本尊の地蔵がなったという安寿と厨子王の伝説に由来する。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/post-188.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657776,
+     35.680794
     ]
    }
   },
@@ -362,6 +866,34 @@
     "coordinates": [
      139.652111,
      35.686333
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "horinouchi-umezato",
+    "id": "shimizuya",
+    "category": "eat",
+    "name": {
+     "en": "Shimizuya",
+     "ja": "清水屋"
+    },
+    "about": {
+     "en": "Founded in 1940 and known for the fried manjū sold to people visiting Myōhōji. Since 2015 it has also been a soba shop, where the third-generation owner makes the noodles by hand.",
+     "ja": "1940年創業、妙法寺名物「揚げまんじゅう」で知られる店。2015年からは三代目が手打ちする蕎麦屋になり、揚げまんじゅうも今も売っている。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/07/shimizuya.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.652985,
+     35.691807
     ]
    }
   },
@@ -506,6 +1038,174 @@
     "coordinates": [
      139.64859,
      35.677849
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "izumi",
+    "id": "eifukucho-taishoken",
+    "category": "eat",
+    "name": {
+     "en": "Eifukuchō Taishōken",
+     "ja": "永福町大勝軒"
+    },
+    "about": {
+     "en": "Open since 1955 and famous for big bowls of soy ramen rich with niboshi (dried sardines), with two portions of homemade noodles.",
+     "ja": "1955年開業。煮干しの効いた醤油ラーメンを、自家製麺2玉の大きな丼で出す名店。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "永福町大勝軒",
+     "url": "https://eifuku-taishouken.com/"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.643951,
+     35.67622
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "izumi",
+    "id": "grill-marino",
+    "category": "eat",
+    "name": {
+     "en": "Grill Marino",
+     "ja": "まちの洋食屋さん グリルマリノ"
+    },
+    "about": {
+     "en": "A family yōshoku restaurant since 1967: hamburg steak, Napolitan spaghetti, gratin and omurice.",
+     "ja": "1967年創業の町の洋食屋。ハンバーグ、ナポリタン、グラタン、オムライス。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/g-marino.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.645706,
+     35.67926
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "kami-igusa",
+    "id": "gundam-statue",
+    "category": "culture",
+    "name": {
+     "en": "Gundam statue",
+     "ja": "ガンダム像"
+    },
+    "about": {
+     "en": "A bronze Gundam reaching for the sky, put up outside Kami-Igusa station in 2008 because Sunrise, the studio behind Mobile Suit Gundam, is nearby. The trains leave to the Gundam theme.",
+     "ja": "2008年、上井草駅南口に設置された、空へ手を伸ばすガンダムのブロンズ像。『機動戦士ガンダム』のサンライズが近くにあることから実現した。発車メロディもガンダムの主題歌。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "上井草商店街",
+     "url": "http://www.kami-igusa.com/area/animation"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.603745,
+     35.725014
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "kami-igusa",
+    "id": "gran-montagne",
+    "category": "shop",
+    "name": {
+     "en": "Gran Montagne",
+     "ja": "グランモンターニュ"
+    },
+    "about": {
+     "en": "A bakery and cake shop by Iogi station, opened in 2008 by a teacher of 21 years at a pastry school. Try the Iogi anpan, packed with Hokkaido red beans.",
+     "ja": "井荻駅南口で2008年から営むパンと焼き菓子の店。製菓学校で21年間教えた店主の店で、北海道産の粒あんがぎっしりの「井荻あんぱん」が名物。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/gran-montagne.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614075,
+     35.722286
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "kami-takaido",
+    "id": "toshi-yoroizuka",
+    "category": "shop",
+    "name": {
+     "en": "Toshi Yoroizuka Atelier",
+     "ja": "トシ・ヨロイヅカ アトリエ"
+    },
+    "about": {
+     "en": "The workshop of pâtissier Yoroizuka Toshihiko, the first Japanese head pastry chef at a three-star restaurant in Belgium. Most of the cakes for his shops are made here, and you can buy them fresh at the counter.",
+     "ja": "ベルギーの三つ星レストランで日本人初のシェフパティシエを務めた鎧塚俊彦の工房。各店の菓子の多くをここで作り、店頭ではできたてを買える。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2025/01/toshiyoroizuka.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615967,
+     35.670132
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "kami-takaido",
+    "id": "pansuki",
+    "category": "shop",
+    "name": {
+     "en": "PANSUKI",
+     "ja": "PANSUKI"
+    },
+    "about": {
+     "en": "A bakery for bread lovers, opened in 2023 north of Hachimanyama station: a pink building with the kitchen behind glass and more than fifty kinds of bread by 7:30 in the morning.",
+     "ja": "2023年、八幡山駅の北に開いたベーカリー。ピンクの外壁で、ガラス越しに厨房が見え、朝7時半には50種類以上のパンが並ぶ。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2026/09/pansuki.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615997,
+     35.671745
     ]
    }
   },
@@ -660,6 +1360,202 @@
   {
    "type": "Feature",
    "properties": {
+    "area": "koenji",
+    "id": "za-koenji",
+    "category": "culture",
+    "name": {
+     "en": "Za-Kōenji",
+     "ja": "座・高円寺"
+    },
+    "about": {
+     "en": "The ward's theatre, a tent-like building by Itō Toyō opened in 2009, with three halls, an archive of plays and a café with picture books.",
+     "ja": "伊東豊雄の設計で2009年に開館した、テントのような形の区立劇場。3つのホールと戯曲のアーカイブ、絵本とおいしいもののカフェがある。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/03/za-koenji.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.654068,
+     35.705627
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "koenji",
+    "id": "nanatsumori",
+    "category": "drink",
+    "name": {
+     "en": "Nanatsumori",
+     "ja": "七つ森"
+    },
+    "about": {
+     "en": "A coffee house since 1978, made from the last unit of an old row of shops, keeping its beams and pillars and filled with antiques.",
+     "ja": "1978年開業の喫茶店。長屋の商店の一棟を、梁や柱を生かして改装し、アンティークの調度で飾った。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/nanatsumori.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.647415,
+     35.700119
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "koenji",
+    "id": "trianon",
+    "category": "shop",
+    "name": {
+     "en": "Trianon",
+     "ja": "トリアノン洋菓子店 高円寺本店"
+    },
+    "about": {
+     "en": "A cake shop on the south-exit square since 1960, still making butter-cream cakes such as the mocha roll it has sold since it opened.",
+     "ja": "1960年創業、高円寺駅南口ロータリーに面した洋菓子店。創業時から売る「モカロール」など、バタークリームのケーキを今も作る。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2017/04/trianon.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649521,
+     35.705074
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "koenji",
+    "id": "oishi-shoten",
+    "category": "shop",
+    "name": {
+     "en": "Ōishi Shoten",
+     "ja": "大石書店"
+    },
+    "about": {
+     "en": "A secondhand bookshop opened in 1931, when Kōenji was still a village road with a few shops, and run by the same family ever since.",
+     "ja": "1931年、まだ店がまばらだった高円寺に開いた古書店。以来、家族で営業を続けている。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2017/05/oishi-shoten.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648239,
+     35.702873
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "koenji",
+    "id": "kiyoka",
+    "category": "eat",
+    "name": {
+     "en": "Kiyoka",
+     "ja": "沖縄料理本店 きよ香"
+    },
+    "about": {
+     "en": "Opened in 1961 by a woman from Ishigaki, when Tokyo had only a handful of Okinawan restaurants: the root of Kōenji's Okinawan food. Her son still cooks her home recipes.",
+     "ja": "1961年、石垣島出身の女性が開いた沖縄料理店。都内にまだ数店しかなかった頃で、高円寺の沖縄料理のルーツ。今は息子が母の味を守る。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2023/07/kiyoka.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649078,
+     35.705482
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "koenji",
+    "id": "kanekoen",
+    "category": "shop",
+    "name": {
+     "en": "Kanekoen",
+     "ja": "金子園"
+    },
+    "about": {
+     "en": "The head shop of a tea merchant, at the entrance to Kōenji Junjō shopping street. They will pour you a taste from the kettle.",
+     "ja": "高円寺純情商店街の入口にある日本茶の老舗の本店。茶釜から湯を入れて試飲させてくれる。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/12/kanekoen.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.649643,
+     35.706108
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "koenji",
+    "id": "r-za",
+    "category": "drink",
+    "name": {
+     "en": "R-za Reading Room",
+     "ja": "アール座読書館"
+    },
+    "about": {
+     "en": "A café for reading, opened in 2008, where conversation is politely declined. Water trickles into aquariums, a wall clock chimes, and every seat is different.",
+     "ja": "2008年開業、会話をお断りしている読書のための喫茶店。水槽に落ちる水の音と柱時計の音が響き、席はどれも作りが違う。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/10/r-za-dokusho-kan.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.648422,
+     35.704025
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "area": "kugayama",
     "id": "kugayama-inari",
     "category": "shrine",
@@ -691,6 +1587,62 @@
     "coordinates": [
      139.59653,
      35.68847
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "kugayama",
+    "id": "st-margaret-chapel",
+    "category": "culture",
+    "name": {
+     "en": "St Margaret's Chapel",
+     "ja": "立教女学院 聖マーガレット礼拝堂"
+    },
+    "about": {
+     "en": "A Romanesque chapel from 1932 by J. V. W. Bergamini, architect of St Luke's Hospital, at Rikkyo Jogakuin. It's concrete but warm with North American oak inside. It stands on school grounds, so check when visitors can come.",
+     "ja": "聖路加国際病院を手がけたJ.V.W.バーガミニの設計で、1932年に建てられたロマネスク様式の礼拝堂。鉄筋コンクリート造りだが、内部は北米産のオーク材で温かい。学校の敷地内なので、見学できる日を確かめて。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/04/st-margarets-college-schools.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.590164,
+     35.694756
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "kugayama",
+    "id": "hirataya-tofu",
+    "category": "shop",
+    "name": {
+     "en": "Hirataya Tofu",
+     "ja": "平田屋豆腐店"
+    },
+    "about": {
+     "en": "A tofu maker in its third generation, up at four each morning to make nigari tofu from Fukuyutaka soybeans, with side dishes and okara doughnuts.",
+     "ja": "三代続く豆腐店。毎朝4時から国産大豆フクユタカでにがり豆腐を作り、惣菜やおからドーナツも並ぶ。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/hirataya-tofu.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599869,
+     35.688366
     ]
    }
   },
@@ -749,6 +1701,90 @@
     "coordinates": [
      139.60936,
      35.69283
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "miyamae",
+    "id": "mabo-table",
+    "category": "eat",
+    "name": {
+     "en": "Takaido Mābo Table",
+     "ja": "高井戸 麻婆TABLE"
+    },
+    "about": {
+     "en": "A neighborhood Chinese restaurant opened in 2017 by a chef with more than twenty years' experience. Its mapo tofu balances the numbing heat of Sichuan pepper against chilli.",
+     "ja": "中華の料理人として20年以上の経験を持つ店主が2017年に開いた町の中華。花椒のしびれと唐辛子の辛さの釣り合いを追求した麻婆豆腐が看板。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2019/12/maabo-table.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616089,
+     35.6894
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "momoi-imagawa",
+    "id": "kuppel",
+    "category": "shop",
+    "name": {
+     "en": "Kuppel",
+     "ja": "パン工房 クッペル"
+    },
+    "about": {
+     "en": "A bakery on Ōme Kaidō since 1977, where a self-taught baker and his wife sell cheap, hearty bread over the counter.",
+     "ja": "1977年創業、青梅街道沿いのパン屋。独学でパンを学んだ店主が夫婦で、手頃な値段のパンを対面で売る。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/kuppel.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.609924,
+     35.710751
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "momoi-imagawa",
+    "id": "gensouen",
+    "category": "drink",
+    "name": {
+     "en": "Gensōen",
+     "ja": "焼きたてパンと喫茶 源宗園"
+    },
+    "about": {
+     "en": "A tea shop run by a Shizuoka tea company near Momoi Harappa Park, now a bakery café with matcha soft-serve and a terrace where dogs are welcome.",
+     "ja": "静岡の製茶会社が営む、桃井原っぱ公園近くの日本茶の店。今はパンと抹茶ソフトクリームのベーカリーカフェで、犬と座れるテラス席もある。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2024/07/gensouen.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607208,
+     35.715725
     ]
    }
   },
@@ -880,6 +1916,34 @@
   {
    "type": "Feature",
    "properties": {
+    "area": "narita",
+    "id": "koumiya",
+    "category": "shop",
+    "name": {
+     "en": "Kōmiya",
+     "ja": "好味屋"
+    },
+    "about": {
+     "en": "A cake shop on Itsukaichi Kaidō that began about 70 years ago as a dried-goods store. The favorite is the Indian pudding, a steamed, liqueur-scented pudding topped with melon and cream.",
+     "ja": "五日市街道沿いの洋菓子店。約70年前の乾物屋から始まり、戦後に洋菓子店へ転じた。一番人気は洋酒が香る「インディアンプリン」。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/koumiya.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.639893,
+     35.693363
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "area": "nishi-ogikubo",
     "id": "shoan-inari",
     "category": "shrine",
@@ -939,6 +2003,230 @@
     "coordinates": [
      139.598915,
      35.704259
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "nishi-ogikubo",
+    "id": "monozuki",
+    "category": "drink",
+    "name": {
+     "en": "Monozuki",
+     "ja": "物豆奇"
+    },
+    "about": {
+     "en": "A coffee house opened around 1975 and filled with antiques the first owner gathered from all over Japan: wall clocks, oil lamps, pillars from old farmhouses. The second owner has kept it just as it was.",
+     "ja": "1975年ごろ開店の喫茶店。初代が全国から集めた古時計や石油ランプ、古民家の柱が店を飾り、二代目はそのままの姿を守っている。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/monozuki.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.596985,
+     35.705437
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "nishi-ogikubo",
+    "id": "kokeshiya",
+    "category": "eat",
+    "name": {
+     "en": "Kokeshiya",
+     "ja": "こけし屋"
+    },
+    "about": {
+     "en": "Opened by the station in 1949 as a coffee shop, then added Western cakes and French cooking; the painter Suzuki Shintarō designed its wrapping paper. It closed in 2022 to rebuild and reopened in May 2026.",
+     "ja": "1949年に駅前で喫茶店として開店し、洋菓子、そしてフランス料理へと広げてきた。包装紙は画家・鈴木信太郎のデザイン。建て替えのため2022年に休業し、2026年5月に再開した。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/kokeshiya.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.600494,
+     35.703484
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "nishi-ogikubo",
+    "id": "miharado",
+    "category": "shop",
+    "name": {
+     "en": "Miharadō",
+     "ja": "三原堂"
+    },
+    "about": {
+     "en": "A wagashi shop opened in 1935 under a name shared by Miharadō of Yotsuya. Known for thin, crisp shio senbei with the rice grains left in.",
+     "ja": "1935年、四谷三原堂からのれん分けで開店した和菓子店。米粒を残して薄く焼いたパリパリの「塩せんべい」が名物。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/miharado.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.600586,
+     35.704487
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "nishi-ogikubo",
+    "id": "kidaya",
+    "category": "shop",
+    "name": {
+     "en": "Kidaya",
+     "ja": "喜田屋"
+    },
+    "about": {
+     "en": "A wagashi shop opened in 1948, famous for mame daifuku packed with red peas under a thin skin. In winter they can sell out before noon.",
+     "ja": "1948年創業の和菓子店。薄い皮に豆がぎっしりの豆大福が有名で、冬は昼前に売り切れることも。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/kidaya.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.60083,
+     35.705513
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "nishi-ogikubo",
+    "id": "amaikko",
+    "category": "eat",
+    "name": {
+     "en": "Amaikko",
+     "ja": "甘味処 甘いっ子"
+    },
+    "about": {
+     "en": "A sweets parlor open since 1965, known for kakigōri with homemade strawberry and apricot syrups. A regular of more than twenty years took it over in 2000.",
+     "ja": "1965年開店の甘味処。自家製のいちごや杏のシロップをかけるかき氷が名物。20年以上通った常連が2000年に店を継いだ。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2015/05/amaikko.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.598969,
+     35.701035
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "nishi-ogikubo",
+    "id": "seirindo",
+    "category": "shop",
+    "name": {
+     "en": "Seirindō Shobō",
+     "ja": "盛林堂書房"
+    },
+    "about": {
+     "en": "A secondhand bookshop founded in 1949 and on this spot since the year after, strong in mysteries and literary fiction. Ibuse Masuji and Matsumoto Seichō were customers.",
+     "ja": "1949年創業、翌年からこの場所で営業する古書店。ミステリーと純文学が充実し、井伏鱒二や松本清張も訪れた。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2019/03/seirindou-syobou.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.599808,
+     35.702263
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "nishi-ogikubo",
+    "id": "niwatori-bunko",
+    "category": "shop",
+    "name": {
+     "en": "Niwatori Bunko",
+     "ja": "にわとり文庫"
+    },
+    "about": {
+     "en": "A secondhand bookshop opened in 2005, a Year of the Rooster, hence the name 'Chicken Library'. Kokeshi dolls line the front, and old toys sit among the books.",
+     "ja": "酉年の2005年に開いた古書店で、店名は干支にちなむ。店頭にこけしが並び、店内には古書に交じって昔のおもちゃも。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2022/10/niwatoribunko.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.602173,
+     35.703732
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "nishi-ogikubo",
+    "id": "shoan-bunko",
+    "category": "drink",
+    "name": {
+     "en": "Shōan Bunko",
+     "ja": "松庵文庫"
+    },
+    "about": {
+     "en": "A book café in a house more than 90 years old, once home to a musician couple. Its windows look onto a garden and an azalea over a century old.",
+     "ja": "音楽家夫妻が暮らした築90年を超える一軒家をいかしたブックカフェ。庭の樹齢100年を超えるツツジを眺めながら過ごせる。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/tutuji-cafe.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.595505,
+     35.701466
     ]
    }
   },
@@ -1100,6 +2388,342 @@
   {
    "type": "Feature",
    "properties": {
+    "area": "ogikubo",
+    "id": "harukiya",
+    "category": "eat",
+    "name": {
+     "en": "Harukiya",
+     "ja": "中華そば 春木屋"
+    },
+    "about": {
+     "en": "Open since 1949 and one of the places that made 'Ogikubo ramen' famous: clear soy-sauce chūka soba topped with a triangle of nori. Its motto is to keep changing so that the taste can stay the same.",
+     "ja": "1949年創業。「荻窪ラーメン」の名を広めた一軒で、澄んだ醤油の中華そばに三角の海苔がのる。「変わらぬ美味しさの為に変わり続ける」がモットー。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/harukiya.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622437,
+     35.705109
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "ogikubo",
+    "id": "juhachiban",
+    "category": "eat",
+    "name": {
+     "en": "Juhachiban",
+     "ja": "手もみラーメン 十八番"
+    },
+    "about": {
+     "en": "A hand-kneaded ramen counter since 1966 that opens in the evening and stays open past midnight. The garlicky tokusei juhachiban comes in soy or miso.",
+     "ja": "1966年創業、夕方に開いて深夜まで営業する手もみラーメンの店。ニンニクの効いた「特製十八番」は醤油と味噌から選べる。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/juhachiban.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622406,
+     35.704838
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "ogikubo",
+    "id": "honmura-an",
+    "category": "eat",
+    "name": {
+     "en": "Honmura-an",
+     "ja": "本むら庵"
+    },
+    "about": {
+     "en": "A soba house founded in 1924. Each day's buckwheat is ground in a stone mill, and the noodles are bound with well water.",
+     "ja": "1924年創業のそば店。その日に打つ分だけ玄そばを石臼で挽き、井戸水でつなぐ江戸前の二八そば。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/honmuraan.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.611786,
+     35.704506
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "ogikubo",
+    "id": "kameya-ogikubo",
+    "category": "shop",
+    "name": {
+     "en": "Kameya",
+     "ja": "御菓子司 亀屋"
+    },
+    "about": {
+     "en": "A wagashi shop that moved here from Yotsuya in 1930, after the Great Kantō Earthquake. Its best-known sweet is the café-au-lait daifuku: coffee-flavored bean paste and cream, sold frozen.",
+     "ja": "関東大震災の後、1930年に四谷から荻窪へ移った和菓子の老舗。名物はコーヒー風味のこしあんと生クリームを包んだ冷凍の「カフェオレ大福」。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/kameya.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.616364,
+     35.707138
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "ogikubo",
+    "id": "mignon",
+    "category": "drink",
+    "name": {
+     "en": "Meikyoku Kissa Mignon",
+     "ja": "名曲喫茶ミニヨン"
+    },
+    "about": {
+     "en": "A classical music café opened in 1961, south of the station since 1971. LPs play on a fine sound system, with concerts and exhibitions in the room behind.",
+     "ja": "1961年に開店し、1971年から駅南口のこの場所で営業する名曲喫茶。LPレコードをよい音で聴かせ、奥の部屋ではコンサートや展示も開く。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2015/09/mignon.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622543,
+     35.703632
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "ogikubo",
+    "id": "seiko-lodging",
+    "category": "culture",
+    "name": {
+     "en": "Seikō Lodging",
+     "ja": "西郊ロッヂング"
+    },
+    "about": {
+     "en": "A boarding house that moved here from Hongō in 1931, with Western-style rooms that locked, rare at the time. The 1931 main building and 1938 annex are registered tangible cultural properties. It is now an inn and apartments, so admire it from the street.",
+     "ja": "1931年に本郷から移ってきた下宿で、当時珍しい鍵付きの洋室を備えていた。本館（1931年）と新館（1938年）は国の登録有形文化財。今は旅館と賃貸住宅なので、外から眺めたい。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/11/seiko-lodging.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625565,
+     35.702972
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "ogikubo",
+    "id": "gengi-sanbo",
+    "category": "culture",
+    "name": {
+     "en": "Gengi Sanbō (Suginami Poetry House)",
+     "ja": "幻戯山房（すぎなみ詩歌館）"
+    },
+    "about": {
+     "en": "The 1955 house of Kadokawa Gen'yoshi, poet and founder of the Kadokawa publishing house. It was given to the ward and has been open to the public since 2009. His study shows things from his life, and every room looks onto the garden.",
+     "ja": "角川書店創業者で俳人の角川源義の旧邸（1955年竣工）。区に寄贈され、2009年から一般公開。書斎兼応接間にゆかりの品を展示し、どの部屋からも庭が眺められる。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/03/gengisanbo.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624741,
+     35.698811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "ogikubo",
+    "id": "katsura-bunko",
+    "category": "culture",
+    "name": {
+     "en": "Katsura Bunko",
+     "ja": "かつら文庫"
+    },
+    "about": {
+     "en": "In 1958 the children's author Ishii Momoko opened part of her home as a small library for the neighborhood's children. It still runs as a branch of the Tokyo Children's Library, and adults are welcome too.",
+     "ja": "児童文学者の石井桃子が1958年、自宅の一部を開いて近所の子どもたちのための小さな図書室にした。今も東京子ども図書館の分室として続き、大人も利用できる。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/09/katsura-bunko.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.625153,
+     35.702042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "ogikubo",
+    "id": "otaguro-kinenkan",
+    "category": "culture",
+    "name": {
+     "en": "Ōtaguro Park Memorial Hall",
+     "ja": "大田黒公園記念館"
+    },
+    "about": {
+     "en": "The brick-colored studio that the music critic Ōtaguro Motoo built in 1933, now in the Japanese garden of Ōtaguro Park. His German piano and gramophone are still there.",
+     "ja": "音楽評論家・大田黒元雄が1933年に仕事部屋として建てた洋館で、今は大田黒公園の日本庭園の中にある。愛用のドイツ製ピアノや蓄音機が残る。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/03/otaguropark-kinenkan.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.624161,
+     35.701576
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "ogikubo",
+    "id": "tekigaiso",
+    "category": "culture",
+    "name": {
+     "en": "Tekigaisō",
+     "ja": "荻外荘"
+    },
+    "about": {
+     "en": "The house of Konoe Fumimaro, three times prime minister, designed by Itō Chūta in 1927. It is a national historic site. The ward restored it over ten years and opened it as Tekigaisō Park in December 2024.",
+     "ja": "3度首相を務めた近衞文麿の旧宅で、1927年に伊東忠太が設計した。国の史跡。区が約10年かけて復原し、2024年12月に荻外荘公園として公開した。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2025/03/tekigaiso.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622894,
+     35.699215
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "ogikubo",
+    "id": "tekigaiso-tenjito",
+    "category": "culture",
+    "name": {
+     "en": "Tekigaisō Exhibition Building",
+     "ja": "荻外荘展示棟"
+    },
+    "about": {
+     "en": "Kuma Kengo's exhibition building across the lane from Tekigaisō, opened in July 2025, with a café and shop downstairs and exhibitions upstairs.",
+     "ja": "隈研吾の設計で2025年7月、荻外荘の向かいに開館。1階はカフェとショップ、2階は展示室。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2025/09/tekigaiso-tenjito.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.622803,
+     35.698929
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "ogikubo",
+    "id": "animation-museum",
+    "category": "culture",
+    "name": {
+     "en": "Suginami Animation Museum",
+     "ja": "杉並アニメーションミュージアム"
+    },
+    "about": {
+     "en": "A free museum of Japanese animation on the third floor of Suginami Kaikan: its history, and how anime is made. Closed on Mondays.",
+     "ja": "杉並会館3階にある入館無料のアニメの博物館。日本のアニメの歴史と、作られ方を紹介する。月曜休館。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "杉並アニメーションミュージアム",
+     "url": "https://sam.or.jp/"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.607574,
+     35.710491
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "area": "omiya-matsunoki",
     "id": "omiya-hachimangu",
     "category": "shrine",
@@ -1182,6 +2806,62 @@
     "coordinates": [
      139.639573,
      35.682639
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "omiya-matsunoki",
+    "id": "history-museum",
+    "category": "culture",
+    "name": {
+     "en": "Suginami Local History Museum",
+     "ja": "杉並区立郷土博物館"
+    },
+    "about": {
+     "en": "The ward's history museum, opened in 1989 near the Zenpukuji River; you go in through a thatched gatehouse. The land belonged to the Saga family, and in 1937 their daughter Hiro left from here to marry Pujie, brother of the last emperor of China.",
+     "ja": "1989年開館の区立郷土博物館で、茅葺きの長屋門が入口。敷地はかつて嵯峨侯爵家のもので、1937年、嵯峨浩はここから愛新覚羅溥傑との結婚式へ向かった。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2018/02/suginami-historical-museum.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.644547,
+     35.685661
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "omiya-matsunoki",
+    "id": "takachiho-budojo",
+    "category": "culture",
+    "name": {
+     "en": "Takachiho Budōjō",
+     "ja": "高千穂学園武道場"
+    },
+    "about": {
+     "en": "Built in 1913 as the judo and kendo hall of Takachiho College, it's the oldest wooden school building in the ward and a ward cultural property. The original 36 springs and 10 large jars are still under the floor.",
+     "ja": "1913年、高千穂高等商業学校の柔剣道場として建てられた区内最古の木造学校建築で、区指定有形文化財。床下には創建当時の36本のバネと10個の大甕が残る。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/07/takachiho-budojo.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.638245,
+     35.682804
     ]
    }
   },
@@ -1276,6 +2956,34 @@
   {
    "type": "Feature",
    "properties": {
+    "area": "shimo-takaido",
+    "id": "eiryu",
+    "category": "eat",
+    "name": {
+     "en": "Eiryū",
+     "ja": "栄龍"
+    },
+    "about": {
+     "en": "A neighborhood Chinese restaurant since 1969, serving old-style Tokyo ramen. The curry ramen is a favorite.",
+     "ja": "1969年開業の町の中華。昔ながらの東京ラーメンに加え、カレーラーメンも人気。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/12/eiryu.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.636536,
+     35.667854
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "area": "takaido-fujimigaoka",
     "id": "dairokuten",
     "category": "shrine",
@@ -1364,6 +3072,174 @@
   {
    "type": "Feature",
    "properties": {
+    "area": "takaido-fujimigaoka",
+    "id": "misawa-bauhaus",
+    "category": "culture",
+    "name": {
+     "en": "Misawa Bauhaus Collection",
+     "ja": "ミサワバウハウスコレクション"
+    },
+    "about": {
+     "en": "Japan's only museum of the Bauhaus, opened by Misawa Homes in 1996 at its research institute. It holds about 1,500 works and puts on free exhibitions, so check the dates before you go.",
+     "ja": "ミサワホームが1996年に総合研究所内に開いた、日本唯一のバウハウス専門美術館。約1,500点の作品を所蔵し、無料の企画展を開く。公開日を確かめて出かけたい。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/12/misawa-bauhaus.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.614365,
+     35.679562
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "takaido-fujimigaoka",
+    "id": "koganedo",
+    "category": "shop",
+    "name": {
+     "en": "Koganedō",
+     "ja": "こがね堂"
+    },
+    "about": {
+     "en": "Rice crackers made by hand, from pounding the mochi onwards, in front of Takaido station since 1947. The hina-arare for the Dolls' Festival sell out every year.",
+     "ja": "1947年に西荻窪から高井戸駅前に移ったせんべい店。もち米を搗くところから店の奥で手作りする。ひな祭りの「ひなあられ」は毎年売り切れる。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/koganedo.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.615311,
+     35.682919
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "wada",
+    "id": "rissho-kosei-kai",
+    "category": "culture",
+    "name": {
+     "en": "Risshō Kōsei-kai Great Sacred Hall",
+     "ja": "立正佼成会 大聖堂"
+    },
+    "about": {
+     "en": "The great dome you see from Kan-nana, completed in 1964. It's open to everyone every day, and inside the dome stands a Buddha 6.8 metres tall.",
+     "ja": "環七から見える巨大なドーム。1964年に落成し、年中無休で誰でも見学できる。ドームの中には高さ6.8メートルの本尊が立つ。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/11/rissho-kosei-kai-cathedral.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.658859,
+     35.687988
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "wada",
+    "id": "galleria-nike",
+    "category": "culture",
+    "name": {
+     "en": "Joshibi Galleria Nike",
+     "ja": "女子美ガレリアニケ"
+    },
+    "about": {
+     "en": "The only art-university gallery in the ward, at Joshibi's Suginami campus, with about eight free exhibitions a year.",
+     "ja": "女子美術大学杉並キャンパスにある、区内唯一の美大付属ギャラリー。年に約8回、無料の展覧会を開く。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2022/12/galleria-nike.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.662079,
+     35.693089
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "wada",
+    "id": "suginami-mangetsu",
+    "category": "eat",
+    "name": {
+     "en": "Suginami Mangetsu",
+     "ja": "手打そば・地酒 杉並まん月"
+    },
+    "about": {
+     "en": "Started around 1955 as a soba shop attached to a noodle works. Since 2000 it has served sake and small dishes, ending with soba made several times a day.",
+     "ja": "1955年ごろ、製麺所併設のそば店「きそば満月」として創業。2000年から日本酒とつまみ、締めのそばを楽しむ店になった。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2026/06/sobamangetsu.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.657227,
+     35.692963
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "wada",
+    "id": "tenshin-hanten",
+    "category": "eat",
+    "name": {
+     "en": "Tenshin Hanten",
+     "ja": "天津飯店"
+    },
+    "about": {
+     "en": "A Chinese restaurant by Nakano-Fujimichō station since 1978, with homemade chilli oil, tantanmen and set meals that change every week.",
+     "ja": "1978年開業、中野富士見町駅前の中華料理店。自家製ラー油の坦々麺や、毎週替わる定食が人気。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/11/tenshinhanten.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.666275,
+     35.691109
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
     "area": "zenpukuji",
     "id": "igusa-hachimangu",
     "category": "shrine",
@@ -1432,6 +3308,34 @@
     "coordinates": [
      139.588074,
      35.716306
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "area": "zenpukuji",
+    "id": "ten-no-michi",
+    "category": "eat",
+    "name": {
+     "en": "Ramen Ten no Michi",
+     "ja": "らーめん 天の道"
+    },
+    "about": {
+     "en": "A ramen shop facing the great torii of Igusa Hachimangū, opened in 2005 by a Suginami local who trained at ten ramen shops. The name comes from Kamen Rider Kabuto.",
+     "ja": "井草八幡宮の大鳥居の正面にあるラーメン店。10店で修業した杉並育ちの店主が2005年に開業した。店名は『仮面ライダーカブト』の主人公から。"
+    },
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2023/12/tennomichi.html"
+    }
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     139.598358,
+     35.715111
     ]
    }
   }

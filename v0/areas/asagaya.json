@@ -1,6 +1,6 @@
 {
  "version": 0,
- "revision": 1790314606,
+ "revision": 1790318365,
  "languages": [
   "en",
   "ja"
@@ -491,6 +491,153 @@
     "kami": [
      "sarutahiko"
     ]
+   },
+   {
+    "id": "laputa",
+    "category": "culture",
+    "name": {
+     "en": "Laputa Asagaya",
+     "ja": "ラピュタ阿佐ヶ谷"
+    },
+    "about": {
+     "en": "A small cinema for Japanese films, mostly from the 1950s and 60s, shown in month-long seasons, many never released on DVD. It opened in 1998 for animation and is named after the flying island in Gulliver's Travels.",
+     "ja": "1950〜60年代を中心とした日本映画のミニシアター。テーマごとに約1か月の特集を組み、DVD化されていない作品も多い。1998年にアニメ専門館として開館し、館名は『ガリバー旅行記』の飛ぶ島から。"
+    },
+    "location": [
+     35.705544,
+     139.635361
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2015/09/laputa.html"
+    }
+   },
+   {
+    "id": "violon",
+    "category": "drink",
+    "name": {
+     "en": "Violon",
+     "ja": "ヴィオロン"
+    },
+    "about": {
+     "en": "A classical music café opened in 1980, with one of the world's largest hand-cranked gramophones and handmade speakers.",
+     "ja": "1980年開業の名曲喫茶。世界最大級の手回し蓄音器と手作りのスピーカーで、レコードを聴かせる。"
+    },
+    "location": [
+     35.705189,
+     139.632553
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/violon.html"
+    }
+   },
+   {
+    "id": "toraya-chinzan",
+    "category": "shop",
+    "name": {
+     "en": "Toraya Chinzan",
+     "ja": "とらや椿山"
+    },
+    "about": {
+     "en": "A wagashi shop on the Pearl Center arcade since 1925. Its big chestnut manjū, a whole candied chestnut in white bean paste, came out of a craftsmen's contest in the early 1960s.",
+     "ja": "1925年創業、パールセンターの和菓子店。蜜漬けの大粒栗を丸ごと白餡で包んだ名物「大栗まん」は、昭和30年代後半に職人のコンクールから生まれた。"
+    },
+    "location": [
+     35.701286,
+     139.637009
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/toraya-chinzan.html"
+    }
+   },
+   {
+    "id": "kamaju",
+    "category": "shop",
+    "name": {
+     "en": "Kamajū",
+     "ja": "蒲重蒲鉾店"
+    },
+    "about": {
+     "en": "A fish-cake maker since 1936. The family fries about thirty kinds of satsuma-age from five in the morning, and sells oden all year.",
+     "ja": "1936年創業のかまぼこ店。朝5時から約30種類のさつま揚げを揚げたてで並べ、おでんは一年中。"
+    },
+    "location": [
+     35.70369,
+     139.636993
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2014/10/kamaju-asagaya.html"
+    }
+   },
+   {
+    "id": "eitaro-asagaya",
+    "category": "shop",
+    "name": {
+     "en": "Eitarō",
+     "ja": "御菓子司 栄太楼"
+    },
+    "about": {
+     "en": "A wagashi shop on the Pearl Center arcade since 1958, now in its third generation, known for kuri-shigure, steamed bean paste with chestnut.",
+     "ja": "1958年、阿佐谷パールセンターに開いた和菓子店で、現在は三代目。餡を蒸かしてふっくら仕上げた栗しぐれで知られる。"
+    },
+    "location": [
+     35.699051,
+     139.637131
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2016/03/onkashitsukasa-eitaro.html"
+    }
+   },
+   {
+    "id": "chimoto-asagaya",
+    "category": "eat",
+    "name": {
+     "en": "Chimoto Sōhonten Asagaya",
+     "ja": "ちもと総本店 阿佐谷"
+    },
+    "about": {
+     "en": "A sweets house founded in the Edo period in what is now Ginza and based in Karuizawa since the war. This shop, opened in 2016, is its only other one: kakigōri made from natural ice, and the light Chimoto mochi.",
+     "ja": "江戸時代に今の銀座界隈で創業し、戦後軽井沢に移った和菓子の老舗。2016年に開いた阿佐谷店は直営の二店目。天然氷のかき氷と、江戸時代から続く「ちもと餅」。"
+    },
+    "location": [
+     35.700043,
+     139.637344
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2019/07/timoto-souhonten.html"
+    }
+   },
+   {
+    "id": "konkodo",
+    "category": "shop",
+    "name": {
+     "en": "Koshō Konkodō",
+     "ja": "古書コンコ堂"
+    },
+    "about": {
+     "en": "A secondhand bookshop opened in 2011 by a former librarian, with wooden shelves and a counter he built with friends.",
+     "ja": "元図書館司書の店主が2011年に開いた古書店。木の本棚やカウンターは友人と手作りした。"
+    },
+    "location": [
+     35.707752,
+     139.634796
+    ],
+    "checked": "2026-09-25",
+    "source": {
+     "name": "すぎなみ学倶楽部",
+     "url": "https://www.suginamigaku.org/2019/06/konkodo.html"
+    }
    }
   ],
   "happenings": [
