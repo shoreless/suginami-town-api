@@ -1,0 +1,1150 @@
+{
+ "version": 0,
+ "revision": 1790313745,
+ "languages": [
+  "en",
+  "ja"
+ ],
+ "places": [
+  {
+   "id": "ja-4913",
+   "kind": "stand",
+   "name": {
+    "ja": "志村農園",
+    "en": "Shimura Farm"
+   },
+   "area": "igusa",
+   "location": [
+    35.72657,
+    139.609996
+   ],
+   "schedule": {
+    "days": "daily"
+   },
+   "hours": {
+    "en": "From 10 am until sold out",
+    "ja": "10:00〜売り切れ次第"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/4913",
+   "address": "杉並区井草4-10-12",
+   "summer": [
+    {
+     "en": "cherry tomatoes",
+     "ja": "ミニトマト"
+    },
+    {
+     "en": "eggplants",
+     "ja": "ナス"
+    },
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    },
+    {
+     "en": "zucchini",
+     "ja": "ズッキーニ"
+    },
+    {
+     "en": "green beans",
+     "ja": "インゲン"
+    },
+    {
+     "en": "squash",
+     "ja": "カボチャ"
+    },
+    {
+     "en": "corn",
+     "ja": "トウモロコシ"
+    },
+    {
+     "en": "basil",
+     "ja": "バジル"
+    },
+    {
+     "en": "shiso",
+     "ja": "しそ"
+    },
+    {
+     "en": "large sweet peppers",
+     "ja": "ジャンボピーマン"
+    },
+    {
+     "en": "marigolds",
+     "ja": "マリーゴールド"
+    },
+    {
+     "en": "periwinkles",
+     "ja": "目々草"
+    },
+    {
+     "en": "snapdragons",
+     "ja": "金魚草"
+    }
+   ],
+   "winter": [
+    {
+     "en": "cauliflower",
+     "ja": "カリフラワー"
+    },
+    {
+     "en": "broccoli",
+     "ja": "ブロッコリー"
+    },
+    {
+     "en": "daikon",
+     "ja": "ダイコン"
+    },
+    {
+     "en": "carrots",
+     "ja": "ニンジン"
+    },
+    {
+     "en": "cabbage",
+     "ja": "キャベツ"
+    },
+    {
+     "en": "Chinese cabbage",
+     "ja": "ハクサイ"
+    },
+    {
+     "en": "long onions (negi)",
+     "ja": "長ネギ"
+    },
+    {
+     "en": "lettuce",
+     "ja": "レタス"
+    },
+    {
+     "en": "komatsuna",
+     "ja": "コマツナ"
+    },
+    {
+     "en": "spinach",
+     "ja": "ホウレンソウ"
+    },
+    {
+     "en": "potatoes",
+     "ja": "ジャガイモ"
+    },
+    {
+     "en": "red cabbage",
+     "ja": "赤キャベツ"
+    },
+    {
+     "en": "Brussels sprouts",
+     "ja": "芽キャベツ"
+    },
+    {
+     "en": "kale",
+     "ja": "ケール"
+    },
+    {
+     "en": "cavolo nero",
+     "ja": "カーボロネロ"
+    },
+    {
+     "en": "black radish",
+     "ja": "黒丸大根"
+    }
+   ]
+  },
+  {
+   "id": "ja-2296",
+   "kind": "stand",
+   "name": {
+    "ja": "篠農園"
+   },
+   "area": "igusa",
+   "location": [
+    35.72925,
+    139.6171
+   ],
+   "schedule": {
+    "days": "irregular"
+   },
+   "hours": {
+    "en": "Irregular",
+    "ja": "不定期"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/2296",
+   "address": "杉並区井草3-28",
+   "summer": [
+    {
+     "en": "eggplants",
+     "ja": "ナス"
+    },
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    }
+   ],
+   "winter": [
+    {
+     "en": "daikon",
+     "ja": "ダイコン"
+    },
+    {
+     "en": "turnips",
+     "ja": "カブ"
+    },
+    {
+     "en": "spinach",
+     "ja": "ホウレンソウ"
+    },
+    {
+     "en": "broccoli",
+     "ja": "ブロッコリー"
+    },
+    {
+     "en": "cauliflower",
+     "ja": "カリフラワー"
+    },
+    {
+     "en": "long onions (negi)",
+     "ja": "長ネギ"
+    }
+   ]
+  },
+  {
+   "id": "ja-2295",
+   "kind": "stand",
+   "name": {
+    "ja": "宇田川農園",
+    "en": "Udagawa Farm"
+   },
+   "area": "miyamae",
+   "location": [
+    35.691496,
+    139.613608
+   ],
+   "schedule": {
+    "days": "daily",
+    "closed": "new_year"
+   },
+   "hours": {
+    "en": "From 8 am until sold out; closed over New Year. Covered, so you can shop in the rain.",
+    "ja": "午前8時〜売り切れ次第（年末年始を除く）。雨でもぬれずに買えます。"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/2295",
+   "address": "杉並区宮前2-6-2",
+   "note": {
+    "en": "Tokyo Eco 25 certified: grown with reduced pesticides and chemical fertilizer.",
+    "ja": "東京エコ25認証。"
+   },
+   "summer": [
+    {
+     "en": "tomatoes",
+     "ja": "トマト"
+    },
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    },
+    {
+     "en": "eggplants",
+     "ja": "ナス"
+    }
+   ],
+   "winter": [
+    {
+     "en": "spinach",
+     "ja": "ホウレンソウ"
+    },
+    {
+     "en": "komatsuna",
+     "ja": "コマツナ"
+    },
+    {
+     "en": "cabbage",
+     "ja": "キャベツ"
+    },
+    {
+     "en": "broccoli",
+     "ja": "ブロッコリー"
+    }
+   ]
+  },
+  {
+   "id": "ja-2294",
+   "kind": "stand",
+   "name": {
+    "ja": "飯田農園",
+    "en": "Iida Farm"
+   },
+   "area": "kugayama",
+   "location": [
+    35.692333,
+    139.59653
+   ],
+   "schedule": {
+    "days": "daily"
+   },
+   "hours": {
+    "en": "9 am to 7 pm, so you can buy on the way home",
+    "ja": "9:00〜19:00（仕事帰りにも）"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/2294",
+   "address": "杉並区久我山4-42-22",
+   "summer": [
+    {
+     "en": "tomatoes",
+     "ja": "トマト"
+    },
+    {
+     "en": "eggplants",
+     "ja": "ナス"
+    },
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    }
+   ],
+   "winter": [
+    {
+     "en": "broccoli",
+     "ja": "ブロッコリー"
+    },
+    {
+     "en": "cauliflower",
+     "ja": "カリフラワー"
+    },
+    {
+     "en": "spinach",
+     "ja": "ホウレンソウ"
+    },
+    {
+     "en": "wasabi greens",
+     "ja": "ワサビ菜"
+    },
+    {
+     "en": "katsuona greens",
+     "ja": "かつお菜"
+    }
+   ]
+  },
+  {
+   "id": "ja-2096",
+   "kind": "stand",
+   "name": {
+    "ja": "小美野 正義"
+   },
+   "area": "momoi-imagawa",
+   "location": [
+    35.71685,
+    139.6024
+   ],
+   "schedule": {
+    "days": "daily",
+    "closed": "new_year"
+   },
+   "hours": {
+    "en": "From about 10 am to sunset; not on rainy days or at New Year. Vending machine.",
+    "ja": "10時頃〜日没（年始・雨天は休み）。自動販売機。"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/2096",
+   "address": "杉並区今川4丁目16番",
+   "sells": {
+    "en": "Seasonal vegetables, cut flowers and fruit",
+    "ja": "季節の野菜・切り花・果物"
+   }
+  },
+  {
+   "id": "ja-2092",
+   "kind": "stand",
+   "name": {
+    "ja": "フルーツトマトの三幸園",
+    "en": "Sankōen fruit tomatoes"
+   },
+   "area": "igusa",
+   "location": [
+    35.72936,
+    139.62002
+   ],
+   "schedule": {
+    "days": "daily",
+    "months": [
+     1,
+     2,
+     3,
+     4,
+     5,
+     6
+    ]
+   },
+   "hours": {
+    "en": "Vending machine, 24 hours; 100-yen coins, with a change machine. Fruit tomatoes January to June; other vegetables now and then.",
+    "ja": "自動販売機で24時間（100円硬貨のみ、両替機あり）。フルーツトマトは1〜6月、ほかの野菜は不定期。"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/2092",
+   "address": "杉並区井草2-29-22",
+   "sells": {
+    "en": "Fruit tomatoes and seasonal vegetables",
+    "ja": "フルーツトマト、ほか季節の野菜"
+   }
+  },
+  {
+   "id": "ja-1480",
+   "kind": "stand",
+   "name": {
+    "ja": "細渕農園",
+    "en": "Hosobuchi Farm (Kamitakaido 1)"
+   },
+   "area": "kami-takaido",
+   "location": [
+    35.67183,
+    139.61058
+   ],
+   "schedule": {
+    "days": "daily"
+   },
+   "hours": {
+    "en": "From 9 am until sold out; coin lockers",
+    "ja": "9:00〜なくなり次第（コインロッカー）"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/1480",
+   "address": "杉並区上高井戸1-17-9",
+   "summer": [
+    {
+     "en": "large tomatoes",
+     "ja": "大玉トマト"
+    },
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    },
+    {
+     "en": "zucchini",
+     "ja": "ズッキーニ"
+    },
+    {
+     "en": "edamame",
+     "ja": "エダマメ"
+    },
+    {
+     "en": "corn",
+     "ja": "トウモロコシ"
+    },
+    {
+     "en": "new onions",
+     "ja": "新タマネギ"
+    },
+    {
+     "en": "okra",
+     "ja": "オクラ"
+    },
+    {
+     "en": "green peppers",
+     "ja": "ピーマン"
+    },
+    {
+     "en": "carrots",
+     "ja": "ニンジン"
+    },
+    {
+     "en": "cabbage",
+     "ja": "キャベツ"
+    }
+   ],
+   "winter": [
+    {
+     "en": "broccoli",
+     "ja": "ブロッコリー"
+    },
+    {
+     "en": "cabbage",
+     "ja": "キャベツ"
+    }
+   ]
+  },
+  {
+   "id": "ja-1472",
+   "kind": "stand",
+   "name": {
+    "ja": "細渕農園",
+    "en": "Hosobuchi Farm (Kamitakaido 2)"
+   },
+   "area": "kami-takaido",
+   "location": [
+    35.676262,
+    139.609928
+   ],
+   "schedule": {
+    "days": "irregular"
+   },
+   "hours": {
+    "en": "24 hours when stocked; not in bad weather",
+    "ja": "24時間販売（不定期・荒天時休み）"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/1472",
+   "address": "杉並区上高井戸2-11-54",
+   "summer": [
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    },
+    {
+     "en": "eggplants",
+     "ja": "ナス"
+    },
+    {
+     "en": "tomatoes",
+     "ja": "トマト"
+    },
+    {
+     "en": "edamame",
+     "ja": "エダマメ"
+    }
+   ],
+   "winter": [
+    {
+     "en": "Chinese cabbage",
+     "ja": "ハクサイ"
+    },
+    {
+     "en": "daikon",
+     "ja": "ダイコン"
+    },
+    {
+     "en": "long onions (negi)",
+     "ja": "ネギ"
+    },
+    {
+     "en": "broccoli",
+     "ja": "ブロッコリー"
+    }
+   ]
+  },
+  {
+   "id": "ja-1470",
+   "kind": "stand",
+   "name": {
+    "ja": "鈴木農園",
+    "en": "Suzuki Farm"
+   },
+   "area": "kami-takaido",
+   "location": [
+    35.678304,
+    139.610086
+   ],
+   "schedule": {
+    "days": [
+     "TUE",
+     "THU",
+     "SAT"
+    ]
+   },
+   "hours": {
+    "en": "From 9 am until sold out; in person at 9, then coin lockers",
+    "ja": "9:00〜なくなり次第（開始時は対面、その後コインロッカー）"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/1470",
+   "address": "杉並区上高井戸2-8-8",
+   "summer": [
+    {
+     "en": "medium tomatoes",
+     "ja": "中玉トマト"
+    },
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    },
+    {
+     "en": "edamame",
+     "ja": "エダマメ"
+    }
+   ],
+   "winter": [
+    {
+     "en": "daikon",
+     "ja": "ダイコン"
+    },
+    {
+     "en": "cabbage",
+     "ja": "キャベツ"
+    },
+    {
+     "en": "potatoes",
+     "ja": "ジャガイモ"
+    }
+   ]
+  },
+  {
+   "id": "ja-1468",
+   "kind": "stand",
+   "name": {
+    "ja": "中村 幸雄"
+   },
+   "area": "kami-takaido",
+   "location": [
+    35.67368,
+    139.60929
+   ],
+   "schedule": {
+    "days": [
+     "MON",
+     "TUE",
+     "WED",
+     "THU",
+     "FRI",
+     "SAT"
+    ]
+   },
+   "hours": {
+    "en": "From 9:30 am until sold out; closed Sundays and public holidays",
+    "ja": "9:30〜なくなり次第（日曜・祝日休み）"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/1468",
+   "address": "杉並区上高井戸1-30-7",
+   "summer": [
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    },
+    {
+     "en": "eggplants",
+     "ja": "ナス"
+    },
+    {
+     "en": "tomatoes",
+     "ja": "トマト"
+    }
+   ],
+   "winter": [
+    {
+     "en": "cabbage",
+     "ja": "キャベツ"
+    },
+    {
+     "en": "broccoli",
+     "ja": "ブロッコリー"
+    },
+    {
+     "en": "cauliflower",
+     "ja": "カリフラワー"
+    },
+    {
+     "en": "daikon",
+     "ja": "大根"
+    }
+   ]
+  },
+  {
+   "id": "ja-1464",
+   "kind": "stand",
+   "name": {
+    "ja": "倉本農園",
+    "en": "Kuramoto Farm"
+   },
+   "area": "kugayama",
+   "location": [
+    35.686086,
+    139.593253
+   ],
+   "schedule": {
+    "days": [
+     "WED",
+     "FRI",
+     "SAT",
+     "SUN"
+    ]
+   },
+   "hours": {
+    "en": "10 am to 4 pm, in person; come early",
+    "ja": "10:00〜16:00（対面販売、お早めに）"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/1464",
+   "address": "杉並区久我山3-7-24",
+   "summer": [
+    {
+     "en": "tomatoes",
+     "ja": "トマト"
+    },
+    {
+     "en": "eggplants",
+     "ja": "ナス"
+    },
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    }
+   ],
+   "winter": [
+    {
+     "en": "broccoli",
+     "ja": "ブロッコリー"
+    },
+    {
+     "en": "cabbage",
+     "ja": "キャベツ"
+    },
+    {
+     "en": "daikon",
+     "ja": "ダイコン"
+    }
+   ]
+  },
+  {
+   "id": "ja-1450",
+   "kind": "stand",
+   "name": {
+    "ja": "原田のひかりファーム",
+    "en": "Harada Hikari Farm"
+   },
+   "area": "miyamae",
+   "location": [
+    35.69095,
+    139.61389
+   ],
+   "schedule": {
+    "days": "daily"
+   },
+   "hours": {
+    "en": "From 9 am until sold out; not in bad weather",
+    "ja": "9:00〜なくなり次第（荒天時休み）"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/1450",
+   "address": "杉並区宮前2-5-30",
+   "note": {
+    "en": "Mostly organic; strawberries and melons too.",
+    "ja": "有機野菜が中心。イチゴやメロンも。"
+   },
+   "summer": [
+    {
+     "en": "large tomatoes",
+     "ja": "大玉トマト"
+    },
+    {
+     "en": "medium tomatoes",
+     "ja": "中玉トマト"
+    },
+    {
+     "en": "eggplants",
+     "ja": "ナス"
+    },
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    },
+    {
+     "en": "edamame",
+     "ja": "エダマメ"
+    },
+    {
+     "en": "strawberries",
+     "ja": "イチゴ"
+    },
+    {
+     "en": "fava beans",
+     "ja": "ソラマメ"
+    },
+    {
+     "en": "melons",
+     "ja": "メロン"
+    }
+   ],
+   "winter": [
+    {
+     "en": "broccoli",
+     "ja": "ブロッコリー"
+    },
+    {
+     "en": "daikon",
+     "ja": "ダイコン"
+    },
+    {
+     "en": "carrots",
+     "ja": "ニンジン"
+    },
+    {
+     "en": "cabbage",
+     "ja": "キャベツ"
+    },
+    {
+     "en": "Chinese cabbage",
+     "ja": "ハクサイ"
+    },
+    {
+     "en": "turnips",
+     "ja": "カブ"
+    },
+    {
+     "en": "komatsuna",
+     "ja": "コマツナ"
+    },
+    {
+     "en": "potatoes",
+     "ja": "ジャガイモ"
+    },
+    {
+     "en": "strawberries",
+     "ja": "イチゴ"
+    }
+   ]
+  },
+  {
+   "id": "ja-1449",
+   "kind": "stand",
+   "name": {
+    "ja": "小野農園",
+    "en": "Ono Farm"
+   },
+   "area": "miyamae",
+   "location": [
+    35.69034,
+    139.61527
+   ],
+   "schedule": {
+    "days": "daily"
+   },
+   "hours": {
+    "en": "From 8 am until sold out; in summer, picked that morning",
+    "ja": "8:00〜なくなり次第（夏はほぼ朝採り）"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/1449",
+   "address": "杉並区宮前2-2-3",
+   "summer": [
+    {
+     "en": "tomatoes",
+     "ja": "トマト"
+    },
+    {
+     "en": "eggplants",
+     "ja": "ナス"
+    },
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    },
+    {
+     "en": "green beans",
+     "ja": "インゲン"
+    },
+    {
+     "en": "green peppers",
+     "ja": "ピーマン"
+    },
+    {
+     "en": "zucchini",
+     "ja": "ズッキーニ"
+    },
+    {
+     "en": "kinjisō greens",
+     "ja": "金時草"
+    }
+   ],
+   "winter": [
+    {
+     "en": "broccoli",
+     "ja": "ブロッコリー"
+    },
+    {
+     "en": "cauliflower",
+     "ja": "カリフラワー"
+    },
+    {
+     "en": "cabbage",
+     "ja": "キャベツ"
+    },
+    {
+     "en": "spinach",
+     "ja": "ホウレンソウ"
+    },
+    {
+     "en": "komatsuna",
+     "ja": "小松菜"
+    }
+   ]
+  },
+  {
+   "id": "ja-1441",
+   "kind": "stand",
+   "name": {
+    "ja": "井口農園",
+    "en": "Iguchi Farm"
+   },
+   "area": "shimizu",
+   "location": [
+    35.71044,
+    139.61706
+   ],
+   "schedule": {
+    "days": "daily"
+   },
+   "hours": {
+    "en": "From 10 am until sold out; not in bad weather",
+    "ja": "10:00〜なくなり次第（荒天時休み）"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/1441",
+   "address": "杉並区清水1-24-1",
+   "summer": [
+    {
+     "en": "tomatoes",
+     "ja": "トマト"
+    },
+    {
+     "en": "cucumbers",
+     "ja": "キュウリ"
+    },
+    {
+     "en": "eggplants",
+     "ja": "ナス"
+    },
+    {
+     "en": "green peppers",
+     "ja": "ピーマン"
+    },
+    {
+     "en": "carrots",
+     "ja": "ニンジン"
+    },
+    {
+     "en": "shallots",
+     "ja": "エシャレット"
+    },
+    {
+     "en": "potatoes",
+     "ja": "ジャガイモ"
+    },
+    {
+     "en": "long onions (negi)",
+     "ja": "長ネギ"
+    },
+    {
+     "en": "flat beans",
+     "ja": "モロッコインゲン"
+    },
+    {
+     "en": "molokhia",
+     "ja": "モロヘイヤ"
+    }
+   ],
+   "winter": [
+    {
+     "en": "cabbage",
+     "ja": "キャベツ"
+    },
+    {
+     "en": "broccoli",
+     "ja": "ブロッコリー"
+    },
+    {
+     "en": "daikon",
+     "ja": "ダイコン"
+    },
+    {
+     "en": "carrots",
+     "ja": "ニンジン"
+    },
+    {
+     "en": "long onions (negi)",
+     "ja": "長ネギ"
+    },
+    {
+     "en": "komatsuna",
+     "ja": "小松菜"
+    },
+    {
+     "en": "spinach",
+     "ja": "ホウレンソウ"
+    }
+   ]
+  },
+  {
+   "id": "ja-245",
+   "kind": "stand",
+   "name": {
+    "ja": "Iguchi Mini Farm",
+    "en": "Iguchi Mini Farm"
+   },
+   "area": "shimizu",
+   "location": [
+    35.71133,
+    139.618732
+   ],
+   "schedule": {
+    "days": "daily"
+   },
+   "hours": {
+    "en": "Summer from 4 pm, winter from 2 pm, until sold out; the owner, a vegetable sommelier, sells in person",
+    "ja": "夏は16:00〜、冬は14:00〜売り切れ次第（野菜ソムリエプロの園主が対面販売）"
+   },
+   "source": "https://www.ja-tokyochuo.or.jp/farmstand/detail/245",
+   "address": "杉並区清水1-31",
+   "sells": {
+    "en": "Seasonal vegetables, about 25 kinds a year",
+    "ja": "旬の野菜（年間約25品種）"
+   }
+  },
+  {
+   "id": "sugi-no-ko-marche",
+   "kind": "market",
+   "name": {
+    "en": "Sugi-no-ko Marché",
+    "ja": "すぎのこマルシェ"
+   },
+   "area": "igusa",
+   "location": [
+    35.727139,
+    139.617325
+   ],
+   "schedule": {
+    "days": [
+     "SAT"
+    ],
+    "weeks": [
+     2
+    ]
+   },
+   "hours": {
+    "en": "Second Saturday of each month, 10 am to noon, until sold out. In 2026, August's was on the 1st and November's is on the 21st.",
+    "ja": "毎月第2土曜日 午前10時〜正午（売り切れ次第終了）。2026年は8月は1日、11月は21日に開催。"
+   },
+   "source": "https://www.city.suginami.tokyo.jp/guide/shigoto/nougyou/1014134.html",
+   "address": "杉並区井草3-19-23",
+   "sells": {
+    "en": "Vegetables, flowers, and goods made at local disability support centers, at the Sugi-no-ko farm",
+    "ja": "野菜、草花、障害者施設生産品（すぎのこ農園）"
+   },
+   "phone": "03-5303-9835"
+  },
+  {
+   "id": "ja-josai-marche",
+   "kind": "market",
+   "name": {
+    "en": "JA Jōsai Marché",
+    "ja": "JA東京中央城西マルシェ"
+   },
+   "area": "narita",
+   "location": [
+    35.701443,
+    139.630447
+   ],
+   "schedule": {
+    "days": [
+     "THU"
+    ]
+   },
+   "hours": {
+    "en": "Thursdays from 10 am, until sold out; some weeks off, depending on the harvest",
+    "ja": "毎週木曜日 午前10時から（売り切れ次第終了、収穫状況により休みの週あり）"
+   },
+   "source": "https://www.city.suginami.tokyo.jp/guide/shigoto/nougyou/1014134.html",
+   "address": "杉並区成田東5-18-7",
+   "sells": {
+    "en": "Vegetables",
+    "ja": "野菜"
+   },
+   "phone": "03-3392-7271"
+  },
+  {
+   "id": "ja-takaido-marche",
+   "kind": "market",
+   "name": {
+    "en": "JA Takaido Marché",
+    "ja": "JA東京中央高井戸マルシェ"
+   },
+   "area": "takaido-fujimigaoka",
+   "location": [
+    35.68626,
+    139.618393
+   ],
+   "schedule": {
+    "days": [
+     "THU"
+    ]
+   },
+   "hours": {
+    "en": "Thursdays from 10 am, until sold out; some weeks off, depending on the harvest",
+    "ja": "毎週木曜日 午前10時から（売り切れ次第終了、収穫状況により休みの週あり）"
+   },
+   "source": "https://www.city.suginami.tokyo.jp/guide/shigoto/nougyou/1014134.html",
+   "address": "杉並区高井戸東3-22-11",
+   "sells": {
+    "en": "Vegetables",
+    "ja": "野菜"
+   },
+   "phone": "03-3331-5181"
+  },
+  {
+   "id": "ja-suginami-nakano",
+   "kind": "market",
+   "name": {
+    "en": "JA Suginami-Nakano farm sale",
+    "ja": "JA東京中央杉並中野支店即売会"
+   },
+   "area": "momoi-imagawa",
+   "location": [
+    35.711021,
+    139.609009
+   ],
+   "schedule": {
+    "days": [
+     "TUE"
+    ],
+    "closed": "holidays"
+   },
+   "hours": {
+    "en": "Tuesdays from 9:30 am, until sold out; not when Tuesday is a public holiday",
+    "ja": "毎週火曜日 午前9時30分から（売り切れ次第終了、祝日の場合は休み）"
+   },
+   "source": "https://www.city.suginami.tokyo.jp/guide/shigoto/nougyou/1014134.html",
+   "address": "杉並区桃井2-3-4",
+   "sells": {
+    "en": "Vegetables and flowers",
+    "ja": "野菜・草花"
+   },
+   "phone": "03-3399-8983"
+  },
+  {
+   "id": "farmers-market-ogikubo",
+   "kind": "market",
+   "name": {
+    "en": "Farmers' Market Ogikubo",
+    "ja": "ファーマーズマーケット荻窪"
+   },
+   "area": "asagaya",
+   "location": [
+    35.703018,
+    139.628143
+   ],
+   "schedule": {
+    "days": [
+     "TUE",
+     "WED",
+     "THU",
+     "FRI",
+     "SAT",
+     "SUN"
+    ],
+    "closed": "new_year"
+   },
+   "hours": {
+    "en": "10 am to 4:30 pm; closed Mondays, over New Year and at Obon. Reopened in its new building on 20 August 2026.",
+    "ja": "午前10時〜午後4時30分（月曜・年末年始・お盆休み）。2026年8月20日に新装オープン。"
+   },
+   "source": "https://www.city.suginami.tokyo.jp/guide/shigoto/nougyou/1014134.html",
+   "address": "杉並区阿佐谷南3-13-2",
+   "sells": {
+    "en": "Mostly local vegetables, flowers and processed foods",
+    "ja": "地元産を中心に野菜・草花・加工品"
+   },
+   "phone": "03-5349-8791"
+  }
+ ],
+ "sources": {
+  "stands": {
+   "name": {
+    "en": "JA Tokyo Chuo: farm stands in Suginami and Nakano",
+    "ja": "JA東京中央「杉並区・中野区の庭先直売所」"
+   },
+   "url": "https://www.ja-tokyochuo.or.jp/farmstand/list.php?area=suginami_nakano"
+  },
+  "markets": {
+   "name": {
+    "en": "Suginami City: farm produce sales",
+    "ja": "杉並区「杉並区農産物即売情報」"
+   },
+   "url": "https://www.city.suginami.tokyo.jp/guide/shigoto/nougyou/1014134.html"
+  }
+ }
+}
