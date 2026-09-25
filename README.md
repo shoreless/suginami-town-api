@@ -27,6 +27,8 @@ Base URL: `https://suginamisuki.com/` (formerly `https://shoreless.github.io/sug
 | `v0/spots.json` | Every place worth visiting across Suginami, each tagged with its area |
 | `v0/happenings.json` | Every dated happening across Suginami, earliest first, each tagged with its area. Ones that have ended are included; filter by `ends` |
 | `v0/trash.json` | Trash and recycling collection days for every block (町丁目) in the ward, by census code, with the New Year break (`break`, month-day). `days` are weekdays; `weeks`, when present, are the weeks of the month (1 = first) |
+| `v0/trash-sorting.json` | Where things go: the city's sorting list, each item with its category and notes, in Japanese and English (English names translated for this project) |
+| `v0/happenings.en.ics`, `v0/happenings.ja.ics` | Every happening as a calendar feed, to subscribe to in any calendar app |
 | `v0/kami.json` | The kami enshrined at Suginami's shrines, each explained once in English and Japanese. Shrines in the files above list theirs by id |
 | `v0/content.json` | Everything above in one file, for apps that want a single consistent request |
 | `v0/map.en.kml`, `v0/map.ja.kml` | A map to import into a map app: neighborhood outlines, then a layer per kind of place. One file per language, because map apps show one name per pin |
@@ -80,7 +82,8 @@ is not published by the Japanese government, and does not represent it.
 
 Trash collection days are converted from Suginami City's published list of collection days by
 block (杉並区「ごみ・資源の収集曜日」, https://www.city.suginami.tokyo.jp/documents/12125/garbage.csv).
-The city's calendars are the authority; check them if in doubt.
+The city's calendars are the authority; check them if in doubt. The sorting list is from Suginami
+City's open data (杉並区「ごみの分別方法一覧」, CC BY 4.0); its English names are this project's translation.
 
 Neighborhood descriptions, places and happenings are written for this project from facts gathered
 locally. They are not copied from their sources.
