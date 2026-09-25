@@ -29,6 +29,8 @@ Base URL: `https://suginamisuki.com/` (formerly `https://shoreless.github.io/sug
 | `v0/trash.json` | Trash and recycling collection days for every block (町丁目) in the ward, by census code, with the New Year break (`break`, month-day). `days` are weekdays; `weeks`, when present, are the weeks of the month (1 = first) |
 | `v0/trash-sorting.json` | Where things go: the city's sorting list, each item with its category and notes, in Japanese and English (English names translated for this project) |
 | `v0/happenings.en.ics`, `v0/happenings.ja.ics` | Every happening as a calendar feed, to subscribe to in any calendar app |
+| `v0/farms.json` | Farm stands and markets selling Suginami vegetables: selling days, hours, what each grows in summer and winter, neighborhood and location |
+| `v0/places.json`, `v0/places.geojson` | Parks (with their toilets), libraries, gyms, sports grounds and pools, halls with rooms to book, public toilets and free Wi-Fi |
 | `v0/resident.json` | For people who live here: relief centers and shelters (with the disasters each is for), wide-area evacuation sites, disaster water stations, disaster hospitals, AEDs, drop-off points by program, oversized waste, key public facilities, and numbers to call |
 | `v0/resident.geojson` | The same places as map points, each with its `kind` |
 | `v0/kami.json` | The kami enshrined at Suginami's shrines, each explained once in English and Japanese. Shrines in the files above list theirs by id |
@@ -90,6 +92,10 @@ City's open data (杉並区「ごみの分別方法一覧」, CC BY 4.0); its En
 Resident data is from Suginami City's open data (relief centers, AEDs, public facilities; CC BY 4.0),
 Tokyo Waterworks' water supply points (CC BY 4.0), and the city's pages for evacuation sites, disaster
 hospitals, drop-off points and emergency numbers. Places and hours change; the city is the authority.
+
+Farm stands are from JA Tokyo Chuo's farm stand map (https://www.ja-tokyochuo.or.jp/farmstand/), and markets
+from Suginami City's farm sales page. Parks and facilities are from Suginami City's open data (CC BY 4.0);
+English names and notes are this project's.
 
 Neighborhood descriptions, places and happenings are written for this project from facts gathered
 locally. They are not copied from their sources.
