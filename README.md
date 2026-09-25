@@ -29,6 +29,8 @@ Base URL: `https://suginamisuki.com/` (formerly `https://shoreless.github.io/sug
 | `v0/trash.json` | Trash and recycling collection days for every block (町丁目) in the ward, by census code, with the New Year break (`break`, month-day). `days` are weekdays; `weeks`, when present, are the weeks of the month (1 = first) |
 | `v0/trash-sorting.json` | Where things go: the city's sorting list, each item with its category and notes, in Japanese and English (English names translated for this project) |
 | `v0/happenings.en.ics`, `v0/happenings.ja.ics` | Every happening as a calendar feed, to subscribe to in any calendar app |
+| `v0/resident.json` | For people who live here: relief centers and shelters (with the disasters each is for), wide-area evacuation sites, disaster water stations, disaster hospitals, AEDs, drop-off points by program, oversized waste, key public facilities, and numbers to call |
+| `v0/resident.geojson` | The same places as map points, each with its `kind` |
 | `v0/kami.json` | The kami enshrined at Suginami's shrines, each explained once in English and Japanese. Shrines in the files above list theirs by id |
 | `v0/content.json` | Everything above in one file, for apps that want a single consistent request |
 | `v0/map.en.kml`, `v0/map.ja.kml` | A map to import into a map app: neighborhood outlines, then a layer per kind of place. One file per language, because map apps show one name per pin |
@@ -84,6 +86,10 @@ Trash collection days are converted from Suginami City's published list of colle
 block (杉並区「ごみ・資源の収集曜日」, https://www.city.suginami.tokyo.jp/documents/12125/garbage.csv).
 The city's calendars are the authority; check them if in doubt. The sorting list is from Suginami
 City's open data (杉並区「ごみの分別方法一覧」, CC BY 4.0); its English names are this project's translation.
+
+Resident data is from Suginami City's open data (relief centers, AEDs, public facilities; CC BY 4.0),
+Tokyo Waterworks' water supply points (CC BY 4.0), and the city's pages for evacuation sites, disaster
+hospitals, drop-off points and emergency numbers. Places and hours change; the city is the authority.
 
 Neighborhood descriptions, places and happenings are written for this project from facts gathered
 locally. They are not copied from their sources.
